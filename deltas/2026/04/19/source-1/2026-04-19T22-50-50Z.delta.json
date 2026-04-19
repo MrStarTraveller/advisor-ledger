@@ -1,0 +1,183 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-48-40Z",
+    "revision_id": "AMHacu7ZIMRNvbnKaHr4JkkJoKHHAXIIiEAN4KPkFcLzM3QXGTkrou5RV4QcmRSeS4EzrGhWw3LPS-duUfCbPowO-Q",
+    "paragraph_count": 433
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-50-50Z",
+    "revision_id": "AMHacu4RBi6AaUVuYaPKCWX3zZtUvlX8oZbPq-Cq42hvD_4-oo7nRIllYVFX7LvrShB-tSBmPKkLchQ2ZdRE7U08Zg",
+    "paragraph_count": 438
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 7,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 170,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 190,
+      "paragraphs": [
+        {
+          "content_hash": "223da2cc9926409f",
+          "style": "NORMAL_TEXT",
+          "text": "我知道的唯一一个被中外所有合作者都说aggressive的一个顶校老师"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 218,
+      "at_to": 221,
+      "from_paragraphs": [
+        {
+          "content_hash": "b2f59d5b0c3b06a7",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor （Altas Wang）造假已经被实锤了没得洗)"
+        },
+        {
+          "content_hash": "e8b4e85fe313fdc7",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas wang撤稿在此，上面的通网吧 https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9aecde749892699c",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        },
+        {
+          "content_hash": "9dab7f861cc89c1f",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 272,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "9250fab0767ed43b",
+          "style": "NORMAL_TEXT",
+          "text": "USC最应该被避雷的老板"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b16d085f0b31fef3",
+          "style": "NORMAL_TEXT",
+          "text": "USC最应该被避雷的老板(蹲)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 283,
+      "at_to": 286,
+      "from_paragraphs": [
+        {
+          "content_hash": "55222e0731dbec2d",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要发o就有）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3c875b1fe57f2778",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 397,
+      "at_to": 400,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba7e27bdae854ed6",
+          "style": "NORMAL_TEXT",
+          "text": "买github star是真的吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f75ec66011546ab",
+          "style": "NORMAL_TEXT",
+          "text": "买github star是真的吗？（证据比较多，但是没有石锤，企业包括这种买的都是前期一堆后期火了逐步取消）"
+        },
+        {
+          "content_hash": "d9dafea091220d09",
+          "style": "NORMAL_TEXT",
+          "text": "知乎有关于造假的锤人贴，目前还没有删除可以查看"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 402,
+      "at_to": 406,
+      "from_paragraphs": [
+        {
+          "content_hash": "825b09e4d1c5be2f",
+          "style": "NORMAL_TEXT",
+          "text": "知乎天天自拍和大佬的合照，微商风格"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f1673a780ef1a31c",
+          "style": "NORMAL_TEXT",
+          "text": "知乎天天自拍和大佬的合照，微商风格 （笑死我了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 418,
+      "at_to": 422,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f71131b5ccd706a",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU,"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e39fb28f352bca3",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Kui Ren"
+        },
+        {
+          "content_hash": "4bdecc9a85bf2adf",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间伪造数据跟导师闹翻，导师将ta"
+        }
+      ]
+    }
+  ]
+}
