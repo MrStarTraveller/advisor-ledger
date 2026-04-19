@@ -7,6 +7,15 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 
+# Prevent concurrent runs (systemd timer + manual invocation would race on git).
+LOCK_FD=9
+LOCK_FILE="$ROOT/.pipeline.lock"
+exec 9>"$LOCK_FILE"
+if ! flock -n "$LOCK_FD"; then
+  echo "[pipeline] another instance is running, exiting" >&2
+  exit 0
+fi
+
 PY="$ROOT/venv/bin/python"
 LOG_TS="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
