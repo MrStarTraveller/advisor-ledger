@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-53-00Z.delta.json",
+  "delta_ts": "2026-04-19T22-53-00Z",
+  "reviewed_at_utc": "2026-04-19T22:54:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment attacking previous commenter's motives and emotional state (implying they are bitter about paper rejections)",
+      "excerpt": "(何意味，paper少被人拒了急了？)"
+    }
+  ],
+  "prompt_sha256": "e4bdc045d7c5a3a80a9c032986277f183aca5a84968e17bd1d32bb843e0cfc92",
+  "finish_reason": "stop",
+  "completion_tokens": 6864
+}

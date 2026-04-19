@@ -1,0 +1,210 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-50-50Z",
+    "revision_id": "AMHacu4RBi6AaUVuYaPKCWX3zZtUvlX8oZbPq-Cq42hvD_4-oo7nRIllYVFX7LvrShB-tSBmPKkLchQ2ZdRE7U08Zg",
+    "paragraph_count": 438
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-53-00Z",
+    "revision_id": "AMHacu6dRy-ThV0qAXglUjWmLMZokrGLq3jDwgu4tlWziNYnv5DUhDR04opizISq2zYmkYA8hVmOUs0P5oy4QriXkg",
+    "paragraph_count": 448
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 6,
+    "operations": 10,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 157,
+      "at_to": 157,
+      "from_paragraphs": [
+        {
+          "content_hash": "7ab58efd786daa19",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ecb3868b1408f3e5",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这个"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 190,
+      "at_to": 190,
+      "from_paragraphs": [
+        {
+          "content_hash": "223da2cc9926409f",
+          "style": "NORMAL_TEXT",
+          "text": "我知道的唯一一个被中外所有合作者都说aggressive的一个顶校老师"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0970450615a257e1",
+          "style": "NORMAL_TEXT",
+          "text": "是本人知道的被中外所有合作者老师学生都说aggressive的一个顶校老师，有学生说她曾经zoom有过奇怪行为"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 204,
+      "at_to": 204,
+      "from_paragraphs": [
+        {
+          "content_hash": "8bd8a6aaf1e69c9d",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%的老师都列在黑榜，学术品位都一般)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90a3ea9549a89f76",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%的老师都列在黑榜，学术品位都一般)(何意味，paper少被人拒了急了？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 222,
+      "at_to": 222,
+      "from_paragraphs": [
+        {
+          "content_hash": "9dab7f861cc89c1f",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "13221fa9f49958be",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 244,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 281,
+      "at_to": 282,
+      "from_paragraphs": [
+        {
+          "content_hash": "8fc78ea4eb0267c7",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4afebc5322197992",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 338,
+      "paragraphs": [
+        {
+          "content_hash": "04a785a6df64aab8",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话”"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 392,
+      "paragraphs": [
+        {
+          "content_hash": "5304ce74806c5a3c",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST Lei Chen"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 423,
+      "at_to": 431,
+      "from_paragraphs": [
+        {
+          "content_hash": "4bdecc9a85bf2adf",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间伪造数据跟导师闹翻，导师将ta"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a726502a818b2a4",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间伪造数据跟导师闹翻，导师将他从主页上除名"
+        },
+        {
+          "content_hash": "34b4595ccfa9e793",
+          "style": "NORMAL_TEXT",
+          "text": "在美国水了一堆期刊文章，没几篇顶会，回国后靠着浙江的学生还有跟别的学校的reviewer串通审稿，每年给自己搞10几篇安全四大"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 438,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
