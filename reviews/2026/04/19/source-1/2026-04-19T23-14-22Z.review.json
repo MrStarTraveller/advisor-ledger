@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-14-22Z.delta.json",
+  "delta_ts": "2026-04-19T23-14-22Z",
+  "reviewed_at_utc": "2026-04-19T23:15:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack using vulgar profanity 'sb' (stupid/asshole) and insult '狗腿' (lackey/bootlicker) targeting a specific student",
+      "excerpt": "其著名狗腿学生也是个sb"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment using profanity '吃屎' (eat shit) and insults '脑子有问题' (brain problems), '愚蠢' (stupid) targeting a professor",
+      "excerpt": "一个人脑子有问题他可以去干点其他事，他可以自己在家吃屎"
+    }
+  ],
+  "prompt_sha256": "b7b408e71ffab0cf83986116043a5b4e08734dc83c446f90bd2bff76dd6010c6",
+  "finish_reason": "stop",
+  "completion_tokens": 5302
+}

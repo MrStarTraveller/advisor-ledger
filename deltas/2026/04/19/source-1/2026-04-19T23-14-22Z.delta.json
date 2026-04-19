@@ -1,0 +1,234 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-12-20Z",
+    "revision_id": "AMHacu6Y0s-fPs5faoNtss5xjADrQLlsvywTPwDSb5b3xNQinjDtV5ipw9ZFYaAFdCnkkM8PNjj1Anmx2FRs_Q3QXg",
+    "paragraph_count": 489
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-14-22Z",
+    "revision_id": "AMHacu6d-GZN2dcQIBVjjlAKfT_TkfBnRJv1i4_iV_EuJeftS77PaCAmMuVBrutR98UEVKq4RkojOPyWkF-iWnr9OQ",
+    "paragraph_count": 500
+  },
+  "summary": {
+    "inserted_paragraphs": 18,
+    "deleted_paragraphs": 7,
+    "operations": 11,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_2",
+          "text": "Purpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0107d4b41083774c",
+          "style": "HEADING_2",
+          "text": "染发、Purpose"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1bbc658d6156445",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己吃屎，为什么要教育别人）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "845e4c1d3def7a52",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己写到红榜里面啊？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 110,
+      "paragraphs": [
+        {
+          "content_hash": "b8fe1f8b88dbf9d6",
+          "style": "NORMAL_TEXT",
+          "text": "Ochoa为啥会上榜？他只是lecturer也不带学生啊，校内上课是兼职，在校外有正常工作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 161,
+      "from_paragraphs": [
+        {
+          "content_hash": "68017ec6868a44b0",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这条"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0df78dda0ce5fe67",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这条(因为ml不少人3年毕业的？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 173,
+      "at_to": 174,
+      "from_paragraphs": [
+        {
+          "content_hash": "d10660d108b5cea8",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7f81cfb64b57eeb8",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "9444e4bbb4a5540f",
+          "style": "NORMAL_TEXT",
+          "text": "感觉是本人或者利益共同体的人在洗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "121f8004212122d6",
+          "style": "NORMAL_TEXT",
+          "text": "像是本人或者利益共同体的人在洗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 259,
+      "at_to": 260,
+      "from_paragraphs": [
+        {
+          "content_hash": "f5d7ae22c809ab7a",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86de12238ed1f608",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（哈哈哈哈哈哈哈这个笑死我了）"
+        },
+        {
+          "content_hash": "34fddf9796907932",
+          "style": "NORMAL_TEXT",
+          "text": "答应一位学生说自己去jhu了，等过两年再把他带过去，一直把这个学生寄养在别的老师名下。"
+        },
+        {
+          "content_hash": "ac5768b6baadbddf",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，li"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 327,
+      "from_paragraphs": [
+        {
+          "content_hash": "815070803a2a036f",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0104eab05cd09887",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 370,
+      "paragraphs": [
+        {
+          "content_hash": "0bc2e2fc6e388110",
+          "style": "NORMAL_TEXT",
+          "text": "不行，我吃了个饭越想越气，我还是无法看淡。一个人脑子有问题他可以去干点其他事，他可以自己在家吃屎，他不能出来当老师祸害学生！ 这个人最大的问题，抛开那些愚蠢、bu'hao"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 373,
+      "paragraphs": [
+        {
+          "content_hash": "d68d82b435ae5758",
+          "style": "NORMAL_TEXT",
+          "text": "曾经有催人完成paper之后提前8个小时说不投了"
+        },
+        {
+          "content_hash": "ffa117f237dbeae3",
+          "style": "NORMAL_TEXT",
+          "text": "不允许组内同学交流合作"
+        },
+        {
+          "content_hash": "72988be7077d4637",
+          "style": "NORMAL_TEXT",
+          "text": "曾经威胁硕士生毕业（并且真的干了，导致对方晚毕业半年"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 398,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5fe45d9aeb2c57c3",
+          "style": "HEADING_1",
+          "text": "Industry Red flag Team"
+        },
+        {
+          "content_hash": "4651e786f1076ca8",
+          "style": "NORMAL_TEXT",
+          "text": " [TODO]"
+        }
+      ]
+    }
+  ]
+}
