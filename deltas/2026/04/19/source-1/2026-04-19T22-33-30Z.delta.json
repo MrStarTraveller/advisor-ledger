@@ -1,0 +1,160 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-29-10Z",
+    "revision_id": "AMHacu4qpk6wi2HV1LgurAbg9PPosbBCRNbaSIxV8cPDkfIMD7nngkDAO2zecoho__NNJ5UJt3ExDAvcgkZoxNIlmg",
+    "paragraph_count": 410
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-33-30Z",
+    "revision_id": "AMHacu7SRMJIhCy1CtJK_quWgcgFlP_7N8ezRsAdoH1Idv72ocQ8eftKVhQEGht8wtfeIh2N24XOFJt2KApU6qJgLQ",
+    "paragraph_count": 409
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 8,
+    "operations": 7,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 55,
+      "at_to": 55,
+      "from_paragraphs": [
+        {
+          "content_hash": "badfad013a87c96c",
+          "style": "NORMAL_TEXT",
+          "text": "接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a79f2ffdbeee6fe6",
+          "style": "NORMAL_TEXT",
+          "text": "接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；不接就不给你发了，只要100%接才给你发，这要是其他教授听说了也会不怎么认同（我问了几个R1教授），他们都是4.15才让学生决定，因为他们不缺生源，不知道为什么Mohit这么害怕被鸽，wxs"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 164,
+      "at_to": 164,
+      "from_paragraphs": [
+        {
+          "content_hash": "0685a836e46144a5",
+          "style": "NORMAL_TEXT",
+          "text": "‹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 221,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ff62056c05ff5fd",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）（我寻思实在不行你看huan主页上合照看每次学生走没走，走了多少不就完了？这种随便查证的东西在这里瞎写真看不下去了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "225bc91b0ba62315",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）（我寻思实在不行你看huan主页上合照看每次学生走没走，走了多少不就完了？这种随便查证的东西在这里瞎写真看不下去了）(感觉即使quit，也有很多原因，请说明原因。小扎ye)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 268,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f0009c6e5579a42",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8fc78ea4eb0267c7",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc5be4e0d19d893d",
+          "style": "NORMAL_TEXT",
+          "text": "“你不能拿他当generator，他最多就是discriminator”"
+        },
+        {
+          "content_hash": "06b70ad312f00d1c",
+          "style": "NORMAL_TEXT",
+          "text": "Alexa si"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "800d7957a0add24b",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip” （666）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 283,
+      "at_to": 282,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b0fd164e3bd8252",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了，建议去红榜写，这里不适合你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9d44b965716e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦，建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 322,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "0cc2424c4657f89d",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b675a69125ac2a1f",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（找工作反正没写黑推）"
+        }
+      ]
+    }
+  ]
+}

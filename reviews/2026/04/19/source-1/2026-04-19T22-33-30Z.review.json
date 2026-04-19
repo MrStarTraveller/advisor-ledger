@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-33-30Z.delta.json",
+  "delta_ts": "2026-04-19T22-33-30Z",
+  "reviewed_at_utc": "2026-04-19T22:34:11Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported psychiatric diagnosis (NPD) and sweeping character assassination without reference to concrete advising behaviors",
+      "excerpt": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack on another commenter using insults ('舔', 'phd念的太舒服了') rather than engaging with the substantive claims about the advisor",
+      "excerpt": "哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦"
+    }
+  ],
+  "prompt_sha256": "549e189a4cca86d1ced113d63550703348db78863d2413786c2813ab9d5f8d78",
+  "finish_reason": "stop",
+  "completion_tokens": 3448
+}
