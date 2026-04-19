@@ -1,0 +1,189 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-54-50Z",
+    "revision_id": "AMHacu4WDu2ChKGow98uDJ0E3zwS-6gqQ9zeYg-vFxTWaWaB2ks95KePeMDBSdGl1wpJ0EMMggON18D1VfYj8i3Vlw",
+    "paragraph_count": 526
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-59-00Z",
+    "revision_id": "AMHacu4d5ji70JVc6wvXhjI4ALG5zTRg0sSgUOnuTrFPcE8_QsTc0ZCPFWDEr-TSAfRJUKI_B8UuCKJjKLRoISHA2w",
+    "paragraph_count": 526
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 10,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.019,
+    "insertion_ratio": 0.019
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "61a6a8733c49b795",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（说的好像UNC多好一样，frontier lab进去几个？灌水给自己灌出幻觉了？拿到UNC phd的offer是你这辈子的巅峰了吧，真不容易啊）（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6e2735578324148",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（说的好像UNC多好一样，frontier lab进去几个？灌水给自己灌出幻觉了？拿到UNC phd的offer是你这辈子的巅峰了吧，真不容易啊，但是你前面还有20多个学校呢亲）（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 241,
+      "paragraphs": [
+        {
+          "content_hash": "b19dd3eb2772e003",
+          "style": "NORMAL_TEXT",
+          "text": "MSU Sijia Liu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 327,
+      "from_paragraphs": [
+        {
+          "content_hash": "e1057884779b711c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7dbe2071b21f551b",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 333,
+      "paragraphs": [
+        {
+          "content_hash": "8c551bd374dc3357",
+          "style": "NORMAL_TEXT",
+          "text": "mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 388,
+      "at_to": 392,
+      "from_paragraphs": [
+        {
+          "content_hash": "52056d91e78d3028",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b38a7f9ee3e8ef3f",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，再删你是Chaowei Xiao)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 396,
+      "at_to": 400,
+      "from_paragraphs": [
+        {
+          "content_hash": "a0fb9e8230fe08f8",
+          "style": "NORMAL_TEXT",
+          "text": "不懂最近的学术，还"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b43df08929049c6",
+          "style": "NORMAL_TEXT",
+          "text": "不懂最近的学术，用八卡做预训练"
+        },
+        {
+          "content_hash": "36d6f392f61ac067",
+          "style": "NORMAL_TEXT",
+          "text": "跟工业界的合作者闹得很僵，导致学生只能自己找实习，还被一些组列入黑名单"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 417,
+      "at_to": 422,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9060fd4f0a361fa",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "796c6886180610e3",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 419,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5fe45d9aeb2c57c3",
+          "style": "HEADING_1",
+          "text": "Industry Red flag Team"
+        },
+        {
+          "content_hash": "4651e786f1076ca8",
+          "style": "NORMAL_TEXT",
+          "text": " [TODO]"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fc3e23091036c2e0",
+          "style": "NORMAL_TEXT",
+          "text": "Amazon可以写十页"
+        }
+      ]
+    }
+  ]
+}
