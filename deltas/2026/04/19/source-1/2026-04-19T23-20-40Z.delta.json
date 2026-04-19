@@ -1,0 +1,180 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-18-30Z",
+    "revision_id": "AMHacu7kICXfK9FO2SA2jy1A1qoZOZcPem0xJ_y-MO0gGHa9sRrSaQz9Sy2HngdY7kVqZzNyBmJfJJtXlwd2OdoFyA",
+    "paragraph_count": 511
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-20-40Z",
+    "revision_id": "AMHacu57CHfbm9od2Qce5ADBcdjiaU7Ad3liH8PI9w3HK2oDEd9Gcvld0K-UnbV6ltdKieUHdbyAytIPkabsejd3ew",
+    "paragraph_count": 513
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 7,
+    "operations": 10,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 36,
+      "paragraphs": [
+        {
+          "content_hash": "da13275238bfe774",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候说好的一个学生可以跟过去最后毁约了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 144,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 174,
+      "at_to": 176,
+      "from_paragraphs": [
+        {
+          "content_hash": "201d524a1b78163d",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个梗的话说明不是做CV"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b068e86c622d17c9",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 181,
+      "paragraphs": [
+        {
+          "content_hash": "c8c6181904ce439b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 224,
+      "from_paragraphs": [
+        {
+          "content_hash": "60ca714cf4c68eab",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说，我拒了。)，最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec85d18bc3128e7a",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)，最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 228,
+      "at_to": 231,
+      "from_paragraphs": [
+        {
+          "content_hash": "9aecde749892699c",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f9c9f8bf198d242",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 254,
+      "at_to": 257,
+      "from_paragraphs": [
+        {
+          "content_hash": "6bec39f43602dec8",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于pao de tai)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "25e2fde311109a6b",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 263,
+      "at_to": 266,
+      "from_paragraphs": [
+        {
+          "content_hash": "08c809add6e0a7bc",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "249b7a2af3b4bdd2",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 384,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 408,
+      "at_to": 410,
+      "from_paragraphs": [
+        {
+          "content_hash": "b391b9d6b8bdf237",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96947bd9ad180376",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）"
+        }
+      ]
+    }
+  ]
+}
