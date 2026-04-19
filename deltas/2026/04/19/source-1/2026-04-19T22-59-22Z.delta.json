@@ -1,0 +1,149 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-57-20Z",
+    "revision_id": "AMHacu5ZiKgkS5yXbjYr82t1c1Q80ppW_vs_-VF-ujqB2VqGS9lTVwPB23F65685z6S47SyxOy3kqITDsGlFCqPgkQ",
+    "paragraph_count": 457
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-59-22Z",
+    "revision_id": "AMHacu7zUpQDP7a7SlX5fd69ViBUB9eRPk1IXe9YGjc8amt7ep3GkvfYC0hrLjQWNDzUSAp-f4zDhYG7qde40DP2dQ",
+    "paragraph_count": 464
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 5,
+    "operations": 5,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 168,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "4960a542421048bc",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 xian以学生情感关系作为主要话题。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ddee1f97cfd90a92",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "2dac05a991840adb",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6d705e42f6b90406",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）"
+        },
+        {
+          "content_hash": "4f2218abd091d88c",
+          "style": "NORMAL_TEXT",
+          "text": "严重怀疑是本人在给自己洗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 247,
+      "from_paragraphs": [
+        {
+          "content_hash": "0c120df18f086585",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？）"
+        },
+        {
+          "content_hash": "ecbcccd4131042a6",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架，导致u e"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e83bb0a17423ed6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）"
+        },
+        {
+          "content_hash": "17581afe3a22dc95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架"
+        },
+        {
+          "content_hash": "33e055f4c395de91",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)"
+        },
+        {
+          "content_hash": "03c1249e48759e83",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记）"
+        },
+        {
+          "content_hash": "61435382325c3f7d",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 260,
+      "at_to": 264,
+      "from_paragraphs": [
+        {
+          "content_hash": "fbdea868d506e231",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）（对，CV会基本上只能算半篇)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b3422248bbb7aee2",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）（对，CV会基本上只能算半篇)（CV算半篇也听说了，逆天透顶）"
+        },
+        {
+          "content_hash": "d0e8aa209295779d",
+          "style": "NORMAL_TEXT",
+          "text": "认为cv的顶会排序是neurips/icml > iclr > CVPR"
+        },
+        {
+          "content_hash": "d57c6aafdebd7d79",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说其他领域顶会=arxiv"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 270,
+      "paragraphs": [
+        {
+          "content_hash": "44f422794800f624",
+          "style": "NORMAL_TEXT",
+          "text": "认为自己比很多知名学者厉害，觉得其他教授水平不行"
+        }
+      ]
+    }
+  ]
+}

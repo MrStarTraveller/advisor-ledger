@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-59-22Z.delta.json",
+  "delta_ts": "2026-04-19T22-59-22Z",
+  "reviewed_at_utc": "2026-04-19T23:00:21Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of derogatory term '小蜜' (a demeaning term implying mistress or sycophant) to describe administrative staff managing funding, constituting an unsupported character judgment/insult against a private individual.",
+      "excerpt": "管理funding的小蜜"
+    }
+  ],
+  "prompt_sha256": "60fce1e144fbafe90610bde07b01c83318e602c773842cdfd45cb94fafebf1ab",
+  "finish_reason": "stop",
+  "completion_tokens": 5167
+}
