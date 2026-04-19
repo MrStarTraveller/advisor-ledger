@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-05-50Z.delta.json",
+  "delta_ts": "2026-04-19T23-05-50Z",
+  "reviewed_at_utc": "2026-04-19T23:06:43Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted vulgar insult targeting another commenter as '傻逼' (idiot)",
+      "excerpt": "（<---这里有傻逼）"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted vulgar term ('b') referring to professor",
+      "excerpt": "(这个b干的drama事儿太多了)"
+    }
+  ],
+  "prompt_sha256": "e0fda39eb0744c471a50a4ac4bb0f9ffdfcf6f59aecf21a7c50daba046c7c5cd",
+  "finish_reason": "stop",
+  "completion_tokens": 4470
+}

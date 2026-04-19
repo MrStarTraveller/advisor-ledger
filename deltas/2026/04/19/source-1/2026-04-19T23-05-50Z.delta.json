@@ -1,0 +1,212 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-03-40Z",
+    "revision_id": "AMHacu508hlnmjdlvlNWBl1NKA34AHaD4ju3lCt-0ZAPb3PHStNJrSsNNIi4iKtgSctsbQ4xREIxIiMtXvRfAIKs5Q",
+    "paragraph_count": 466
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-05-50Z",
+    "revision_id": "AMHacu7fYk7FnSbbC2aQC-c9vOt2vuNEFlRNr0XGf8_3lHWRfz9yacjujSzKyyaUe7Pu7JjOwgWpXmMIQ2v5QoKEjA",
+    "paragraph_count": 470
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 8,
+    "operations": 11,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "b5e90279dd595327",
+          "style": "NORMAL_TEXT",
+          "text": "本文档预计即将被和谐，已有Prof给我发邮件，大家可以保存备份"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 32,
+      "paragraphs": [
+        {
+          "content_hash": "62055d3fc2be0e05",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候跟you'g学生说好的可以跟过去读phd后面毁约了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 220,
+      "at_to": 222,
+      "from_paragraphs": [
+        {
+          "content_hash": "cddb7683342f6b60",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键人家quit 之后申请了其他的phd啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "914d4efc6d099e43",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键是人家quit 之后申请了其他的phd 啊，又不是quit 之后直接工作）（quit还给master学位不挺好吗？）（人各有志而已，只能说不match。因为）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 222,
+      "at_to": 224,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f8abe32a57a3754",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0675896493997ff8",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题偷换概念，是不是帮你水了几篇垃圾顶会？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 228,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ea486cf1af30fda",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fd35481591455836",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己在公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 233,
+      "paragraphs": [
+        {
+          "content_hash": "fc9066208466612f",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度骂人（带亲戚），骂哭骂跑过几个学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 244,
+      "at_to": 247,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b50347e2ddae89d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2c538906dc2247e3",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（送他去榜首吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 249,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e83bb0a17423ed6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8eafc4140d4b64b6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）（wisc也要脸；另外他没有等到wisc最终落下裁决就提前跑了，wisc只好中断了调查）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 249,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1ffea1c513fcb7f",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "99180c24a918aa61",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个b干的drama事儿太多了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 252,
+      "at_to": 255,
+      "from_paragraphs": [
+        {
+          "content_hash": "cae1d5c914c00ff2",
+          "style": "NORMAL_TEXT",
+          "text": "之前招了几十个白打工的intern，有的intern给他发了40条消息他就不会，他的价值观是，如果这个人没有能力，他就不回信息装死。最后所有的intern全部leave。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f2252d7d09ac2be",
+          "style": "NORMAL_TEXT",
+          "text": "之前招了几十个白打工的intern，有的intern给他发了40条消息他就不回，他的价值观是，如果这个人没有能力，他就不回信息装死。最后所有的intern全部leave。"
+        },
+        {
+          "content_hash": "e4aed16c81a58134",
+          "style": "NORMAL_TEXT",
+          "text": "继续，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 311,
+      "from_paragraphs": [
+        {
+          "content_hash": "173bc6eab0cde6ef",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f29220af605becc",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ]
+    }
+  ]
+}
