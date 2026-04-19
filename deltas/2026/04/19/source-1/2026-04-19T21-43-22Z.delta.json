@@ -1,0 +1,177 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-41-28Z",
+    "revision_id": "AMHacu7YN_Rz35hZkhp6H14Ve6yZC_W2eG0TX0PMFVM2limtTxGUAc3HZhwdaEUVgu8Wbi0ecijrGEZfpAGKskBJJQ",
+    "paragraph_count": 340
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T21-43-22Z",
+    "revision_id": "AMHacu5m2u_iqOx06wvAPv_uoGwaTb9vpbDjmPtVTx7qvMJunIW__7-yw2FoO9WWdDze6MDR4JFpLYGyjS87FNI2lA",
+    "paragraph_count": 340
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 8,
+    "operations": 9,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 86,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 141,
+      "at_to": 140,
+      "from_paragraphs": [
+        {
+          "content_hash": "91f9e5ffea02e345",
+          "style": "NORMAL_TEXT",
+          "text": "但似乎学生出路都很好？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8118afddc0e60385",
+          "style": "NORMAL_TEXT",
+          "text": "但似乎学生出路都很好？（主要靠学生自己）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 179,
+      "at_to": 178,
+      "from_paragraphs": [
+        {
+          "content_hash": "01f1c6c875131c03",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b043bc1a0de6249",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就滚到别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 185,
+      "paragraphs": [
+        {
+          "content_hash": "7db06ddffb3e28fe",
+          "style": "NORMAL_TEXT",
+          "text": "招了若干个学生也开了若干学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 250,
+      "from_paragraphs": [
+        {
+          "content_hash": "a003b8968caf1b6c",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f8332dcc36c3a61",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 254,
+      "at_to": 254,
+      "from_paragraphs": [
+        {
+          "content_hash": "e3840201890c75b8",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来k)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a273cb60e8e2a08",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有feifei jiajun的不是直接arxiv吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 265,
+      "at_to": 265,
+      "from_paragraphs": [
+        {
+          "content_hash": "40367fccb040a7cf",
+          "style": "NORMAL_TEXT",
+          "text": "半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f934ffab95f8f0f0",
+          "style": "NORMAL_TEXT",
+          "text": "ap时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 269,
+      "at_to": 269,
+      "from_paragraphs": [
+        {
+          "content_hash": "774c25ae9cf2bf0c",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1987cb0b13599a0a",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d8a51a4695975d4",
+          "style": "NORMAL_TEXT",
+          "text": "这个除了人多我觉得没得喷吧，lianhui老师人挺好的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "edb11ab829992c2e",
+          "style": "NORMAL_TEXT",
+          "text": "这个除了人多我觉得没得喷吧，lianhui老师人挺好的（喜欢鸽meeting算么）"
+        }
+      ]
+    }
+  ]
+}
