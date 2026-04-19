@@ -1,0 +1,348 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-37-50Z",
+    "revision_id": "AMHacu4MR6QfXcElib67gVIOT_j_9FBjFpXBHcpGiPjAWB5kUgkjX8e1nCvmTRxWlUBVO181YkbJQh1RcI8nRw-whw",
+    "paragraph_count": 411
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-42-10Z",
+    "revision_id": "AMHacu7QjFlEGWP5nCZ5FnlVMKYzCRZh3ltpvnGgiIk--b8PKRsI_QU_5Mo7e2Z-N57601wlBXu76S2hcNtvitUeFw",
+    "paragraph_count": 426
+  },
+  "summary": {
+    "inserted_paragraphs": 26,
+    "deleted_paragraphs": 11,
+    "operations": 19,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 7,
+      "paragraphs": [
+        {
+          "content_hash": "89652c5fd6e28c5f",
+          "style": "NORMAL_TEXT",
+          "text": "（吃过群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 18,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "c67def3eb5dc2b49",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内的本科生（不止一个），甚至不是NLP方向的，都听说过Celine组的“大名” (这一点咋看着很不专业，Celine也不是做NLP的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9d82e27b6fe8de06",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内的本科生（不止一个），甚至不是NLP方向的，都听说过Celine组的“大名” (这一点咋看着很不专业，Celine也不是做NLP的)（但是Celine给我发面试了，我是NLP的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 62,
+      "paragraphs": [
+        {
+          "content_hash": "f643afb46e8913a1",
+          "style": "NORMAL_TEXT",
+          "text": "各种drama 早年黑工成百上千"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 96,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 101,
+      "at_to": 104,
+      "from_paragraphs": [
+        {
+          "content_hash": "b4c3ba8730068497",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5245beda9f9cfccb",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教（只是讲师无所谓吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 144,
+      "paragraphs": [
+        {
+          "content_hash": "39f2089640e7e373",
+          "style": "NORMAL_TEXT",
+          "text": "(夫妻二人依托东部沿海某校申了hy都准备跑路了)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 169,
+      "paragraphs": [
+        {
+          "content_hash": "4737c3a5f70839b5",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 182,
+      "paragraphs": [
+        {
+          "content_hash": "2e2613ab3e95af2c",
+          "style": "NORMAL_TEXT",
+          "text": "What is the mid training?"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 195,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b55aae06c618b39",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了) (你有什么好paper实名列出来吧，我保你读博)（julian都有人黑，UCSD第一大好人吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f932f1176c00b05",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了（谁啊) (你有什么好paper实名列出来吧，我保你读博)（julian都有人黑，UCSD第一大好人吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 212,
+      "at_to": 219,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5cdb7fbfd4657f69",
+          "style": "NORMAL_TEXT",
+          "text": "他 24年加入 UNC, 组里已经有 24Fall 入学的 phd master out 了"
+        },
+        {
+          "content_hash": "f0e3faae9febb14f",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，之前知乎刷到过)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 245,
+      "at_to": 253,
+      "from_paragraphs": [
+        {
+          "content_hash": "6379f75e8e79d069",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fbdea868d506e231",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）（对，CV会基本上只能算半篇)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "9250fab0767ed43b",
+          "style": "NORMAL_TEXT",
+          "text": "USC最应该被避雷的老板"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 275,
+      "at_to": 284,
+      "from_paragraphs": [
+        {
+          "content_hash": "800d7957a0add24b",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip” （666）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f789efb27f8f07bd",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 291,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 284,
+      "at_to": 295,
+      "from_paragraphs": [
+        {
+          "content_hash": "d72585921fca5969",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ebb784906d7239e4",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 300,
+      "paragraphs": [
+        {
+          "content_hash": "5b6335c8ce61334e",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 291,
+      "at_to": 304,
+      "from_paragraphs": [
+        {
+          "content_hash": "05574e05e3c485e6",
+          "style": "NORMAL_TEXT",
+          "text": "非常push"
+        },
+        {
+          "content_hash": "0aa24e7d622d0f4c",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生"
+        },
+        {
+          "content_hash": "8e6fad06b8329166",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）（别造谣了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0aabe4fde4f17d45",
+          "style": "NORMAL_TEXT",
+          "text": "非常push （说zhuowen push你们还是人吗，21年之后全部快乐放养随便实习一周不去lab都行没组会不强制project最晚五年毕业这还push，21之前的老登别发言了吧）（非常同意）"
+        },
+        {
+          "content_hash": "80ce3be7647ee88c",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （本科生）"
+        },
+        {
+          "content_hash": "5c8c7a58b7ef1fcb",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）（别造谣了，之前就有人叽里呱啦这种事情）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 337,
+      "from_paragraphs": [
+        {
+          "content_hash": "efa9f51b4bbf6042",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（找工作的时候应该没写黑推，我看过一次他写过来的推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d814bc6c50677351",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 425,
+      "paragraphs": [
+        {
+          "content_hash": "ded0e2b42f9fade1",
+          "style": "NORMAL_TEXT",
+          "text": "SUSTech, Bo Tang"
+        }
+      ]
+    }
+  ]
+}

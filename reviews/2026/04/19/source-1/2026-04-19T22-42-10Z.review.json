@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-42-10Z.delta.json",
+  "delta_ts": "2026-04-19T22-42-10Z",
+  "reviewed_at_utc": "2026-04-19T22:43:13Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity and personal insult '傻逼吗' (idiot/moron) attacking the critic rather than the substance of the criticism regarding lab resources",
+      "excerpt": "这就上黑榜了？傻逼吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal attack on critic's competence '你自己菜' (you are incompetent/incompetent yourself) rather than addressing the advising practice concerns",
+      "excerpt": "你自己菜就去别的地方ok?"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Derogatory age-based slur '老登' (old fart/boomer) used to dismiss critics' experiences rather than engaging with the pushiness criticism",
+      "excerpt": "21年之前的老登别发言了吧"
+    }
+  ],
+  "prompt_sha256": "6a1ca7919511ad0b375926498116d569c715c1806f7dfafefa89c9dd59f2a434",
+  "finish_reason": "stop",
+  "completion_tokens": 5426
+}
