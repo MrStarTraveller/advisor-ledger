@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-37-42Z.delta.json",
+  "delta_ts": "2026-04-19T23-37-42Z",
+  "reviewed_at_utc": "2026-04-19T23:38:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains profanity and personal insults ('傻逼', '狗腿', 'sha diao') directed at individuals deleting comments, constituting pure personal attacks without criticism of concrete advising practices.",
+      "excerpt": "删评论的，你成功把我们惹急了，小红书、知乎见！！！没见过他妈的这么不要脸的傻逼！"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes parenthetical text alleging continuous content suppression ('狗腿报道而且一直删除内容'), suppressing substantive observations about document manipulation rather than performing cleanup of typos or off-topic content.",
+      "excerpt": "(在匿名文档写别人名字，真是有点搞笑了，，，，人品太差 （⬅️什么意思，狗腿本人报道？）（狗腿报道而且一直删除内容！)"
+    }
+  ],
+  "prompt_sha256": "4f0b2b35a1a54c25a13f3c1566087cf230e02458cb359e58eab3e077baadddea",
+  "finish_reason": "stop",
+  "completion_tokens": 4630
+}

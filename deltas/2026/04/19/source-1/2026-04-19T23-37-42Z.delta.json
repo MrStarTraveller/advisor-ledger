@@ -1,0 +1,119 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-35-40Z",
+    "revision_id": "AMHacu7TC0OFf-XjO0cgUnmel6bPmLVpo9uIbWinqc3MwOekjoV8eATGcXJs5SrQjUamlykvw2GXH30Qj8mm-fqHNw",
+    "paragraph_count": 541
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-37-42Z",
+    "revision_id": "AMHacu4dwkvITeFqshJKKbyR47AAtLJ4pmrhO9CqYrQtRKqM2Fyi2LB15IjfgMAQK56eATXBADKXgZnfbrMRQYjUow",
+    "paragraph_count": 544
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 4,
+    "operations": 5,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 9,
+      "at_to": 9,
+      "from_paragraphs": [
+        {
+          "content_hash": "dbc842db4cd24ff6",
+          "style": "NORMAL_TEXT",
+          "text": "建议工业界单独开一个tab？现在太长了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66863ec5f5493dc8",
+          "style": "NORMAL_TEXT",
+          "text": "建议工业界单独开一个tab？现在太长了（加了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 234,
+      "at_to": 234,
+      "from_paragraphs": [
+        {
+          "content_hash": "610eafca3b9289b0",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f2813cfc8afd156",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（Jure:我也要枪毙吗）（建议和jiaxuan打lei）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 258,
+      "paragraphs": [
+        {
+          "content_hash": "6785a75284dd9d3c",
+          "style": "NORMAL_TEXT",
+          "text": "删评论的，你成功把我们惹急了，小红书、知乎见！！！没见过他妈的这么不要脸的傻逼！"
+        },
+        {
+          "content_hash": "51f58bb1b710d480",
+          "style": "NORMAL_TEXT",
+          "text": "笑死我了，纯吃瓜，这狗腿太傻逼了，我本来都不知道这个sha diao"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 270,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "67c370da8ca4fa1f",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。(在匿名文档写别人名字，真是有点搞笑了，，，，人品太差 （⬅️什么意思，狗腿本人报道？）（狗腿报道而且一直删除内容！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c65009fb597c6728",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 272,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc1a410520e5391b",
+          "style": "NORMAL_TEXT",
+          "text": "我再警告在这儿瞎jb删内容和控评的走狗！再改我们直接小红书见！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
