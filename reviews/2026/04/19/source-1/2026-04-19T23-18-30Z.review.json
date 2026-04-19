@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-18-30Z.delta.json",
+  "delta_ts": "2026-04-19T23-18-30Z",
+  "reviewed_at_utc": "2026-04-19T23:19:24Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity/insult '这个b' (likely shorthand for vulgar term) directed at the advisor",
+      "excerpt": "(wisc也要脸；但是这个b由于pao de tai)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment implying the professor did not earn their position at Northwestern ('nw') on their own merit",
+      "excerpt": "且综合来看学术轨迹也并不像是能靠自己去 nw 的人"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult '舔狗' (bootlicker) characterizing the professor's relationship to Dawn Song",
+      "excerpt": "Dawn song的舔狗"
+    }
+  ],
+  "prompt_sha256": "bf41d7f67c149f38f74b2ed5c93f3e52d2ef9b71efcbf8c104f61708d1ee7db3",
+  "finish_reason": "stop",
+  "completion_tokens": 4656
+}

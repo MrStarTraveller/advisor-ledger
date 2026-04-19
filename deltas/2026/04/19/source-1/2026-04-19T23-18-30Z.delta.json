@@ -1,0 +1,323 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-14-22Z",
+    "revision_id": "AMHacu6d-GZN2dcQIBVjjlAKfT_TkfBnRJv1i4_iV_EuJeftS77PaCAmMuVBrutR98UEVKq4RkojOPyWkF-iWnr9OQ",
+    "paragraph_count": 500
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-18-30Z",
+    "revision_id": "AMHacu7kICXfK9FO2SA2jy1A1qoZOZcPem0xJ_y-MO0gGHa9sRrSaQz9Sy2HngdY7kVqZzNyBmJfJJtXlwd2OdoFyA",
+    "paragraph_count": 511
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 12,
+    "operations": 15,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "0107d4b41083774c",
+          "style": "HEADING_2",
+          "text": "染发、Purpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_2",
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "845e4c1d3def7a52",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己写到红榜里面啊？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a97a3fbbe99b3aca",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 161,
+      "at_to": 161,
+      "from_paragraphs": [
+        {
+          "content_hash": "0df78dda0ce5fe67",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这条(因为ml不少人3年毕业的？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 174,
+      "at_to": 174,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f81cfb64b57eeb8",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "201d524a1b78163d",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个梗的话说明不是做CV"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 221,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b994a111de03dbe",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "60ca714cf4c68eab",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说，我拒了。)，最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 236,
+      "at_to": 236,
+      "from_paragraphs": [
+        {
+          "content_hash": "87b8f13bdafc34c2",
+          "style": "NORMAL_TEXT",
+          "text": "听说喜欢招没paper的，说是好培养？（待确认）( 确认，想招的会压力面看你听不听话）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f3f9bb26be9e9d66",
+          "style": "NORMAL_TEXT",
+          "text": "听说喜欢招没paper的，说是好培养？（待确认）( 确认，想招的会压力面看你听不听话）（听话的基础是老师足够牛逼，听话就是最好的发展路径，但瞎指挥的听话就是纯扯淡）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 251,
+      "at_to": 251,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b50347e2ddae89d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "deded0bea90e787a",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）"
+        },
+        {
+          "content_hash": "31e06e50610f87b7",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisc, ASU,"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 253,
+      "at_to": 254,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e83bb0a17423ed6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6bec39f43602dec8",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于pao de tai)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 255,
+      "at_to": 256,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5c11b85748325d7",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa71086b32b97972",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 262,
+      "at_to": 263,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac5768b6baadbddf",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "08c809add6e0a7bc",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。"
+        },
+        {
+          "content_hash": "82eb13bbb693e3a2",
+          "style": "NORMAL_TEXT",
+          "text": "继续！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 327,
+      "paragraphs": [
+        {
+          "content_hash": "2bec8d7b0dac1b28",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 370,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "0bc2e2fc6e388110",
+          "style": "NORMAL_TEXT",
+          "text": "不行，我吃了个饭越想越气，我还是无法看淡。一个人脑子有问题他可以去干点其他事，他可以自己在家吃屎，他不能出来当老师祸害学生！ 这个人最大的问题，抛开那些愚蠢、bu'hao"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7573351f622486a5",
+          "style": "NORMAL_TEXT",
+          "text": "不行，我吃了个饭越想越气，我还是无法看淡。一个人脑子有问题他可以去干点其他事，他可以自己在家吃屎，他不能出来当老师祸害学生！ 这个人最大的问题，抛开那些愚蠢、不好沟通、不说人话不谈，是出尔反尔，一会说东 ，下个星期说西 (e.g., 说要投稿又不投了，这会说这个会不行，之后又说我们投吧）。这整体就会使得和他在一起工作变成一个随机事件。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 374,
+      "at_to": 378,
+      "from_paragraphs": [
+        {
+          "content_hash": "ffa117f237dbeae3",
+          "style": "NORMAL_TEXT",
+          "text": "不允许组内同学交流合作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "200e7650118c4189",
+          "style": "NORMAL_TEXT",
+          "text": "不允许组内同学交流合作，跟他说某个project和别人的scoop了不听不听继续做，自己说服自己"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 380,
+      "paragraphs": [
+        {
+          "content_hash": "efbdc2f633a3aa3b",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste非常神秘，热衷于做benchmark（也可能是想不到别的点子了"
+        },
+        {
+          "content_hash": "45a5cf1e172818a2",
+          "style": "NORMAL_TEXT",
+          "text": "Dawn song的舔狗"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 401,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "426b2864e59d6414",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Mingmin Zhao"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "986ee244d2487a55",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Yuan Tian"
+        },
+        {
+          "content_hash": "a1328fc554d7ad8b",
+          "style": "NORMAL_TEXT",
+          "text": "面试咕咕"
+        }
+      ]
+    }
+  ]
+}
