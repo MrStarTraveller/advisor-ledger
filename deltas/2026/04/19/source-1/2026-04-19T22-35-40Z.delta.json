@@ -1,0 +1,174 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-33-30Z",
+    "revision_id": "AMHacu7SRMJIhCy1CtJK_quWgcgFlP_7N8ezRsAdoH1Idv72ocQ8eftKVhQEGht8wtfeIh2N24XOFJt2KApU6qJgLQ",
+    "paragraph_count": 409
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-35-40Z",
+    "revision_id": "AMHacu4C9Y49-Q7t1XAaDf1oRkf8bRFA_rvH6CwLb1eeDAvQRjIUvi4Cq0nrQu8VNEtri_qpYwYVsDXTFgsVrgCxGA",
+    "paragraph_count": 409
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 8,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 6,
+      "at_to": 6,
+      "from_paragraphs": [
+        {
+          "content_hash": "198ec06db246bfc9",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢谢"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b83946cc612c3be",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 55,
+      "at_to": 55,
+      "from_paragraphs": [
+        {
+          "content_hash": "a79f2ffdbeee6fe6",
+          "style": "NORMAL_TEXT",
+          "text": "接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；不接就不给你发了，只要100%接才给你发，这要是其他教授听说了也会不怎么认同（我问了几个R1教授），他们都是4.15才让学生决定，因为他们不缺生源，不知道为什么Mohit这么害怕被鸽，wxs"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e33e4716740dff9",
+          "style": "NORMAL_TEXT",
+          "text": "2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 160,
+      "from_paragraphs": [
+        {
+          "content_hash": "bef00dbb35fac219",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7bb2282701ac857",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生都很好也很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 202,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "29042946b3fa0508",
+          "style": "NORMAL_TEXT",
+          "text": "经典华人女AP。招了若干个学生也开了若干学生。RA名额很多。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6558080906d785b2",
+          "style": "NORMAL_TEXT",
+          "text": "招了若干个学生也开了若干学生。RA名额很多。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 221,
+      "from_paragraphs": [
+        {
+          "content_hash": "225bc91b0ba62315",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）（我寻思实在不行你看huan主页上合照看每次学生走没走，走了多少不就完了？这种随便查证的东西在这里瞎写真看不下去了）(感觉即使quit，也有很多原因，请说明原因。小扎ye)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e3e4835136824f2",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）（我寻思实在不行你看huan主页上合照看每次学生走没走，走了多少不就完了？这种随便查证的东西在这里瞎写真看不下去了）(感觉即使quit，每个人的原因也不一样，请说明原因。小扎也quit呢，能说是哈佛的问题吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "daccf861a5ebc47a",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "087d281bfc4cece2",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）（就感觉有的评论纯属断章取义，经典）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 282,
+      "at_to": 282,
+      "from_paragraphs": [
+        {
+          "content_hash": "9d44b965716e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦，建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d72585921fca5969",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "b675a69125ac2a1f",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（找工作反正没写黑推）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "efa9f51b4bbf6042",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（找工作的时候应该没写黑推，我看过一次他写过来的推荐信）"
+        }
+      ]
+    }
+  ]
+}
