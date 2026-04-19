@@ -1,0 +1,168 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-48-20Z",
+    "revision_id": "AMHacu7O19vXer3LXVf_6ph_4Nq2_eyAU_Z6BixLJgISsMMhwBMyWDtme5m7HLgzC3XaBuwcli2tG7pxT7hhMW_a1g",
+    "paragraph_count": 516
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-52-40Z",
+    "revision_id": "AMHacu6y1Uf5Aw4rUfkqWfmC0Psi2xuSmT4kzS0lzTKvMsjYDMiq1WQuOcSmL23wA8f2orqpGT1d86ZFSnChXv6J-g",
+    "paragraph_count": 523
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 5,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0097,
+    "insertion_ratio": 0.0229
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 82,
+      "at_to": 82,
+      "from_paragraphs": [
+        {
+          "content_hash": "e24881cb88a0cd4f",
+          "style": "NORMAL_TEXT",
+          "text": "著名小红书intern事件，招一大群人不给指导，蛊王"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98d5375ceabf2d8e",
+          "style": "NORMAL_TEXT",
+          "text": "著名小红书intern事件，招一大群人不给指导，蛊王 （补充一下小红书内容，是教唆intern向phd学习怎么美化数据）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "621d958bde48498d",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6fa877ecdef990db",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（说的好像UNC多好一样，frontier lab进去几个？灌水给自己灌出幻觉了？）（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 321,
+      "paragraphs": [
+        {
+          "content_hash": "2284f947ca1d3790",
+          "style": "NORMAL_TEXT",
+          "text": "楼上都弱爆了我来写几条, 让你们看看什么才是实至名归的菜导:"
+        },
+        {
+          "content_hash": "ac681cb189350019",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste极差, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "d34279c856bcc631",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8%, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平"
+        },
+        {
+          "content_hash": "e1057884779b711c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡"
+        },
+        {
+          "content_hash": "6b0c356cb3d7d68b",
+          "style": "NORMAL_TEXT",
+          "text": "4. 不懂得让学生干活, 每周lab meeting居然还亲自讲research skill"
+        },
+        {
+          "content_hash": "385259321152a6ed",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 326,
+      "at_to": 332,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab608903b91c8e1a",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （“骂”在哪儿？讲课确实烂，给分很好，本科生哭应该是承受力不行，难道哭了就无条件给高分吗）（每个学校都有这样的本科生，当过TA的都知道，想尽办法让你拉高ta的GPA）（确实）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "baea8bc4b2b52a1c",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （“骂”在哪儿？讲课确实烂，给分很好，本科生哭应该是承受力不行，难道哭了就无条件给高分吗）（每个学校都有这样的本科生，当过TA的都知道，想尽办法让你拉高ta的GPA）（确实）（不上课不写作业然后还要及格，有点太离谱了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 336,
+      "paragraphs": [
+        {
+          "content_hash": "0da36f1f5bd6767f",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，暑期实习保底，学期中随便实习，无组会好毕业人nice关心学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 379,
+      "at_to": 386,
+      "from_paragraphs": [
+        {
+          "content_hash": "238a3d9d4a4394e9",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的post)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52056d91e78d3028",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 407,
+      "at_to": 414,
+      "from_paragraphs": [
+        {
+          "content_hash": "96947bd9ad180376",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c9060fd4f0a361fa",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）"
+        }
+      ]
+    }
+  ]
+}
