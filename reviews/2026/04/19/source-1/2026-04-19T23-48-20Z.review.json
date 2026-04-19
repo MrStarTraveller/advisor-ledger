@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-48-20Z.delta.json",
+  "delta_ts": "2026-04-19T23-48-20Z",
+  "reviewed_at_utc": "2026-04-19T23:49:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains profanity and unsupported personal insults including 'sb' (vulgar insult), '走狗' (lackey), and 'b人' (derogatory slang) directed at students and the advisor",
+      "excerpt": "其著名狗腿学生也是个sb"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifies a specific postdoc by surname 'Bai' in the context of sensitive personal allegations (pool party incident), which combined with lab context could de-anonymize the private individual",
+      "excerpt": "(bai姓的post)"
+    }
+  ],
+  "prompt_sha256": "9fc60d05c6e70a4ec10f8f1568f7184d311aa3bd479631f3f99b15cf6b1b0133",
+  "finish_reason": "stop",
+  "completion_tokens": 6595
+}

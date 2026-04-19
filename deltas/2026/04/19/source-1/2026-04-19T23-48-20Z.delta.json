@@ -1,0 +1,159 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-46-10Z",
+    "revision_id": "AMHacu4kgI7hCMVMmBSlcKZXT1mbPlco6yfUwq86s3VVgk2p_AWX35BDPcY-YuzTuxKkf4gSzZ890KCK6lPFLPN4-g",
+    "paragraph_count": 533
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-48-20Z",
+    "revision_id": "AMHacu7O19vXer3LXVf_6ph_4Nq2_eyAU_Z6BixLJgISsMMhwBMyWDtme5m7HLgzC3XaBuwcli2tG7pxT7hhMW_a1g",
+    "paragraph_count": 516
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 20,
+    "operations": 2,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0375,
+    "insertion_ratio": 0.0058
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 252,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f024909431771e3",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao [Don’t edit this guy any more， you can open a new page] [Already moved, please go to Page “Chaowei Xiao”, thanks]（看不懂英文斯密达）"
+        },
+        {
+          "content_hash": "bcd210dd680cd776",
+          "style": "NORMAL_TEXT",
+          "text": "呵呵 （细说）"
+        },
+        {
+          "content_hash": "deded0bea90e787a",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）"
+        },
+        {
+          "content_hash": "7b465296ed47c9ef",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "374d263779398e34",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！"
+        },
+        {
+          "content_hash": "e71222b0a90f91dd",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University"
+        },
+        {
+          "content_hash": "9c5cda7f0ece351b",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）"
+        },
+        {
+          "content_hash": "25e2fde311109a6b",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)"
+        },
+        {
+          "content_hash": "17581afe3a22dc95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架"
+        },
+        {
+          "content_hash": "aa71086b32b97972",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "6966ea311c2b8861",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个事情wisc CS正式调查和找他了）"
+        },
+        {
+          "content_hash": "4001ed19334fe03a",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd (这你都知道？)"
+        },
+        {
+          "content_hash": "2e130845ecc10ab2",
+          "style": "NORMAL_TEXT",
+          "text": "还有！给学生写推荐信使用gmail，推荐信内容大概率黑推，导致学生直接被desk reject"
+        },
+        {
+          "content_hash": "179c534bf86f6a24",
+          "style": "NORMAL_TEXT",
+          "text": "我们继续！不许学生假期正常休假，只要微信/slack半个小时没回复就破口大骂；给学生半夜三四点直接打电话（微信call），不管学生是否在睡觉"
+        },
+        {
+          "content_hash": "86de12238ed1f608",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（哈哈哈哈哈哈哈这个笑死我了）"
+        },
+        {
+          "content_hash": "34fddf9796907932",
+          "style": "NORMAL_TEXT",
+          "text": "答应一位学生说自己去jhu了，等过两年再把他带过去，一直把这个学生寄养在别的老师名下。"
+        },
+        {
+          "content_hash": "2b2a1f2720b73977",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）(say the name,"
+        },
+        {
+          "content_hash": "8b49bf149ff2bb27",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。(在匿名文档写别人名字，真是有点搞笑了，，，，人品太差 （⬅️什么意思，狗腿本人报道？）"
+        },
+        {
+          "content_hash": "a5e52b04697e502a",
+          "style": "NORMAL_TEXT",
+          "text": "+1 是曾经intern学生，每次给这个b人发消息 其从来不回复，但是要求学生必须看到立即回复，不然就骂人。他认为只要对他没有用的，他利用不上的人，永远不回复。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c7c80dd5c2806832",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao [Don’t edit this guy any more， you can open a new page] [Already moved, please go to Page “Chaowei Xiao”, thanks]（看不懂英文斯密达）[My Pinyin suddenly doesn’t work :(]"
+        },
+        {
+          "content_hash": "29a34aa14fe352cc",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 396,
+      "at_to": 379,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b3d325d0fab3217",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "238a3d9d4a4394e9",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的post)"
+        }
+      ]
+    }
+  ]
+}
