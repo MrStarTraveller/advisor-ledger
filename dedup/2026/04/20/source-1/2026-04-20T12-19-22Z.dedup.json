@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-19-22Z",
+  "reviewed_at_utc": "2026-04-20T12:20:40Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "4ed15365a2237952",
+      "insert_hash": "52359bdde6856fa5",
+      "note": "added '放错位置了吧'",
+      "ghost_text": "以下这些学校是加入美国了吗？",
+      "insert_text": "以下这些学校是加入美国了吗？放错位置了吧"
+    },
+    {
+      "ghost_hash": "5769064a79adc753",
+      "insert_hash": "b11f60c17eeefc4d",
+      "note": "completed truncated parenthetical",
+      "ghost_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(que",
+      "insert_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说jiageng mao没水平，希望yue别支持这种事情）"
+    },
+    {
+      "ghost_hash": "e6e2286fb42a13a2",
+      "insert_hash": "0a1bb285e35ed4ba",
+      "note": "split sentence, first half",
+      "ghost_text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工债只能说pua大师，面试的时候就看得出来",
+      "insert_text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工"
+    },
+    {
+      "ghost_hash": "e6e2286fb42a13a2",
+      "insert_hash": "797e5f10370b87c2",
+      "note": "split sentence, second half",
+      "ghost_text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工债只能说pua大师，面试的时候就看得出来",
+      "insert_text": "只能说pua大师，面试的时候就看得出来"
+    },
+    {
+      "ghost_hash": "5484ed66839f9614",
+      "insert_hash": "e4b737611a4e9bfd",
+      "note": "typo fixes, translation",
+      "ghost_text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)痴(人品有问题，内派阴阳同学院其他女教授，婊，贱譾是itch)",
+      "insert_text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)(人品有问题，阴阳同学院其他女教授，婊，贱，bitch)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3945,
+  "skipped_reason": null
+}

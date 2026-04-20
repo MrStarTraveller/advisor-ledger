@@ -1,0 +1,33 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-19-22Z.delta.json",
+  "delta_ts": "2026-04-20T12-19-22Z",
+  "reviewed_at_utc": "2026-04-20T12:20:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Names a specific PhD student (jagengmao/jiageng mao) who is not a public figure, violating privacy of students",
+      "excerpt": "jiageng mao"
+    },
+    {
+      "type": "pii",
+      "detail": "Names a specific private individual (王兴兴) who appears to be a student or non-public figure targeted by a professor's social media post",
+      "excerpt": "王兴兴"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses gendered slur '学术妲己' (implying sexual manipulation for academic advancement) which is an unsupported character judgment rather than criticism of advising practices",
+      "excerpt": "Yufei Ding 学术妲己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses profanity and gendered insults (婊, 贱, bitch) constituting pure personal attacks",
+      "excerpt": "婊，贱，bitch"
+    }
+  ],
+  "prompt_sha256": "580348e772a47658b0afac3c445ecfd798936e8684924fe5f94b4e1068d7992e",
+  "finish_reason": "stop",
+  "completion_tokens": 4174
+}

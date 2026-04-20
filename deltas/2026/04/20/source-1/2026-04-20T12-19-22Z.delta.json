@@ -1,0 +1,137 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-17-20Z",
+    "revision_id": "AMHacu6YLVlEfnt-wthRomro7DcHQXE07jHwtDTRmAwN3y6GpVez5oMSS91XaWDl6UmshMmlZ6kWxvM62ezElJOAQg",
+    "paragraph_count": 1825
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-19-22Z",
+    "revision_id": "AMHacu4Yo7bCa3FcU1CBA6zHYZGPWpbSreN5-VzCvN3Z0pJ-jrZfTgMxRra3qkldjdh_Ilgow_uhGxgf5CKTb1D7eg",
+    "paragraph_count": 1827
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0038
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 398,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ed15365a2237952",
+          "style": "NORMAL_TEXT",
+          "text": "以下这些学校是加入美国了吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52359bdde6856fa5",
+          "style": "NORMAL_TEXT",
+          "text": "以下这些学校是加入美国了吗？放错位置了吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 539,
+      "at_to": 539,
+      "from_paragraphs": [
+        {
+          "content_hash": "5769064a79adc753",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(que"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b11f60c17eeefc4d",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说jiageng mao没水平，希望yue别支持这种事情）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 543,
+      "paragraphs": [
+        {
+          "content_hash": "f0341fbcb1f93ad8",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 学术妲己"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1578,
+      "at_to": 1579,
+      "from_paragraphs": [
+        {
+          "content_hash": "81383adaa1c5e34d",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "36e5e678adb8299c",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1679,
+      "at_to": 1680,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6e2286fb42a13a2",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工债只能说pua大师，面试的时候就看得出来"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a1bb285e35ed4ba",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工"
+        },
+        {
+          "content_hash": "797e5f10370b87c2",
+          "style": "NORMAL_TEXT",
+          "text": "只能说pua大师，面试的时候就看得出来"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1681,
+      "at_to": 1683,
+      "from_paragraphs": [
+        {
+          "content_hash": "5484ed66839f9614",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)痴(人品有问题，内派阴阳同学院其他女教授，婊，贱譾是itch)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e4b737611a4e9bfd",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)(人品有问题，阴阳同学院其他女教授，婊，贱，bitch)"
+        }
+      ]
+    }
+  ]
+}
