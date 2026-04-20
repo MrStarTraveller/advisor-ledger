@@ -1,0 +1,102 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-37-30Z",
+    "revision_id": "AMHacu7OrYvb4tu06kH004A-05LFw0NfqhugvaK1Y5rk8Fy9tauIBpF3sAGXVdvrt9cgwVBH-8i8bdfR4yisWI2X4Q",
+    "paragraph_count": 582
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-39-40Z",
+    "revision_id": "AMHacu768StgQFVBmafvT6VI2Y2FukNePE6mSgNqJ-kSVqEsTuYNbWAur4UVWKJzWkn_7UovJ9TiBiGL2d6RBUsfEQ",
+    "paragraph_count": 582
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0069,
+    "insertion_ratio": 0.0069
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "40cab5ac7501849f",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个可能你得反思一下你干了啥把她能给惹火了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "955e53213749dbff",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 250,
+      "from_paragraphs": [
+        {
+          "content_hash": "1630396883404d72",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊) （写错地方了吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6cea8b2a567da93e",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 341,
+      "at_to": 341,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c875b1fe57f2778",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "756d4f3fdfa5d2e7",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 354,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f4b29cd418b6c84",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7c01d087de3785f",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    }
+  ]
+}
