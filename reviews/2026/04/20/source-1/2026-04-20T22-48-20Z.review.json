@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-48-20Z.delta.json",
+  "delta_ts": "2026-04-20T22-48-20Z",
+  "reviewed_at_utc": "2026-04-20T22:49:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Discloses full names of specific PhD students (Haoran Geng, Yufei Ding) and their romantic relationship status, which constitutes personally identifying information about private individuals.",
+      "excerpt": "haoran geng + yufei ding"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses derogatory term '狗腿' (lapdogs) to attack individuals who are deleting comments, constituting a personal insult rather than criticism of concrete advising practices.",
+      "excerpt": "gqq的狗腿还在发力删评论"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletes substantive observations about a professor's recommendation letter practices and alleged favoritism/conflict of interest, appearing to suppress legitimate concerns about advising ethics rather than performing cleanup.",
+      "excerpt": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推...让人怀疑是否有利益交换。"
+    }
+  ],
+  "prompt_sha256": "841646e7689f074b6d99fdda92070244841204c25fab1b2da0df2c938f8b1322",
+  "finish_reason": "stop",
+  "completion_tokens": 5878
+}

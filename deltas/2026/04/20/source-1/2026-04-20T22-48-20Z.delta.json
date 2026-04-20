@@ -1,0 +1,654 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-44-00Z",
+    "revision_id": "AMHacu7CfY7NeOY5G1oO2WUUr201eoPizLu6nKYpnECmUhSPC1OTXddpmr6pQY0tlCtubig1t_3inOY46xiqtCVgEQ",
+    "paragraph_count": 2171
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-48-20Z",
+    "revision_id": "AMHacu55eg6nR-psG4avZB9HajjJ31RdIfjFmt-m29CZR_Pl9OcMFf1qWqhpDzjJSl5NgRAtLMk9_upfQiMZnSLNqQ",
+    "paragraph_count": 2177
+  },
+  "summary": {
+    "inserted_paragraphs": 43,
+    "deleted_paragraphs": 37,
+    "operations": 29,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.017,
+    "insertion_ratio": 0.0198
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "176623087f4fbacf",
+          "style": "NORMAL_TEXT",
+          "text": "好人就该被枪指着吗？如果是抹黑的信息也要永远流传在学生群体中吗？受害者还要思考为什么吗？老师难道就没有人权吗？（你要是反驳不了就别怪学生流传了）(这不就是有罪论吗？抛开肚子证明清白呗)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 16,
+      "paragraphs": [
+        {
+          "content_hash": "fe0228429ce66d7b",
+          "style": "NORMAL_TEXT",
+          "text": "学校设为二级标题，人名设为三级标题，方便目录。后续可以一级标题划分国家。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 36,
+      "at_to": 39,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e5bb9d5e64f16694",
+          "style": "NORMAL_TEXT",
+          "text": "Jure Leskovec"
+        },
+        {
+          "content_hash": "32cd7c8e3aea911f",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解这个大佬吗？（开了GNN这个大坑）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 56,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 73,
+      "at_to": 78,
+      "from_paragraphs": [
+        {
+          "content_hash": "7fd57eb013537882",
+          "style": "NORMAL_TEXT",
+          "text": "Dingwen Tao IUB -> Chinese Academy of Sciences"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7334b1673524d953",
+          "style": "HEADING_2",
+          "text": "  Chinese Academy of Sciences"
+        },
+        {
+          "content_hash": "234457914b092035",
+          "style": "HEADING_3",
+          "text": "Dingwen Tao"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 77,
+      "at_to": 83,
+      "from_paragraphs": [
+        {
+          "content_hash": "8524eb3dcb838c66",
+          "style": "NORMAL_TEXT",
+          "text": "UCR school of medicine Zheng Sika"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b66cd3478c57cf7",
+          "style": "HEADING_2",
+          "text": "UCR"
+        },
+        {
+          "content_hash": "688db36476b9a3ef",
+          "style": "HEADING_3",
+          "text": "school of medicine Zheng Sika"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 90,
+      "at_to": 97,
+      "from_paragraphs": [
+        {
+          "content_hash": "4345cc8cd2cff816",
+          "style": "NORMAL_TEXT",
+          "text": "Northwestern University Kaize Ding"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21e31fc423ef90fe",
+          "style": "HEADING_2",
+          "text": "Northwestern University"
+        },
+        {
+          "content_hash": "bff81aa309d50db5",
+          "style": "HEADING_3",
+          "text": "Kaize Ding"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 103,
+      "paragraphs": [
+        {
+          "content_hash": "b548545df0d50967",
+          "style": "NORMAL_TEXT",
+          "text": "Northwestern University, Zhaoran Wang"
+        },
+        {
+          "content_hash": "7508f48319be4d76",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解这个大佬吗？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 107,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0f812e97c46038bd",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC, Bo Li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c70ee3cd1ee0003",
+          "style": "HEADING_2",
+          "text": "UIUC"
+        },
+        {
+          "content_hash": "0efa6451bdc72af3",
+          "style": "HEADING_3",
+          "text": "Bo Li"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 115,
+      "at_to": 121,
+      "from_paragraphs": [
+        {
+          "content_hash": "59c07532148d111d",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC, Haohan Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f1f67b5f11dcfd6a",
+          "style": "HEADING_3",
+          "text": " Haohan Wang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 119,
+      "at_to": 125,
+      "from_paragraphs": [
+        {
+          "content_hash": "644ebf129a5bf953",
+          "style": "NORMAL_TEXT",
+          "text": "IUB, Fengguang Song"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e77ec7525eb9fef",
+          "style": "HEADING_2",
+          "text": "IUB"
+        },
+        {
+          "content_hash": "7180ba97357431ae",
+          "style": "HEADING_3",
+          "text": "Fengguang Song"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 127,
+      "at_to": 134,
+      "from_paragraphs": [
+        {
+          "content_hash": "23ced6a00fb2d7e7",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bStanford, Jure Leskovec"
+        },
+        {
+          "content_hash": "32cd7c8e3aea911f",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解这个大佬吗？（开了GNN这个大坑）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 140,
+      "at_to": 146,
+      "from_paragraphs": [
+        {
+          "content_hash": "a29da81137cd6cee",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT Hai Phan"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "68a9574b397f0599",
+          "style": "HEADING_2",
+          "text": "NJIT"
+        },
+        {
+          "content_hash": "e48580f81b10cb54",
+          "style": "HEADING_3",
+          "text": "Hai Phan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 143,
+      "at_to": 150,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4832f7160e2204e",
+          "style": "NORMAL_TEXT",
+          "text": "UChicago Junchen Jiang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da0215f44d5887ad",
+          "style": "HEADING_2",
+          "text": "UChicago"
+        },
+        {
+          "content_hash": "1bc983481aece38d",
+          "style": "HEADING_3",
+          "text": "Junchen Jiang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 149,
+      "at_to": 157,
+      "from_paragraphs": [
+        {
+          "content_hash": "499a2c6eff1a624d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhiting Hu （存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b4427c4de24de6e",
+          "style": "HEADING_2",
+          "text": "UCSD"
+        },
+        {
+          "content_hash": "0745ae33ec658427",
+          "style": "HEADING_3",
+          "text": "Zhiting Hu"
+        },
+        {
+          "content_hash": "ea94e51b48f2ca2f",
+          "style": "NORMAL_TEXT",
+          "text": "（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 155,
+      "at_to": 165,
+      "from_paragraphs": [
+        {
+          "content_hash": "78e318a9b73f5fde",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Lianhui Qin"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1df8341911ed86cf",
+          "style": "HEADING_3",
+          "text": "Lianhui Qin"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 170,
+      "from_paragraphs": [
+        {
+          "content_hash": "62501fe1cb874663",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Xinyu Zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfb123bc5a8231f1",
+          "style": "HEADING_3",
+          "text": "Xinyu Zhang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 164,
+      "at_to": 174,
+      "from_paragraphs": [
+        {
+          "content_hash": "13a389d9c9eef1d7",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6d688a65a2547d8a",
+          "style": "HEADING_2",
+          "text": "UC Merced"
+        },
+        {
+          "content_hash": "6abf4dc8ecd739a1",
+          "style": "HEADING_3",
+          "text": " Yiwei Wang"
+        },
+        {
+          "content_hash": "818a5678a5a1aceb",
+          "style": "NORMAL_TEXT",
+          "text": "（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 431,
+      "paragraphs": [
+        {
+          "content_hash": "4e0d427457c5891f",
+          "style": "NORMAL_TEXT",
+          "text": "JHU  Alan yullie"
+        },
+        {
+          "content_hash": "1719f442901dc02a",
+          "style": "NORMAL_TEXT",
+          "text": "听说来jhu带了一个20多岁的韩国老婆（本人目测70岁高寿）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 550,
+      "at_to": 558,
+      "from_paragraphs": [
+        {
+          "content_hash": "a253cd7a5b779aa3",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜 (别人说实话就是洗，还不是榜一就野榜哈哈哈哈哈哈，求普信jiao'c)\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6252d192349ef873",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜 (别人说澄清就是洗，不是榜一就野榜，求普信教程啊哈哈哈哈h'h)\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 583,
+      "at_to": 591,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c16a9e2cce71af9",
+          "style": "NORMAL_TEXT",
+          "text": "UMD Heng Huang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4fc82b26aecb47d2",
+          "style": "NORMAL_TEXT",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 742,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 795,
+      "paragraphs": [
+        {
+          "content_hash": "51d21cd3194fafce",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(还没进教职先进黑榜）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4f29f211465df39c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding) 让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "a370a1e7f1efaa87",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1234,
+      "paragraphs": [
+        {
+          "content_hash": "200c2598cce68039",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界/学术界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+        },
+        {
+          "content_hash": "af7df5ea479a2318",
+          "style": "NORMAL_TEXT",
+          "text": "来自YOU老师另一位博士生："
+        },
+        {
+          "content_hash": "e9477fa9ec21fd55",
+          "style": "NORMAL_TEXT",
+          "text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。并且，You从未给我强制assign过luchen的任务，或者什么项目，他尊重学生的研究方向。组里偶尔会有visit的交换生或博后，You有时会问我们是否有兴趣去合作，就算我说没有兴趣，他也会尊重我的意愿。"
+        },
+        {
+          "content_hash": "81b0b8b48181022c",
+          "style": "NORMAL_TEXT",
+          "text": "从我入学以来，我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，或者给我施加其他什么压力，**一次都没有**。他会鼓励我多去尝试，但不会让我感到焦虑。PhD有什么问题，都可以私下约他单独吃饭，当然每次也都是You买单，我们经常会在吃饭时聊一些有趣的话题，比如足球或是最近的趣闻。"
+        },
+        {
+          "content_hash": "7c240a37ca6ffb5f",
+          "style": "NORMAL_TEXT",
+          "text": "总体来讲，我觉得组里的氛围是自由、chill的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。百闻不如一见，不是三言两语就能否定一个组的全部。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1275,
+      "paragraphs": [
+        {
+          "content_hash": "fbb7e36f96afbfc9",
+          "style": "NORMAL_TEXT",
+          "text": "本科跟他做过summer intern来现身说法：每周组会基本不会给任何指导，但是你没有进度就会被骂被打压，然后让我们一个大三的本科生去一个月从零复现一篇刚刚发在顶会上的文章（没有任何公布的代码），没有进展就会被说不认真"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1630,
+      "at_to": 1640,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b17f9ee9911e2ed",
+          "style": "NORMAL_TEXT",
+          "text": "gqq的狗腿还在发力删评论"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "615a44b32b3fdbd6",
+          "style": "NORMAL_TEXT",
+          "text": "Gqq的狗腿还在发力删评论 所以删了什么你倒是说啊，口说无凭谁不会"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1924,
+      "paragraphs": [
+        {
+          "content_hash": "200c2598cce68039",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界/学术界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+        },
+        {
+          "content_hash": "af7df5ea479a2318",
+          "style": "NORMAL_TEXT",
+          "text": "来自YOU老师另一位博士生："
+        },
+        {
+          "content_hash": "e9477fa9ec21fd55",
+          "style": "NORMAL_TEXT",
+          "text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。并且，You从未给我强制assign过luchen的任务，或者什么项目，他尊重学生的研究方向。组里偶尔会有visit的交换生或博后，You有时会问我们是否有兴趣去合作，就算我说没有兴趣，他也会尊重我的意愿。"
+        },
+        {
+          "content_hash": "81b0b8b48181022c",
+          "style": "NORMAL_TEXT",
+          "text": "从我入学以来，我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，或者给我施加其他什么压力，**一次都没有**。他会鼓励我多去尝试，但不会让我感到焦虑。PhD有什么问题，都可以私下约他单独吃饭，当然每次也都是You买单，我们经常会在吃饭时聊一些有趣的话题，比如足球或是最近的趣闻。"
+        },
+        {
+          "content_hash": "7c240a37ca6ffb5f",
+          "style": "NORMAL_TEXT",
+          "text": "总体来讲，我觉得组里的氛围是自由、chill的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。百闻不如一见，不是三言两语就能否定一个组的全部。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1994,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2083,
+      "at_to": 2089,
+      "from_paragraphs": [
+        {
+          "content_hash": "48a407a8f1b110d4",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么直接，大概意思是这样, 极度的push。（何止是push……）wo"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c63e7a05a3e44233",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，家都是文人说话那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢...)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受，说实话，这个组的师徒我恨你们一辈子....恨之入骨。"
+        }
+      ]
+    }
+  ]
+}
