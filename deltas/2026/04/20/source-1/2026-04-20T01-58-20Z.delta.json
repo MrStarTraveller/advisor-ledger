@@ -1,0 +1,162 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-56-10Z",
+    "revision_id": "AMHacu6zjYlwsDYhLQmL1RbuyDaYvYJPPYwpDfVzV7rvdAGdeCcYQ5OA8iuF-vxrfsRYlKiUWETw1Em7jVklyvV-3w",
+    "paragraph_count": 758
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-58-20Z",
+    "revision_id": "AMHacu63ts8wU9QBnEq6Dx1CfblP2VZICugWueGTmVK9aS0eMWwOLFwA_Q97dC0iKn-oE_-A0-01Ii8N_u_baoihwg",
+    "paragraph_count": 760
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0079,
+    "insertion_ratio": 0.0105
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6272a62ec98216b",
+          "style": "NORMAL_TEXT",
+          "text": "Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "206d652e5e57c995",
+          "style": "NORMAL_TEXT",
+          "text": "Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看)  如果你需要删除隐私信息，请对这个Copy文档提出申请编辑请求并附带需要删除的Notes。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 192,
+      "from_paragraphs": [
+        {
+          "content_hash": "df18874ad0ab4c83",
+          "style": "NORMAL_TEXT",
+          "text": "曾经忽悠一个来读博后的学生读了个二博（其他人爆料）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca9894ebdd8ec39a",
+          "style": "NORMAL_TEXT",
+          "text": "曾经忽悠一个来读博后的学生读了个二博（其他人爆料）（那个二博哥们自己也有点神）（是这样，这个学生后来去了学术界似乎名声也不好）(最后那哥们不是去 umd AP 来着，组里学生最后出路也都不错吧)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 196,
+      "paragraphs": [
+        {
+          "content_hash": "3290b76e74c8c0c1",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 206,
+      "at_to": 207,
+      "from_paragraphs": [
+        {
+          "content_hash": "f9aeedd0b645a949",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer，在advisor matching period一直含混不清，matching即将结尾的时候直接说不好意思我不带你了ni'zi'qiu'duo'fu'ba"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9646b3927aaa9567",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer，在advisor matching period一直含混不清，matching快结束的时候说sorry我不带了你自求多福吧，利用这个方法每年平均踹两个人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 360,
+      "at_to": 361,
+      "from_paragraphs": [
+        {
+          "content_hash": "68539da69d2f4968",
+          "style": "NORMAL_TEXT",
+          "text": "求xi shu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 380,
+      "paragraphs": [
+        {
+          "content_hash": "ad00c35e724efd43",
+          "style": "NORMAL_TEXT",
+          "text": "认识他老婆和他组里大部分人，感觉工作之余打英雄联盟的老师不会太差吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 459,
+      "at_to": 461,
+      "from_paragraphs": [
+        {
+          "content_hash": "48b6f04bea4216c6",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她，后面uw的那几个candidate上了以后她基本没法跳槽），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "38980386d1379d98",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，去nw绰绰有余了吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 695,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "641928953fb89760",
+          "style": "NORMAL_TEXT",
+          "text": "拉到商汤ACE robot去当牛马，特别是手下有个巨sb和push的leader"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f6023771321aee8",
+          "style": "NORMAL_TEXT",
+          "text": "最近搞新事业，拉到商汤去当牛马，不去不给发offer，必须一直干到入学。特别是手下有个巨sb和push的leader"
+        }
+      ]
+    }
+  ]
+}

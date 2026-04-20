@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-58-20Z.delta.json",
+  "delta_ts": "2026-04-20T01-58-20Z",
+  "reviewed_at_utc": "2026-04-20T01:59:23Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies specific former student by current academic position (UMD AP), which is detailed enough to de-anonymize the individual",
+      "excerpt": "最后那哥们不是去 umd AP 来着"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses vulgar insult '巨sb' (extremely stupid/asshole) to describe a leader, constituting a pure personal attack rather than criticism of concrete practices",
+      "excerpt": "巨sb和push的leader"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removes substantive multi-party debate about professor's hiring qualifications, specific interview outcomes (CMU, UCLA, UW), and DEI claims, suppressing legitimate observations about the advisor",
+      "excerpt": "（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate"
+    }
+  ],
+  "prompt_sha256": "1ce81eddd5fbb201d11c6aa0218c615383ad974ae5fe4b9e7013fb88d1d14796",
+  "finish_reason": "stop",
+  "completion_tokens": 5409
+}
