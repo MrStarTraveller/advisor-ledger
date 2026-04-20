@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T18-05-30Z",
+  "reviewed_at_utc": "2026-04-20T18:06:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 17,
+  "n_inserts": 8,
+  "pairs": [
+    {
+      "ghost_hash": "984b80a863b3ad0f",
+      "insert_hash": "e9ff593ceec6952b",
+      "note": "Added clarification about 43 papers",
+      "ghost_text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗",
+      "insert_text": "btw，并没有投稿44篇哦，iclr统计网站你没看过（ 已辟谣：43篇）"
+    },
+    {
+      "ghost_hash": "9ade16bc9d802772",
+      "insert_hash": "34017c8ff2d01d33",
+      "note": "Added answer to intern question",
+      "ghost_text": "听说一堆intern养蛊？？",
+      "insert_text": "听说一堆intern养蛊？？是的，而且只有蛊王拿强推"
+    },
+    {
+      "ghost_hash": "425a90d479f43bc4",
+      "insert_hash": "c1726d39c3388be1",
+      "note": "Added signature zhi at end",
+      "ghost_text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持",
+      "insert_text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  zhi"
+    },
+    {
+      "ghost_hash": "da9ffece42561500",
+      "insert_hash": "2043ee57056d6ec7",
+      "note": "Added parenthetical defense",
+      "ghost_text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么",
+      "insert_text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑)"
+    },
+    {
+      "ghost_hash": "43388ac1fc6b146c",
+      "insert_hash": "7b71e04ccdef07c8",
+      "note": "Added prefix about busy teacher",
+      "ghost_text": "推荐信比较客观，不会写得太夸张",
+      "insert_text": "这两年老师会忙一些，推荐信比较客观，不会写得太夸张"
+    },
+    {
+      "ghost_hash": "9fc3981422da3365",
+      "insert_hash": "4553d0d6b9d4c701",
+      "note": "Fixed wording RA事宜然后",
+      "ghost_text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事N天不回复的）",
+      "insert_text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事宜然后N天不回复的）"
+    },
+    {
+      "ghost_hash": "15284f00689e5ee5",
+      "insert_hash": "509aae0e0c97e934",
+      "note": "Removed trailing slashes",
+      "ghost_text": "SMU Pan Zhou////////////////////////////////////////////////////////////////////////////////////////////////////",
+      "insert_text": "SMU Pan Zhou"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2930,
+  "skipped_reason": null
+}

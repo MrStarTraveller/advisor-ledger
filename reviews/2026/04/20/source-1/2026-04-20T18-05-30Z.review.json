@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-05-30Z.delta.json",
+  "delta_ts": "2026-04-20T18-05-30Z",
+  "reviewed_at_utc": "2026-04-20T18:06:13Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observations about specific advisors (UMN Katie Zhao being pushy, students quitting, treated 'like slaves'; and defense of yang老师), which appears to suppress legitimate advising practice information rather than cleanup.",
+      "excerpt": "UMN Katie Zhao\n很push 组里有学生quit (应该只有一个PhD转组，因为方向不合适)\n她们组的学生和奴隶差不多\n和celine一样hhh在yang老师组里做过intern，yang对学生还是很关心的..."
+    }
+  ],
+  "prompt_sha256": "5418b76374687d820a745bf8a442a67505e2d757af629c3fc40f7c14a8165dba",
+  "finish_reason": "stop",
+  "completion_tokens": 3818
+}

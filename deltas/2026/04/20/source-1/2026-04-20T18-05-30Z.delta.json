@@ -1,0 +1,226 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-01-10Z",
+    "revision_id": "AMHacu6SaQfRTtmI8bYHtZa9AJsPU3JmVag_Ltt2rzRDi6UlI5xdSlhpWifDF1ct8nrtzEHBIaP5xZEOlYMh5KysLQ",
+    "paragraph_count": 2036
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-05-30Z",
+    "revision_id": "AMHacu7cy345EfxhNZxAVK4RHL7wqmOkqKqbIt1T2OuL8oPHWtaYyNFvKuPJ32xQhTRN5_YMAQQTVf9XZAMArUJcGQ",
+    "paragraph_count": 2027
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 17,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0083,
+    "insertion_ratio": 0.0039
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 146,
+      "at_to": 146,
+      "from_paragraphs": [
+        {
+          "content_hash": "984b80a863b3ad0f",
+          "style": "NORMAL_TEXT",
+          "text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e9ff593ceec6952b",
+          "style": "NORMAL_TEXT",
+          "text": "btw，并没有投稿44篇哦，iclr统计网站你没看过（ 已辟谣：43篇）"
+        },
+        {
+          "content_hash": "09c89bfa66994141",
+          "style": "NORMAL_TEXT",
+          "text": "原来一个会议有没中稿是黑点？那你可千万别投稿，我担心你心里承受不了（"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 439,
+      "paragraphs": [
+        {
+          "content_hash": "bcbafa3ebe44435d",
+          "style": "NORMAL_TEXT",
+          "text": "UMN Katie Zhao"
+        },
+        {
+          "content_hash": "4213493a642cc625",
+          "style": "NORMAL_TEXT",
+          "text": "很push 组里有学生quit (应该只有一个PhD转组，因为方向不合适)"
+        },
+        {
+          "content_hash": "6cd284ed3dfb5bfa",
+          "style": "NORMAL_TEXT",
+          "text": "她们组的学生和奴隶差不多"
+        },
+        {
+          "content_hash": "411701c38840c6bf",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh\u000b在yang老师组里做过intern，yang对学生还是很关心的，没有感觉到像奴隶一样被压榨。而且会亲手帮学生改论文画图到凌晨。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 506,
+      "at_to": 503,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ade16bc9d802772",
+          "style": "NORMAL_TEXT",
+          "text": "听说一堆intern养蛊？？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "34017c8ff2d01d33",
+          "style": "NORMAL_TEXT",
+          "text": "听说一堆intern养蛊？？是的，而且只有蛊王拿强推"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 661,
+      "at_to": 658,
+      "from_paragraphs": [
+        {
+          "content_hash": "425a90d479f43bc4",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c1726d39c3388be1",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  zhi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 729,
+      "at_to": 726,
+      "from_paragraphs": [
+        {
+          "content_hash": "da9ffece42561500",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2043ee57056d6ec7",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 841,
+      "at_to": 838,
+      "from_paragraphs": [
+        {
+          "content_hash": "43388ac1fc6b146c",
+          "style": "NORMAL_TEXT",
+          "text": "推荐信比较客观，不会写得太夸张"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b71e04ccdef07c8",
+          "style": "NORMAL_TEXT",
+          "text": "这两年老师会忙一些，推荐信比较客观，不会写得太夸张"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1157,
+      "paragraphs": [
+        {
+          "content_hash": "960da10413bf93b8",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou （？？？不是yiling老师你们也能黑的吗）"
+        },
+        {
+          "content_hash": "3a9d407ae869e054",
+          "style": "NORMAL_TEXT",
+          "text": "刚来就有瓜吗"
+        },
+        {
+          "content_hash": "77bb50395f96090b",
+          "style": "NORMAL_TEXT",
+          "text": "看过微博"
+        },
+        {
+          "content_hash": "e8a6ba52d8719aa2",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）（别尬黑了，no瓜）"
+        },
+        {
+          "content_hash": "b20f55291ee150f4",
+          "style": "NORMAL_TEXT",
+          "text": "守护宇宙最好的10老师！！！"
+        },
+        {
+          "content_hash": "817fb89dd92ac8c4",
+          "style": "NORMAL_TEXT",
+          "text": "10老师永远的神！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1818,
+      "at_to": 1809,
+      "from_paragraphs": [
+        {
+          "content_hash": "9fc3981422da3365",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事N天不回复的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4553d0d6b9d4c701",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事宜然后N天不回复的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1885,
+      "at_to": 1876,
+      "from_paragraphs": [
+        {
+          "content_hash": "15284f00689e5ee5",
+          "style": "NORMAL_TEXT",
+          "text": "SMU Pan Zhou////////////////////////////////////////////////////////////////////////////////////////////////////"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "509aae0e0c97e934",
+          "style": "NORMAL_TEXT",
+          "text": "SMU Pan Zhou"
+        }
+      ]
+    }
+  ]
+}
