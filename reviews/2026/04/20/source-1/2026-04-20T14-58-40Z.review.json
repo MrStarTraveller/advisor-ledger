@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-58-40Z.delta.json",
+  "delta_ts": "2026-04-20T14-58-40Z",
+  "reviewed_at_utc": "2026-04-20T15:00:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added unsupported character judgment using dehumanizing language ('effort slaves') to describe the advisor's students, accompanied by mocking tone ('呵呵呵')",
+      "excerpt": "学生都是他的努力奴隶"
+    }
+  ],
+  "prompt_sha256": "00a6fa002166a17cb4d9b21652afb6f1d69c79e9d52b212cf630d284319ee666",
+  "finish_reason": "stop",
+  "completion_tokens": 7875
+}

@@ -1,0 +1,291 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-56-30Z",
+    "revision_id": "AMHacu6u-tfvr1fR2mr67RcwU7LqAkZzQJG1ZohHsis2A9cYBXPZK-SJs05yAM-644ZGBePIZaQDvndUDaeLr7byUg",
+    "paragraph_count": 1994
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-58-40Z",
+    "revision_id": "AMHacu7A4OGCXlcBoMQugZsbPP2ZP1Rp3kMj9zvPVuTOA79eCFjLJwupuHJkFWPicHXX9Agt8wpdiuONDWLyHR8HyQ",
+    "paragraph_count": 1995
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 14,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.007,
+    "insertion_ratio": 0.0075
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 345,
+      "paragraphs": [
+        {
+          "content_hash": "019b2457c083aa72",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 不是lichao学生但有密切合作，t"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 367,
+      "from_paragraphs": [
+        {
+          "content_hash": "438c86271413362f",
+          "style": "NORMAL_TEXT",
+          "text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "51d7909eddffeb24",
+          "style": "NORMAL_TEXT",
+          "text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 399,
+      "at_to": 399,
+      "from_paragraphs": [
+        {
+          "content_hash": "f2ae2c8a968d71c0",
+          "style": "NORMAL_TEXT",
+          "text": "3. 只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；推荐信肯定有强度之分，不可能所有人都是top1%吧，难道不是1%就算黑推吗？3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；5."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b18d3a4ed472d4c2",
+          "style": "NORMAL_TEXT",
+          "text": "3. 只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；推荐信肯定有强度之分，不可能所有人都是top1%吧，难道不是1%就算黑推吗？4. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；5. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；6. Chuang现在来说的话跟学生相处还不错吧，正常交流生活和research，遇到学生心情不好或者他听说谁心情抑郁的还会经常关心和安慰"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 403,
+      "at_to": 403,
+      "from_paragraphs": [
+        {
+          "content_hash": "b5c9d02aa326b93c",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生 (听闻早年确实push，现在组里好像佛系)"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f46c272f6aae3450",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生 (听闻早年确实push，现在组里好像佛系)（经常和他们组打球，感觉组里）"
+        },
+        {
+          "content_hash": "fafe8cc9116decf8",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 591,
+      "at_to": 591,
+      "from_paragraphs": [
+        {
+          "content_hash": "367278365714b2cc",
+          "style": "NORMAL_TEXT",
+          "text": "消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为真单纯啊，你也是被骗的，我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "760742ca2490814e",
+          "style": "NORMAL_TEXT",
+          "text": "消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者d真单纯啊，你也是被骗的，我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 611,
+      "at_to": 611,
+      "from_paragraphs": [
+        {
+          "content_hash": "0ecfbba6e9ad492a",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）(申请季被鸽过面试.....很想知道为什么后续不回邮件了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a23e981e9c1513f5",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是 秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）(申请季被鸽过面试.....很想知道为什么后续不回邮件了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 655,
+      "at_to": 655,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5ecb522eaf9fdc6",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ed16671995a3561",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 977,
+      "at_to": 977,
+      "from_paragraphs": [
+        {
+          "content_hash": "fd97e1f320f9013d",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（实话实说，现在很久没这种消息了，陈老师在大环境动荡情况下能保证组里所有博士资金充足我觉得是读博时一个很大的优点了，个人感觉哈，见过太多身边其他组读博的朋友，读着读着人走了的情况，个人感觉读博时组里稳定，老师稳定是个很加分项）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a192d302447775b2",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（实话实说，现在很久没这种消息了，陈老师在大环境动荡情况下能保证组里所有博士资金充足我觉得是读博时一个很大的优点，个人感觉哈，见过太多身边其他组读博的朋友，读着读着人走了的情况，个人感觉读博时组里稳定，老师稳定是个很加分项）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 986,
+      "at_to": 986,
+      "from_paragraphs": [
+        {
+          "content_hash": "d47a3d2936f63700",
+          "style": "NORMAL_TEXT",
+          "text": "来自目前在读的：单论组里读博或者搞科研氛围，个人感觉挺好的，没上述这么离谱的，以及陈老师人对组里同学也挺好的，如果你有独立科研能力目前组里能给很大的科研自由度（当然，组里其他杂事也会有，这个也需要个人去协调好自己时间，我目前整体来看其实还好，杂事不至于特别影响科研，同时也能从很多杂事里学到未来自己要面对的东西，有时也未尝不是件好事）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2d69e247b27a5056",
+          "style": "NORMAL_TEXT",
+          "text": "来自目前在读的：单论组里读博或者搞科研氛围，个人感觉挺好的，没上述这么离谱的，以及陈老师人对组里同学也挺好的，如果你有独立科研能力目前组里能给很大的科研自由度（当然，组里其他杂事也会有，这个也需要个人去协调好自己时间，我目前整体来看其实还好，杂事不至于特别影响科研，同时也能从杂事里学到未来自己要面对的东西，有时也未尝不是件好事，当然，这事也是仁者见仁智者见智，这里写出来也是供大家参考）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1189,
+      "at_to": 1189,
+      "from_paragraphs": [
+        {
+          "content_hash": "0543083ea2744405",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能yang xue s"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7d38a22d6e7060a",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1316,
+      "at_to": 1316,
+      "from_paragraphs": [
+        {
+          "content_hash": "6763ae4f447911e8",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c804728dd537cac5",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly project meeting）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1671,
+      "at_to": 1671,
+      "from_paragraphs": [
+        {
+          "content_hash": "76b3c3608bd40317",
+          "style": "NORMAL_TEXT",
+          "text": "客观说明如果一个ap在这里引导大家实名制pen zi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca4a55bd15a63572",
+          "style": "NORMAL_TEXT",
+          "text": "客观说明， 如果一个ap在这里引导大家实名制喷自己带过的学生， 以及上来就说你讲的全错，可以慎重考虑"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1710,
+      "at_to": 1710,
+      "from_paragraphs": [
+        {
+          "content_hash": "497cba9633ed42af",
+          "style": "NORMAL_TEXT",
+          "text": "八卦部分：曾有个学生因为他卡毕业直接闹的全系人尽皆知（CUHKCSE），但他jiu shi bu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "894c68407ed52d90",
+          "style": "NORMAL_TEXT",
+          "text": "八卦部分：曾有个学生因为他卡毕业直接闹的全系人尽皆知（CUHKCSE），但他就是不让人家毕业呵呵呵因为学生都是他的努力奴隶:)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1720,
+      "paragraphs": [
+        {
+          "content_hash": "b7458b9b36391e05",
+          "style": "NORMAL_TEXT",
+          "text": "手下Phd组会直接拍桌子起来反对他"
+        }
+      ]
+    }
+  ]
+}
