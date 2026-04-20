@@ -1,0 +1,317 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-19-50Z",
+    "revision_id": "AMHacu7HvajtV-nVZGFG77mfq6oW7YjzwPdfkl4YO8lb5nrjoWPrkt6VUQrj8oGzOYMHz_ziToJvAaFoePzMYDB3qg",
+    "paragraph_count": 658
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-24-00Z",
+    "revision_id": "AMHacu6FhetMNualWJuN8t72spk0_zfQLX6gjidbF0crOL0zjdF2GvxZqreWz5nffq_Y3CS7m4cS9U5edgGSZFrSWQ",
+    "paragraph_count": 671
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 10,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0152,
+    "insertion_ratio": 0.0343
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 20,
+      "at_to": 20,
+      "from_paragraphs": [
+        {
+          "content_hash": "9d725121db1ebd96",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学术"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2859c9c393018174",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 24,
+      "paragraphs": [
+        {
+          "content_hash": "583294331d3b5652",
+          "style": "NORMAL_TEXT",
+          "text": "已经失去正常科研能力了，以水position paper为主线"
+        },
+        {
+          "content_hash": "07df797c90c7a0d4",
+          "style": "NORMAL_TEXT",
+          "text": "挑拨离间各个学生，说"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 99,
+      "paragraphs": [
+        {
+          "content_hash": "93e2d2a2bff066e3",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 188,
+      "at_to": 191,
+      "from_paragraphs": [
+        {
+          "content_hash": "7ed90bf9e24829a9",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "91ec1bdf0eaa679e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai）"
+        },
+        {
+          "content_hash": "58a6bd1466159059",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一堆水文"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 226,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "5476ffae7cbf0434",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Jian Huang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2fc9c1449b2d2247",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 248,
+      "paragraphs": [
+        {
+          "content_hash": "383c74701a1ff1ff",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang"
+        },
+        {
+          "content_hash": "845e5ab029fbfe4d",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 248,
+      "at_to": 255,
+      "from_paragraphs": [
+        {
+          "content_hash": "19992c4530acf5c7",
+          "style": "NORMAL_TEXT",
+          "text": "Rex组里学生表示不至于上黑榜.."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b7ec38d4ece6125",
+          "style": "NORMAL_TEXT",
+          "text": "作为 rex 的学生想说一句：第一学年出产出的期待的确存在（个人觉得在情理之中），但组内氛围不是高压。没达到的同学也没什么事，黑榜这个描述和我的实际体验有较大 gap"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 388,
+      "at_to": 395,
+      "from_paragraphs": [
+        {
+          "content_hash": "ebde1f183abba084",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5425c38142da05e5",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 423,
+      "at_to": 430,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec3943fc53e0deeb",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d0178a4495ef1532",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 469,
+      "at_to": 476,
+      "from_paragraphs": [
+        {
+          "content_hash": "6243b9d02c811b5f",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "edbf625f127e266b",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 498,
+      "at_to": 506,
+      "from_paragraphs": [
+        {
+          "content_hash": "3d8156df4b59d528",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40%"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e4433856be4ecdc5",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 510,
+      "paragraphs": [
+        {
+          "content_hash": "676f97ef80033982",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU人尽皆知吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 550,
+      "paragraphs": [
+        {
+          "content_hash": "0dc61431b01586c8",
+          "style": "NORMAL_TEXT",
+          "text": "Waterloo Hongyang Zhang"
+        },
+        {
+          "content_hash": "033e82121dcf8d6e",
+          "style": "NORMAL_TEXT",
+          "text": "小红书记得有瓜，知情的爆一下"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 544,
+      "at_to": 556,
+      "from_paragraphs": [
+        {
+          "content_hash": "8ffbe833c002c92a",
+          "style": "NORMAL_TEXT",
+          "text": "张口闭口浓浓我是你大爹, 禁实习，组内不能相互合作。会对你说idea垃圾不要做，转头发现组里其他学生在做"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bdc45e9988a1d14",
+          "style": "NORMAL_TEXT",
+          "text": "张口闭口浓浓我是你大爹, 禁实习，组内不能相互合作。会对你说idea垃圾不要做，转头发现组里其他学生在做（这个太典了，他组里抢idea的事情最多了，前脚不给做的idea后面就被组里其他人发了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 558,
+      "paragraphs": [
+        {
+          "content_hash": "1b49631c8b8052fa",
+          "style": "NORMAL_TEXT",
+          "text": "infocom就是他那个圈子的人（wireless）搞臭的（哥们认识人啊xs，你讲讲他学生吧，有个和本科生结婚那个）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 629,
+      "at_to": 642,
+      "from_paragraphs": [
+        {
+          "content_hash": "34b4595ccfa9e793",
+          "style": "NORMAL_TEXT",
+          "text": "在美国水了一堆期刊文章，没几篇顶会，回国后靠着浙江的学生还有跟别的学校的reviewer串通审稿，每年给自己搞10几篇安全四大"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf4c9513dc831f1d",
+          "style": "NORMAL_TEXT",
+          "text": "在美国水了一堆期刊文章，没几篇顶会，回国后靠着浙大的学生还有跟别的学校的reviewer串通审稿，每年给自己搞10几篇安全四大"
+        }
+      ]
+    }
+  ]
+}

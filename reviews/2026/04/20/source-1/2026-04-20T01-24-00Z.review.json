@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-24-00Z.delta.json",
+  "delta_ts": "2026-04-20T01-24-00Z",
+  "reviewed_at_utc": "2026-04-20T01:25:06Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by a personal relationship detail (marrying an undergraduate) within a specific lab context, which could de-anonymize the private individual",
+      "excerpt": "有个和本科生结婚那个"
+    },
+    {
+      "type": "pii",
+      "detail": "References a specific postdoc by surname (Bai) in the context of a specific lab group, which may be detailed enough to de-anonymize the individual",
+      "excerpt": "bai姓postdoc"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult and global character judgment ('toxic king') rather than criticism of concrete advising practices",
+      "excerpt": "据说是毒王"
+    }
+  ],
+  "prompt_sha256": "c99846f96147ea932ac4d1ed5847a0dbcdb0c14468b3fc22d0fb5503406c0cc8",
+  "finish_reason": "stop",
+  "completion_tokens": 5762
+}
