@@ -1,0 +1,232 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-48-40Z",
+    "revision_id": "AMHacu6wHI0IsMsPBhz7YGNDGSG3uaAmSJoozNKIJDZwsrYnAH2HMS3jgsWUkoScC4Ma8Pzt6TY-BFh39-n474bKyQ",
+    "paragraph_count": 1194
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-50-50Z",
+    "revision_id": "AMHacu4a3n-fWp2toFDdiETmrXtg090G1282gkT9shMQpNyXIUNCcuRKp4CPmHg9yJPC5NunpnzHl4ZhvRBJtV8Iyw",
+    "paragraph_count": 1197
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 11,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0092,
+    "insertion_ratio": 0.0117
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 357,
+      "at_to": 357,
+      "from_paragraphs": [
+        {
+          "content_hash": "b04adba106a61071",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "c13485802657eb45",
+          "style": "NORMAL_TEXT",
+          "text": "（谁写那么多假的干啥？不rebuttal？本人？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f822c8823deefc12",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 369,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 695,
+      "at_to": 695,
+      "from_paragraphs": [
+        {
+          "content_hash": "5969c32a3872ea29",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有对intern的complaint几乎全是来自同一个账号Anonymous Kiwi, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        },
+        {
+          "content_hash": "22b835932f5f65a1",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern()，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e6ba229202659690",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint几乎全是来自同一个账号Anonymous Kiwi, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        },
+        {
+          "content_hash": "bac1e491f79eaab8",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern(不要包括我，谢谢哈--BQ Yin)，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 725,
+      "at_to": 725,
+      "from_paragraphs": [
+        {
+          "content_hash": "8fa24b7c43c2acd0",
+          "style": "NORMAL_TEXT",
+          "text": "后续 scaffold+训练实验的设计与训练代码实现+release"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8fe39ae5fe7974a6",
+          "style": "NORMAL_TEXT",
+          "text": "后续 scaffold/训练实验的设计与训练代码搭建与release"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 729,
+      "at_to": 729,
+      "from_paragraphs": [
+        {
+          "content_hash": "6cc9179e8f06db79",
+          "style": "NORMAL_TEXT",
+          "text": "我的合作者（即该 intern）同样做出了重要贡献，包括 initial idea drafting、数据收集（这是一项大量的工作，我完全认可）、benchmark本身的评估+分析实验与scaffold+训练实验的讨论与辅助，以及 appendix 前几章的撰写。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9096d1345fa58d84",
+          "style": "NORMAL_TEXT",
+          "text": "我的合作者（本人在此--BQ Yin）同样做出了重要贡献，包括 initial idea drafting、数据收集和benchmark制作（这是一项大量的工作，我完全认可）、benchmark本身的评估/分析实验与scaffold/训练实验的讨论与辅助，以及 appendix 前几章的撰写。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1018,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3fdd9cd41b6935c0",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Zhijing Jin"
+        },
+        {
+          "content_hash": "8607b2d064797a90",
+          "style": "NORMAL_TEXT",
+          "text": "鱼塘里鱼太多，懂的都懂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1108,
+      "at_to": 1111,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e05f7849a87ca26",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU, Wenzhao Lian"
+        },
+        {
+          "content_hash": "b74f1579f564fef4",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很低，画大饼"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1114,
+      "at_to": 1116,
+      "from_paragraphs": [
+        {
+          "content_hash": "f45fc3165cef3a93",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个 美名其曰组里不搞共一这种恶臭风气（点名姓Lu的，猛猛压榨底下的人shen z不分一点credit）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4cd56d3009b5163e",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个 美名其曰组里不搞共一这种恶臭风气（点名姓Lu的，猛猛压榨底下的人甚至不分一点credit）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1177,
+      "at_to": 1179,
+      "from_paragraphs": [
+        {
+          "content_hash": "2acdaca0573ac775",
+          "style": "NORMAL_TEXT",
+          "text": "CASIA,"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5f950d39b21c3994",
+          "style": "NORMAL_TEXT",
+          "text": "CASIA"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "386e00f670e5ebe8",
+          "style": "NORMAL_TEXT",
+          "text": "HDU"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1184,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
