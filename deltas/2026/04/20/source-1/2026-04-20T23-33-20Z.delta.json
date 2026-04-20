@@ -1,0 +1,122 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-31-10Z",
+    "revision_id": null,
+    "paragraph_count": 2198
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-33-20Z",
+    "revision_id": null,
+    "paragraph_count": 2190
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 10,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0045,
+    "insertion_ratio": 0.0009
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc12ea73087f28fd",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，刚好一个朋友在他们组，得到的回复是现在挺正常的，老师也很professional，晚上6点之后，周末不找学生。不用微信联系学生，有事情都是teams和邮件。讲诚信，答应的事情都会兑现。hands-on指导学生，给idea，遇到困难会跟学生用心讨论解决。(被多次举报之后收敛了??不是特别清楚当前现状)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6536d220684d8c16",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，刚好一个朋友在他们组，得到的回复是现在挺正常的，老师也很professional，晚上6点之后，周末不找学生。不用微信联系学生，有事情都是teams和邮件。讲诚信，答应的事情都会兑现。hands-on指导学生，给idea，遇到困难会跟学生用心讨论解决。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 349,
+      "paragraphs": [
+        {
+          "content_hash": "df14f50147da94be",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia Yunzhu Li 蹲"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1185,
+      "at_to": 1184,
+      "from_paragraphs": [
+        {
+          "content_hash": "489223829aca3999",
+          "style": "NORMAL_TEXT",
+          "text": "听说已经有3-4个master students 做了work但是没有拿到master学位（确有此事）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "090c1eb03cb05b01",
+          "style": "NORMAL_TEXT",
+          "text": "听说已经有3-4个master students 做了work但是没有拿到master学位"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1391,
+      "paragraphs": [
+        {
+          "content_hash": "6b0f6248ad1c4c08",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大没耐心，情绪管理有问题。但是不会坑学生，需要忍受toxic的师生关系，出路和成果很好。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1996,
+      "paragraphs": [
+        {
+          "content_hash": "bd96d00288786f96",
+          "style": "NORMAL_TEXT",
+          "text": "建议加入: THU， Jinpeng Liu"
+        },
+        {
+          "content_hash": "3c561397a7396994",
+          "style": "NORMAL_TEXT",
+          "text": "女生避雷，学术方面不做评价。"
+        },
+        {
+          "content_hash": "368a5d296e578bcb",
+          "style": "NORMAL_TEXT",
+          "text": "此人在北美时性骚扰不少女生。"
+        },
+        {
+          "content_hash": "a38e7d18eeec7c25",
+          "style": "NORMAL_TEXT",
+          "text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约女生出来吃饭。"
+        },
+        {
+          "content_hash": "5deb92f1bcec4e10",
+          "style": "NORMAL_TEXT",
+          "text": "造谣一个没有从来接受自己追求的女生是自己的前女友。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
