@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-23-10Z",
+  "reviewed_at_utc": "2026-04-20T13:24:44Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 15,
+  "n_inserts": 11,
+  "pairs": [
+    {
+      "ghost_hash": "6ed916ca1c2fc1ec",
+      "insert_hash": "21d17b9a89a461a4",
+      "note": "punctuation fixes",
+      "ghost_text": "只会DM GNN 灌水那一套，发表大量academic rubbish paper 【你发了什么好paper？要不挂出来给大家看看？他之前是做dm的，现在dm落寞了而已，而且你要做agent，llm这些新方向kaize肯定是支持的好吧】【+1】",
+      "insert_text": "只会DM GNN 灌水那一套，发表大量academic rubbish paper 【你发了什么好paper, 要不挂出来给大家看看. 他之前是做dm的，现在dm落寞了而已，而且你要做agent，llm这些新方向kaize肯定是支持的好吧】【+1】"
+    },
+    {
+      "ghost_hash": "15df3779d7878ba2",
+      "insert_hash": "4c080fb416ac602f",
+      "note": "added HKU",
+      "ghost_text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）",
+      "insert_text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）"
+    },
+    {
+      "ghost_hash": "3dfa8ede30d121d9",
+      "insert_hash": "9e4398c75ce05f2a",
+      "note": "removed +1 at end",
+      "ghost_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死 +1",
+      "insert_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死"
+    },
+    {
+      "ghost_hash": "aad01cb6f78b5226",
+      "insert_hash": "95e056270a3197c0",
+      "note": "removed challenging question",
+      "ghost_text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的，证明你不是本人？",
+      "insert_text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？"
+    },
+    {
+      "ghost_hash": "30c46ce039127446",
+      "insert_hash": "d51444c3b14381e1",
+      "note": "added question marks",
+      "ghost_text": "为什么被删掉了",
+      "insert_text": "为什么被删掉了？？"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 6335,
+  "skipped_reason": null
+}

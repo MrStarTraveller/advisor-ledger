@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-23-10Z.delta.json",
+  "delta_ts": "2026-04-20T13-23-10Z",
+  "reviewed_at_utc": "2026-04-20T13:23:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Partial real name of student ('li j') that could identify a private individual",
+      "excerpt": "同visiting student，之前li j"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Ethnic/personal attack based on origin ('Middle East monopoly') rather than concrete advising practices",
+      "excerpt": "中东一家独大也是nb"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of specific substantive allegations about research integrity (GitHub star manipulation evidence, threats to students) and references to supporting posts (Xiaohongshu, Zhihu), replacing them with dismissal of evidence",
+      "excerpt": "小红书去年就有人github token泄露，发现被操控点了他们lab五六个项目，后面被chao私信“威胁”删了lab名字"
+    }
+  ],
+  "prompt_sha256": "15b7245e7c8b17ba632984ccf326e152c066d3879a3d9fb8b1308d4134928b86",
+  "finish_reason": "stop",
+  "completion_tokens": 4618
+}
