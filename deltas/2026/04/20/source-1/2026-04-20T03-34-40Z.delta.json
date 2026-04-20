@@ -1,0 +1,621 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-30-40Z",
+    "revision_id": "AMHacu5SNKv2lWB8IKZ4nYt2sSb-cvvHRdG5xeMtCc4QLOjh1cJEyFpcISux7rT0KkBXr6sruJVvw2_1i2-zIDk3lg",
+    "paragraph_count": 950
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-34-40Z",
+    "revision_id": "AMHacu6S2XVA8Mn5YQgGp4yz_c8Q4qwSTUzPCv59vNvDtDgCtj6gGcWAZSPexfipA84sBVP3uJD3xBvMCGquSTGYzQ",
+    "paragraph_count": 958
+  },
+  "summary": {
+    "inserted_paragraphs": 53,
+    "deleted_paragraphs": 45,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0474,
+    "insertion_ratio": 0.0553
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 24,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "efaac4682e049f92",
+          "style": "NORMAL_TEXT",
+          "text": "隔壁组的经典永传：喊学生私下签协议，所有相关的工作都不允许对外share，包括idea+ppt+paper，泄露就得被关进jail"
+        },
+        {
+          "content_hash": "6865d381d0f48928",
+          "style": "NORMAL_TEXT",
+          "text": "想退学？我辞职！看系主任听你们的还是听我的！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 86,
+      "paragraphs": [
+        {
+          "content_hash": "c400fa225fcfa283",
+          "style": "NORMAL_TEXT",
+          "text": "Umass，Gan Chuang"
+        },
+        {
+          "content_hash": "e952deae4ffd3391",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+        },
+        {
+          "content_hash": "010188d6b292b2b5",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师"
+        },
+        {
+          "content_hash": "f855747fec3181a4",
+          "style": "NORMAL_TEXT",
+          "text": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之"
+        },
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        },
+        {
+          "content_hash": "e1004e17c066f231",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！"
+        },
+        {
+          "content_hash": "47ef48ba016f47be",
+          "style": "NORMAL_TEXT",
+          "text": "对于intern纯畜生行为，我一个心地善良充满学术热情的兄弟在他那里做完intern以后都没有以前爱笑了，收到了他一直的pua，压迫，打击。"
+        },
+        {
+          "content_hash": "aa5ccf50bd74b329",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。（文采大师）"
+        },
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        },
+        {
+          "content_hash": "4f6dce3a432a9f94",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相)"
+        },
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        },
+        {
+          "content_hash": "cf604224f4267268",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）"
+        },
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        },
+        {
+          "content_hash": "a9262091668e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "学生暑期实习还需要高强度做组内工作。"
+        },
+        {
+          "content_hash": "92479a116d1631e0",
+          "style": "NORMAL_TEXT",
+          "text": "mit-ibm lab 这地方有说法的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 108,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f6bdf68feb0244e6",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Xiaoxuan Yang"
+        },
+        {
+          "content_hash": "37be3a909835da91",
+          "style": "NORMAL_TEXT",
+          "text": "Stereotype上大分"
+        },
+        {
+          "content_hash": "d7eb95368bd067d8",
+          "style": "NORMAL_TEXT",
+          "text": "经典NPD"
+        },
+        {
+          "content_hash": "51a0bd45fab55fe5",
+          "style": "NORMAL_TEXT",
+          "text": "Funding似乎只够1~2个学生，但是敢招3个，纯坑人"
+        },
+        {
+          "content_hash": "e966b17e31d9ee43",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上说让学生别着急，自己不push，其实push得很"
+        },
+        {
+          "content_hash": "4839cb19afc7c628",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励组内淘汰"
+        },
+        {
+          "content_hash": "7c9ba2a8e2cbad1d",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢在系主任和自己当年的老板那里说别人坏话"
+        },
+        {
+          "content_hash": "67ecb6dcc6142632",
+          "style": "NORMAL_TEXT",
+          "text": "不知道为什么感觉很着急，一星期没进展恨不得把你皮扒下来"
+        },
+        {
+          "content_hash": "a8bdddc1be2b8180",
+          "style": "NORMAL_TEXT",
+          "text": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+        },
+        {
+          "content_hash": "4b8bafe64b333491",
+          "style": "NORMAL_TEXT",
+          "text": "说话永远都是“你可以做.....”，然后你没做就要被喷"
+        },
+        {
+          "content_hash": "71a20b02e6aefbfa",
+          "style": "NORMAL_TEXT",
+          "text": "一周开多次会，还要填写weekly report sheet（虽然这个sheet的逻辑很离谱）"
+        },
+        {
+          "content_hash": "470499cd6abc2529",
+          "style": "NORMAL_TEXT",
+          "text": "脾气的梯度很大"
+        },
+        {
+          "content_hash": "4de806970f2273d3",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个博导给不出有用的指导（也可能是故意不给），只会念经“找独一无二的创新点”“你的进展是什么”"
+        },
+        {
+          "content_hash": "bc235ffc068ad523",
+          "style": "NORMAL_TEXT",
+          "text": "师从Yiran Chen，这方面的细节可以去上面陈老板的模块去看"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 338,
+      "paragraphs": [
+        {
+          "content_hash": "c400fa225fcfa283",
+          "style": "NORMAL_TEXT",
+          "text": "Umass，Gan Chuang"
+        },
+        {
+          "content_hash": "e952deae4ffd3391",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+        },
+        {
+          "content_hash": "010188d6b292b2b5",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师"
+        },
+        {
+          "content_hash": "f855747fec3181a4",
+          "style": "NORMAL_TEXT",
+          "text": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之"
+        },
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        },
+        {
+          "content_hash": "e1004e17c066f231",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！"
+        },
+        {
+          "content_hash": "47ef48ba016f47be",
+          "style": "NORMAL_TEXT",
+          "text": "对于intern纯畜生行为，我一个心地善良充满学术热情的兄弟在他那里做完intern以后都没有以前爱笑了，收到了他一直的pua，压迫，打击。"
+        },
+        {
+          "content_hash": "aa5ccf50bd74b329",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。（文采大师）"
+        },
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        },
+        {
+          "content_hash": "4f6dce3a432a9f94",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相)"
+        },
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        },
+        {
+          "content_hash": "cf604224f4267268",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）"
+        },
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        },
+        {
+          "content_hash": "a9262091668e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "学生暑期实习还需要高强度做组内工作。"
+        },
+        {
+          "content_hash": "92479a116d1631e0",
+          "style": "NORMAL_TEXT",
+          "text": "mit-ibm lab 这地方有说法的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 360,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f6bdf68feb0244e6",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Xiaoxuan Yang"
+        },
+        {
+          "content_hash": "37be3a909835da91",
+          "style": "NORMAL_TEXT",
+          "text": "Stereotype上大分"
+        },
+        {
+          "content_hash": "d7eb95368bd067d8",
+          "style": "NORMAL_TEXT",
+          "text": "经典NPD"
+        },
+        {
+          "content_hash": "51a0bd45fab55fe5",
+          "style": "NORMAL_TEXT",
+          "text": "Funding似乎只够1~2个学生，但是敢招3个，纯坑人"
+        },
+        {
+          "content_hash": "e966b17e31d9ee43",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上说让学生别着急，自己不push，其实push得很"
+        },
+        {
+          "content_hash": "4839cb19afc7c628",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励组内淘汰"
+        },
+        {
+          "content_hash": "7c9ba2a8e2cbad1d",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢在系主任和自己当年的老板那里说别人坏话"
+        },
+        {
+          "content_hash": "67ecb6dcc6142632",
+          "style": "NORMAL_TEXT",
+          "text": "不知道为什么感觉很着急，一星期没进展恨不得把你皮扒下来"
+        },
+        {
+          "content_hash": "a8bdddc1be2b8180",
+          "style": "NORMAL_TEXT",
+          "text": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+        },
+        {
+          "content_hash": "4b8bafe64b333491",
+          "style": "NORMAL_TEXT",
+          "text": "说话永远都是“你可以做.....”，然后你没做就要被喷"
+        },
+        {
+          "content_hash": "71a20b02e6aefbfa",
+          "style": "NORMAL_TEXT",
+          "text": "一周开多次会，还要填写weekly report sheet（虽然这个sheet的逻辑很离谱）"
+        },
+        {
+          "content_hash": "470499cd6abc2529",
+          "style": "NORMAL_TEXT",
+          "text": "脾气的梯度很大"
+        },
+        {
+          "content_hash": "4de806970f2273d3",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个博导给不出有用的指导（也可能是故意不给），只会念经“找独一无二的创新点”“你的进展是什么”"
+        },
+        {
+          "content_hash": "bc235ffc068ad523",
+          "style": "NORMAL_TEXT",
+          "text": "师从Yiran Chen，这方面的细节可以去上面陈老板的模块去看"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 424,
+      "at_to": 425,
+      "from_paragraphs": [
+        {
+          "content_hash": "002cf7aea578c5ee",
+          "style": "NORMAL_TEXT",
+          "text": "Intern疯狂招，战绩可查：ICLR 26投稿几十篇"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b52dbb551d8ecb83",
+          "style": "NORMAL_TEXT",
+          "text": "Intern疯狂招 (intern都写到主页上了，这点无可厚非吧)，战绩可查：ICLR 26投稿几十篇"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 428,
+      "paragraphs": [
+        {
+          "content_hash": "dd7f0f27f9cc684a",
+          "style": "NORMAL_TEXT",
+          "text": "我在尤老师这里做的intern，体验感很好，老师很supportive，GPU资源+人脉资源"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 490,
+      "at_to": 492,
+      "from_paragraphs": [
+        {
+          "content_hash": "f830736cb3a1d7b3",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）（可以来，就是爹系，受不了的话就别来）(组里好像没什么女学生？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee05e7b8a4645c35",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）（可以来，就是爹系，受不了的话就别来）(组里好像没什么女学生？）（爹系的确听说了，似乎有点说一不二那种性格）（是信念感很强的人，学术和其他方面，都觉得自己是绝对正确的，有利有弊吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 530,
+      "at_to": 532,
+      "from_paragraphs": [
+        {
+          "content_hash": "b159bc786d7a558b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）"
+        },
+        {
+          "content_hash": "9292a5a82f466463",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会(fake)，投不出来还喜欢嘲笑人（还不如直接骂），idea都是a+b"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e575968ddfbc696b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（写那么多假的干啥？不rebuttal？）"
+        },
+        {
+          "content_hash": "1e6d9cb739be5476",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人（ 还不如直接骂），idea都是a+b"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 573,
+      "paragraphs": [
+        {
+          "content_hash": "c88ee4f3f33b76a6",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜的再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 580,
+      "paragraphs": [
+        {
+          "content_hash": "265b1e1a9001dc15",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，大部分是之前没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 578,
+      "paragraphs": [
+        {
+          "content_hash": "265b1e1a9001dc15",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，大部分是之前没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 581,
+      "at_to": 584,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6a2f124523fa213",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了neurips主会oral和workshop awards, 10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "21d65e583adde165",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        },
+        {
+          "content_hash": "285bed9273e53a81",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4e338ba03b0c5fe9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "63e443075dc9bcc8",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也\u000b3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 622,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 727,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d29ef273fac53534",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Kevin Chang"
+        },
+        {
+          "content_hash": "9c30f0bbdf2beb42",
+          "style": "NORMAL_TEXT",
+          "text": "经典黑推王，全校无人不知"
+        },
+        {
+          "content_hash": "c4e3487232752389",
+          "style": "NORMAL_TEXT",
+          "text": "名人名言：“It’s not enough that I should succeed, others should fail.”"
+        },
+        {
+          "content_hash": "de0a5c3633eee490",
+          "style": "NORMAL_TEXT",
+          "text": "上课戏耍学生，给学生作业好评，"
+        }
+      ]
+    }
+  ]
+}
