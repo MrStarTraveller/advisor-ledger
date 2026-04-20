@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-16-30Z.delta.json",
+  "delta_ts": "2026-04-20T20-16-30Z",
+  "reviewed_at_utc": "2026-04-20T20:17:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Exposes full names of multiple students (jiageng mao, haoran geng, yufei ding) and identifying details including romantic relationships, lab affiliations, and specific academic misconduct allegations that could de-anonymize them.",
+      "excerpt": "组里逆天phd jiageng mao没水平...该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains gendered insults ('学术妲 己'/'academic Daji', '蛇鼠一窝'/'snakes and rats nest') and dehumanizing language ('炮灰们'/'cannon fodder') targeting students' character rather than concrete advising practices.",
+      "excerpt": "纯学术妲 己...这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removes substantive discussion about advisor Yun Raymond Fu's specific practices (10-paper graduation requirements, recommendation letter withholding, internship policies) and corresponding student defenses, appearing to suppress legitimate observations rather than cleanup.",
+      "excerpt": "NEU Yun Raymond Fu (我们作为学生一直在澄清...全组要求发10篇一作还不啥才能毕业...最厉害的学生...拿到哈佛博后不给写推荐信)"
+    }
+  ],
+  "prompt_sha256": "c5988d741fa723e4ff93a7dcc6aa7dd0df1d238a74c86de638c163e8af07929c",
+  "finish_reason": "stop",
+  "completion_tokens": 3650
+}

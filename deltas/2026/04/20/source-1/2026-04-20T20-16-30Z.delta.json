@@ -1,0 +1,353 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-14-20Z",
+    "revision_id": "AMHacu7F609-I_eGPvbQEc62fcVoAlU5JQ5A9frgMF7LRdUGSlsK6giJPj8c2nNNwlnO9Zdpo08mD9GGIs-mF3KrbA",
+    "paragraph_count": 2034
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-16-30Z",
+    "revision_id": "AMHacu6MoQCFP9qiSmrB6eyJmNY3wsyrZ8uxXAHK7_DDWvwPvJ4SeZFRaJICHF45TY20mn3BuAjCE-bTBNuHpDI73Q",
+    "paragraph_count": 2046
+  },
+  "summary": {
+    "inserted_paragraphs": 33,
+    "deleted_paragraphs": 21,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0103,
+    "insertion_ratio": 0.0161
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 82,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 372,
+      "paragraphs": [
+        {
+          "content_hash": "c934c7db9c6c075b",
+          "style": "NORMAL_TEXT",
+          "text": "UW Suin Lee"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 441,
+      "at_to": 451,
+      "from_paragraphs": [
+        {
+          "content_hash": "fed3645e935fac1c",
+          "style": "NORMAL_TEXT",
+          "text": "网红？(还行吧，听说指导了很多其他AP的不是自己的学生) (硬要说的话可能也就是做的有点水，涂人挺好的，帮其他人指导学生)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "58155d7815c65548",
+          "style": "NORMAL_TEXT",
+          "text": "网红？(还行吧，听说指导了很多其他AP的不是自己的学生) (硬要说的话可能也就是做的有点水，涂人挺好的，帮其他人指导学生)（网红算个什么喷点？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 714,
+      "paragraphs": [
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d848098fb33d2ae1",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jiageng mao没水平-一个人带十几个intern（史称jiageng军团）啥都做不出来只想着水论文(这事跟yue没关系吧，要不单开一个)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "51d21cd3194fafce",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(还没进教职先进黑榜）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4f29f211465df39c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding) 让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "a370a1e7f1efaa87",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ea9cbc0f3c3538fe",
+          "style": "NORMAL_TEXT",
+          "text": "=============== 给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        },
+        {
+          "content_hash": "9224075240e76b47",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        },
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 943,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9b07bdc65c2dffa4",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu (我们作为学生一直在澄清，不管是树大招风，还是有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        },
+        {
+          "content_hash": "f5b83e94ac76fdb1",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有个和组内有矛盾的人在这里删我们的回复。涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。)"
+        },
+        {
+          "content_hash": "7ec5dad2ea76da7a",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人（不要用侮辱的词，大家都是做科研的，不能因为利益conflict就用这种词，应该摆事实讲道理）"
+        },
+        {
+          "content_hash": "fb582ddbc481a3a3",
+          "style": "NORMAL_TEXT",
+          "text": "这楼里真正的人格侮辱，恰恰就来自这种匿名谩骂本身。我这几年在美国见过不少分歧，但像这样靠侮辱、造谣、带节奏来发泄情绪的，反而只在这个帖子里见过。付老师本人一直很低调，学术声誉和影响力都很高，院士头衔多、关注度高，本来就容易树大招风；但树大招风不代表别人就可以随意造谣抹黑"
+        },
+        {
+          "content_hash": "c6c61de8fc5d3458",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）（不要给我们内部造谣了）"
+        },
+        {
+          "content_hash": "d7e78425f30384a7",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也经常有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。（<---- 吹啥牛逼呢，我前俩年面试的时候尼玛phd们自己说的毕业要求就是10篇，还说写一篇发一片会议还能改改发一个期刊）"
+        },
+        {
+          "content_hash": "cd4c11d1a3ed7fe2",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）（来了个yun fu的人，各种删减，各种不说人话，还说什么哭又说明什么？你自己什么东西你自己心里清楚）"
+        },
+        {
+          "content_hash": "9b5b5c4ca3db2819",
+          "style": "NORMAL_TEXT",
+          "text": "这个说法纯属添油加醋。组内毕业生和导师普遍保持长期联系，沟通和合作都很多。实验室这些年出了很多很强的去向，十几个以上AP只是其中一部分，不少人无论留美还是回国都发展很好。真要说事实，那就是这个组长期能把学生送到学术界和工业界很强的位置，而不是靠造谣定义。"
+        },
+        {
+          "content_hash": "e6d7a944fc5a033f",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house （洗地的时候抢尾作，创业让学生免费干活的事情是一点不提啊）"
+        },
+        {
+          "content_hash": "e1c2beaae2c6af6d",
+          "style": "NORMAL_TEXT",
+          "text": "实习方面绝对是良心组了。学生出去实习期间导师一般都暂停 regular meeting。导师对实习唯一要求就是希望做高质量、论文导向的研究实习，除此之外没有这些乱七八糟的东西。相反，老师一直非常鼓励学生去实习，很多同学毕业前都有3-4段 FAANG full-time intern 甚至更多 part-time 研究经历，工业界人脉和合作资源都非常强。"
+        },
+        {
+          "content_hash": "81080d7d8ce14e1a",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少 （你是新来neu的吧？稍微senior一点谁人不知？系里面老师有几个愿意和他合作的?）"
+        },
+        {
+          "content_hash": "d3dcdb295484520f",
+          "style": "NORMAL_TEXT",
+          "text": "这也不符合事实。导师招实习生一直很谨慎，这两年反而基本不怎么收，因为默认是按未来读博名额的标准去看。确实会有一两个新人实习生自己犯很严重的问题，但考虑到学生个人前途，组里都低调处理了，不会到处说，更不会故意毁人。把个别人的不适配说成“养蛊”，只能说明说这话的人自己心态有问题。"
+        },
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        },
+        {
+          "content_hash": "fb5e58ca82a85028",
+          "style": "NORMAL_TEXT",
+          "text": "我个人的实际体验并不是这样。导师对学生要求严格，这一点我承认；但“严格”和“辱骂威胁”不是一回事。导师说话不会超出professional的范围。科研训练本来就有压力，真正做出东西的人都知道，适当的紧迫感反而能避免无效内耗和 overthinking，也确实催生了很多不错的工作。"
+        },
+        {
+          "content_hash": "c4df6a221e082cb4",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）(请不要编造谣言了)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1265,
+      "paragraphs": [
+        {
+          "content_hash": "5aeec6caea2978f6",
+          "style": "NORMAL_TEXT",
+          "text": "名字呢？？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1793,
+      "at_to": 1805,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad35b61b5cd14200",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c09136cfd1c56c0",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2031,
+      "at_to": 2043,
+      "from_paragraphs": [
+        {
+          "content_hash": "93c00fe89bf6d338",
+          "style": "NORMAL_TEXT",
+          "text": " PHD 养鱼， 一个萝卜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bb712156dbb41236",
+          "style": "NORMAL_TEXT",
+          "text": " PHD 养鱼， 一个坑 20 个罗卜"
+        }
+      ]
+    }
+  ]
+}
