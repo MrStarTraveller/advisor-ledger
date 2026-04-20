@@ -1,0 +1,83 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-22-40Z",
+    "revision_id": "AMHacu7o99rAc8ERzc-K4nF3EtK2ticla1p4NZbWz_IL_4-wPGtt537GqDuabGgZDgKPnyxf7tzxpDV6S3uhPgc0yA",
+    "paragraph_count": 568
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-24-50Z",
+    "revision_id": "AMHacu4_VyWEvatHp2w0PbQmIHA8ejnsQFyxI0NJN2wl1v5xSjPUtbpok4bMfk1MB-7OakfCMWRac4xGd6cyqjA4cA",
+    "paragraph_count": 568
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 3,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0053,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 205,
+      "at_to": 205,
+      "from_paragraphs": [
+        {
+          "content_hash": "4faf3a1c3c1f61b4",
+          "style": "NORMAL_TEXT",
+          "text": "What is the mid training? (这是啥意思)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "696cc9fe7bf2bef8",
+          "style": "NORMAL_TEXT",
+          "text": "What is mid training"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 324,
+      "from_paragraphs": [
+        {
+          "content_hash": "4afebc5322197992",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "654559d59725046a",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 342,
+      "at_to": 342,
+      "from_paragraphs": [
+        {
+          "content_hash": "0c819a152fc80dc6",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a66f00bea236a222",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    }
+  ]
+}

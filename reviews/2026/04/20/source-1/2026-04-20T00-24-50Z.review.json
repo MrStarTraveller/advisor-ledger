@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-24-50Z.delta.json",
+  "delta_ts": "2026-04-20T00-24-50Z",
+  "reviewed_at_utc": "2026-04-20T00:25:24Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion includes unsupported character judgment attacking the commenter's social/academic tier and comprehension ('圈层不够理解有限'), implying they lack the standing to understand the professor's qualifications rather than addressing the factual claim about authorship.",
+      "excerpt": "（你应该是没找过教职，有什么误解，或者圈层不够理解有限）"
+    }
+  ],
+  "prompt_sha256": "ba80eee145adee5261ae73ad2f14e3ed527977d4c09fb6aeed6ce1e5fe90f862",
+  "finish_reason": "stop",
+  "completion_tokens": 2733
+}
