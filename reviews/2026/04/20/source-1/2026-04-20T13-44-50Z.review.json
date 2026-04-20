@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-44-50Z.delta.json",
+  "delta_ts": "2026-04-20T13-44-50Z",
+  "reviewed_at_utc": "2026-04-20T13:46:08Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains severe profanity and personal curses including '纯傻逼' (stupid moron) and '造谣的死全家' (death curse against family)",
+      "excerpt": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之"
+    }
+  ],
+  "prompt_sha256": "98d112b7600abef74f52f10ab22beea42b7bb4b98da0222f6a26d4e1ab4bdf7e",
+  "finish_reason": "stop",
+  "completion_tokens": 3390
+}
