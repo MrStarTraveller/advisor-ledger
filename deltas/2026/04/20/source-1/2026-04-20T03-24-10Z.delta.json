@@ -1,0 +1,197 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-22-00Z",
+    "revision_id": "AMHacu42QeopZcS-vGXJqFKgjkv_cQZfu5kYL7rZDN873RgiNbaHTfs8i0rMnUv3-oYMFSh5VgQv9mE6r1bq8gjSjQ",
+    "paragraph_count": 938
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-24-10Z",
+    "revision_id": "AMHacu674bOKrMf1-B1BXEWqHDoNSeH0YKOCmZ8fXQROs_8S-YIogJuX9VQNx-hFVxKME1SAUZajuTtZVQr1tKmpww",
+    "paragraph_count": 940
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0085,
+    "insertion_ratio": 0.0106
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7321c3d49683816",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥d）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "0345ae28a9b1dd5c",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(客观评价一下，不说vandy可能和她phd老板有关,她老板也"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2569940971ffcd34",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(客观评价一下，不说vandy可能和她phd老板有关,她老板是很push的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 39,
+      "at_to": 39,
+      "from_paragraphs": [
+        {
+          "content_hash": "96daaac7c05579f3",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好，资源充足，对学生也很关心supportive，实在不知道“toxic”到底是哪里的空穴来风)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e3b1e3c8f0e41e55",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好，资源充足，对学生也很关心supportive，实在不知道“toxic”到底是哪里的空穴来风，建议停止尬黑，有问题问问现在的学生自然得证)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 84,
+      "at_to": 84,
+      "from_paragraphs": [
+        {
+          "content_hash": "7817bc82c81c73dc",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗) （部分邮件截图如下）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b00ae1aac76c838f",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗)（不懂就问，都有这种邮件留档了为什么他还能活的好好的…太炸裂了） （部分邮件截图如下）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 102,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 565,
+      "at_to": 566,
+      "from_paragraphs": [
+        {
+          "content_hash": "9128d9ac23307f7d",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团（）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ec389d3cd7e8135",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 570,
+      "paragraphs": [
+        {
+          "content_hash": "265b1e1a9001dc15",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，大部分是之前没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 578,
+      "at_to": 580,
+      "from_paragraphs": [
+        {
+          "content_hash": "00718eb2d7af2561",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）"
+        },
+        {
+          "content_hash": "1ee23595db33081d",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0bf8fb46baab0f08",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 801,
+      "at_to": 802,
+      "from_paragraphs": [
+        {
+          "content_hash": "f85313f481394162",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio力x"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "846b5b18ce6fe5b6",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio里写升学辅导，这钱也要赚？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 913,
+      "paragraphs": [
+        {
+          "content_hash": "4749f831d5033629",
+          "style": "NORMAL_TEXT",
+          "text": "https://www.zhihu.com/question/2022448870198649984"
+        }
+      ]
+    }
+  ]
+}
