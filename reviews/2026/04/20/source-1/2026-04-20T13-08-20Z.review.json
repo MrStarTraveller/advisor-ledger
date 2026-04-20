@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-08-20Z.delta.json",
+  "delta_ts": "2026-04-20T13-08-20Z",
+  "reviewed_at_utc": "2026-04-20T13:08:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added unsupported character judgment labeling an academic as 'chief of villains' (几大恶人之首), which is a pure insult rather than criticism of concrete advising practices",
+      "excerpt": "知乎评“cuhk几大恶人之首”"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted specific allegation of physical misconduct (hitting students) that appears to be a substantive observation about an advisor's behavior, not cleanup",
+      "excerpt": "在悉尼UTS打过组里男生屁股"
+    }
+  ],
+  "prompt_sha256": "051c26f12ea35ded9e81ef876a29ad99496e0eb322a88d527542a85b596854de",
+  "finish_reason": "stop",
+  "completion_tokens": 2651
+}

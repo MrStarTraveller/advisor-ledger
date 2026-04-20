@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-08-20Z",
+  "reviewed_at_utc": "2026-04-20T13:09:11Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 4,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "937d4a5de001c800",
+      "insert_hash": "ff1231a22bc15eab",
+      "note": "Fix capitalization bai→Bai",
+      "ghost_text": "bai姓postdoc避雷，喜欢各种connect人当intern，去尝试她的project的不同方向，然后发paper带名字只带最后work的那个方向的人，其他intern甚至都没有在论文里被acknowledge的资格。",
+      "insert_text": "Bai姓postdoc避雷，喜欢各种connect人当intern，去尝试她的project的不同方向，然后发paper带名字只带最后work的那个方向的人，其他intern甚至都没有在论文里被acknowledge的资格。"
+    },
+    {
+      "ghost_hash": "bca468fd287807f8",
+      "insert_hash": "8308aebaaf8c581f",
+      "note": "Reword Zhihu sentence ending",
+      "ghost_text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。之前知乎",
+      "insert_text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。知乎评“cuhk几大恶人之首”。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2956,
+  "skipped_reason": null
+}
