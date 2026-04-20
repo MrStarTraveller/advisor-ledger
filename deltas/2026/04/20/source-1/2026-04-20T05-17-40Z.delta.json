@@ -1,0 +1,237 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-13-20Z",
+    "revision_id": "AMHacu5XEw0QaNA4wtC022Kh7uX3Vx6Hx_biEqW4IOnR182b24aiSkbj4AL7Oh00uDzVZFMn7EzstoMgEJ-EW8G9YQ",
+    "paragraph_count": 1134
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-17-40Z",
+    "revision_id": "AMHacu4oeusYnsSDtv0eWeOSoqValXoxYOKriziDHYjmAhuxsCS8BpJ2I0DnbTOLGjaIRs9wZSeECxWWviwO38KBbg",
+    "paragraph_count": 1133
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 12,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0106,
+    "insertion_ratio": 0.0097
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 31,
+      "at_to": 31,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "665af0b5c61ab90c",
+          "style": "NORMAL_TEXT",
+          "text": "帮忙按照字体大小（笑死，人才啊）复原了，不用谢哦 ( 笑死我了）（不过确定是他吗？）（就那几个用中文的老师，就他喜欢告人，就他没被人维护，你猜为什么）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 114,
+      "at_to": 114,
+      "from_paragraphs": [
+        {
+          "content_hash": "ebf5d08133420598",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说某些其他领域顶会=arxiv"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "993737650a9e2e96",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说某些其他领域顶会=arxiv （666）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 545,
+      "paragraphs": [
+        {
+          "content_hash": "290bdb1fe13a5557",
+          "style": "NORMAL_TEXT",
+          "text": "phd期间，收到此人微信，非要我bid他paper，给高分，我实在做不到"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 553,
+      "at_to": 554,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b384d3951d21e0a",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也shou'bu'liao）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b9f1af2e605d922",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也受不了了，当然这个是听说的）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 566,
+      "paragraphs": [
+        {
+          "content_hash": "a591517e6c34f1a0",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 675,
+      "at_to": 675,
+      "from_paragraphs": [
+        {
+          "content_hash": "12c1d182af590e58",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的，怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2a9d781f7069891a",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 782,
+      "at_to": 782,
+      "from_paragraphs": [
+        {
+          "content_hash": "90f70cfebca912f3",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起把这个男生举报了，举报理由之一是他质疑科研中的女性力量，因为Efros太大佬对男生影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种dra）ma"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "08e2cdb76df272fc",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起举报到男生的老板那里，举报理由之一是他质疑科研中的女性力量，因为Efros大佬所以影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种drama）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 784,
+      "at_to": 784,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b621f20d99f93df6",
+          "style": "NORMAL_TEXT",
+          "text": " 无法复现"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0beb7f2f7df46f55",
+          "style": "NORMAL_TEXT",
+          "text": "无法复现"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 805,
+      "paragraphs": [
+        {
+          "content_hash": "9ba21c41befb28ba",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 813,
+      "paragraphs": [
+        {
+          "content_hash": "ea1500616112678d",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT Hao Wang"
+        },
+        {
+          "content_hash": "37bfda97d1eb0b61",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是他在uoft TA时候认识的本科生，读书时候想和组里女生发展关系，不成或者分手以后就背后暗戳戳搞别人，不止一次了，详见下面uoft baochun li，上梁不正下梁歪"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 868,
+      "at_to": 867,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef08efe546aa921b",
+          "style": "NORMAL_TEXT",
+          "text": "天天因为dating app被人挂。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 919,
+      "at_to": 918,
+      "from_paragraphs": [
+        {
+          "content_hash": "17ea5cf435fe6f0e",
+          "style": "NORMAL_TEXT",
+          "text": "（听毕业的师兄说）他技术一窍不通。。。还喜欢微操"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e95d5b06d7633f0b",
+          "style": "NORMAL_TEXT",
+          "text": "他技术一窍不通。。。还喜欢微操"
+        }
+      ]
+    }
+  ]
+}
