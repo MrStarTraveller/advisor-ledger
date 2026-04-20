@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T16-31-00Z",
+  "reviewed_at_utc": "2026-04-20T16:32:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "755c96d73bd19661",
+      "insert_hash": "f3d66485b72183e8",
+      "note": "punctuation fix and added clarification",
+      "ghost_text": "你会不会英语啊，alumni指的是yiwei合作过的学生，不是他自己的学生",
+      "insert_text": "你会不会英语？alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM）"
+    },
+    {
+      "ghost_hash": "3d453b222d213828",
+      "insert_hash": "f09faa17dd7a84e1",
+      "note": "completed cut-off sentence and expanded",
+      "ghost_text": "另外我是他某一个黑推谣言当事人的朋友，朋友说他“可能给了黑推”的理由是，他被某学校拒了以后，chuanggei",
+      "insert_text": "另外我是他某一个黑推谣言当事人的朋友，朋友说chuang“可能给了黑推”的理由是，他被某学校拒了以后，chuang给我朋友说“收到黑推了所以被拒”，然后朋友认为按规定chuang只能知道自己推荐信，所以黑推有概率是chuang自己写的。他申请学校这三封推荐信有黑推这件事没实锤，黑推来自chuang这件事也没实锤，到最后传出去就成他被chuang写了黑推了。"
+    },
+    {
+      "ghost_hash": "5caea8354e9ec033",
+      "insert_hash": "c8bb050537e5feaf",
+      "note": "minor addition at end",
+      "ghost_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）",
+      "insert_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）(seminar 课b"
+    },
+    {
+      "ghost_hash": "4a62102f6809c2ec",
+      "insert_hash": "0b006a8240a11b30",
+      "note": "added rebuttal at end",
+      "ghost_text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊",
+      "insert_text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊 你管我去哪了不管申请结果好坏都可以评价mentor，申的不好就不让说了？况且我没说我是intern啊？"
+    },
+    {
+      "ghost_hash": "43758a0000cdf8b7",
+      "insert_hash": "d1b35c6334b076e8",
+      "note": "removed trailing phrase",
+      "ghost_text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从atlas那里继承过来，简直就是小号atlas，当年",
+      "insert_text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从atlas那里继承过来，简直就是小号atlas"
+    },
+    {
+      "ghost_hash": "dddac90bcac437ab",
+      "insert_hash": "c0a4a2fe67700a66",
+      "note": "added parenthetical comments at end",
+      "ghost_text": "（其实大家应该只好奇下面的事情有没有真实发生过吧...）(造谣和歪曲事实者自己心里清楚，知情的人表示很难理解)",
+      "insert_text": "（其实大家应该只好奇下面的事情有没有真实发生过吧...）(造谣和歪曲事实者自己心里清楚，知情的人表示很难理解) (蹲真相) (想吃他们俩的瓜）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3733,
+  "skipped_reason": null
+}

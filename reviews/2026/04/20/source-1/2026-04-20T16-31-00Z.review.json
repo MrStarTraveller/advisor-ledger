@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-31-00Z.delta.json",
+  "delta_ts": "2026-04-20T16-31-00Z",
+  "reviewed_at_utc": "2026-04-20T16:31:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive allegations about advisor Chao Huang regarding academic integrity (purchasing Github stars) and student interactions (threatening critics via Xiaohongshu private messages, deleting comments), replacing them with a softened rebuttal. This appears to suppress legitimate observations about the advisor's conduct rather than perform cleanup (typos, blanks, off-topic content).",
+      "excerpt": "买Github stars的事情能不能解释一下？ 删评论算什么本事？ 敢做不敢当是吧，之前还小红书私信威胁别人质疑，别人质疑你就删评论堵嘴。敢不敢正面回应？"
+    }
+  ],
+  "prompt_sha256": "674df1a02ee787dc51a311c03d497df630dc3e7d41dac33bccdd7b2a89b675c7",
+  "finish_reason": "stop",
+  "completion_tokens": 4249
+}
