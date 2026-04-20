@@ -1,0 +1,177 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-32-11Z",
+    "revision_id": "AMHacu5cX-JB9t5lhR_ilgefiDF0YDOtjT1GUReJYoe4zlkWUlQmr9qHcgwnso_ZcKENo4vJ0kBojokoSH_SLEKesQ",
+    "paragraph_count": 1101
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-36-13Z",
+    "revision_id": "AMHacu5N1AN3H9mjqeT4LI1buYP1wrO1_cIvSIzgxlr-3gVvTrU3AiD_QUALmo_WAfD9WcI7b_sWA5AEsWwZAZfCLA",
+    "paragraph_count": 1102
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 8,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0073,
+    "insertion_ratio": 0.0082
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 86,
+      "at_to": 86,
+      "from_paragraphs": [
+        {
+          "content_hash": "0bfaaeec51dea0a1",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(sun'ge)并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0730f5f8dddb6515",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））)并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 88,
+      "at_to": 88,
+      "from_paragraphs": [
+        {
+          "content_hash": "27f0a16e2aa20356",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（ji人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        },
+        {
+          "content_hash": "9bc4bd8b9407239d",
+          "style": "NORMAL_TEXT",
+          "text": "你孙哥天天在外面拉人灌水survey，这百八十个合作者被你一句外人瞎逼逼直接不作数了呗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dd28fc5941b54d1b",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        },
+        {
+          "content_hash": "c60e0db21a030c1f",
+          "style": "NORMAL_TEXT",
+          "text": "你孙哥天天在外面拉人灌水survey，这百八十个合作者被你一句外人瞎逼逼直接不作数了呗（+10086）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 171,
+      "at_to": 171,
+      "from_paragraphs": [
+        {
+          "content_hash": "369fdb3f72781c12",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b331bf080e47886e",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三 （把学生都推去小三的公司打工）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 286,
+      "paragraphs": [
+        {
+          "content_hash": "6af809612a8e7e40",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Hao Su老师的PhD student，据我所知没有任何人被卡毕业，请留言者指出具体证据"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 327,
+      "at_to": 327,
+      "from_paragraphs": [
+        {
+          "content_hash": "156bed2c887074a6",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？）(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce410db38349ea79",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 807,
+      "at_to": 807,
+      "from_paragraphs": [
+        {
+          "content_hash": "de87b32b41924891",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a21df9ddb16cca16",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强🤣太幽默了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 821,
+      "paragraphs": [
+        {
+          "content_hash": "8220cf29a2f38694",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 848,
+      "at_to": 849,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "85da31140907a88e",
+          "style": "NORMAL_TEXT",
+          "text": "学生据说全跑了"
+        }
+      ]
+    }
+  ]
+}
