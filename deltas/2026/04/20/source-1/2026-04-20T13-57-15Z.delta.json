@@ -1,0 +1,371 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-44-50Z",
+    "revision_id": "AMHacu4sacVBJNPrEZGZw305XTylbX0mnvym2k6T6SYEGXywtxWeAxrUaihlJk6qJe5QCoHSeWND5DLa-E7uj33jMQ",
+    "paragraph_count": 1897
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-57-15Z",
+    "revision_id": "AMHacu5sroysR2Tfmj8Ipal7J_Y4qgk4z9Oc-XDoOGY4hJZ_05ZgQW_6evlSlpJQgjhftDNNpjt1Edz5ljVclxMtWw",
+    "paragraph_count": 1904
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 16,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0084,
+    "insertion_ratio": 0.0121
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 117,
+      "at_to": 117,
+      "from_paragraphs": [
+        {
+          "content_hash": "1794fa76d98f1c3f",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398 Gu教授是这里的ML大佬，把合作者逼疯了 （不是说andrewng吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "807f8e21d168917f",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 360,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "7a74d219854fd869",
+          "style": "NORMAL_TEXT",
+          "text": "这个更多是postdoc的问题，当事人ljl已经加入国内某网红startup"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54a7be6d821fc5f4",
+          "style": "NORMAL_TEXT",
+          "text": "这个更多是postdoc的问题，当事人ljl已经加入国内某网红startup (罗建兰？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 368,
+      "at_to": 368,
+      "from_paragraphs": [
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b5c9d02aa326b93c",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生 (听闻早年确实push，现在组里好像佛系)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 373,
+      "from_paragraphs": [
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "df9d3a93dfffe9b8",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）(看他组里phd都混的还挺好的)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 380,
+      "paragraphs": [
+        {
+          "content_hash": "d408bd49d058a00a",
+          "style": "NORMAL_TEXT",
+          "text": "微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 434,
+      "at_to": 433,
+      "from_paragraphs": [
+        {
+          "content_hash": "4087826ebdd68189",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很轻易d"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f859b4d02def86b",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很轻易qian'z"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 551,
+      "paragraphs": [
+        {
+          "content_hash": "429d0ef13a49527b",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？ (点赞)被ucb取消offer 还有这事，那stf为啥不取消？ stf on hold 了，但后来北大没作为，因此又给offer了北大也是离谱"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 583,
+      "at_to": 581,
+      "from_paragraphs": [
+        {
+          "content_hash": "ecb2de2504a1a5e1",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁草，原来耿哥拿我们的钱给你付房租去了)666"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9cdcde996ec30a00",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有呢，他这事之后做的paper，也禁不起查"
+        },
+        {
+          "content_hash": "c999d0e38b35858c",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 586,
+      "paragraphs": [
+        {
+          "content_hash": "a435367493bf08f9",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷"
+        },
+        {
+          "content_hash": "3bb9b913390749cd",
+          "style": "NORMAL_TEXT",
+          "text": "（忠告！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 593,
+      "at_to": 594,
+      "from_paragraphs": [
+        {
+          "content_hash": "92845f147603d45d",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6460c93ea3a76044",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了？reborn agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 816,
+      "at_to": 817,
+      "from_paragraphs": [
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "567ca90dc198b7a8",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1169,
+      "at_to": 1170,
+      "from_paragraphs": [
+        {
+          "content_hash": "def59a79bbef17ab",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生（求细嗦）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a8824e40ee338b4e",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生（求细嗦）(来点证据，)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1603,
+      "at_to": 1604,
+      "from_paragraphs": [
+        {
+          "content_hash": "65fa80bb895f64bc",
+          "style": "NORMAL_TEXT",
+          "text": "MBZUAI Lijie Hu（一人血书，能不能把lijie从黑榜删了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "807abf2b35980944",
+          "style": "NORMAL_TEXT",
+          "text": "MBZUAI Lijie Hu（一人血书，能不能把lijie从黑榜删了，容易误导其他同学）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1622,
+      "at_to": 1623,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "314075bac6c91812",
+          "style": "NORMAL_TEXT",
+          "text": "合作很久，线下见过Hu，说话很温柔的'小'女生，线上（论文工作组群聊）线下沟通下来，pua确实不知道是从何而来。黑推这个，大家都知道推荐系统是看不到推荐信的，那么大概率是你在已知老师给你写了推荐信的情况下被committee主导的学校筛掉了才说的这个，我觉得Hu不会也没必要这么干。Push这个就有点扯了，我知道他们组逢年过节（中国节日）都是放假的，群里大家也是请假正常说一声就好，会议ddl赶不上就延就是，她本人来参加paper会议的时候也是很温柔的形象，线上和线下没有区别。黑工你是怎么定义的我不知道，visiting的话工资应该全球竞争最高薪资都可以吧（笑哭），线上intern计算资源啥的也是都没见缺。总结一下，在我看来Hu作为一名Phd毕业不到一年的新ap，组里目前只有一名第一届phd学生的情况下，已经做的挺好了。而且我看组里的同学的朋友圈都很开心，会议结束了还自己组织了烧烤和火锅，还有一个同学经常旅游小红书也发旅游攻略。用流行话来说就是精神状态很好，是不可多得的phd学生的精神状态，就这样的组内氛围，怎么可能会有pua？（第一届另外一名据我所知当时接了其他offer没有去，而且就这个事情Hu也是没有负面情绪的，我觉得这对于一个新ap来说已经足够证明她在性格这块是不会符合相关负面评价的。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1674,
+      "at_to": 1675,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ef81a67f99a25f6",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2517555a581b7078",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1687,
+      "at_to": 1688,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f1c8e492d5dd227",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "679a7263439bb553",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1724,
+      "at_to": 1725,
+      "from_paragraphs": [
+        {
+          "content_hash": "77366606d7a3dbf6",
+          "style": "NORMAL_TEXT",
+          "text": "听说搞婚外情？有无懂的CN"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fc661d87986eaa5b",
+          "style": "NORMAL_TEXT",
+          "text": "听说搞婚外情？有无懂的CN\u000b\u000bCN"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1863,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a74054fcef28d891",
+          "style": "NORMAL_TEXT",
+          "text": "SEU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

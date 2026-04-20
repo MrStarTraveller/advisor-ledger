@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-57-15Z.delta.json",
+  "delta_ts": "2026-04-20T13-57-15Z",
+  "reviewed_at_utc": "2026-04-20T13:58:01Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Adding full name guess for private individual (student/postdoc) based on initials",
+      "excerpt": "(罗建兰？)"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifying specific student by initials and academic transfer details",
+      "excerpt": "cmh去pennState"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive allegations regarding advisor's sexual harassment conduct and inappropriate messages to students",
+      "excerpt": "微信发私信给女生“你有没有过一夜情？”"
+    }
+  ],
+  "prompt_sha256": "0ecf0cda524768d3795645fa055ee5f1150b5981f34d7b6288b1ffc55468d8b1",
+  "finish_reason": "stop",
+  "completion_tokens": 4839
+}
