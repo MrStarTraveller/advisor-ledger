@@ -1,0 +1,129 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-50-19Z",
+    "revision_id": "AMHacu7He4OHbehTxM4NB1Mxp-tlsugPeuKtauJkZ3qRuMbCIZIIZaSROho40bPBhS4LvDwLXaPeqxeoCRXD9eOp7A",
+    "paragraph_count": 1330
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-52-30Z",
+    "revision_id": "AMHacu6FM9eTrtkf0rlZw4Y6gkWShrxmOkYfkADiDdglwBOPEovsB9kKDbKKw4TboXpUR6Az3yZo2mnb6zJzTIy0Jw",
+    "paragraph_count": 1333
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 4,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.003,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 357,
+      "at_to": 357,
+      "from_paragraphs": [
+        {
+          "content_hash": "d9df567bbf16a0b2",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却捏造篡改背后原因，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a9b41e5f9e4fdc4",
+          "style": "NORMAL_TEXT",
+          "text": "上面负面评价有混淆视听嫌疑，摆出似是而非的表面事实却捏造篡改背后原因，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 363,
+      "at_to": 363,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c948b9dc5a48b45",
+          "style": "NORMAL_TEXT",
+          "text": "(猜出来在编辑的是谁了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 453,
+      "paragraphs": [
+        {
+          "content_hash": "34e6b6a6acca5280",
+          "style": "NORMAL_TEXT",
+          "text": "认识过几个相关人读她phd，从博士开始到quit整个人跟变了一样。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 469,
+      "paragraphs": [
+        {
+          "content_hash": "b574db8397db989d",
+          "style": "NORMAL_TEXT",
+          "text": "知道一些内幕，zhi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 899,
+      "at_to": 901,
+      "from_paragraphs": [
+        {
+          "content_hash": "258598b16433d620",
+          "style": "NORMAL_TEXT",
+          "text": "神人一个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92847dc4ec23bde5",
+          "style": "NORMAL_TEXT",
+          "text": "神人一个 （赞同！！！）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1160,
+      "at_to": 1163,
+      "from_paragraphs": [
+        {
+          "content_hash": "25c33fcc83ee8a82",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86d79262f6290cd1",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anth"
+        }
+      ]
+    }
+  ]
+}
