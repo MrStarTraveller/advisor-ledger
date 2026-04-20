@@ -1,0 +1,90 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-39-22Z",
+  "reviewed_at_utc": "2026-04-20T10:41:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 11,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "60ebcd5805cf8c28",
+      "insert_hash": "829fdfb3f280a3ac",
+      "note": "added note on Jitendra rec letters",
+      "ghost_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）",
+      "insert_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)"
+    },
+    {
+      "ghost_hash": "a0bc4d2b38bdeeb1",
+      "insert_hash": "1d5225009d3ab12d",
+      "note": "added comment about rent debt",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? Reborn agi?",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? Reborn agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+    },
+    {
+      "ghost_hash": "9a2a006753d69d56",
+      "insert_hash": "e8d506aacf31344b",
+      "note": "added rebuttal on lab resources",
+      "ghost_text": "组里又穷又没资源",
+      "insert_text": "组里又穷又没资源 (Koushil资源ME做robotics的教授里面数一数二吧)"
+    },
+    {
+      "ghost_hash": "bd4aeff5d93d6f0f",
+      "insert_hash": "1ee315e663b2c029",
+      "note": "added note on new PhD quality",
+      "ghost_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)",
+      "insert_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+    },
+    {
+      "ghost_hash": "b79ff4ebaaed4916",
+      "insert_hash": "176e72ba653a11c7",
+      "note": "added 'you' at end",
+      "ghost_text": "老师的水平还不如组内phd和部分master",
+      "insert_text": "老师的水平还不如组内phd和部分master(你)"
+    },
+    {
+      "ghost_hash": "4a4c04f5bbca7ddd",
+      "insert_hash": "0514c23a683466e9",
+      "note": "added defense of couple shop",
+      "ghost_text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）",
+      "insert_text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）"
+    },
+    {
+      "ghost_hash": "4614dd806c467cd6",
+      "insert_hash": "15dac24b37240ff8",
+      "note": "added minor text at end",
+      "ghost_text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了",
+      "insert_text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（ge m）（）"
+    },
+    {
+      "ghost_hash": "7b70732ec8d75fc4",
+      "insert_hash": "21996038250370b2",
+      "note": "added rebuttal on ICLR scores",
+      "ghost_text": "ICLR投稿无数篇，榜上有名，且全是低分",
+      "insert_text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+    },
+    {
+      "ghost_hash": "0647b5ff8dca84e6",
+      "insert_hash": "7146c21da1ef8f45",
+      "note": "added rebuttal on networking",
+      "ghost_text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换",
+      "insert_text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+    },
+    {
+      "ghost_hash": "c9d7e21785e56e28",
+      "insert_hash": "f6eb5dcaacc796a1",
+      "note": "added clarification on letters",
+      "ghost_text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）",
+      "insert_text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生字就写的，你自己活做的怎么样心里有点数）"
+    },
+    {
+      "ghost_hash": "a3b6e7212e90cc32",
+      "insert_hash": "18f71bb6b08a8c11",
+      "note": "expanded pinyin note to Chinese",
+      "ghost_text": "至今没有PhD入学的学生？(shuo zhe ju hua)",
+      "insert_text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3802,
+  "skipped_reason": null
+}

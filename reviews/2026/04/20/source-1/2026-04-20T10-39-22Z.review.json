@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-39-22Z.delta.json",
+  "delta_ts": "2026-04-20T10-39-22Z",
+  "reviewed_at_utc": "2026-04-20T10:41:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains profanity ('草') and makes an unsupported personal attack regarding financial disputes rather than addressing advising practices",
+      "excerpt": "(草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult suggesting the critic needs parents, which is a pure ad hominem attack unrelated to academic advising",
+      "excerpt": "要不要给你找个爹妈"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Dismissive personal attack calling the critic a 'troll' (乐子) rather than addressing the substantive observation about PhD admissions",
+      "excerpt": "纯乐子"
+    }
+  ],
+  "prompt_sha256": "a5b1e693253d07d9ccb409ce6d2fc9c21d5eefa0909d37e0ec6d4c755da582fc",
+  "finish_reason": "stop",
+  "completion_tokens": 4025
+}
