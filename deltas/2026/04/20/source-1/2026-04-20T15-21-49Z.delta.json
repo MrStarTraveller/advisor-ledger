@@ -1,0 +1,256 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-19-40Z",
+    "revision_id": "AMHacu7VfCrHUCy6CFikXE2GdrxJaC3_tHbt9uC5p-LWpNZAFU4jR-kQgfRG7_i2BrSZiS2hv3k3eehG1kOVU33gyw",
+    "paragraph_count": 2045
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-21-49Z",
+    "revision_id": "AMHacu6LU6xy64Jhe0AjgxKTGcsTft386-ixQgZBJkknykiR8aFrBBKB8i51yQ3Rox1Xnn47xLc1aLWo-wOPtazlwg",
+    "paragraph_count": 2047
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 13,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0064,
+    "insertion_ratio": 0.0073
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 369,
+      "at_to": 369,
+      "from_paragraphs": [
+        {
+          "content_hash": "d9d297bd798c37a0",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(非本组PhD: 前面这位恶意也忒大了......这么大个学术圈竟然能被高达6个人的组污染2333，骗别人可以，别把自己骗了)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "31eaac7678f7ddac",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(这么大个学术圈竟然能被高达6个人的组污染吗2333)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 428,
+      "at_to": 428,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb306a261d8ec13a",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b151993900d2141",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，找实习啥的他也帮忙。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 446,
+      "at_to": 447,
+      "from_paragraphs": [
+        {
+          "content_hash": "ca59388e1a531100",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课划划水）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 451,
+      "at_to": 452,
+      "from_paragraphs": [
+        {
+          "content_hash": "a697d73a8140f8a9",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，幼稚如小学生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90d3969efb1ac400",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（纯造谣。。还把）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 525,
+      "at_to": 526,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b4d023eb02dad5e",
+          "style": "NORMAL_TEXT",
+          "text": "朱门酒肉臭，路有冻死骨"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 622,
+      "at_to": 623,
+      "from_paragraphs": [
+        {
+          "content_hash": "742ac04b5e0c0252",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就看着某人写了上面这么长一段，zai'ci"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d2b0c12d59cebf6a",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有咩用可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断。wo kan是多个人写的，只不过后来被删"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 882,
+      "at_to": 883,
+      "from_paragraphs": [
+        {
+          "content_hash": "6048216805540b82",
+          "style": "NORMAL_TEXT",
+          "text": "根据自己以及身边人和丁老师的接触，丁老师是个非常"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a44b74a41f427d82",
+          "style": "NORMAL_TEXT",
+          "text": "根据自己以及身边人和丁老师的接触，丁老师是个非常非常nice的老师，请不要人生攻击，请客观评价"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1837,
+      "at_to": 1838,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f8a88d601a000e2",
+          "style": "NORMAL_TEXT",
+          "text": "ＮＴＵ　　ｘｉｅｍｉｎｇ"
+        },
+        {
+          "content_hash": "4cf9b8f38f2a04f6",
+          "style": "NORMAL_TEXT",
+          "text": "－　ＭＡＥ　老牌傻逼教师之一。"
+        },
+        {
+          "content_hash": "6c363114f9ba4ea7",
+          "style": "NORMAL_TEXT",
+          "text": "－　平时不搞学术　天天搞真善美的佛学"
+        },
+        {
+          "content_hash": "92ffe9e7ae0dfbd7",
+          "style": "NORMAL_TEXT",
+          "text": "－　https://personal.ntu.edu.sg/mmxie/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5fce448e794d9a98",
+          "style": "NORMAL_TEXT",
+          "text": "ＮＴＵ Xie Ming"
+        },
+        {
+          "content_hash": "6b301f64d2ea642b",
+          "style": "NORMAL_TEXT",
+          "text": "ＭＡＥ　老牌傻逼教师之一。"
+        },
+        {
+          "content_hash": "b03f2f570ab0eb21",
+          "style": "NORMAL_TEXT",
+          "text": "平时不搞学术　天天搞真善美的佛学"
+        },
+        {
+          "content_hash": "eef397325fe7a513",
+          "style": "NORMAL_TEXT",
+          "text": "https://personal.ntu.edu.sg/mmxie/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1924,
+      "at_to": 1926,
+      "from_paragraphs": [
+        {
+          "content_hash": "13c60743d4133a96",
+          "style": "NORMAL_TEXT",
+          "text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54a0aa658a900126",
+          "style": "NORMAL_TEXT",
+          "text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了，学生出去都不好意思讲自己做的这个能干嘛，再说你是网安的啊，你搞PUF这种硬件安全我还能说你是占了“安全”两个字，你搞DFT是干嘛的，本科"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1927,
+      "at_to": 1929,
+      "from_paragraphs": [
+        {
+          "content_hash": "8455d497431a65be",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？毕业之前还求人家干活呢，你不会忘了自己还偷自己"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "086234e93f4651c4",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-21-49Z.delta.json",
+  "delta_ts": "2026-04-20T15-21-49Z",
+  "reviewed_at_utc": "2026-04-20T15:22:50Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added text attacks the integrity of other editors with accusations of dishonesty ('whitewashing'), lacking conscience, and fabricating rumors, rather than addressing the advising practices in question.",
+      "excerpt": "别在这洗了，摸着自己良心说话...你这谣造的"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a classical poetic reference metaphorically criticizing resource inequality between the advisor and students, which constitutes substantive commentary on advising practices rather than cleanup.",
+      "excerpt": "朱门酒肉臭，路有冻死骨"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a counter-perspective that dismissed the complaint about PhD workload as acceptable ('just slacking off'), suppressing legitimate dissent on the specific advising practice described.",
+      "excerpt": "（这还好吧，上课划划水）"
+    }
+  ],
+  "prompt_sha256": "d438b7c05d3f3fd3a1df9160c4b5a2c39fa09e33583697c9b6e5b20748f30ea0",
+  "finish_reason": "stop",
+  "completion_tokens": 5680
+}

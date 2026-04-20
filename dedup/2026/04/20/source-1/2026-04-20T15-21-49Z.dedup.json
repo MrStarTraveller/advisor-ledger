@@ -1,0 +1,83 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T15-21-49Z",
+  "reviewed_at_utc": "2026-04-20T15:23:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 13,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "d9d297bd798c37a0",
+      "insert_hash": "31eaac7678f7ddac",
+      "note": "Edited parenthetical comments",
+      "ghost_text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(非本组PhD: 前面这位恶意也忒大了......这么大个学术圈竟然能被高达6个人的组污染2333，骗别人可以，别把自己骗了)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）",
+      "insert_text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(这么大个学术圈竟然能被高达6个人的组污染吗2333)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+    },
+    {
+      "ghost_hash": "eb306a261d8ec13a",
+      "insert_hash": "1b151993900d2141",
+      "note": "Added internship help detail",
+      "ghost_text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，",
+      "insert_text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，找实习啥的他也帮忙。"
+    },
+    {
+      "ghost_hash": "ca59388e1a531100",
+      "insert_hash": "5caea8354e9ec033",
+      "note": "Removed parenthetical remark",
+      "ghost_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课划划水）",
+      "insert_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+    },
+    {
+      "ghost_hash": "6048216805540b82",
+      "insert_hash": "a44b74a41f427d82",
+      "note": "Completed truncated sentence",
+      "ghost_text": "根据自己以及身边人和丁老师的接触，丁老师是个非常",
+      "insert_text": "根据自己以及身边人和丁老师的接触，丁老师是个非常非常nice的老师，请不要人生攻击，请客观评价"
+    },
+    {
+      "ghost_hash": "5f8a88d601a000e2",
+      "insert_hash": "5fce448e794d9a98",
+      "note": "Fixed name formatting",
+      "ghost_text": "ＮＴＵ　　ｘｉｅｍｉｎｇ",
+      "insert_text": "ＮＴＵ Xie Ming"
+    },
+    {
+      "ghost_hash": "4cf9b8f38f2a04f6",
+      "insert_hash": "6b301f64d2ea642b",
+      "note": "Removed bullet dash",
+      "ghost_text": "－　ＭＡＥ　老牌傻逼教师之一。",
+      "insert_text": "ＭＡＥ　老牌傻逼教师之一。"
+    },
+    {
+      "ghost_hash": "6c363114f9ba4ea7",
+      "insert_hash": "b03f2f570ab0eb21",
+      "note": "Removed bullet dash",
+      "ghost_text": "－　平时不搞学术　天天搞真善美的佛学",
+      "insert_text": "平时不搞学术　天天搞真善美的佛学"
+    },
+    {
+      "ghost_hash": "92ffe9e7ae0dfbd7",
+      "insert_hash": "eef397325fe7a513",
+      "note": "Removed bullet dash",
+      "ghost_text": "－　https://personal.ntu.edu.sg/mmxie/",
+      "insert_text": "https://personal.ntu.edu.sg/mmxie/"
+    },
+    {
+      "ghost_hash": "13c60743d4133a96",
+      "insert_hash": "54a0aa658a900126",
+      "note": "Extended criticism details",
+      "ghost_text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了",
+      "insert_text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了，学生出去都不好意思讲自己做的这个能干嘛，再说你是网安的啊，你搞PUF这种硬件安全我还能说你是占了“安全”两个字，你搞DFT是干嘛的，本科"
+    },
+    {
+      "ghost_hash": "8455d497431a65be",
+      "insert_hash": "086234e93f4651c4",
+      "note": "Added rhetorical question",
+      "ghost_text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？毕业之前还求人家干活呢，你不会忘了自己还偷自己",
+      "insert_text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5898,
+  "skipped_reason": null
+}
