@@ -1,0 +1,356 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-16-03Z",
+    "revision_id": "AMHacu6p7nwmiwvMN2ATXdw60RKyQrBvzrWT1WCU2ZLMf3euDmtg7OwPqyiwOJNFvDDe6dm87H8MWBiohZ0aLJqh6A",
+    "paragraph_count": 1368
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-20-30Z",
+    "revision_id": "AMHacu490eQe_vZA3-E8wPmqLRecJNRlNjsr44quavlE8dq14RiOuRA6Uuh9Jeaxn0yySTpD35bul7bE_e9NgYHrSQ",
+    "paragraph_count": 1364
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 23,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0168,
+    "insertion_ratio": 0.0139
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 48,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "654ca1615e69a767",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，be"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 53,
+      "paragraphs": [
+        {
+          "content_hash": "6bd9968a19a0f035",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng (PhD)"
+        },
+        {
+          "content_hash": "b00e0d82993c6c79",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过70个intern不负责(不完全统计，实际受害者更多）"
+        },
+        {
+          "content_hash": "890327297a3100f4",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过，jitendra完全不知情谁被推荐和内容）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动 更正：实际上根本没要过，jitendra知不知道这件事都不清楚）"
+        },
+        {
+          "content_hash": "f268911b7140653f",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper，自己女朋友，在北大被实锤作弊）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "9f8baf7dd9117f91",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励intern去偷别的组phd的东西，别的组phd来问就说是intern偷的，栽赃intern"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "7fe96578b313050e",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工，需要采购不给报销让intern贴钱"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 144,
+      "at_to": 133,
+      "from_paragraphs": [
+        {
+          "content_hash": "aa5ccf50bd74b329",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。（文采大师）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2cdfea372c0929f4",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。x（文采大师）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 212,
+      "paragraphs": [
+        {
+          "content_hash": "b79ff4ebaaed4916",
+          "style": "NORMAL_TEXT",
+          "text": "老师的水平还不如组内phd和部分master"
+        },
+        {
+          "content_hash": "69bb507264555583",
+          "style": "NORMAL_TEXT",
+          "text": "组内一点都不inclusive"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 706,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "8206c4c15b716395",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8ef72c15014e8a2",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑(您这是有多帅啊，还攻击上教授长相了，而且常老师和这两点不太zhan bian)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 791,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 926,
+      "at_to": 920,
+      "from_paragraphs": [
+        {
+          "content_hash": "17b0ce9b8eeb7f61",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a344b5eec5e88e8",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1014,
+      "paragraphs": [
+        {
+          "content_hash": "fdfa0c112d6a077c",
+          "style": "NORMAL_TEXT",
+          "text": "和肖健雄和fisheryu（于夫）三人行被举报到普林斯顿（自己做的事情自己要反思而不是删除）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1070,
+      "at_to": 1065,
+      "from_paragraphs": [
+        {
+          "content_hash": "d7478dae5b760448",
+          "style": "NORMAL_TEXT",
+          "text": "网红？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "500bccfe3166ccfc",
+          "style": "NORMAL_TEXT",
+          "text": "网红？(还行吧，听说指导了很多其他AP的不是自己的学生)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1145,
+      "paragraphs": [
+        {
+          "content_hash": "6e2ffe53439f2f0b",
+          "style": "NORMAL_TEXT",
+          "text": "帮学生改paper只用AI"
+        },
+        {
+          "content_hash": "41e35ba1a1fd8b4c",
+          "style": "NORMAL_TEXT",
+          "text": "Bot"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1152,
+      "paragraphs": [
+        {
+          "content_hash": "9ac68315768539ca",
+          "style": "NORMAL_TEXT",
+          "text": "如果没有港府奖学金会被撤回口头offer"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1175,
+      "at_to": 1173,
+      "from_paragraphs": [
+        {
+          "content_hash": "54ee2ce8d8dc23a3",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）(我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得不太好反驳呀? 与其在这里破防撒泼打滚, 不如把具体数据或例子拿出来, 这样讨论才更有说服力。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "259f2a59b694a582",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1205,
+      "paragraphs": [
+        {
+          "content_hash": "d656f07492398ea5",
+          "style": "NORMAL_TEXT",
+          "text": "为什么他在这里？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1257,
+      "at_to": 1255,
+      "from_paragraphs": [
+        {
+          "content_hash": "f862c400c52d31dd",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露喜欢炫耀自己拿了多少经费想买什么车子对学生扣扣搜搜做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "990d5eba3d994f4d",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+1, 点名姓Lu的）"
+        },
+        {
+          "content_hash": "45aaabc0080291d9",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习顶组找你不让去只让你去他谈的垃圾项目钱都到他自己手里"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b7ca365f90f12ed0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+2, 点名姓Lu的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1263,
+      "at_to": 1258,
+      "from_paragraphs": [
+        {
+          "content_hash": "dbe5503d3240f091",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4aee84fda9bebb01",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了（你有本事就反驳，bu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1301,
+      "paragraphs": [
+        {
+          "content_hash": "fb3805400a34b5f0",
+          "style": "NORMAL_TEXT",
+          "text": "生命会找到自己的出路"
+        }
+      ]
+    }
+  ]
+}
