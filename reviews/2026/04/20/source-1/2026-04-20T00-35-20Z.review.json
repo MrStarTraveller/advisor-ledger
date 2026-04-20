@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-35-20Z.delta.json",
+  "delta_ts": "2026-04-20T00-35-20Z",
+  "reviewed_at_utc": "2026-04-20T00:36:24Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "The edit retains and presents a gendered personal insult attributing the professor's temperament to menopause ('更年期'), which constitutes an unsupported character judgment rather than criticism of concrete advising practices.",
+      "excerpt": "这阿姨脾气应该说是更年期"
+    }
+  ],
+  "prompt_sha256": "7d65b0a0d8d5d47325660f5ec188cff8161e05f30240bd73269a037802d2afdc",
+  "finish_reason": "stop",
+  "completion_tokens": 5515
+}

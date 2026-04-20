@@ -1,0 +1,189 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-31-01Z",
+    "revision_id": "AMHacu7s76X_yDbRMinzRa52h0ZmMa0aqhKLe1LeyurUU9fohJtZKT_h8n3nNYey-lQvrCxKY-xnDdt32xG0iW93UA",
+    "paragraph_count": 581
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-35-20Z",
+    "revision_id": "AMHacu6ns_NJyHSOtgG4eWzJWK4aBa99ih1m7rV5ahY281Cd7wL_xPzxVg3BrmcSxmFTXD1q8Z9Zc0XO8LEPC34rtQ",
+    "paragraph_count": 584
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 7,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.012,
+    "insertion_ratio": 0.0171
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "3acc174d311fe7b7",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，这阿姨脾气应该说是更年期…（这个说得有点过分了ba）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c74b6198997b507",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养还是ao'pu）这阿姨脾气应该说是更年期…"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 74,
+      "paragraphs": [
+        {
+          "content_hash": "32c80dcbf45b1747",
+          "style": "NORMAL_TEXT",
+          "text": "在 Ding 组里 intern 过，我认为她是个大好人 ：）组里"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 99,
+      "paragraphs": [
+        {
+          "content_hash": "a7e07f9e0316136d",
+          "style": "NORMAL_TEXT",
+          "text": "白嫖申请者给他进组干活，也不给offer/compute"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 133,
+      "paragraphs": [
+        {
+          "content_hash": "1b73625df4a20d08",
+          "style": "NORMAL_TEXT",
+          "text": "学术界第一个发币敛财的，AIOS项目，联合币圈群组(D群)收割散户，学生似乎不知情。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 206,
+      "at_to": 209,
+      "from_paragraphs": [
+        {
+          "content_hash": "5e479399b017f9e2",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5c65088ff29fe5d4",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)(尤老师人挺好的，感觉不至于在黑榜)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 211,
+      "paragraphs": [
+        {
+          "content_hash": "17c3f80b707bcbaa",
+          "style": "NORMAL_TEXT",
+          "text": "文档作者留言：这个组已经联系我了 （啥情况），组内学生反应这个导师很好，不应该在黑榜，暂且保留这个批注 (虽然但是，尤老师人真的还可以吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 239,
+      "at_to": 243,
+      "from_paragraphs": [
+        {
+          "content_hash": "b6e2735578324148",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（说的好像UNC多好一样，frontier lab进去几个？灌水给自己灌出幻觉了？拿到UNC phd的offer是你这辈子的巅峰了吧，真不容易啊，但是你前面还有20多个学校呢亲）（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "621d958bde48498d",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 250,
+      "from_paragraphs": [
+        {
+          "content_hash": "6cea8b2a567da93e",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ab6c3da32730b34",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊) （那应该放一个新的altas wang，这里又没证据）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 334,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "b21ff95292e9ee44",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10d47f04d45a285c",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 362,
+      "at_to": 366,
+      "from_paragraphs": [
+        {
+          "content_hash": "a58217ec0cadccf8",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？"
+        },
+        {
+          "content_hash": "6df4e38817540f36",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube这个论文为什么一作变来变去，是否有瓜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "081a6263a21e05d4",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    }
+  ]
+}
