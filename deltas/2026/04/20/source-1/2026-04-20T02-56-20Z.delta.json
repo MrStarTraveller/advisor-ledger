@@ -1,0 +1,302 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-52-10Z",
+    "revision_id": "AMHacu4ua2Oe-9odK1x8jFO3kyZszKhyGj3O-ejpFP2SSHJozLqnP3XuD5GfoDOZyNAP_alA_aOR1o35zfGwBypflw",
+    "paragraph_count": 883
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-56-20Z",
+    "revision_id": "AMHacu5rXE1jfgKEf1quGhHf1gLQC-uphOnn9v3xQoJRZ02Xu1g2waruYunEjMqvyNSQpep-P5SF_6zsQoztsj6VVw",
+    "paragraph_count": 903
+  },
+  "summary": {
+    "inserted_paragraphs": 28,
+    "deleted_paragraphs": 8,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0091,
+    "insertion_ratio": 0.031
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 67,
+      "at_to": 67,
+      "from_paragraphs": [
+        {
+          "content_hash": "174909bb443810e4",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6cb26162cf66988",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 73,
+      "at_to": 73,
+      "from_paragraphs": [
+        {
+          "content_hash": "2859c9c393018174",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c5c53f567aefae11",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学生 (comment: 这么生动有点难绷)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 293,
+      "at_to": 294,
+      "from_paragraphs": [
+        {
+          "content_hash": "032d0a2ea8b0ec3c",
+          "style": "NORMAL_TEXT",
+          "text": "组里的前"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ce1dbb62d19ede2",
+          "style": "NORMAL_TEXT",
+          "text": "组里的前五个学生有两个quit，一个转组"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 343,
+      "at_to": 344,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe08f11635f4693f",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生，能搞来算力。很注重课题组的 culture ，并且组里学生关系都不错。上黑榜纯愿望，我都想直接删掉了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "adda2e812e76d2a0",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型的PI。很 push自己但不会直接push学生，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。undergrad intern 我不熟，但PhD,MS, Intern (grad)都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 346,
+      "at_to": 347,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc9bdcf38a364c9e",
+          "style": "NORMAL_TEXT",
+          "text": "著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strengthzai"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "efab220f4bf9b816",
+          "style": "NORMAL_TEXT",
+          "text": "著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strength在哪里，还让学生opt来干活 恶心得一批"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f90682d745831058",
+          "style": "NORMAL_TEXT",
+          "text": "GWU, Ahmed Louri"
+        },
+        {
+          "content_hash": "4982eebfcceedd70",
+          "style": "NORMAL_TEXT",
+          "text": "Sb中的sb 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 mei"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 378,
+      "from_paragraphs": [
+        {
+          "content_hash": "310a88dd316278fe",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了 看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心 （什么原因道心破碎了。放点事实可以不，别净人身攻击了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "70800fd8b2585d25",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了 看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心 （什么原因道心破碎了。放点事实可以不，别净人身攻击了。(可以不要对骂吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 429,
+      "at_to": 441,
+      "from_paragraphs": [
+        {
+          "content_hash": "0261cc682676229f",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师不应该去红榜吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9377f9ee66396db9",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师不应该去红榜吗（那要看这榜单的同行有多拉了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 431,
+      "at_to": 443,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec7f77b1f422e721",
+          "style": "NORMAL_TEXT",
+          "text": "Liu还不错的了，正经做学术的。除了push其他黑榜常见问题基本都没有，而且idea都是他给的，他们组phd简直全是agent，还主动帮学生connect圈子里面其他产出好的组然后搞合作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c28e331c91affadb",
+          "style": "NORMAL_TEXT",
+          "text": "Liu还不错的了，正经做学术的。除了push其他黑榜常见问题基本都没有，而且idea都是他给的，他们组phd简直全是agent（怎么还带骂PhD的，学生不是人啊），还主动帮学生connect圈子里面其他产出好的组然后搞合作"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 445,
+      "paragraphs": [
+        {
+          "content_hash": "791286702913f09a",
+          "style": "NORMAL_TEXT",
+          "text": "爹系导师"
+        },
+        {
+          "content_hash": "d4f8cc425f8b045d",
+          "style": "NORMAL_TEXT",
+          "text": "绝对正人君子"
+        },
+        {
+          "content_hash": "52e48b52337ac08f",
+          "style": "NORMAL_TEXT",
+          "text": "有钱，会请客吃饭，甚至还有秋游"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 456,
+      "paragraphs": [
+        {
+          "content_hash": "6d4fb72f8f33c43d",
+          "style": "NORMAL_TEXT",
+          "text": "警惕夫妻店again"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 544,
+      "paragraphs": [
+        {
+          "content_hash": "2ba32f245d9096ac",
+          "style": "NORMAL_TEXT",
+          "text": "是会给intern强推的老师"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 681,
+      "paragraphs": [
+        {
+          "content_hash": "64984375e3784d9a",
+          "style": "NORMAL_TEXT",
+          "text": "比较以funding project为重，早八晚零敬业型advisor，人很nice很容易相处"
+        }
+      ]
+    }
+  ]
+}
