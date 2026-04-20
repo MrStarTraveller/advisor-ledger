@@ -1,0 +1,213 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-00-40Z",
+    "revision_id": "AMHacu53EUlEKiMdQvmY8EYbIZ6HRRoTik-cZwNz2pCNPgbdm6OBLJRXcVFVtHnxuujaUhaWoqtzuR7ooxpxF3Qs1w",
+    "paragraph_count": 905
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-04-52Z",
+    "revision_id": "AMHacu69I4uFw5PszNyzye88Jl87mtP261KQrgxRXSfx1lEpYdMflrCc6ygFtQipI4TendTIOXCnyo6SyvMc-wDcmA",
+    "paragraph_count": 911
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 7,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0077,
+    "insertion_ratio": 0.0143
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 66,
+      "at_to": 66,
+      "from_paragraphs": [
+        {
+          "content_hash": "4bf20c7bb6159325",
+          "style": "NORMAL_TEXT",
+          "text": "人很nice，所有同学都顺利毕业，去向很好。组里气氛好，天天吃nb的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a426d27c9ee7c2a8",
+          "style": "NORMAL_TEXT",
+          "text": "人很nice，所有同学都顺利毕业，去向很好。组里气氛好，经常出去吃好的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 174,
+      "paragraphs": [
+        {
+          "content_hash": "6d293dd6cd6a3527",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Zhun"
+        },
+        {
+          "content_hash": "a32ec2ec4524a464",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐..."
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 177,
+      "paragraphs": [
+        {
+          "content_hash": "db3ac85e6f175c97",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Mingyu"
+        },
+        {
+          "content_hash": "5fdc15439de8faf3",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师怎么说，有人了解吗 （合作过 人非常好）（收到hah）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 195,
+      "paragraphs": [
+        {
+          "content_hash": "b7b357ed3c9111b2",
+          "style": "NORMAL_TEXT",
+          "text": "白嫖申请者给他进组干活，也不给offer/compute（被删了，补充）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 290,
+      "at_to": 295,
+      "from_paragraphs": [
+        {
+          "content_hash": "f933444fcd0d670b",
+          "style": "NORMAL_TEXT",
+          "text": "经常威胁学生quit，或者不允许实习"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e6253551838751f",
+          "style": "NORMAL_TEXT",
+          "text": "经常威胁学生quit，或者不允许实习，威胁的理由千奇百怪（还有人因为不ban hu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 299,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 340,
+      "at_to": 346,
+      "from_paragraphs": [
+        {
+          "content_hash": "8a2653538dcdbc14",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的intern发offer (e.g. 能独立干点活不用grad手把手教)。 会给有能力的intern分配独立的完整任务。Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b22f20e844d410a4",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern手上会很具体可行，只要有执行力就能完成。有能力的intern分配独立的完整科研。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 343,
+      "at_to": 349,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ebe6db0c7dd6a8c",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。junior 的 intern 视角来看 unreachable，但 PhD,MS, Intern (senior, grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "95dd3799c5742e10",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 349,
+      "at_to": 355,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ce06ade3a191136",
+          "style": "NORMAL_TEXT",
+          "text": "Sb中的sb 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3fcb58bbfae953fe",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 被强制休假 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 535,
+      "at_to": 541,
+      "from_paragraphs": [
+        {
+          "content_hash": "bfc7811dd0ec37ba",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43a59ead0e2448ba",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（一般确实是）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 680,
+      "at_to": 686,
+      "from_paragraphs": [
+        {
+          "content_hash": "cad01ab4d557f086",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0819a1fa1cec1ab6",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice"
+        }
+      ]
+    }
+  ]
+}
