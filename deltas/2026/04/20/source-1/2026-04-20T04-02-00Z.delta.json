@@ -1,0 +1,879 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-53-00Z",
+    "revision_id": "AMHacu7-QAQXd9b8ozfMPnYLVAxMo6gAQcnV3LjsPwOYk9kJPXAlXD2op1FDQ8A1MqiWUBfx6bFvF4pziRmvjWsqgg",
+    "paragraph_count": 1043
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-02-00Z",
+    "revision_id": "AMHacu51vYp3cQ28a7JYLyXOQPTmC9Vc8CPyWdNo4_KQoFSh_VbJ1EdZlDOwDDVs4zwWDW7wp2LThON7PXyRJ1R5-w",
+    "paragraph_count": 1054
+  },
+  "summary": {
+    "inserted_paragraphs": 65,
+    "deleted_paragraphs": 54,
+    "operations": 34,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0518,
+    "insertion_ratio": 0.0617
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 30,
+      "at_to": 30,
+      "from_paragraphs": [
+        {
+          "content_hash": "fa0494a78772683f",
+          "style": "NORMAL_TEXT",
+          "text": "听老板说的这人之前喊老学生必须要送一片一作给每一个新学生，说是传统习惯，被举报给系主任了哈哈哈哈哈哈哈"
+        },
+        {
+          "content_hash": "b7a0f4b6ec8de4f8",
+          "style": "NORMAL_TEXT",
+          "text": "这人做的dynamic system相关的工作重复半天就那几个公式，被喷爆了还在水，论文真不是编的吗？（为什么每一篇不管啥领域的论文都带了一个叫ang li的人，PNNL的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "39fbbfdb5fa35c4d",
+          "style": "NORMAL_TEXT",
+          "text": "听老板说的这人之前喊老学生必须要送一片一作给每一个新学生，说是传统习惯，然后被举报给系主任了哈哈哈哈哈哈哈"
+        },
+        {
+          "content_hash": "144945e64e3845a2",
+          "style": "NORMAL_TEXT",
+          "text": "这人做的dynamic system相关的工作重复半天就那几个公式，被喷爆了还在水，论文真不是编的吗？（看了一下为什么每一篇不管啥领域的论文都带了一个叫ang li的人，PNNL的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "f7dfa853ac4c2302",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c039dcfa2a292ebd",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立"
+        },
+        {
+          "content_hash": "fec5764e992e9a2b",
+          "style": "NORMAL_TEXT",
+          "text": "            (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 52,
+      "at_to": 52,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0b1802a4d09a4ad",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把 toxic 当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用 f words 问候学生，交代任务定成当天的 ddl，手下的 phd student quit 的也是空穴来风？劝楼上不要g"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bbb34c2e2f9f12e",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉t）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 63,
+      "paragraphs": [
+        {
+          "content_hash": "1de9dda145aa6e46",
+          "style": "NORMAL_TEXT",
+          "text": "我真服了，这是学生评价老师的榜。一群连跟孙哥都没合作过的人就别tm评论了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 81,
+      "at_to": 80,
+      "from_paragraphs": [
+        {
+          "content_hash": "5d86033453dbe923",
+          "style": "NORMAL_TEXT",
+          "text": "总之，忍你们这群黑子好几年了，今天不吐不快。你们若聊学术品位之类，个人见仁见智。但你要说人品，对学生的态度，孙哥没得说。下面你们评论我一条没删。盈盈狂吠之徒，人生还长，科研道路也很长，咱们走着瞧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "48fe0e2933d518c7",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧】（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 97,
+      "at_to": 98,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66911d107e3db8a8",
+          "style": "NORMAL_TEXT",
+          "text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 194,
+      "paragraphs": [
+        {
+          "content_hash": "f00ce11c2b50e506",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU/Rice Xia Hu"
+        },
+        {
+          "content_hash": "5506eaf8d34303cb",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）"
+        },
+        {
+          "content_hash": "a426d27c9ee7c2a8",
+          "style": "NORMAL_TEXT",
+          "text": "人很nice，所有同学都顺利毕业，去向很好。组里气氛好，经常出去吃好的"
+        },
+        {
+          "content_hash": "d2bf6ac628dd3c53",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法 没啥吐槽的 可以放在红榜 （支持！）平时相处很好 组里氛围很好 （上面的瓜有什么说法吗，好像跟老师本人没关系，但是是同学校老师？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 202,
+      "at_to": 199,
+      "from_paragraphs": [
+        {
+          "content_hash": "11a015fa524f6822",
+          "style": "NORMAL_TEXT",
+          "text": "（6666）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b47713e1c694682b",
+          "style": "NORMAL_TEXT",
+          "text": "（6666）（6666）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 280,
+      "at_to": 277,
+      "from_paragraphs": [
+        {
+          "content_hash": "0845dd64ea74f810",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting，消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "33be930a7a7ec183",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 287,
+      "at_to": 284,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d86830287d6a29d",
+          "style": "NORMAL_TEXT",
+          "text": "我记得丁老师本人就是做ml起家的吧......"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 292,
+      "at_to": 289,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f21ea62b7f45c98",
+          "style": "NORMAL_TEXT",
+          "text": "（不懂就问，为什么用英语？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 310,
+      "at_to": 307,
+      "from_paragraphs": [
+        {
+          "content_hash": "db3ac85e6f175c97",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Mingyu"
+        },
+        {
+          "content_hash": "5fdc15439de8faf3",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师怎么说，有人了解吗 （合作过 人非常好）（收到hah）"
+        },
+        {
+          "content_hash": "af477d61f3dfab60",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师在黑榜不合适吧。。。人和research taste都没啥毛病啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7edded55d4126100",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu"
+        },
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        },
+        {
+          "content_hash": "bd7910665097290f",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作"
+        },
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        },
+        {
+          "content_hash": "66aa6e07ba2d1289",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house"
+        },
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        },
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        },
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 316,
+      "paragraphs": [
+        {
+          "content_hash": "6944c5b81c1e5b72",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（谁写那么多假的干啥？不rebuttal？本人？）"
+        },
+        {
+          "content_hash": "51741c25922c8bdf",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会叫你投顶会，idea都是a+b，投不出来还喜欢嘲笑人（ 还不如直接骂）"
+        },
+        {
+          "content_hash": "9b8456708fdbc23e",
+          "style": "NORMAL_TEXT",
+          "text": "组内出过一个拿过一堆顶校（网上可以查到的有yale，布朗，wisconsin madison，washU）面试的candidate然后被人在小红书上开盒，不开源code，onsite面试评论区说基础知识极差，一窍不通，其实是全组paper和项目堆出来的"
+        },
+        {
+          "content_hash": "e1f433c38221f7b9",
+          "style": "NORMAL_TEXT",
+          "text": "养了10来个intern干活，给他开公司，phd也得干"
+        },
+        {
+          "content_hash": "4fa39262e0b356a8",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢骂人，开着zoom当着其他组面辱骂，被合作者说能不能回去私底下骂，影响不好，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        },
+        {
+          "content_hash": "9e99f244357f8a19",
+          "style": "NORMAL_TEXT",
+          "text": "情绪不稳定，组会有过踹桌子，扔东西，大喊大叫，直接威胁让这人别干了"
+        },
+        {
+          "content_hash": "82d14d5139787a94",
+          "style": "NORMAL_TEXT",
+          "text": "和几个老师一起开公司，开到后面闹掰了，直接加到创业公司会议里面和另一个cofounder老师对骂，把免费干活的学生和国内小工都吓傻了"
+        },
+        {
+          "content_hash": "87ac0a72288c00ed",
+          "style": "NORMAL_TEXT",
+          "text": "被合作者ap追着在不同微信群骂，被@骂了就退群"
+        },
+        {
+          "content_hash": "ff0d11420cbb871c",
+          "style": "NORMAL_TEXT",
+          "text": "偷snap的diffusion checkpoint拿来当做自己创业公司成果"
+        },
+        {
+          "content_hash": "42fcad99e56f3111",
+          "style": "NORMAL_TEXT",
+          "text": "没有时间观念，开会通常迟到一俩小时"
+        },
+        {
+          "content_hash": "f10d7f496cfeb747",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的歧视性对待，最后全组都说毕业要找教职，实则没几个人找，都糊弄他搞点资源跑路"
+        },
+        {
+          "content_hash": "9b294f99179f7005",
+          "style": "NORMAL_TEXT",
+          "text": "Xue经典的“啥也不干的女ap”，蹭了一堆work，学生都给别人带"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 344,
+      "paragraphs": [
+        {
+          "content_hash": "76796fe67bac9a1f",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，自己是psu的phd，一直在招intern的时候在中文上面模糊成宾大phd😆"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 355,
+      "at_to": 370,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1673c830ffbdd8b",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个在ECE 呆了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e1e8e4fa3eb1894c",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个在ECE 呆了四五年的 phd，这几年见证了无数人的离开，quit 率高达 80% 吧？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 426,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f00ce11c2b50e506",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU/Rice Xia Hu"
+        },
+        {
+          "content_hash": "5506eaf8d34303cb",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）"
+        },
+        {
+          "content_hash": "a426d27c9ee7c2a8",
+          "style": "NORMAL_TEXT",
+          "text": "人很nice，所有同学都顺利毕业，去向很好。组里气氛好，经常出去吃好的"
+        },
+        {
+          "content_hash": "d2bf6ac628dd3c53",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法 没啥吐槽的 可以放在红榜 （支持！）平时相处很好 组里氛围很好 （上面的瓜有什么说法吗，好像跟老师本人没关系，但是是同学校老师？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 442,
+      "at_to": 464,
+      "from_paragraphs": [
+        {
+          "content_hash": "72e6d3859693a23c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "815f2235367f5094",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错) （是真写了黑推，这洗不了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 536,
+      "paragraphs": [
+        {
+          "content_hash": "5b8f09f31aabc566",
+          "style": "NORMAL_TEXT",
+          "text": "为防止跑路，以后不一定给master了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 524,
+      "at_to": 547,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d7ff9e6eec3e8c4",
+          "style": "NORMAL_TEXT",
+          "text": "路边一条蛆，组里学生方差太大且不指导学生，有牛逼的也有根本没有任何科研能力的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "175b2dcca44a7b11",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生方差太大且不指导学生，有牛逼的也有根本没有任何科研能力的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 586,
+      "paragraphs": [
+        {
+          "content_hash": "7edded55d4126100",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu"
+        },
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        },
+        {
+          "content_hash": "bd7910665097290f",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作"
+        },
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        },
+        {
+          "content_hash": "66aa6e07ba2d1289",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house"
+        },
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        },
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        },
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 595,
+      "paragraphs": [
+        {
+          "content_hash": "6944c5b81c1e5b72",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（谁写那么多假的干啥？不rebuttal？本人？）"
+        },
+        {
+          "content_hash": "51741c25922c8bdf",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会叫你投顶会，idea都是a+b，投不出来还喜欢嘲笑人（ 还不如直接骂）"
+        },
+        {
+          "content_hash": "9b8456708fdbc23e",
+          "style": "NORMAL_TEXT",
+          "text": "组内出过一个拿过一堆顶校（网上可以查到的有yale，布朗，wisconsin madison，washU）面试的candidate然后被人在小红书上开盒，不开源code，onsite面试评论区说基础知识极差，一窍不通，其实是全组paper和项目堆出来的"
+        },
+        {
+          "content_hash": "e1f433c38221f7b9",
+          "style": "NORMAL_TEXT",
+          "text": "养了10来个intern干活，给他开公司，phd也得干"
+        },
+        {
+          "content_hash": "4fa39262e0b356a8",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢骂人，开着zoom当着其他组面辱骂，被合作者说能不能回去私底下骂，影响不好，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        },
+        {
+          "content_hash": "6d97965efbef368d",
+          "style": "NORMAL_TEXT",
+          "text": "组会有过踹桌子，扔东西，直接威胁让这人别干了"
+        },
+        {
+          "content_hash": "82d14d5139787a94",
+          "style": "NORMAL_TEXT",
+          "text": "和几个老师一起开公司，开到后面闹掰了，直接加到创业公司会议里面和另一个cofounder老师对骂，把免费干活的学生和国内小工都吓傻了"
+        },
+        {
+          "content_hash": "87ac0a72288c00ed",
+          "style": "NORMAL_TEXT",
+          "text": "被合作者ap追着在不同微信群骂，被@骂了就退群"
+        },
+        {
+          "content_hash": "ff0d11420cbb871c",
+          "style": "NORMAL_TEXT",
+          "text": "偷snap的diffusion checkpoint拿来当做自己创业公司成果"
+        },
+        {
+          "content_hash": "42fcad99e56f3111",
+          "style": "NORMAL_TEXT",
+          "text": "没有时间观念，开会通常迟到一俩小时"
+        },
+        {
+          "content_hash": "f10d7f496cfeb747",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的歧视性对待，最后全组都说毕业要找教职，实则没几个人找，都糊弄他搞点资源跑路"
+        },
+        {
+          "content_hash": "9b294f99179f7005",
+          "style": "NORMAL_TEXT",
+          "text": "Xue经典的“啥也不干的女ap”，蹭了一堆work，学生都给别人带"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 629,
+      "paragraphs": [
+        {
+          "content_hash": "b67e9a61ae38f80f",
+          "style": "NORMAL_TEXT",
+          "text": "我在组里做 intern 的整体体验是很好的！Intern bar低有人觉得是好事，有人觉得不好。组里做intern不是非要有pub，很多intern其实没什么基础，还有从头带的非cs专业的intern，后来成功找到了大厂工作，老师也帮忙找工业界推荐了。收phd也不是按照pub排，没有那么看背景，愿意从头培养。组内科研氛围很不错，资源也比较充足，老师和博士生会提供很多具体的idea和指导。老师本身确实比较忙，基本沟通比较多的是PhD，不太可能对每个 intern 都非常细致的指导，但在project meeting和一些关键节点上，还是能学到很多东西。另外，在申请阶段我也得到了老师的positive推荐支持，对我来说帮助很大。从我自己的经历，总结一下这个组的特点，大概是："
+        },
+        {
+          "content_hash": "b2943698c5886f6e",
+          "style": "NORMAL_TEXT",
+          "text": "整体不 push，自由度相对较高，脾气比较好"
+        },
+        {
+          "content_hash": "1fb0db991b5a85e8",
+          "style": "NORMAL_TEXT",
+          "text": "比较看重 project 的 research taste 和质量，而不是单纯追求论文数量，也确实会产出一些比较有影响力的工作，擅长做大项目"
+        },
+        {
+          "content_hash": "7c5fdcf987c8ed21",
+          "style": "NORMAL_TEXT",
+          "text": "资源比较充足，只要需求合理，基本都能得到支持"
+        },
+        {
+          "content_hash": "3c0133a507354170",
+          "style": "NORMAL_TEXT",
+          "text": "推荐信支持比较稳定：只要正常合作，哪怕project最后没做出来，也会给 positive letter，表现优秀的话还能提供一些 personal recommendation"
+        },
+        {
+          "content_hash": "abc1a95695fd8900",
+          "style": "NORMAL_TEXT",
+          "text": "summer 期间有 research skill training，整体帮助还是挺大的"
+        },
+        {
+          "content_hash": "6355d063c637d4f9",
+          "style": "NORMAL_TEXT",
+          "text": "组会会邀请厉害的学者来做分享，可以学到不少"
+        },
+        {
+          "content_hash": "2dd9c1031000e640",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 637,
+      "at_to": 648,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e338ba03b0c5fe9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "53978c82c8179ee3",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)，每篇论文都会改图、来回讨论storyline"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 640,
+      "at_to": 651,
+      "from_paragraphs": [
+        {
+          "content_hash": "4194596fbabbc926",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都很好，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f997e278d6e5d72",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 650,
+      "at_to": 661,
+      "from_paragraphs": [
+        {
+          "content_hash": "0104eab05cd09887",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad561c8af47dd359",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)  (感觉没必要在黑榜 移步红榜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 674,
+      "paragraphs": [
+        {
+          "content_hash": "4c229dc195f3bc2c",
+          "style": "NORMAL_TEXT",
+          "text": "现身说法了，给了RA不帮忙办手续，邮件回了答应了冷处理我呵呵"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 677,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fffd2553e5206350",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Hao Zhang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 710,
+      "at_to": 718,
+      "from_paragraphs": [
+        {
+          "content_hash": "e7011952c147934b",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7616dadd61ad297",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 758,
+      "paragraphs": [
+        {
+          "content_hash": "66a61c7ccea20874",
+          "style": "NORMAL_TEXT",
+          "text": "之前在nvidia被组员举报后被nvidia开除了"
+        },
+        {
+          "content_hash": "da65704d609e0306",
+          "style": "NORMAL_TEXT",
+          "text": "招大几十个intern放养"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 779,
+      "paragraphs": [
+        {
+          "content_hash": "7a19b7c63b694f96",
+          "style": "NORMAL_TEXT",
+          "text": "和自己phd老板调情呗"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 791,
+      "paragraphs": [
+        {
+          "content_hash": "b3eee2368fd3bf20",
+          "style": "NORMAL_TEXT",
+          "text": "蹲princeton别的瓜🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 784,
+      "at_to": 797,
+      "from_paragraphs": [
+        {
+          "content_hash": "bfcd23fab3459064",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice(+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cfa6bb5659495840",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice(+1) (+2)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 804,
+      "paragraphs": [
+        {
+          "content_hash": "f6c070c3fdc9b8bc",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Xiaojing Liao"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "172addf3224b8e95",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han（？？？）(??? jiawei老师你们都黑，诗人啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 858,
+      "paragraphs": [
+        {
+          "content_hash": "986187e49eebae5b",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU Zhengzhong Tu"
+        }
+      ]
+    }
+  ]
+}
