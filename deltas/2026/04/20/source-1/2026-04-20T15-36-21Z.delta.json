@@ -1,0 +1,141 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-32-10Z",
+    "revision_id": "AMHacu4Q5eANLPLP3Er1qwJKdeY6OqyQZVSD0QzLQ2S_ziwJHe_E4MJEfWwqbck64Jmqb4FaAkNN8IUqZetTkNpPdA",
+    "paragraph_count": 2064
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-36-21Z",
+    "revision_id": "AMHacu6m19dzhihgcnIyIsq72uOMFD3jQ2b8hVBe2uwj3qgrWqAVeVUguDHmMBwiqqfsJQPLfATqxaP6NKnN2DsZYw",
+    "paragraph_count": 2069
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 6,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0029,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 87,
+      "at_to": 87,
+      "from_paragraphs": [
+        {
+          "content_hash": "40541063d0a0b164",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "47abfac80b954b61",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "13a389d9c9eef1d7",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）"
+        },
+        {
+          "content_hash": "528d5d2df72557bb",
+          "style": "NORMAL_TEXT",
+          "text": "（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）"
+        },
+        {
+          "content_hash": "1bd54d560df1705d",
+          "style": "NORMAL_TEXT",
+          "text": "（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "b42fc3a4b8a43081",
+          "style": "NORMAL_TEXT",
+          "text": "（说实话你能给"
+        },
+        {
+          "content_hash": "fd5f3efbb90f7087",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        },
+        {
+          "content_hash": "c98d4e81a4b23393",
+          "style": "NORMAL_TEXT",
+          "text": "(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？"
+        },
+        {
+          "content_hash": "015b9c4fef9b7801",
+          "style": "NORMAL_TEXT",
+          "text": "（不属实，王老师对新手的指导相当多，还会给idea）"
+        },
+        {
+          "content_hash": "43e17379fc4b7ae4",
+          "style": "NORMAL_TEXT",
+          "text": "（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）"
+        },
+        {
+          "content_hash": "5ef6f22c8667151a",
+          "style": "NORMAL_TEXT",
+          "text": "（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）"
+        },
+        {
+          "content_hash": "b6a17a08be1f4072",
+          "style": "NORMAL_TEXT",
+          "text": "（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 477,
+      "at_to": 485,
+      "from_paragraphs": [
+        {
+          "content_hash": "b37f94569e504cf3",
+          "style": "NORMAL_TEXT",
+          "text": "有双胞胎姐妹Kimia在JHU做AP 两个人都很菜 顺便避雷"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8759d6fbf9deb6d0",
+          "style": "NORMAL_TEXT",
+          "text": "有双胞胎姐妹Kimia在JHU做AP 两个人都很a菜 顺便避雷"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1230,
+      "paragraphs": [
+        {
+          "content_hash": "f4a258b20b0c85be",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）（+1000000000）（实际上不算DM/GNN，只是什么火做什么）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1948,
+      "paragraphs": [
+        {
+          "content_hash": "4c93e77d0f0f3f8d",
+          "style": "NORMAL_TEXT",
+          "text": "HUST"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

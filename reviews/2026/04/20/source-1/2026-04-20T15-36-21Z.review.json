@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-36-21Z.delta.json",
+  "delta_ts": "2026-04-20T15-36-21Z",
+  "reviewed_at_utc": "2026-04-20T15:37:50Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted text contains personal insults attacking the complainant's character rather than discussing advising practices, including calling them a 'clown' (小丑), accusing them of 'biting randomly' (乱咬人), and sarcastic remarks about finding them 'parents' (爹妈) instead of an advisor.",
+      "excerpt": "小丑🤡一个，大家都不理你不代表你可以一直乱咬人"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive commentary about specific advisors in the DM/GNN field and references to a Stanford GNN group AP, which appears to suppress legitimate observations rather than cleanup typos or off-topic content.",
+      "excerpt": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）"
+    }
+  ],
+  "prompt_sha256": "2bb534aa48d9d7e95605aef28968895fa8763b830f16f8738ba6ef3d055de103",
+  "finish_reason": "stop",
+  "completion_tokens": 3629
+}
