@@ -1,0 +1,165 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-43-36Z",
+    "revision_id": "AMHacu6ZAP6lsgQUUuEZfzMd7LeL4mjTmXI4aOIKvU0vLNe-VAFqz8gBrULuVC7Iiy6nksEE8rAG9_9HJeQziqqSLQ",
+    "paragraph_count": 1497
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-45-45Z",
+    "revision_id": "AMHacu6NDtg-ezZBEXz1KBPbMlvsyPCi-aovqaJQD2-8TxnxzgehJ7O-cc3pVD0tdzawvu_Pww72igSR9dXPdlUotw",
+    "paragraph_count": 1504
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 5,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0033,
+    "insertion_ratio": 0.008
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "d320a1a3e525e940",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）"
+        },
+        {
+          "content_hash": "e8b8b21d41b6c13d",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学书不端才被劝退的，和其他事情有什么关系？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e0a7e4bef65acf1",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）（哪里来的谣言？）"
+        },
+        {
+          "content_hash": "4dc7ef81228c3107",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学术不端才被劝退的，然后这个人在xhs上疯狂发黑贴）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 48,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5b1c75b7d0ace89",
+          "style": "NORMAL_TEXT",
+          "text": "本人是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助，改论文啥的也都很仔细。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 351,
+      "at_to": 351,
+      "from_paragraphs": [
+        {
+          "content_hash": "7941e08574000d1e",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上喊着要有产出然后最多只能给你4xa6000然后张嘴闭嘴就是ni men na ge"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48c22d6a8d7cc6b7",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上喊着要有产出然后最多只能给你4xa6000然后张嘴闭嘴就是“你们那个模型不就是fine tune了一下,没什么稀奇”"
+        },
+        {
+          "content_hash": "b8a3c4625da399f1",
+          "style": "NORMAL_TEXT",
+          "text": "由于无法指导学生具体问题, 只能空洞的谈一些大词什么多模态什么personality,水平相当于成年边牧看了三大顶刊之后的学舌水平"
+        },
+        {
+          "content_hash": "3f4fbe302a433a06",
+          "style": "NORMAL_TEXT",
+          "text": "由于不懂具体方向瞎指挥,导致很多项目做到一半已是强弩之末,但是却非要雕花,导致执行者的学生都不好意说是自己做的,水平可见一斑"
+        },
+        {
+          "content_hash": "a060dd531fbbd253",
+          "style": "NORMAL_TEXT",
+          "text": "和其他学校合作的项目由于东亚心理要表现要邀功导致简单的方案层层加码学生苦不堪言到头来精神美爹根本不领情"
+        },
+        {
+          "content_hash": "3d415de49df500ba",
+          "style": "NORMAL_TEXT",
+          "text": "只要小bug出现，不分场合，就对学生亲手指挥恨不得握着你的手敲键盘"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 723,
+      "paragraphs": [
+        {
+          "content_hash": "d44a08de3981889d",
+          "style": "NORMAL_TEXT",
+          "text": "hen"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 890,
+      "at_to": 895,
+      "from_paragraphs": [
+        {
+          "content_hash": "28e6a4c5f720cbca",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(项目不管是否做完，都给了strong letter)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cc11c7656f917da7",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(只要参与进项目中，项目不管是否做出来，都给了strong letter)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1377,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1379,
+      "paragraphs": [
+        {
+          "content_hash": "fc1a64f4dc801053",
+          "style": "NORMAL_TEXT",
+          "text": "\t- 牛之自信，天天碰瓷这碰瓷那，实际啥也不懂，瞎指挥，做的一地鸡毛"
+        }
+      ]
+    }
+  ]
+}

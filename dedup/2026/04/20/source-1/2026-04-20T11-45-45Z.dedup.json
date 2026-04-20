@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-45-45Z",
+  "reviewed_at_utc": "2026-04-20T11:46:44Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "d320a1a3e525e940",
+      "insert_hash": "3e0a7e4bef65acf1",
+      "note": "补充了谣言来源疑问",
+      "ghost_text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）",
+      "insert_text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）（哪里来的谣言？）"
+    },
+    {
+      "ghost_hash": "e8b8b21d41b6c13d",
+      "insert_hash": "4dc7ef81228c3107",
+      "note": "修正错字学书->学术并补充xhs",
+      "ghost_text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学书不端才被劝退的，和其他事情有什么关系？）",
+      "insert_text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学术不端才被劝退的，然后这个人在xhs上疯狂发黑贴）"
+    },
+    {
+      "ghost_hash": "7941e08574000d1e",
+      "insert_hash": "48c22d6a8d7cc6b7",
+      "note": "将拼音ni men na ge补充为完整引用",
+      "ghost_text": "嘴上喊着要有产出然后最多只能给你4xa6000然后张嘴闭嘴就是ni men na ge",
+      "insert_text": "嘴上喊着要有产出然后最多只能给你4xa6000然后张嘴闭嘴就是“你们那个模型不就是fine tune了一下,没什么稀奇”"
+    },
+    {
+      "ghost_hash": "28e6a4c5f720cbca",
+      "insert_hash": "cc11c7656f917da7",
+      "note": "补充了参与项目的条件限制",
+      "ghost_text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(项目不管是否做完，都给了strong letter)",
+      "insert_text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(只要参与进项目中，项目不管是否做出来，都给了strong letter)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2838,
+  "skipped_reason": null
+}

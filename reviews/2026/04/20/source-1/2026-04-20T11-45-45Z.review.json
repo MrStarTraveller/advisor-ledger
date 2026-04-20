@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-45-45Z.delta.json",
+  "delta_ts": "2026-04-20T11-45-45Z",
+  "reviewed_at_utc": "2026-04-20T11:46:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains unsupported personal insults ('牛之自信', '碰瓷', '实际啥也不懂') that attack the professor's character without linking to specific advising practices, constituting a pure personal attack rather than professional criticism.",
+      "excerpt": "牛之自信，天天碰瓷这碰瓷那，实际啥也不懂，瞎指挥，做的一地鸡毛"
+    }
+  ],
+  "prompt_sha256": "f5e392ee37e2d6e67281643575f30e04198a71501b57f5a48e62521cfed4b1ca",
+  "finish_reason": "stop",
+  "completion_tokens": 3842
+}
