@@ -1,0 +1,227 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-54-00Z",
+    "revision_id": "AMHacu66LZJOQ8wg1vboR7X2FyWD9usoqXw1xP5T3YdhDo9-HhHwX5ygOwn43pWPMeEiEnfL04OSQ3YuLoUB7Igvfg",
+    "paragraph_count": 754
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-56-10Z",
+    "revision_id": "AMHacu6zjYlwsDYhLQmL1RbuyDaYvYJPPYwpDfVzV7rvdAGdeCcYQ5OA8iuF-vxrfsRYlKiUWETw1Em7jVklyvV-3w",
+    "paragraph_count": 758
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 10,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0133,
+    "insertion_ratio": 0.0185
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 170,
+      "at_to": 170,
+      "from_paragraphs": [
+        {
+          "content_hash": "718b386316162300",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste差但是学生据说都EB1A了，靠他瞎搞"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "41a5a67551661241",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste差但是学生据说都EB1A了，靠他瞎搞（谬传了，eb1a现在纯等，NYU的prof引用够了到现在还在等）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 193,
+      "at_to": 193,
+      "from_paragraphs": [
+        {
+          "content_hash": "15a137937f428b12",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "336bf964caf58c37",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候最厉害的学生wei wen老婆都不带到duke，还卡了wei wen毕业，全组都在做横向，对自己家小孩极差，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "19c2a42d4b710f4a",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生"
+        },
+        {
+          "content_hash": "62cea5cde92a2fc9",
+          "style": "NORMAL_TEXT",
+          "text": "至于他组里怎么样，参考2024年春“北京某科技公司暴力裁员”，新闻中的这个公司，苹芯科技，后来改名尼欧克斯了，就是Yiran的公司，HR 3个月随便开人，纯是跟老板本人学的"
+        },
+        {
+          "content_hash": "bf50a9ca998219f6",
+          "style": "NORMAL_TEXT",
+          "text": "夫妻店，跳槽的时候最厉害的学生wei wen老婆都不带到duke，还卡了wei wen毕业，全组都在做横向，没有指导能力，对自己家小孩及其不负责，以前经常让phd带小孩"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 205,
+      "at_to": 205,
+      "from_paragraphs": [
+        {
+          "content_hash": "da92840667199e04",
+          "style": "NORMAL_TEXT",
+          "text": "很多PhD quit"
+        },
+        {
+          "content_hash": "9fbe3f5e2256e81a",
+          "style": "NORMAL_TEXT",
+          "text": "hui'chao"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7396341aa927073e",
+          "style": "NORMAL_TEXT",
+          "text": "很多PhD quit（原因见下）"
+        },
+        {
+          "content_hash": "f9aeedd0b645a949",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer，在advisor matching period一直含混不清，matching即将结尾的时候直接说不好意思我不带你了ni'zi'qiu'duo'fu'ba"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 228,
+      "at_to": 228,
+      "from_paragraphs": [
+        {
+          "content_hash": "fcfa93a002f0d618",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "947bf4c1030c7859",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 337,
+      "at_to": 337,
+      "from_paragraphs": [
+        {
+          "content_hash": "610eafca3b9289b0",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "550f9624dab9cba4",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 360,
+      "paragraphs": [
+        {
+          "content_hash": "68539da69d2f4968",
+          "style": "NORMAL_TEXT",
+          "text": "求xi shu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 367,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4517c620e52cf466",
+          "style": "NORMAL_TEXT",
+          "text": "Sijia 很强的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 541,
+      "at_to": 542,
+      "from_paragraphs": [
+        {
+          "content_hash": "edbf625f127e266b",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b464fba07ba8d08b",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 585,
+      "paragraphs": [
+        {
+          "content_hash": "abedce30ca2ee119",
+          "style": "NORMAL_TEXT",
+          "text": "老师组里三个track，near-future faculty 相当于 TBD，PHD student 属于 TBD collaborator，研究生和本科生属于 MSL"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 694,
+      "paragraphs": [
+        {
+          "content_hash": "ed0adef732eb3f32",
+          "style": "NORMAL_TEXT",
+          "text": "NTU Dacheng Tao"
+        },
+        {
+          "content_hash": "641928953fb89760",
+          "style": "NORMAL_TEXT",
+          "text": "拉到商汤ACE robot去当牛马，特别是手下有个巨sb和push的leader"
+        }
+      ]
+    }
+  ]
+}

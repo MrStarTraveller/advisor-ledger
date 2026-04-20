@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-56-10Z.delta.json",
+  "delta_ts": "2026-04-20T01-56-10Z",
+  "reviewed_at_utc": "2026-04-20T01:57:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Discloses identifying information about a specific student by full name 'wei wen' (魏文/卫文 etc.), including details about their spouse and graduation being blocked",
+      "excerpt": "最厉害的学生wei wen老婆都不带到duke，还卡了wei wen毕业"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses vulgar insult '巨sb' (stupid c*nt) to attack the character of a specific team leader under Dacheng Tao rather than describing concrete advising practices",
+      "excerpt": "特别是手下有个巨sb和push的leader"
+    }
+  ],
+  "prompt_sha256": "8f3a2802353f0831b40d4e1a211ef0fb8d161b8a31611fdb351f329a5f0e0d77",
+  "finish_reason": "stop",
+  "completion_tokens": 5349
+}
