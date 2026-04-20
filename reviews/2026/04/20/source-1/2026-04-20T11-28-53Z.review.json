@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-28-53Z.delta.json",
+  "delta_ts": "2026-04-20T11-28-53Z",
+  "reviewed_at_utc": "2026-04-20T11:30:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Systematic mass deletion of substantive advisor entries (Tong Geng, Chaowei Xiao, Zheng Sika, Bo Li, Ce Zhang, etc.) containing specific allegations about advising practices, replaced with repetitive gibberish 'svsfvdfbsdfgb'. This pattern suggests suppression of legitimate observations rather than routine cleanup (typos/dedup), especially given the edit summary flags 'mass_deletion_suspected' and the deletion ratio of 0.9749.",
+      "excerpt": "Rice University / pre University of Rochester Tong (Tony) Geng\n- 这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了...\n[replaced with]\n+ svsfvdfbsdfgb\n+ svsfvdfbsdfgb"
+    }
+  ],
+  "prompt_sha256": "20f9bef4532ad5ceeef2736131cf1782e17920713b5e0923ebc5856aed8acef5",
+  "finish_reason": "stop",
+  "completion_tokens": 4794
+}
