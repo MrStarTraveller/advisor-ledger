@@ -1,0 +1,117 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-07-40Z",
+    "revision_id": "AMHacu6CM4D_22ojejvCSdvD5s4awHAwi06OXsoycCo3nQ2lvTID-up6OQJNro4TNeUIzr2j-UJlfCWx6PZQk1SeaA",
+    "paragraph_count": 549
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-09-50Z",
+    "revision_id": "AMHacu5SVOpqXZiPThAVPF9xjg7kpF85euJX0yXSWtpzdUGa0ZzMgV5pCSlh_h3R0_TI6uAF7ZK45iRne_YYfJttTg",
+    "paragraph_count": 552
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0073,
+    "insertion_ratio": 0.0127
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 13,
+      "at_to": 13,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c0b284ea08f32b3",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ba1e71bf38e03a2",
+          "style": "NORMAL_TEXT",
+          "text": "又来了个大的，坐等"
+        },
+        {
+          "content_hash": "b59e55c4085c618d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？ 🙂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 248,
+      "at_to": 249,
+      "from_paragraphs": [
+        {
+          "content_hash": "40f38baca2a469ae",
+          "style": "NORMAL_TEXT",
+          "text": "之前zhao xu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e88a5c6d9837d225",
+          "style": "NORMAL_TEXT",
+          "text": "之前招学生进来全部 ta 被学校警告过不知道真假"
+        },
+        {
+          "content_hash": "186576c27629f79e",
+          "style": "NORMAL_TEXT",
+          "text": "招生前会和学生对口风，感觉问学校里其他组的学生ting de de"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 336,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "d34279c856bcc631",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8%, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a3b1d5463c8891d",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8%, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 413,
+      "at_to": 415,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "91e82fc0eb8d82fd",
+          "style": "NORMAL_TEXT",
+          "text": "UMD Tianyi Zhou"
+        },
+        {
+          "content_hash": "66cc912478f78a31",
+          "style": "NORMAL_TEXT",
+          "text": "组里面有些project问题比较大，虽然很出名（hacking ben'ch）"
+        }
+      ]
+    }
+  ]
+}
