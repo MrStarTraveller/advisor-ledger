@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-33-10Z.delta.json",
+  "delta_ts": "2026-04-20T16-33-10Z",
+  "reviewed_at_utc": "2026-04-20T16:33:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult calling professor '傻子' (idiot/fool)",
+      "excerpt": "（chuang 直接给写了黑推，他是傻子吗？）"
+    }
+  ],
+  "prompt_sha256": "300b11092ceedddf4a89288508ad0967cca29de2df139c6abf7951cf39b49b81",
+  "finish_reason": "stop",
+  "completion_tokens": 2888
+}

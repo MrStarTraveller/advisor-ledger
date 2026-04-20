@@ -1,0 +1,167 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T16-31-00Z",
+    "revision_id": "AMHacu46fs4IvsllEnd38aE-LNs9Vhz6-jsdso8ocIo21ssHs06rknGrhjorJsn12zVYVcx3J7IqwquvQI7UxDrxyg",
+    "paragraph_count": 2135
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T16-33-10Z",
+    "revision_id": "AMHacu5yPfcbrmxT-WBwqO-F1lYS7IGv0sMjv-rSDnO53tQRCbxnyVMu3DVf4PuqoLxaZOF5VjQgXYt21EK3rRsHIw",
+    "paragraph_count": 2138
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0028,
+    "insertion_ratio": 0.0042
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 263,
+      "paragraphs": [
+        {
+          "content_hash": "4d87941d681ca4e8",
+          "style": "NORMAL_TEXT",
+          "text": "Pi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 436,
+      "at_to": 437,
+      "from_paragraphs": [
+        {
+          "content_hash": "67783bc057e3a877",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "211bcfdd86a27770",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了他的学生 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝 （别删了，再删你是Chaowei Xiao，有种来rebuttal!!!)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 495,
+      "at_to": 496,
+      "from_paragraphs": [
+        {
+          "content_hash": "b9cc00bcfcc2aaf8",
+          "style": "NORMAL_TEXT",
+          "text": "   *  ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb669ed5fa70d6a4",
+          "style": "NORMAL_TEXT",
+          "text": "   *  ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview ()"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 508,
+      "paragraphs": [
+        {
+          "content_hash": "df04a41ae35da567",
+          "style": "NORMAL_TEXT",
+          "text": "(上面几条真不是一个人写的吗。。。)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 510,
+      "at_to": 513,
+      "from_paragraphs": [
+        {
+          "content_hash": "f09faa17dd7a84e1",
+          "style": "NORMAL_TEXT",
+          "text": "另外我是他某一个黑推谣言当事人的朋友，朋友说chuang“可能给了黑推”的理由是，他被某学校拒了以后，chuang给我朋友说“收到黑推了所以被拒”，然后朋友认为按规定chuang只能知道自己推荐信，所以黑推有概率是chuang自己写的。他申请学校这三封推荐信有黑推这件事没实锤，黑推来自chuang这件事也没实锤，到最后传出去就成他被chuang写了黑推了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f128bb6b26c15c15",
+          "style": "NORMAL_TEXT",
+          "text": "另外我是他某一个黑推谣言当事人的朋友，朋友说chuang“可能给了黑推”的理由是，他被某学校拒了以后，chuang给我朋友说“收到黑推了所以被拒”，然后朋友认为按规定chuang只能知道自己推荐信，所以黑推有概率是chuang自己写的。他申请学校这三封推荐信有黑推这件事没实锤，黑推来自chuang这件事也没实锤，到最后传出去就成他被chuang写了黑推了。（chuang 直接给写了黑推，他是傻子吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 531,
+      "at_to": 534,
+      "from_paragraphs": [
+        {
+          "content_hash": "c8bb050537e5feaf",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）(seminar 课b"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be8a107c4eb0edb3",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）(哪个老师没这么上课吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 770,
+      "at_to": 773,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b006a8240a11b30",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊 你管我去哪了不管申请结果好坏都可以评价mentor，申的不好就不让说了？况且我没说我是intern啊？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0fa867cad9975a91",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊 你管我去哪了，不管申请结果好坏都可以评价mentor，申的不好就不让说了？况且我没说我是intern啊？反而是你，先说说你跟haoran是什么关系，否则别多管闲事"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1887,
+      "at_to": 1890,
+      "from_paragraphs": [
+        {
+          "content_hash": "264ee94f44585f85",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang 买Github stars的事情能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f1676385e29ac83",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang 买Github stars的事情能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，这样还被黑)"
+        }
+      ]
+    }
+  ]
+}
