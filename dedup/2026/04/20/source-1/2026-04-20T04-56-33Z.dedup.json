@@ -1,0 +1,12 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T04-56-33Z",
+  "reviewed_at_utc": "2026-04-20T04:56:50Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 4,
+  "n_inserts": 7,
+  "pairs": [],
+  "finish_reason": null,
+  "completion_tokens": null,
+  "skipped_reason": "transport_error: <HTTPError 500: 'Internal Server Error'>"
+}

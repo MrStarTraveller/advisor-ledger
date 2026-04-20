@@ -1,0 +1,129 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-54-33Z",
+    "revision_id": "AMHacu5UXN-EZSS-knqWGCxuFq7_5uYpByO6MKk-i_W4-04RMr7uTBOZ9ee9kWjhURvbTT5rJRf1V23bn3Xj48UehQ",
+    "paragraph_count": 1097
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-56-33Z",
+    "revision_id": "AMHacu6t-VA8YEbYoztx_87xFAgakcssn7ZZTcYPPdTp6W4EA0MzKnKZZrdmgnjvrxilgnpXa2EpzV60p629r5FF3A",
+    "paragraph_count": 1100
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 4,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0036,
+    "insertion_ratio": 0.0064
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "ed80e779e17e1f07",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了，已经有UCSD邮箱给我发邮件威胁我了。大家jishi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c290e7502d8eb97d",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了，已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 544,
+      "at_to": 545,
+      "from_paragraphs": [
+        {
+          "content_hash": "0ba948081bf4ac65",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。（而且phd期间的cvpr据说是有造假，之前被挂过）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a591517e6c34f1a0",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 546,
+      "at_to": 547,
+      "from_paragraphs": [
+        {
+          "content_hash": "86501aa631a8e527",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2450511f297f4bdf",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（不要把两个人混为一谈（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 660,
+      "at_to": 661,
+      "from_paragraphs": [
+        {
+          "content_hash": "bed5828e7e3dcddf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（确实是inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf04e9e0bffe8fcf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（确实是对intern的背景要求不高）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 828,
+      "paragraphs": [
+        {
+          "content_hash": "8c3719f12aced733",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern申请结果最好只有uiuc ms"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 884,
+      "paragraphs": [
+        {
+          "content_hash": "0dd834c5764c4cc2",
+          "style": "NORMAL_TEXT",
+          "text": "不让学生写论文，让写proposal，把学生逼到肾出问题做手术，躺在床上还"
+        }
+      ]
+    }
+  ]
+}
