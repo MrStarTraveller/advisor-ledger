@@ -1,0 +1,246 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-27-30Z",
+    "revision_id": "AMHacu6RAQYEZNw8MFfsP89zH8eGz3kUyxNvs4Zvl5vqfQOI2e3yO13j1bGxc8uXmO5xjkCT8wC0IfooPlqATVU21g",
+    "paragraph_count": 2019
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-33-52Z",
+    "revision_id": "AMHacu4lJsLN9HBrl0TMH-cqfIq53uVE8OslsnbCzspEPMKsWoZrqC6aFqVwVhxEyzOWkfz6382LC8l3zfsfMBFxDA",
+    "paragraph_count": 2024
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 9,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0045,
+    "insertion_ratio": 0.0069
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc1ba87f357683a4",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了x，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f85004c82f1ae35",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 593,
+      "at_to": 593,
+      "from_paragraphs": [
+        {
+          "content_hash": "50859acd4b477871",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报dan's"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5055ce11e1b74b7d",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报但是还在NV哥们就是这么幽默desu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 961,
+      "at_to": 961,
+      "from_paragraphs": [
+        {
+          "content_hash": "f83e99a9b81f4f1b",
+          "style": "NORMAL_TEXT",
+          "text": "人很好很supportive，自由度很高，不卡毕业不卡实习"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f642f10ef711bc3f",
+          "style": "NORMAL_TEXT",
+          "text": "人很好很supportive，自由度很高，不卡毕业不卡实习，感觉应该去红榜"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1465,
+      "at_to": 1465,
+      "from_paragraphs": [
+        {
+          "content_hash": "9767a5efa489566f",
+          "style": "NORMAL_TEXT",
+          "text": "文章末尾Contribution列得很明确，从idea到执行一目了然"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "30f820879588a1c9",
+          "style": "NORMAL_TEXT",
+          "text": "文章末尾Contribution列得很明确，从idea到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1467,
+      "at_to": 1467,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9d6207f332234bc",
+          "style": "NORMAL_TEXT",
+          "text": "顾老师被举报内容并非不当关系，学校也经明确阅读举报内容后同意了转组。不存在因谣言同意转组。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "28903c03372c146d",
+          "style": "NORMAL_TEXT",
+          "text": "顾老师被举报内容并非不当关系，不存在因谣言学校就同意转组。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1545,
+      "paragraphs": [
+        {
+          "content_hash": "d0d72aec3fe341b5",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个西工大本科，北大博后，抢一作成瘾，去年被xhs狂喷（这位哥别删了，北大人尽皆知你）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1580,
+      "paragraphs": [
+        {
+          "content_hash": "f0e019632236eab3",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Jiayi Eris Zhang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1614,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1787,
+      "at_to": 1790,
+      "from_paragraphs": [
+        {
+          "content_hash": "44a620e7e54b197d",
+          "style": "NORMAL_TEXT",
+          "text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会（前5%和前10%都是强推，做出成果和没做出成果的强度肯定不一样啊。而且谁知道hkpfs要求必须是前5%？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc5fad4d3cfeacf5",
+          "style": "NORMAL_TEXT",
+          "text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会（前5%和前10%都是强推，做出成果和没做出成果的强度肯定不一样啊。而且谁知道hkpfs要求必须是前5%？）(而且overall大总分填写的是最高规格的分数)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1798,
+      "at_to": 1801,
+      "from_paragraphs": [
+        {
+          "content_hash": "955c8c8710bc4750",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST,  Yangqiu Song"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "67d664af9610ebf4",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST  Yangqiu Song"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1801,
+      "at_to": 1804,
+      "from_paragraphs": [
+        {
+          "content_hash": "dab5ad4bd5323502",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0196634fa521533f",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1977,
+      "paragraphs": [
+        {
+          "content_hash": "dfa7296d76d00286",
+          "style": "NORMAL_TEXT",
+          "text": "NYUSH （插眼等瓜）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2013,
+      "at_to": 2018,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb7b72db16842dcc",
+          "style": "NORMAL_TEXT",
+          "text": "经典大雷，互联网上"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92d3f3b283ce968a",
+          "style": "NORMAL_TEXT",
+          "text": "经典大雷，互联网上事迹可查"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-33-52Z",
+  "reviewed_at_utc": "2026-04-20T19:35:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "bc1ba87f357683a4",
+      "insert_hash": "6f85004c82f1ae35",
+      "note": "typo fix: removed x",
+      "ghost_text": "对导师：如果你被吐槽了x，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。",
+      "insert_text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+    },
+    {
+      "ghost_hash": "50859acd4b477871",
+      "insert_hash": "5055ce11e1b74b7d",
+      "note": "fixed ending text",
+      "ghost_text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报dan's",
+      "insert_text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报但是还在NV哥们就是这么幽默desu"
+    },
+    {
+      "ghost_hash": "f83e99a9b81f4f1b",
+      "insert_hash": "f642f10ef711bc3f",
+      "note": "added red list comment",
+      "ghost_text": "人很好很supportive，自由度很高，不卡毕业不卡实习",
+      "insert_text": "人很好很supportive，自由度很高，不卡毕业不卡实习，感觉应该去红榜"
+    },
+    {
+      "ghost_hash": "9767a5efa489566f",
+      "insert_hash": "30f820879588a1c9",
+      "note": "added contribution agreement note",
+      "ghost_text": "文章末尾Contribution列得很明确，从idea到执行一目了然",
+      "insert_text": "文章末尾Contribution列得很明确，从idea到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。"
+    },
+    {
+      "ghost_hash": "c9d6207f332234bc",
+      "insert_hash": "28903c03372c146d",
+      "note": "rephrased defense statement",
+      "ghost_text": "顾老师被举报内容并非不当关系，学校也经明确阅读举报内容后同意了转组。不存在因谣言同意转组。",
+      "insert_text": "顾老师被举报内容并非不当关系，不存在因谣言学校就同意转组。"
+    },
+    {
+      "ghost_hash": "44a620e7e54b197d",
+      "insert_hash": "bc5fad4d3cfeacf5",
+      "note": "added overall score detail",
+      "ghost_text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会（前5%和前10%都是强推，做出成果和没做出成果的强度肯定不一样啊。而且谁知道hkpfs要求必须是前5%？）",
+      "insert_text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会（前5%和前10%都是强推，做出成果和没做出成果的强度肯定不一样啊。而且谁知道hkpfs要求必须是前5%？）(而且overall大总分填写的是最高规格的分数)"
+    },
+    {
+      "ghost_hash": "955c8c8710bc4750",
+      "insert_hash": "67d664af9610ebf4",
+      "note": "removed comma",
+      "ghost_text": "HKUST,  Yangqiu Song",
+      "insert_text": "HKUST  Yangqiu Song"
+    },
+    {
+      "ghost_hash": "dab5ad4bd5323502",
+      "insert_hash": "0196634fa521533f",
+      "note": "added apology note",
+      "ghost_text": "这不应该上红榜吗",
+      "insert_text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。)"
+    },
+    {
+      "ghost_hash": "eb7b72db16842dcc",
+      "insert_hash": "92d3f3b283ce968a",
+      "note": "added deeds verifiable",
+      "ghost_text": "经典大雷，互联网上",
+      "insert_text": "经典大雷，互联网上事迹可查"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3409,
+  "skipped_reason": null
+}

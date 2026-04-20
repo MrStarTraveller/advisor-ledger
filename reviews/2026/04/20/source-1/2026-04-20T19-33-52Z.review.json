@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-33-52Z.delta.json",
+  "delta_ts": "2026-04-20T19-33-52Z",
+  "reviewed_at_utc": "2026-04-20T19:34:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student/postdoctoral researcher by their educational credentials (NWPU undergraduate, PKU postdoc) and references specific social media incidents (Xiaohongshu criticism), which combined with the lab context allows de-anonymization of a private individual who is not the subject professor.",
+      "excerpt": "组里有个西工大本科，北大博后，抢一作成瘾，去年被xhs狂喷（这位哥别删了，北大人尽皆知你）"
+    }
+  ],
+  "prompt_sha256": "36d2ab5c40821f0cfa9448b5fc68779c8531348e2247a647028d9e3b7d7972dd",
+  "finish_reason": "stop",
+  "completion_tokens": 3046
+}
