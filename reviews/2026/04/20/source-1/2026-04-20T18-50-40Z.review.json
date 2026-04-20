@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-50-40Z.delta.json",
+  "delta_ts": "2026-04-20T18-50-40Z",
+  "reviewed_at_utc": "2026-04-20T18:52:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains insulting characterization '当好gou' (being a good dog) targeting the professor, which constitutes a personal attack rather than criticism of concrete advising practices",
+      "excerpt": "当好gou"
+    }
+  ],
+  "prompt_sha256": "0d36bbc373f93dae1652fc8ad1b76681d24270034d366aac3565cff3b77859fa",
+  "finish_reason": "stop",
+  "completion_tokens": 6777
+}
