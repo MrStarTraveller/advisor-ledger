@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-32-40Z.delta.json",
+  "delta_ts": "2026-04-20T01-32-40Z",
+  "reviewed_at_utc": "2026-04-20T01:33:44Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of unsupported psychiatric diagnosis 'NPD' (Narcissistic Personality Disorder) as a character attack without substantiating evidence",
+      "excerpt": "暴雷NPD"
+    }
+  ],
+  "prompt_sha256": "834c0ebcd9ddede83bc7985f4ce3de7b8e709187dce53cd95f97c42fde658d37",
+  "finish_reason": "stop",
+  "completion_tokens": 5555
+}

@@ -1,0 +1,288 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-28-20Z",
+    "revision_id": "AMHacu5u1f6tn8RBzv7isYFbCYWrfy0kew5YQ8beG5b7Jw6W5JoCQMIQvTI8mu-FPA32zWSPTfo5c2tAkvG5RPqEKA",
+    "paragraph_count": 680
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-32-40Z",
+    "revision_id": "AMHacu43UVdpdUnr0QyS18ZzDfhmaUk_zGJyLTSoCRJltNJt3o8EpMAJ5iyvvWmcDreduae864ViDQHsQY3oeQ-Nzw",
+    "paragraph_count": 691
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 9,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0132,
+    "insertion_ratio": 0.0289
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 28,
+      "paragraphs": [
+        {
+          "content_hash": "04daa0b70ced43d4",
+          "style": "NORMAL_TEXT",
+          "text": "听说家暴老婆..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 29,
+      "at_to": 30,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d79dcc44f746fb74",
+          "style": "NORMAL_TEXT",
+          "text": "UMass"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 126,
+      "paragraphs": [
+        {
+          "content_hash": "ec38df19a0063a47",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 175,
+      "at_to": 177,
+      "from_paragraphs": [
+        {
+          "content_hash": "77c6b099b01797a9",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）bi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "428a1b27e0580660",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）biwei人这么好。。。完全好人来的 哪里来的离谱听说脾气不好。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 193,
+      "at_to": 195,
+      "from_paragraphs": [
+        {
+          "content_hash": "a61274ef79751e89",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e0e551b6fdb2d667",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 203,
+      "paragraphs": [
+        {
+          "content_hash": "3920ed64f16fd6e2",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 272,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "71bafb6d2d2e8059",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了（谁啊) yuanzhe hu？(你有什么好paper实名列出来吧，我保你读博)（julian都有人黑，UCSD第一大好人吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "78ff8c6adec9139e",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧)（julian都有人黑，UCSD第一大好人吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 299,
+      "paragraphs": [
+        {
+          "content_hash": "83be170c154d73c5",
+          "style": "NORMAL_TEXT",
+          "text": "说其他老师的坏话（学术不行, 工作垃圾之类的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 313,
+      "paragraphs": [
+        {
+          "content_hash": "bcd1bd869dca0377",
+          "style": "NORMAL_TEXT",
+          "text": "聊过天，感觉这个老师学术水平很在线"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 342,
+      "paragraphs": [
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 398,
+      "at_to": 404,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b6335c8ce61334e",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1da6327eab35a455",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 433,
+      "at_to": 439,
+      "from_paragraphs": [
+        {
+          "content_hash": "c5a900df3021fda1",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ee0d1af09b760ff",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 563,
+      "at_to": 569,
+      "from_paragraphs": [
+        {
+          "content_hash": "992d5467e23a1a54",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（你说的我听过一点，但是太就远了最早期的，那个女的和另外一个学生还结过婚离过婚啥de）"
+        },
+        {
+          "content_hash": "45739aaad949e7f7",
+          "style": "NORMAL_TEXT",
+          "text": "我在shuhao liu，hao wang还在n"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "340c0328cb15cd03",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（哦哦可以的）"
+        },
+        {
+          "content_hash": "8aebc3d035b23cbf",
+          "style": "NORMAL_TEXT",
+          "text": "\t哦我说top 30 faculty offer"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 658,
+      "paragraphs": [
+        {
+          "content_hash": "aaa7a02187b722ee",
+          "style": "NORMAL_TEXT",
+          "text": "HUST, Shengshan Hu"
+        },
+        {
+          "content_hash": "f1fd7fddc4f899fc",
+          "style": "NORMAL_TEXT",
+          "text": "暴雷NPD"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 663,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 688,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f6bdf68feb0244e6",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Xiaoxuan Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
