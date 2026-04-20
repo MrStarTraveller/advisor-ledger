@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-24-46Z.delta.json",
+  "delta_ts": "2026-04-20T11-24-46Z",
+  "reviewed_at_utc": "2026-04-20T11:25:24Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full name of student disclosed in context of personal relationship and affiliated institution",
+      "excerpt": "不就是ghr的npy吗？ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Direct insult using ableist slur against Professor Yue Wang",
+      "excerpt": "yue是脑残吗?"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Massive deletion of substantive discussion thread regarding Professor Haoran Geng's advising practices (intern numbers, recommendation letters, financial disputes) and replacement with unrelated procedural note",
+      "excerpt": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+    }
+  ],
+  "prompt_sha256": "ea18941007ad4e5cf45b480c244be90e047ed0aab9d18494b5a85cd1d4d0e6c3",
+  "finish_reason": "stop",
+  "completion_tokens": 2749
+}
