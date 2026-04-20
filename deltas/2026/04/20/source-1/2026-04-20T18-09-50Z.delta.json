@@ -1,0 +1,238 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-05-30Z",
+    "revision_id": "AMHacu7cy345EfxhNZxAVK4RHL7wqmOkqKqbIt1T2OuL8oPHWtaYyNFvKuPJ32xQhTRN5_YMAQQTVf9XZAMArUJcGQ",
+    "paragraph_count": 2027
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-09-50Z",
+    "revision_id": "AMHacu59ZMX2sX7s9HzUHQ1fCpDBUzG1gL37WdQE1Hz_bFAVJapEPm8BSCqkkodh8pbViBxe1qDVk83IGZPmeRS3Wg",
+    "paragraph_count": 2023
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 16,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0079,
+    "insertion_ratio": 0.0059
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 147,
+      "at_to": 147,
+      "from_paragraphs": [
+        {
+          "content_hash": "09c89bfa66994141",
+          "style": "NORMAL_TEXT",
+          "text": "原来一个会议有没中稿是黑点？那你可千万别投稿，我担心你心里承受不了（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a51efe30e184df67",
+          "style": "NORMAL_TEXT",
+          "text": "原来一个会议有没中稿是黑点？那你可千万别投稿，我担心你心里承受不了（早点休息，国内这么晚了，我也担心你身体）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 163,
+      "paragraphs": [
+        {
+          "content_hash": "4157d38df9b33e87",
+          "style": "NORMAL_TEXT",
+          "text": "btw，这放上去的是合作结束有去向的学生，在读的放啥？老师主页放啥你也要管吗？你是地球球长？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 534,
+      "at_to": 535,
+      "from_paragraphs": [
+        {
+          "content_hash": "aca0a6bb92f481b8",
+          "style": "NORMAL_TEXT",
+          "text": "楼上的能别洗地了吗。我亲眼见证本科同学拿了chuang gan和另外一位老板的暑研offer，最后没有选择chuang gan，你们的创总亲自下场威胁 “把我的暑研offer拒了，你这是非常不诚信，我就让你在学术圈混不下去，你要去的新老板我也很熟，我发一个微信你就去不了了“诸如此类的话。（这老师也太过分了... 我觉得学生不对吧，但是这尼玛直接威胁，是为人师表吗？）（这都能给黑？服了！创总发暑研offer 都要通过学校，DS2019很多流程，肯定问了确定要来才发的的。你同学反悔撕了offer，学校一帮人白忙活了，你同学不来，还让老板开心谢谢你同学吗？而且我也觉得他肯定没把你同学这个事宣扬出去吧，要不然我不觉得那个老师还能收。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 625,
+      "at_to": 626,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c5cda7f0ece351b",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）"
+        },
+        {
+          "content_hash": "25e2fde311109a6b",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)"
+        },
+        {
+          "content_hash": "17581afe3a22dc95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架"
+        },
+        {
+          "content_hash": "aa71086b32b97972",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "985c711d4e2ee7c3",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）不容易，一个学生能够兼职UW-Madison HR"
+        },
+        {
+          "content_hash": "2e9215d59d0fcefc",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)还兼职警察！"
+        },
+        {
+          "content_hash": "56babb18e5496a95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架还兼职系主任！！"
+        },
+        {
+          "content_hash": "907958084d49d73f",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 641,
+      "at_to": 642,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a8520d15a4ec3ac",
+          "style": "NORMAL_TEXT",
+          "text": "UWashington Sumit Roy"
+        },
+        {
+          "content_hash": "4317e3113f85a7dd",
+          "style": "NORMAL_TEXT",
+          "text": "聽說不讓學生發Paper只能寫Proposal"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 658,
+      "at_to": 660,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1726d39c3388be1",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  zhi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 662,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0a8520d15a4ec3ac",
+          "style": "NORMAL_TEXT",
+          "text": "UWashington Sumit Roy"
+        },
+        {
+          "content_hash": "4317e3113f85a7dd",
+          "style": "NORMAL_TEXT",
+          "text": "聽說不讓學生發Paper只能寫Proposal"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 726,
+      "at_to": 721,
+      "from_paragraphs": [
+        {
+          "content_hash": "2043ee57056d6ec7",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "47abd35d3f816904",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑) (+1, 伯克利清流都能被挂，也是太离谱了) 首先phd最后一个学期去工业界不要太正常吧。而且haiwen mid author的很多工作也是会改代码帮忙跑实验+熬夜写paper的，BAIR不少项目还是用的他connect来的卡。把phd挂上来也不说明白hh"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1345,
+      "paragraphs": [
+        {
+          "content_hash": "be3a59d35bcd9632",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，现在的Wenbo对学生都很支持了，组内资源也很多，会帮学生写论文，hands on指导。"
+        }
+      ]
+    }
+  ]
+}

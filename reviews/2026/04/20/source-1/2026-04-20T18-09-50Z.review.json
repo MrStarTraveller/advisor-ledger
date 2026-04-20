@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-09-50Z.delta.json",
+  "delta_ts": "2026-04-20T18-09-50Z",
+  "reviewed_at_utc": "2026-04-20T18:10:27Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive allegation about advisor '创总' threatening a student who rejected a summer research offer, replacing detailed account with empty content",
+      "excerpt": "楼上的能别洗地了吗。我亲眼见证本科同学拿了chuang gan和另外一位老板的暑研offer，最后没有选择chuang gan，你们的创总亲自下场威胁"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult and character attack using derogatory nickname and accusation of rumor-mongering",
+      "excerpt": "压抑哥每次造谣经典节目，不得不品"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment implying inherent moral deficiency of a student since high school",
+      "excerpt": "只能说她高中就能看出来.."
+    }
+  ],
+  "prompt_sha256": "05a4929c8b15f870601dc16289740e3f6c866e6d80de8277a93ef6dfabb4f3fd",
+  "finish_reason": "stop",
+  "completion_tokens": 3385
+}
