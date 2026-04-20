@@ -1,0 +1,256 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-36-41Z",
+    "revision_id": "AMHacu5ZuDT1Te0vYb1ooBL2ozcZkpAh9kFC6Hv0zMZivioOL4NSzvLo_jLJPm_IjGeh7vlhqpploUbbEEnOJJzt0A",
+    "paragraph_count": 970
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-40-51Z",
+    "revision_id": "AMHacu5ErIHskUqUxS7JFhhccaYXffPsa4CY0Pc_yk3yybhVIZZ4JVQ5Cm-IhiThNflOVasaySrGIhVlmgFjzQOufQ",
+    "paragraph_count": 977
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 9,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0093,
+    "insertion_ratio": 0.0164
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "ceb0aa969084eb82",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei Xiao的Tab没了！！"
+        },
+        {
+          "content_hash": "073943bc2e8583ab",
+          "style": "NORMAL_TEXT",
+          "text": "哪个cs删了！！！！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 21,
+      "at_to": 23,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc1ddc5960ab1a5d",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ceb0aa969084eb82",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei Xiao的Tab没了！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 24,
+      "at_to": 26,
+      "from_paragraphs": [
+        {
+          "content_hash": "e9adc207c42acad4",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4955ec3bac13cf26",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 26,
+      "at_to": 28,
+      "from_paragraphs": [
+        {
+          "content_hash": "6865d381d0f48928",
+          "style": "NORMAL_TEXT",
+          "text": "想退学？我辞职！看系主任听你们的还是听我的！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "753dc61bd15bf42b",
+          "style": "NORMAL_TEXT",
+          "text": "想退学？我辞职！看系主任听你们的还是听我的！Master都别想拿到！（我和系主任是dude!）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 30,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 165,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "11a015fa524f6822",
+          "style": "NORMAL_TEXT",
+          "text": "（6666）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 322,
+      "at_to": 325,
+      "from_paragraphs": [
+        {
+          "content_hash": "8e4a053c68ba37b8",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生也好几个神仙，有到处是"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "672dfad71c37ec06",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生也好几个神仙，有到处抄偷东西被开除的 也有挖别人墙角天天开车主动去接送的sb男"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 441,
+      "paragraphs": [
+        {
+          "content_hash": "7decb65e74da4804",
+          "style": "NORMAL_TEXT",
+          "text": "我也在这里做的intern，Chenyu资源给得很足，也不push，据我所知没有不好好管intern的情况，招多招少是个人选择吧。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 526,
+      "at_to": 530,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a014f8b806be7339",
+          "style": "NORMAL_TEXT",
+          "text": "Tuo对学生非常好的，学生出路都很好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 553,
+      "at_to": 557,
+      "from_paragraphs": [
+        {
+          "content_hash": "f7661ea81b2db997",
+          "style": "NORMAL_TEXT",
+          "text": "xue早年经典的“啥也不干女ap"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b294f99179f7005",
+          "style": "NORMAL_TEXT",
+          "text": "Xue经典的“啥也不干的女ap”，蹭了一堆work，学生都给别人带"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 596,
+      "at_to": 600,
+      "from_paragraphs": [
+        {
+          "content_hash": "a40074f7e915813d",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "167056e5c6dd8444",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然至少budget 2k-20k usd, 学生去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 602,
+      "at_to": 606,
+      "from_paragraphs": [
+        {
+          "content_hash": "0bf8fb46baab0f08",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af2b4fe545bbb158",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？(哪里来的40个intern？？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack，只是比较inclusive)（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 760,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a62177d493cb3f80",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Jiajun Wu"
+        },
+        {
+          "content_hash": "d8ff1538bdae8fb0",
+          "style": "NORMAL_TEXT",
+          "text": "（听说有瓜）"
+        }
+      ]
+    }
+  ]
+}
