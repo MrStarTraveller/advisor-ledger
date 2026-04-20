@@ -1,0 +1,384 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-13-20Z",
+    "revision_id": "AMHacu7021I9zU5afw2m4r6UN2e5rFt-GoeppqfDPHaRFcMs_P8bRTtFus8LE-_pBCWtGE4bzdmgu8WTEdirGQ9qHQ",
+    "paragraph_count": 656
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-17-40Z",
+    "revision_id": "AMHacu5rdDYvHJDElr4dsxp7_-uEqP5CruW3Vm4zQ-SclTjqY5OUzYCqtc3YS1MnaBueqemlf9QKwqUKZhU_8mtWXg",
+    "paragraph_count": 660
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 23,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0351,
+    "insertion_ratio": 0.0409
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 14,
+      "at_to": 14,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ad125da08cf368e",
+          "style": "NORMAL_TEXT",
+          "text": "1. 平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容"
+        },
+        {
+          "content_hash": "9a2140dcab61ccaa",
+          "style": "NORMAL_TEXT",
+          "text": "2. 学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。还要帮他砍树，修草坪，帮他老婆xue di"
+        },
+        {
+          "content_hash": "9ce706ddbda574c5",
+          "style": "NORMAL_TEXT",
+          "text": "3. 电话催命，每天都有电话很多时候不止一个，早7到晚12，周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了"
+        },
+        {
+          "content_hash": "4d61b90b71c198db",
+          "style": "NORMAL_TEXT",
+          "text": "4. 学术水平低，但对教职病态执着，你要是说毕业不想找教职，他会把你当仇人，天天把faculty挂嘴上引以为豪，除了这个职业都是下三滥"
+        },
+        {
+          "content_hash": "c7c854615f8430fe",
+          "style": "NORMAL_TEXT",
+          "text": "5. 学生quit五六个了，听说人家quit了他还在骚扰人家以及人家以前的关系"
+        },
+        {
+          "content_hash": "dbb17d4be20bb8e8",
+          "style": "NORMAL_TEXT",
+          "text": "6. 情绪极不稳定，组会上摔电脑，砸钱包，指着他的phd爆粗口，中英文混合"
+        },
+        {
+          "content_hash": "d4f318aedf4ce83c",
+          "style": "NORMAL_TEXT",
+          "text": "7. 他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学术"
+        },
+        {
+          "content_hash": "c1e825a0b497993e",
+          "style": "NORMAL_TEXT",
+          "text": "8. 明确表示phd都是他养的，在外面要讲情商，对phd想怎么样就怎么样"
+        },
+        {
+          "content_hash": "4b36088c1de5af3f",
+          "style": "NORMAL_TEXT",
+          "text": "9. 入学前会好言好语骗人进来，毕业时间研究方向都是假的，进来之后慢慢暴露他的本性"
+        },
+        {
+          "content_hash": "5200acac26531c4d",
+          "style": "NORMAL_TEXT",
+          "text": "10. 以及不计其数的逆天言论和事迹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "174909bb443810e4",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容"
+        },
+        {
+          "content_hash": "597eea357e496052",
+          "style": "NORMAL_TEXT",
+          "text": "学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。（还要帮他砍树，修草坪，帮他老婆雪地救援，搬家具）"
+        },
+        {
+          "content_hash": "98f988842b1d840f",
+          "style": "NORMAL_TEXT",
+          "text": "电话催命，每天都有电话很多时候不止一个，早7到晚12（12点后7点前也会接到电话），周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了"
+        },
+        {
+          "content_hash": "2ea73e9271e30e3b",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平低，但对教职病态执着，你要是说毕业不想找教职，他会把你当仇人，天天把faculty挂嘴上引以为豪，除了这个职业都是下三滥"
+        },
+        {
+          "content_hash": "3e496621d6221003",
+          "style": "NORMAL_TEXT",
+          "text": "学生quit五六个了（一年三个PhD同时quit），听说人家quit了他还在骚扰人家以及人家以前的关系"
+        },
+        {
+          "content_hash": "f0d656b3677a17f1",
+          "style": "NORMAL_TEXT",
+          "text": "情绪极不稳定，组会上摔电脑，砸钱包，指着他的phd爆粗口，中英文混合"
+        },
+        {
+          "content_hash": "9d725121db1ebd96",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学术"
+        },
+        {
+          "content_hash": "54c78196af978ee4",
+          "style": "NORMAL_TEXT",
+          "text": "明确表示phd都是他养的，在外面要讲情商，对phd想怎么样就怎么样"
+        },
+        {
+          "content_hash": "688055dbfb5d8156",
+          "style": "NORMAL_TEXT",
+          "text": "入学前会好言好语骗人进来，毕业时间研究方向都是假的，进来之后慢慢暴露他的本性"
+        },
+        {
+          "content_hash": "239936a2480d65dd",
+          "style": "NORMAL_TEXT",
+          "text": "以及不计其数的逆天言论和事迹"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 92,
+      "paragraphs": [
+        {
+          "content_hash": "d3512993c36f4d9e",
+          "style": "NORMAL_TEXT",
+          "text": "（我自己以及身边接触过她的人，对她在给方向、写推荐信这些方面的评价整体是比较正面的。以及别用“更年期”这种词攻击女教授，显得自己很没风度。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 143,
+      "at_to": 144,
+      "from_paragraphs": [
+        {
+          "content_hash": "64528cb2f3136908",
+          "style": "NORMAL_TEXT",
+          "text": "最著名的还有llava-o1"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1210a6738535dadd",
+          "style": "NORMAL_TEXT",
+          "text": "最著名的还有llava-o1 (😂)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 148,
+      "paragraphs": [
+        {
+          "content_hash": "ce193aa289476d9d",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂PUA intern"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 272,
+      "at_to": 274,
+      "from_paragraphs": [
+        {
+          "content_hash": "26ac007d13ca501c",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "55ec3ffb82a4b5e0",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）（感觉知道这件事的人不多吧）（这学生想去四大"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 276,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f8abe32a57a3754",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "486ce0818616ea1a",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）（证据说话啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 286,
+      "at_to": 288,
+      "from_paragraphs": [
+        {
+          "content_hash": "740f1544ba8053c7",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b18358b9777dcabe",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带 个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 358,
+      "paragraphs": [
+        {
+          "content_hash": "c2973c7863424461",
+          "style": "NORMAL_TEXT",
+          "text": "Dartmouth Yujun Yan"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 399,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "50ea1ef9ea5c8a38",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Kaize Ding"
+        },
+        {
+          "content_hash": "1b06e99ab77d526f",
+          "style": "NORMAL_TEXT",
+          "text": "丁丁老师xhs已经家喻户晓了吧？现在还在跟学生谈恋爱吗？"
+        },
+        {
+          "content_hash": "ebbfa733bc137543",
+          "style": "NORMAL_TEXT",
+          "text": "鸽子老师，招一堆intern 口头commit offer然后单方面decline"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcee9e4d82490f4d",
+          "style": "NORMAL_TEXT",
+          "text": "Duke Yiran Chen"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 502,
+      "paragraphs": [
+        {
+          "content_hash": "ce51ad5d35303a0d",
+          "style": "NORMAL_TEXT",
+          "text": "（好奇什么瓜？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 533,
+      "paragraphs": [
+        {
+          "content_hash": "feeaae04f03aaf1e",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Sikai Chen"
+        },
+        {
+          "content_hash": "2d48186358b56525",
+          "style": "NORMAL_TEXT",
+          "text": "夏天不给phd学生钱还要求留校，灵魂发问“你没有存款吗”"
+        },
+        {
+          "content_hash": "515e44c49d64c1cf",
+          "style": "NORMAL_TEXT",
+          "text": "大弟子一堆造假paper"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 542,
+      "at_to": 543,
+      "from_paragraphs": [
+        {
+          "content_hash": "9aa4ca328139eb0f",
+          "style": "NORMAL_TEXT",
+          "text": "UofT network方向L老师"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e0be1b2f8510b67",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Baochun Li"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 545,
+      "paragraphs": [
+        {
+          "content_hash": "19ba4d3b4665d872",
+          "style": "NORMAL_TEXT",
+          "text": "现在组里全是女生，疑似只招中国大陆籍女生"
+        },
+        {
+          "content_hash": "8ffbe833c002c92a",
+          "style": "NORMAL_TEXT",
+          "text": "张口闭口浓浓我是你大爹, 禁实习，组内不能相互合作。会对你说idea垃圾不要做，转头发现组里其他学生在做"
+        },
+        {
+          "content_hash": "ae7b7b46c1582013",
+          "style": "NORMAL_TEXT",
+          "text": "其他人下面的评价但他也符合：对教职病态执着，天天把faculty挂嘴上引以为豪，除了这个职业都是下三滥。深夜emo了会给学生打电话。明确表示phd都是他养的，在外面要讲情商，对phd想怎么样就怎么样。情绪极不稳定。入学前会好言好语骗人进来，毕业时间研究方向都是假的，进来之后慢慢暴露他的本性。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 623,
+      "at_to": 627,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b74f1579f564fef4",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很低，画大饼"
+        }
+      ]
+    }
+  ]
+}

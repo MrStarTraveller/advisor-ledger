@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-17-40Z.delta.json",
+  "delta_ts": "2026-04-20T01-17-40Z",
+  "reviewed_at_utc": "2026-04-20T01:18:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observations about advisor NWU Kaize Ding (allegations of dating students and reneging on intern offers) and replaces them with only the name of a different professor (Duke Yiran Chen). This appears to suppress specific legitimate advising complaints rather than perform cleanup.",
+      "excerpt": "- NWU Kaize Ding\n- 丁丁老师xhs已经家喻户晓了吧？现在还在跟学生谈恋爱吗？\n- 鸽子老师，招一堆intern 口头commit offer然后单方面decline\n\n+ Duke Yiran Chen"
+    }
+  ],
+  "prompt_sha256": "9f06be837d2f2cf36d76851625772a1b3832d22d672c41928d22745043b2429e",
+  "finish_reason": "stop",
+  "completion_tokens": 4749
+}
