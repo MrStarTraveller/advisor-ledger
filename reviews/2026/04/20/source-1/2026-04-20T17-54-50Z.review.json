@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-54-50Z.delta.json",
+  "delta_ts": "2026-04-20T17-54-50Z",
+  "reviewed_at_utc": "2026-04-20T17:55:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Replacing substantive defense of advisor's authorship and recommendation practices with truncated text, suppressing detailed counter-arguments about co-first authorship and letter writing",
+      "excerpt": "-之前有幸在创总实习过，我觉得创的评价比较两面，学术水平"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Adding unsupported personal insults characterizing opponents as 'running dogs' (走狗) and sycophants",
+      "excerpt": "太对了，反驳你的都是走狗，众人皆浊我独清！"
+    }
+  ],
+  "prompt_sha256": "cfd9be8abe8beaee6becdcc2be86e33f46b7e3056cd065a73dd0a59698d96278",
+  "finish_reason": "stop",
+  "completion_tokens": 3677
+}
