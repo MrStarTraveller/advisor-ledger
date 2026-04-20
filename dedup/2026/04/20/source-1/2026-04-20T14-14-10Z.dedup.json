@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-14-10Z",
+  "reviewed_at_utc": "2026-04-20T14:15:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 12,
+  "n_inserts": 14,
+  "pairs": [
+    {
+      "ghost_hash": "4c080fb416ac602f",
+      "insert_hash": "b1eb40eb0c236837",
+      "note": "added medical advice at end",
+      "ghost_text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）",
+      "insert_text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）（有病就去看医生）"
+    },
+    {
+      "ghost_hash": "eb60824b631f22e4",
+      "insert_hash": "7c4f71744426f9bd",
+      "note": "changed ending phrase",
+      "ghost_text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人一直搅浑水）",
+      "insert_text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）"
+    },
+    {
+      "ghost_hash": "21d782fb9fbd743f",
+      "insert_hash": "402a9303814d44e9",
+      "note": "expanded with details and responses",
+      "ghost_text": "让USC Yue Wang给某没在Yue组里当过intern的学生写了最强推，其他intern全黑推yue是脑残吗? 怎么可能",
+      "insert_text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了辟谣：给了几个强推，而且之前提到的 不是最强推。被删掉的不要再反复粘了。谁让你删了？有种就rebuttal"
+    },
+    {
+      "ghost_hash": "1d86492d58e375d9",
+      "insert_hash": "6117ca83b52d691e",
+      "note": "added student clarification",
+      "ghost_text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）",
+      "insert_text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的帖子)"
+    },
+    {
+      "ghost_hash": "679a7263439bb553",
+      "insert_hash": "001ed74077294392",
+      "note": "added explanation about May",
+      "ghost_text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)",
+      "insert_text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）"
+    },
+    {
+      "ghost_hash": "949b1b42e95fa2dd",
+      "insert_hash": "3bc8bec7639decb7",
+      "note": "completed truncated sentence",
+      "ghost_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出",
+      "insert_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push但是是很靠谱的老师。至于说极限承压这个见仁见智了，不习惯可以换佛一点的老师。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3544,
+  "skipped_reason": null
+}

@@ -1,0 +1,275 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-10-00Z",
+    "revision_id": "AMHacu47PYTGQUk0M39PQxTFlcrKi8qzkK8vznfrZUD4WjmiUwORvHR_23hFnCxcM5d1jP7nqUCVcm_-BStRgGyiqQ",
+    "paragraph_count": 1901
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-14-10Z",
+    "revision_id": "AMHacu68pwRiJ9Q1PGXZE-ghMN2ZYfqr8e41wk9P7N9f_WHSSgQuEjO94RKnK57hgSOJe6-k6ANMunNylWdkrWvsQA",
+    "paragraph_count": 1904
+  },
+  "summary": {
+    "inserted_paragraphs": 18,
+    "deleted_paragraphs": 15,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0079,
+    "insertion_ratio": 0.0095
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 111,
+      "at_to": 111,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c080fb416ac602f",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b1eb40eb0c236837",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）（有病就去看医生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 118,
+      "at_to": 118,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb60824b631f22e4",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人一直搅浑水）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c4f71744426f9bd",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 543,
+      "paragraphs": [
+        {
+          "content_hash": "429d0ef13a49527b",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？ (点赞)被ucb取消offer 还有这事，那stf为啥不取消？ stf on hold 了，但后来北大没作为，因此又给offer了北大也是离谱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 570,
+      "from_paragraphs": [
+        {
+          "content_hash": "21d782fb9fbd743f",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern的学生写了最强推，其他intern全黑推yue是脑残吗? 怎么可能"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "402a9303814d44e9",
+          "style": "NORMAL_TEXT",
+          "text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了辟谣：给了几个强推，而且之前提到的 不是最强推。被删掉的不要再反复粘了。谁让你删了？有种就rebuttal"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 594,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cd88e6936e25ce18",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 805,
+      "at_to": 801,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d86492d58e375d9",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6117ca83b52d691e",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的帖子)"
+        },
+        {
+          "content_hash": "5abef603383d5da2",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有一个和组内有矛盾的人在这里删我们的回复。"
+        },
+        {
+          "content_hash": "b03d5fc4cdc7219d",
+          "style": "NORMAL_TEXT",
+          "text": "涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。"
+        },
+        {
+          "content_hash": "ba5ec51d07a4ac0e",
+          "style": "NORMAL_TEXT",
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 994,
+      "paragraphs": [
+        {
+          "content_hash": "6f43e0e020f42c67",
+          "style": "NORMAL_TEXT",
+          "text": "GWU,  Howie Huang"
+        },
+        {
+          "content_hash": "efab220f4bf9b816",
+          "style": "NORMAL_TEXT",
+          "text": "著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strength在哪里，还让学生opt来干活 恶心得一批"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "88a29abddd71e61f",
+          "style": "NORMAL_TEXT",
+          "text": " ece随便问个senior phd应该都能略知一二"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1059,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6f43e0e020f42c67",
+          "style": "NORMAL_TEXT",
+          "text": "GWU,  Howie Huang"
+        },
+        {
+          "content_hash": "efab220f4bf9b816",
+          "style": "NORMAL_TEXT",
+          "text": "著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strength在哪里，还让学生opt来干活 恶心得一批"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "88a29abddd71e61f",
+          "style": "NORMAL_TEXT",
+          "text": " ece随便问个senior phd应该都能略知一二"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1684,
+      "at_to": 1685,
+      "from_paragraphs": [
+        {
+          "content_hash": "679a7263439bb553",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "001ed74077294392",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1688,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "955c8c8710bc4750",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST,  Yangqiu Song"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1718,
+      "at_to": 1721,
+      "from_paragraphs": [
+        {
+          "content_hash": "949b1b42e95fa2dd",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3bc8bec7639decb7",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push但是是很靠谱的老师。至于说极限承压这个见仁见智了，不习惯可以换佛一点的老师。"
+        }
+      ]
+    }
+  ]
+}

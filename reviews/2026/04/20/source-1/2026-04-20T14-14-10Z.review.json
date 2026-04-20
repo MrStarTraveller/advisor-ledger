@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-14-10Z.delta.json",
+  "delta_ts": "2026-04-20T14-14-10Z",
+  "reviewed_at_utc": "2026-04-20T14:15:06Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added insult telling a commenter to seek medical help, which is a pure personal attack unrelated to advising practices.",
+      "excerpt": "(有病就去看医生)"
+    },
+    {
+      "type": "pii",
+      "detail": "Inserted identifying information about a specific student (full name Ding Yufei) and their romantic relationship status (girlfriend of Geng Haoran), which is private personal information.",
+      "excerpt": "不就是ghr的npy吗？ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive accusation about an individual pretending to be an intern to whitewash their own record (sockpuppeting), which is a legitimate observation about conduct, while also removing contact info; this appears to suppress criticism rather than mere cleanup.",
+      "excerpt": "你在这里假装自己intern给自己硬洗"
+    }
+  ],
+  "prompt_sha256": "b27e6320e1ff7b21cfaea2f5f65b33985ee1c00cf06736a3e69e4a64b6e1da9e",
+  "finish_reason": "stop",
+  "completion_tokens": 6018
+}
