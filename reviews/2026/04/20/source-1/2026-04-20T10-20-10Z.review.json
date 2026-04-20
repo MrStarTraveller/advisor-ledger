@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-20-10Z.delta.json",
+  "delta_ts": "2026-04-20T10-20-10Z",
+  "reviewed_at_utc": "2026-04-20T10:20:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Added initials 'dyf' identifying a specific student (referred to as the girlfriend 'npy' of professor 'ghr'), which constitutes personally identifying information about a private individual.",
+      "excerpt": "dyf"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted personal insult attacking the previous commenter ('清醒点傻孩子' / 'wake up silly child'), which is a pure personal attack without substantive criticism of advising practices.",
+      "excerpt": "还知情人，你别做梦了，清醒点傻孩子"
+    }
+  ],
+  "prompt_sha256": "70e9ce8fd3f1409143ff5ce3b29cdf034d3687c5a7feee959b7cb3940bc1e145",
+  "finish_reason": "stop",
+  "completion_tokens": 2851
+}

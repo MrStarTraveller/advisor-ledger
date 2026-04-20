@@ -1,0 +1,145 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-15-50Z",
+    "revision_id": "AMHacu6rR0s8f1s8Mj2xK5HyoTrve5R4IeMcsaAMimurzKN7fAYOe_ntgC9SRVe-DrHF2hRt4mclLrabq-NP1sUwaw",
+    "paragraph_count": 1506
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-20-10Z",
+    "revision_id": "AMHacu7eYzxYx_yb5a-Ulhpf4l96Jqvy2pkFZzauZuiWbgtmFfpt_nq62nRtyhtLjnCrPUsUeUrbr7G5TGVWogLabQ",
+    "paragraph_count": 1507
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 6,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.004,
+    "insertion_ratio": 0.0046
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 136,
+      "at_to": 136,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d73b117d7cc6106",
+          "style": "NORMAL_TEXT",
+          "text": "组里paper 超过 90% reproduce不出来(笑死，这也太真实了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ae19988e9dca48c",
+          "style": "NORMAL_TEXT",
+          "text": "组里paper 超过 90% reproduce不出来(笑死，这也太真实了）（太真实了，复现出来纯一坨）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 229,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8739fa88e394a0e9",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 232,
+      "at_to": 232,
+      "from_paragraphs": [
+        {
+          "content_hash": "354116970b8cc266",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c6c39ff5c33b372",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？dyf)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 244,
+      "at_to": 244,
+      "from_paragraphs": [
+        {
+          "content_hash": "bebc7f82ed3aee71",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b49447c457526f43",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/ 还知情人，你别做梦了，清醒点傻孩子"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 251,
+      "from_paragraphs": [
+        {
+          "content_hash": "f87b3ce24ea93d6c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗?"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a0bc4d2b38bdeeb1",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? Reborn agi?"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 266,
+      "at_to": 267,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0d648ffa4242237",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bd4aeff5d93d6f0f",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+        }
+      ]
+    }
+  ]
+}

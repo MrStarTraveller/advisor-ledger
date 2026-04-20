@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-20-10Z",
+  "reviewed_at_utc": "2026-04-20T10:21:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "1d73b117d7cc6106",
+      "insert_hash": "0ae19988e9dca48c",
+      "note": "Added comment at end",
+      "ghost_text": "组里paper 超过 90% reproduce不出来(笑死，这也太真实了）",
+      "insert_text": "组里paper 超过 90% reproduce不出来(笑死，这也太真实了）（太真实了，复现出来纯一坨）"
+    },
+    {
+      "ghost_hash": "354116970b8cc266",
+      "insert_hash": "8c6c39ff5c33b372",
+      "note": "Added 'dyf' at end",
+      "ghost_text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？)",
+      "insert_text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？dyf)"
+    },
+    {
+      "ghost_hash": "bebc7f82ed3aee71",
+      "insert_hash": "b49447c457526f43",
+      "note": "Added rebuttal sentence",
+      "ghost_text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/",
+      "insert_text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/ 还知情人，你别做梦了，清醒点傻孩子"
+    },
+    {
+      "ghost_hash": "f87b3ce24ea93d6c",
+      "insert_hash": "a0bc4d2b38bdeeb1",
+      "note": "Added 'Reborn agi?'",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗?",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? Reborn agi?"
+    },
+    {
+      "ghost_hash": "b0d648ffa4242237",
+      "insert_hash": "bd4aeff5d93d6f0f",
+      "note": "Added '(xs hhh)' at end",
+      "ghost_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)",
+      "insert_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3264,
+  "skipped_reason": null
+}
