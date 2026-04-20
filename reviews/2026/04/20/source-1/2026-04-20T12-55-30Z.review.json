@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-55-30Z.delta.json",
+  "delta_ts": "2026-04-20T12-55-30Z",
+  "reviewed_at_utc": "2026-04-20T12:56:25Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Edit corrects spelling of a PhD student's name from handle 'Siageng mao' to real full name 'Jiageng mao', adding personally identifying information about a student",
+      "excerpt": "Jiageng mao没水平"
+    }
+  ],
+  "prompt_sha256": "61417204d5852e423074a35dd8267979ebc6e7e8c9754784b7c4e339bdc762ae",
+  "finish_reason": "stop",
+  "completion_tokens": 6034
+}

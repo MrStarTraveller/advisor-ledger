@@ -1,0 +1,151 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-53-20Z",
+    "revision_id": "AMHacu5Z9ioC7IbCgwa8QHLhv55HjLf7XVB2Q2Nvb2MIKEWHJjjBJ2gDR2__MpBtGaqzyGEcOUNRWDzPMEZ300waPA",
+    "paragraph_count": 1866
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-55-30Z",
+    "revision_id": "AMHacu7vpBrg25W5pgmKYezhegUo6ntar1KmajRRNquxZZVZMpxTHGN8VCrdAQXNuEikk5ghrbeIHkHgTL_ip4QAEw",
+    "paragraph_count": 1867
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0032,
+    "insertion_ratio": 0.0037
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 16,
+      "paragraphs": [
+        {
+          "content_hash": "014f51a464fd22f2",
+          "style": "NORMAL_TEXT",
+          "text": "加一个黑榜list:Tong(Tony) Geng, Rice University"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 551,
+      "at_to": 549,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec2acb260650100a",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Siageng mao没水平，希望yue别支持这种事情）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a796910991dc578b",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 558,
+      "at_to": 556,
+      "from_paragraphs": [
+        {
+          "content_hash": "1480f2b502f12910",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "752549443fbd8102",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己 (点赞)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 621,
+      "at_to": 619,
+      "from_paragraphs": [
+        {
+          "content_hash": "9a680d86a3eb0d6f",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e046c26bce3d328e",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1673,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1676,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1735,
+      "at_to": 1735,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c44fd1bef2662da",
+          "style": "NORMAL_TEXT",
+          "text": "同事攻击性比较强，觉得别人做的都不行"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77a158f79402a057",
+          "style": "NORMAL_TEXT",
+          "text": "同时攻击性比较强，觉得别人做的都不行"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1742,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

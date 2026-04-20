@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-55-30Z",
+  "reviewed_at_utc": "2026-04-20T12:56:43Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "ec2acb260650100a",
+      "insert_hash": "a796910991dc578b",
+      "note": "typo fix: Siageng to Jiageng",
+      "ghost_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Siageng mao没水平，希望yue别支持这种事情）",
+      "insert_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+    },
+    {
+      "ghost_hash": "1480f2b502f12910",
+      "insert_hash": "752549443fbd8102",
+      "note": "added (点赞) marker",
+      "ghost_text": "Yufei Ding 今年stf的phd，纯学术妲己",
+      "insert_text": "Yufei Ding 今年stf的phd，纯学术妲己 (点赞)"
+    },
+    {
+      "ghost_hash": "9a680d86a3eb0d6f",
+      "insert_hash": "e046c26bce3d328e",
+      "note": "added opening parenthesis",
+      "ghost_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）",
+      "insert_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（"
+    },
+    {
+      "ghost_hash": "8c44fd1bef2662da",
+      "insert_hash": "77a158f79402a057",
+      "note": "typo: 同事 to 同时",
+      "ghost_text": "同事攻击性比较强，觉得别人做的都不行",
+      "insert_text": "同时攻击性比较强，觉得别人做的都不行"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2356,
+  "skipped_reason": null
+}
