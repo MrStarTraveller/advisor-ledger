@@ -1,0 +1,301 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-28-30Z",
+    "revision_id": "AMHacu7HYC8RnqorzTML5s0FYKcZlPdFk_dHxV5FkM0XvFZIvtltf4n3523oh5xXui4jCR9ro7mSjfVKB3vM6tFH8Q",
+    "paragraph_count": 945
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-30-40Z",
+    "revision_id": "AMHacu5SNKv2lWB8IKZ4nYt2sSb-cvvHRdG5xeMtCc4QLOjh1cJEyFpcISux7rT0KkBXr6sruJVvw2_1i2-zIDk3lg",
+    "paragraph_count": 950
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 19,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0201,
+    "insertion_ratio": 0.0253
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 23,
+      "from_paragraphs": [
+        {
+          "content_hash": "36e915eda42f6dd2",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年丧而学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e9adc207c42acad4",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 69,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6c16a9e2cce71af9",
+          "style": "NORMAL_TEXT",
+          "text": "UMD Heng Huang"
+        },
+        {
+          "content_hash": "b10fb1ee20a15e4b",
+          "style": "NORMAL_TEXT",
+          "text": "积分制毕业，多人跑路，大雷"
+        },
+        {
+          "content_hash": "b3422248bbb7aee2",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）（对，CV会基本上只能算半篇)（CV算半篇也听说了，逆天透顶）"
+        },
+        {
+          "content_hash": "d0e8aa209295779d",
+          "style": "NORMAL_TEXT",
+          "text": "认为cv的顶会排序是neurips/icml > iclr > CVPR"
+        },
+        {
+          "content_hash": "ebf5d08133420598",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说某些其他领域顶会=arxiv"
+        },
+        {
+          "content_hash": "20b60e5a15eba444",
+          "style": "NORMAL_TEXT",
+          "text": "看面相即可"
+        },
+        {
+          "content_hash": "3f1c50a7c78c5345",
+          "style": "NORMAL_TEXT",
+          "text": "传奇水paper王，认识拿他offer的说得发十多篇才放毕业。"
+        },
+        {
+          "content_hash": "ad4f9695eb2c2c0d",
+          "style": "NORMAL_TEXT",
+          "text": "很会吹牛。很会 judge 人，“你这成绩单不行啊，怎么都是水课。。。“ 怀疑眼睛有问题"
+        },
+        {
+          "content_hash": "12bc643b73efd34e",
+          "style": "NORMAL_TEXT",
+          "text": "学生如果要找教职低于Top50不给推荐信，因为UMD是Top10（？这也太糖了) （6666）（他上一个学校匹大排名多少？）"
+        },
+        {
+          "content_hash": "44f422794800f624",
+          "style": "NORMAL_TEXT",
+          "text": "认为自己比很多知名学者厉害，觉得其他教授水平不行"
+        },
+        {
+          "content_hash": "bf0b94ad7585bc7c",
+          "style": "NORMAL_TEXT",
+          "text": "过去n年，组内最少5.5年毕业"
+        },
+        {
+          "content_hash": "42cd3c0c79a458c3",
+          "style": "NORMAL_TEXT",
+          "text": "背地里会离间组内学生关系，经常会直接在学生面前比较其他学生"
+        },
+        {
+          "content_hash": "c38805bd5b6aa52b",
+          "style": "NORMAL_TEXT",
+          "text": "学历歧视，diss非清北本科的学生"
+        },
+        {
+          "content_hash": "63540eb155be9dca",
+          "style": "NORMAL_TEXT",
+          "text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 433,
+      "at_to": 451,
+      "from_paragraphs": [
+        {
+          "content_hash": "848727e23eb5fab2",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）（+1000000000）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f4a258b20b0c85be",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）（+1000000000）（实际上不算DM/GNN，只是什么火做什么）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 512,
+      "paragraphs": [
+        {
+          "content_hash": "6c16a9e2cce71af9",
+          "style": "NORMAL_TEXT",
+          "text": "UMD Heng Huang"
+        },
+        {
+          "content_hash": "b10fb1ee20a15e4b",
+          "style": "NORMAL_TEXT",
+          "text": "积分制毕业，多人跑路，大雷"
+        },
+        {
+          "content_hash": "b3422248bbb7aee2",
+          "style": "NORMAL_TEXT",
+          "text": "细说积分制 （听说五Nips）（对，CV会基本上只能算半篇)（CV算半篇也听说了，逆天透顶）"
+        },
+        {
+          "content_hash": "d0e8aa209295779d",
+          "style": "NORMAL_TEXT",
+          "text": "认为cv的顶会排序是neurips/icml > iclr > CVPR"
+        },
+        {
+          "content_hash": "ebf5d08133420598",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说某些其他领域顶会=arxiv"
+        },
+        {
+          "content_hash": "20b60e5a15eba444",
+          "style": "NORMAL_TEXT",
+          "text": "看面相即可"
+        },
+        {
+          "content_hash": "3f1c50a7c78c5345",
+          "style": "NORMAL_TEXT",
+          "text": "传奇水paper王，认识拿他offer的说得发十多篇才放毕业。"
+        },
+        {
+          "content_hash": "ad4f9695eb2c2c0d",
+          "style": "NORMAL_TEXT",
+          "text": "很会吹牛。很会 judge 人，“你这成绩单不行啊，怎么都是水课。。。“ 怀疑眼睛有问题"
+        },
+        {
+          "content_hash": "12bc643b73efd34e",
+          "style": "NORMAL_TEXT",
+          "text": "学生如果要找教职低于Top50不给推荐信，因为UMD是Top10（？这也太糖了) （6666）（他上一个学校匹大排名多少？）"
+        },
+        {
+          "content_hash": "44f422794800f624",
+          "style": "NORMAL_TEXT",
+          "text": "认为自己比很多知名学者厉害，觉得其他教授水平不行"
+        },
+        {
+          "content_hash": "bf0b94ad7585bc7c",
+          "style": "NORMAL_TEXT",
+          "text": "过去n年，组内最少5.5年毕业"
+        },
+        {
+          "content_hash": "42cd3c0c79a458c3",
+          "style": "NORMAL_TEXT",
+          "text": "背地里会离间组内学生关系，经常会直接在学生面前比较其他学生"
+        },
+        {
+          "content_hash": "c38805bd5b6aa52b",
+          "style": "NORMAL_TEXT",
+          "text": "学历歧视，diss非清北本科的学生"
+        },
+        {
+          "content_hash": "63540eb155be9dca",
+          "style": "NORMAL_TEXT",
+          "text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 528,
+      "at_to": 531,
+      "from_paragraphs": [
+        {
+          "content_hash": "a9ef53eaea3fbb06",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人（还不如直接骂），idea都是a+b"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9292a5a82f466463",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会(fake)，投不出来还喜欢嘲笑人（还不如直接骂），idea都是a+b"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 578,
+      "at_to": 581,
+      "from_paragraphs": [
+        {
+          "content_hash": "1997822e08892767",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, paper只能拿neurips 主会oral 和workshop awards, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a6a2f124523fa213",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了neurips主会oral和workshop awards, 10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 737,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 741,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
