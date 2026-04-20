@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-06-40Z.delta.json",
+  "delta_ts": "2026-04-20T12-06-40Z",
+  "reviewed_at_utc": "2026-04-20T12:07:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student 'ding yufei' disclosed in relationship gossip context",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Severe personal attack using disability slur (retard) and vulgar profanity (eat shit)",
+      "excerpt": "智力水平有点问题，交流起来像是智障...他可以自己在家吃屎"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult",
+      "excerpt": "垃圾一个"
+    }
+  ],
+  "prompt_sha256": "ba2d00c390ac76100df29ff45012b82281ada43edf4119beca06317f136f57d7",
+  "finish_reason": "stop",
+  "completion_tokens": 7030
+}
