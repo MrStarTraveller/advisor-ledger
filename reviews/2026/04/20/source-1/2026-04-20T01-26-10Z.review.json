@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-26-10Z.delta.json",
+  "delta_ts": "2026-04-20T01-26-10Z",
+  "reviewed_at_utc": "2026-04-20T01:27:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Specific details about students' private romantic relationships (affairs, marriages) and academic placements (UA, HK school) that could de-anonymize individuals",
+      "excerpt": "学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar insult ('舔狗') attacking the professor's character and social behavior rather than concrete advising practices",
+      "excerpt": "在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+    }
+  ],
+  "prompt_sha256": "b3aee16fe98768c0a256973627c1fb6abc2366da8cde21e9348b6e76a3738d68",
+  "finish_reason": "stop",
+  "completion_tokens": 3989
+}

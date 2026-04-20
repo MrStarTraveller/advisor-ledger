@@ -1,0 +1,200 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-24-00Z",
+    "revision_id": "AMHacu6FhetMNualWJuN8t72spk0_zfQLX6gjidbF0crOL0zjdF2GvxZqreWz5nffq_Y3CS7m4cS9U5edgGSZFrSWQ",
+    "paragraph_count": 671
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-26-10Z",
+    "revision_id": "AMHacu7NXGTViuuNGod4ZgYrz9G2JJ-AszvsRxS4AjbW00tlKXvoSvR4PkXwMv_THfq_Pv39hadSy8xs9zDvjGs4mg",
+    "paragraph_count": 678
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 7,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0104,
+    "insertion_ratio": 0.0206
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 25,
+      "at_to": 25,
+      "from_paragraphs": [
+        {
+          "content_hash": "07df797c90c7a0d4",
+          "style": "NORMAL_TEXT",
+          "text": "挑拨离间各个学生，说"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a4ee7ded755a5976",
+          "style": "NORMAL_TEXT",
+          "text": "挑拨离间各个学生，说其他学生坏话"
+        },
+        {
+          "content_hash": "fbfd559f9ee7352f",
+          "style": "NORMAL_TEXT",
+          "text": "歧视女生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 99,
+      "at_to": 100,
+      "from_paragraphs": [
+        {
+          "content_hash": "93e2d2a2bff066e3",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "00b0b93c039d063f",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Yuan-fang Wang"
+        },
+        {
+          "content_hash": "ecb0d31a7a363908",
+          "style": "NORMAL_TEXT",
+          "text": "坑爹导师"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 155,
+      "paragraphs": [
+        {
+          "content_hash": "dc8e02d96f023f37",
+          "style": "NORMAL_TEXT",
+          "text": "感觉对非intern特别好 会给很多有用的建议和"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 173,
+      "at_to": 177,
+      "from_paragraphs": [
+        {
+          "content_hash": "742223075845a6b3",
+          "style": "NORMAL_TEXT",
+          "text": "组里压力非常大， proposal也让学生写，paper也不看，quit了几个高年级phd（听说过，告到系里）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "920c6c919ae73489",
+          "style": "NORMAL_TEXT",
+          "text": "组里压力非常大， proposal也让学生写，paper也不看，quit了几个高年级phd（听说过，告到系里）（真的不是骂错人吗，quit了好几个应该是他同事吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 196,
+      "from_paragraphs": [
+        {
+          "content_hash": "58a6bd1466159059",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一堆水文"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4614dd806c467cd6",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "7b70732ec8d75fc4",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "0647b5ff8dca84e6",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "984f15ab3cabdc31",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 428,
+      "at_to": 435,
+      "from_paragraphs": [
+        {
+          "content_hash": "1987cb0b13599a0a",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "681151b016084f91",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是zui h"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 430,
+      "at_to": 437,
+      "from_paragraphs": [
+        {
+          "content_hash": "d0178a4495ef1532",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "905cbec1a1f96378",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说他push我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 558,
+      "at_to": 565,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b49631c8b8052fa",
+          "style": "NORMAL_TEXT",
+          "text": "infocom就是他那个圈子的人（wireless）搞臭的（哥们认识人啊xs，你讲讲他学生吧，有个和本科生结婚那个）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40ee3adcc5a9d639",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（哦哦跑路d"
+        }
+      ]
+    }
+  ]
+}
