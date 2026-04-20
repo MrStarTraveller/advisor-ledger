@@ -1,0 +1,244 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-37-30Z",
+    "revision_id": "AMHacu7jKkQyL8tZ8ArPNzJWN3c-yDCPU2YXrD0_a9e0IxVwp9i7hE7dvcGrjuXBJ2BaJaAItKjspr9l_NS0aWvUEg",
+    "paragraph_count": 1984
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-41-50Z",
+    "revision_id": "AMHacu6f1E3hvDhm9VfLLb85D4Im1HJo5vNG_j7IWaKj4KKF2NDLB0rnCyE2Z-OM79VcTrA9e5gMsjsOhUqBMNXkvw",
+    "paragraph_count": 1998
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 7,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0035,
+    "insertion_ratio": 0.0105
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 10,
+      "at_to": 10,
+      "from_paragraphs": [
+        {
+          "content_hash": "f7fee6f3e3effe93",
+          "style": "NORMAL_TEXT",
+          "text": "删除了一些敏感信息"
+        },
+        {
+          "content_hash": "c69b1e9719dc9ee4",
+          "style": "NORMAL_TEXT",
+          "text": "大家可以使用隐私模式打开本文档，避免浏览器指纹追踪，以及换上VPN"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57f69533d4e1b01e",
+          "style": "NORMAL_TEXT",
+          "text": "删除了一些敏感信息大家可以使用隐私模式打开本文档，避免浏览器指纹追踪，以及换上VPN"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 38,
+      "at_to": 37,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "11be8b43360aa857",
+          "style": "NORMAL_TEXT",
+          "text": "帮一位intern女生写好code跑实验，还叫组里phd一起帮这位女生共享屏幕debug"
+        },
+        {
+          "content_hash": "5a95f7cce8d3acb0",
+          "style": "NORMAL_TEXT",
+          "text": "某项目多个phd和intern一块做，有个visting phd做了六个月，因为这个老板自己的PhD做不出来项目，直接把这个visiting phd的成果给自己的PhD，自己的phdyi zuo最后只给这位visiting phd五作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 224,
+      "at_to": 224,
+      "from_paragraphs": [
+        {
+          "content_hash": "924dc42b04c35076",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据 （需要证据？） 乐，上github看看他最高引llm paper有多少人抱怨复现不出来的（paper里面都有复现代码）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a10c0c4fa0611fcc",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据 （需要证据？） 乐，上github看看他最高引llm paper有多少人抱怨复现不出来的（paper里面都有复现代码）代码、ckpt、数据都公开的工作，本身就在接受复现检验，这和“造假”是两回事。没及时回复不等于有问题"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 269,
+      "paragraphs": [
+        {
+          "content_hash": "95dac6852d2ddaca",
+          "style": "NORMAL_TEXT",
+          "text": "曾逼迫master工作到凌晨三点，提前走的话开zoom直接骂"
+        },
+        {
+          "content_hash": "e3a7907c98e56724",
+          "style": "NORMAL_TEXT",
+          "text": "因为学生要去别的老师那里rotation，要求对方当面写邮件跟别的老师说不去了然后bcc他"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 412,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e1c7e0123399276b",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Sikai Chen (别删啊大弟子）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 617,
+      "at_to": 621,
+      "from_paragraphs": [
+        {
+          "content_hash": "aa4c463ffef9559c",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(要是去学术圈了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "51d21cd3194fafce",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(还没进教职先进黑榜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 743,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        },
+        {
+          "content_hash": "afa12aa5902408fe",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击，卡学生暑假实习"
+        },
+        {
+          "content_hash": "e4433856be4ecdc5",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)"
+        },
+        {
+          "content_hash": "694c3bac376c5136",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer （coadivse offer也没人敢去）"
+        },
+        {
+          "content_hash": "052daf0ee2631f60",
+          "style": "NORMAL_TEXT",
+          "text": "据说当ap之前就瓜很多"
+        },
+        {
+          "content_hash": "ce51ad5d35303a0d",
+          "style": "NORMAL_TEXT",
+          "text": "（好奇什么瓜？）"
+        },
+        {
+          "content_hash": "9eb3a6fa74478962",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU人尽皆知吧 (能讲讲吗)"
+        },
+        {
+          "content_hash": "e9343954ccdd8cd4",
+          "style": "NORMAL_TEXT",
+          "text": "和PhD老板gao"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1418,
+      "paragraphs": [
+        {
+          "content_hash": "c55481a7726a0d44",
+          "style": "NORMAL_TEXT",
+          "text": "张老师早年确实"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1541,
+      "at_to": 1555,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c0b3339440ee55f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5aed119ec6ed66ba",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事（时代的眼泪了都……dang）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1767,
+      "at_to": 1781,
+      "from_paragraphs": [
+        {
+          "content_hash": "bd3fac2d39705b68",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好学生录他的但是十一月底忽然说不录了。总的来说性格是好的，老师也很认真帮助大家的，不过"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "457a22a07361ed14",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好学生录他的但是十一月底忽然说不录了（后面还在招新的，）。总的来说性格是好的，老师也很认真帮助大家的，"
+        }
+      ]
+    }
+  ]
+}
