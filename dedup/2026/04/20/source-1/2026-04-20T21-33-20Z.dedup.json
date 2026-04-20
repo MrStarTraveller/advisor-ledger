@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-33-20Z",
+  "reviewed_at_utc": "2026-04-20T21:34:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "294036af3eb952b1",
+      "insert_hash": "89fefe653de3ff05",
+      "note": "minor rewrite with added comments",
+      "ghost_text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的，样本数量十分有限。)",
+      "insert_text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support （这点、存疑），学生去向也很好（caltech本科生去向差不了 qi'ta），无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的，样本数量十分有限。)"
+    },
+    {
+      "ghost_hash": "80e7950d3ed33157",
+      "insert_hash": "53deb1f35311c578",
+      "note": "added detail about intern/postdoc",
+      "ghost_text": "A老师push是真的 需要心脏比较大的学生  但资源多也是真的",
+      "insert_text": "A老师push是真的 需要心脏比较大的学生 从intern到博后都会被骂 但资源多也是真的"
+    },
+    {
+      "ghost_hash": "00fb62a3e477217f",
+      "insert_hash": "8baf51c47954807c",
+      "note": "paragraph split into two parts",
+      "ghost_text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。（纯路人，能提供工业界资源的是好老师）",
+      "insert_text": "跑路去xai了，现在不知道组里phd怎么办（"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4352,
+  "skipped_reason": null
+}

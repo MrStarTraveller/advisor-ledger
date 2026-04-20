@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-33-20Z.delta.json",
+  "delta_ts": "2026-04-20T21-33-20Z",
+  "reviewed_at_utc": "2026-04-20T21:33:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion removes substantive multi-party discussion about a specific advisor (Ce Zhang), including specific claims about past toxic behavior at ETH, counter-claims by current students about supportive practices, and references to spousal hiring (夫妻店). This suppresses legitimate observations about advising practices rather than cleaning up typos, blanks, or off-topic content.",
+      "excerpt": "- U-Chicago Ce Zhang（存在争议，请谨慎辨别）\n- 据说是毒王常toxic (eth时期的事情了)\n- Bo li 老公，夫妻店？"
+    }
+  ],
+  "prompt_sha256": "edaddb0d73d87872c6cd049027d874f774b5ff7e7c7a0fb08051f07ed1d90825",
+  "finish_reason": "stop",
+  "completion_tokens": 1970
+}
