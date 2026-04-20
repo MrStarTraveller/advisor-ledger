@@ -1,0 +1,339 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-41-19Z",
+    "revision_id": "AMHacu4rjW_igCX1Bdg9zkO-u6HBYdhQ0LRs6O_YxsGs907gSjtba3JPQcSKWEXOygOofSHNoPbj9dxHhPC4oNhA6Q",
+    "paragraph_count": 856
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-45-40Z",
+    "revision_id": "AMHacu5SZsC8-npT8tEip0k_klYPHCACrqFNW2mY6T4daS33giTe_kfTPMgzTzx-3cNawjx37mEFnlL9EUZBrxDJMA",
+    "paragraph_count": 873
+  },
+  "summary": {
+    "inserted_paragraphs": 32,
+    "deleted_paragraphs": 15,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0175,
+    "insertion_ratio": 0.0367
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 30,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0f812e97c46038bd",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC, Bo Li"
+        },
+        {
+          "content_hash": "09a64f1aa2c2f81c",
+          "style": "NORMAL_TEXT",
+          "text": "很push，已经quit了很多人，有已经quit的学生得抑郁症的"
+        },
+        {
+          "content_hash": "548d6e851e49b889",
+          "style": "NORMAL_TEXT",
+          "text": "没有什么数学能力，纯靠学生自己能力"
+        },
+        {
+          "content_hash": "9e239078a2bf2656",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了（但从uiuc去uchicago不是因为在uiuc被举报了么）（听说的版本是，她和她老公一起去的uchicago，她老公也是eth很有名非常toxic的，然后去了uchicago后她被投诉，求验证）"
+        },
+        {
+          "content_hash": "e5974d01aed66d3f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "383c74701a1ff1ff",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang"
+        },
+        {
+          "content_hash": "845e5ab029fbfe4d",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王"
+        },
+        {
+          "content_hash": "1464bbfd708edcc0",
+          "style": "NORMAL_TEXT",
+          "text": "Bo Li老公，之前在ETH就很有名，非常toxic"
+        },
+        {
+          "content_hash": "f54abd01aea7122f",
+          "style": "NORMAL_TEXT",
+          "text": "So where"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 191,
+      "paragraphs": [
+        {
+          "content_hash": "d0114bd4f5b2d05f",
+          "style": "NORMAL_TEXT",
+          "text": "很飘"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 336,
+      "from_paragraphs": [
+        {
+          "content_hash": "a2666dad13422b29",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。只要有潜力能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只用执行就行。"
+        },
+        {
+          "content_hash": "44c839b82dbf64d3",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (你给说成啥了，他缺你那点idea吗。多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看科研能力。)"
+        },
+        {
+          "content_hash": "8fb35b57968a2c6c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "88b29d85bf672cef",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。只要有潜力能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        },
+        {
+          "content_hash": "54d910e4324ca35f",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 你给说成啥了，他缺你那点idea吗。多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看有没有基本的科研思维"
+        },
+        {
+          "content_hash": "18cb05f02db63dca",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推。huan 很注重课题组的 culture ，并且组里学生关系都不错)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 339,
+      "paragraphs": [
+        {
+          "content_hash": "0f812e97c46038bd",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC, Bo Li"
+        },
+        {
+          "content_hash": "09a64f1aa2c2f81c",
+          "style": "NORMAL_TEXT",
+          "text": "很push，已经quit了很多人，有已经quit的学生得抑郁症的"
+        },
+        {
+          "content_hash": "548d6e851e49b889",
+          "style": "NORMAL_TEXT",
+          "text": "没有什么数学能力，纯靠学生自己能力"
+        },
+        {
+          "content_hash": "9e239078a2bf2656",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了（但从uiuc去uchicago不是因为在uiuc被举报了么）（听说的版本是，她和她老公一起去的uchicago，她老公也是eth很有名非常toxic的，然后去了uchicago后她被投诉，求验证）"
+        },
+        {
+          "content_hash": "e5974d01aed66d3f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 345,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "383c74701a1ff1ff",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang"
+        },
+        {
+          "content_hash": "845e5ab029fbfe4d",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王"
+        },
+        {
+          "content_hash": "1464bbfd708edcc0",
+          "style": "NORMAL_TEXT",
+          "text": "Bo Li老公，之前在ETH就很有名，非常toxic"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 562,
+      "at_to": 567,
+      "from_paragraphs": [
+        {
+          "content_hash": "c583df7740964c6c",
+          "style": "NORMAL_TEXT",
+          "text": "此人当年很出名啊，奋斗批，工作狂，不管家庭老婆小孩，自己身体都不在乎那种，wireless难发的年代随便发"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a6d6db83d4ace48f",
+          "style": "NORMAL_TEXT",
+          "text": "此人当年很出名啊，奋斗批，工作狂，不管家庭老婆小孩，自己身体都不在乎那种，wireless难发的年代随便发，有什么黑料吗，能想到的就push"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 660,
+      "paragraphs": [
+        {
+          "content_hash": "14accec82e5d52ab",
+          "style": "NORMAL_TEXT",
+          "text": "学生纯牛马，拿PhD当postdoc用，还都延毕"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 675,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "84e0e420af3b4b1f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有TAMU的瓜，求求🥺"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 823,
+      "at_to": 832,
+      "from_paragraphs": [
+        {
+          "content_hash": "8e3870757ee62b70",
+          "style": "NORMAL_TEXT",
+          "text": "实验室强制打卡，组会骂人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "992e1f2e822019e9",
+          "style": "NORMAL_TEXT",
+          "text": "实验室强制打卡，组会骂人】"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "870966a1b1edf1b9",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Jie Wang"
+        },
+        {
+          "content_hash": "8c5b97c7cf0adb67",
+          "style": "NORMAL_TEXT",
+          "text": "intern本科生养鱼，maybe只care少院同学吧，完全不给指导啊，也没人带你hhh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 838,
+      "at_to": 850,
+      "from_paragraphs": [
+        {
+          "content_hash": "8461da2aaf5d9fea",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f42ac03a70a2e0d7",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜，yiwei wang 好友"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 868,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b20ddb2dacf11a17",
+          "style": "NORMAL_TEXT",
+          "text": "USYD, Chang Xu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
