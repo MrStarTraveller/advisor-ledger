@@ -1,0 +1,33 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-35-10Z.delta.json",
+  "delta_ts": "2026-04-20T17-35-10Z",
+  "reviewed_at_utc": "2026-04-20T17:36:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive criticism regarding a professor's qualifications and employment history at specific companies (LLM frontier labs, ByteDance Seed), suggesting suppression of legitimate observations rather than routine cleanup.",
+      "excerpt": "LLM frontier labs全投了一遍根本没人要他。现在能在seed也是因为早期刚在美国发展招不到人的时候让他混进去的。在字节里也是人人喊打。"
+    },
+    {
+      "type": "pii",
+      "detail": "Insertion contains identifying details about a specific lab member (student), including social media identity (Xiaohongshu academic influencer) and specific publication details (TPAMI), sufficient to de-anonymize the individual.",
+      "excerpt": "组里有著名xhs学术女网红，tpami是被送的，学术能力为0，人是最mean的"
+    },
+    {
+      "type": "pii",
+      "detail": "Replacement reveals identifying information about specific students including a PhD student identified by initials 'sp', and sensitive mental health details (depression, psychiatric medication, 'went crazy') of undergraduate students from specific universities (985/211).",
+      "excerpt": "把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了)...他妈的sp你真是纯出生"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Replacement contains severe personal insults directed at a specific PhD student (identified by initials 'sp'), using profanity ('纯出生' - pure bastard) and unsupported character judgments ('这phd学生是真逆天').",
+      "excerpt": "他妈的sp你真是纯出生...这phd学生是真逆天"
+    }
+  ],
+  "prompt_sha256": "1421be71c1ce7a38e24aafcd61dcd81b347ab0111d292e02a121f9e5673f4c92",
+  "finish_reason": "stop",
+  "completion_tokens": 5641
+}

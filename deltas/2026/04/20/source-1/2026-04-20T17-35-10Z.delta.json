@@ -1,0 +1,323 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-28-40Z",
+    "revision_id": "AMHacu45FbXBCQDhDYyo6Rjl4INL7yFliFyZjVjDAi5ZoTdGWRngcg22QFdIJ27N5YCr_-oeIJ-P9EWVqtTB9JrIsw",
+    "paragraph_count": 2010
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-35-10Z",
+    "revision_id": "AMHacu4yDGHq8SuCt9XEcKxRdJnPdydKtKZUoX4m99i-G1TIxAQo594WIA-nRpyAd1m5TiEWpvYNSOwrWutz1i88aQ",
+    "paragraph_count": 2015
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 14,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.007,
+    "insertion_ratio": 0.0094
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 22,
+      "paragraphs": [
+        {
+          "content_hash": "942dd8c63842b8e1",
+          "style": "NORMAL_TEXT",
+          "text": "slack群里两千多个人。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 192,
+      "paragraphs": [
+        {
+          "content_hash": "89fcb5fce78d1cfc",
+          "style": "NORMAL_TEXT",
+          "text": "太对味了，全世界所有人都在偷你gqq的绝妙idea"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 193,
+      "paragraphs": [
+        {
+          "content_hash": "89fcb5fce78d1cfc",
+          "style": "NORMAL_TEXT",
+          "text": "太对味了，全世界所有人都在偷你gqq的绝妙idea"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 202,
+      "paragraphs": [
+        {
+          "content_hash": "c8dc8667fbda7702",
+          "style": "NORMAL_TEXT",
+          "text": "LLM frontier labs全投了一遍根本没人要他。现在能在seed也是因为早期刚在美国发展招不到人的时候让他混进去的。在字节里也是人人喊打。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 204,
+      "at_to": 204,
+      "from_paragraphs": [
+        {
+          "content_hash": "b91a1a9bd31c73f2",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么(装什么外宾，你应该问问整个圈子有多少人没被gqq恶心过)，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "04aaff50a674d88f",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么(装什么外宾，你应该问问整个圈子有多少人没被gqq发邮件恶心过)，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 373,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 374,
+      "at_to": 375,
+      "from_paragraphs": [
+        {
+          "content_hash": "061281aa118721fc",
+          "style": "NORMAL_TEXT",
+          "text": "本身是hk人超级歧视大陆人，在公司里明目张胆的说大陆仔怎么怎么样"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f38491f512e2c28a",
+          "style": "NORMAL_TEXT",
+          "text": "韩国人，歧视中国学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 433,
+      "at_to": 434,
+      "from_paragraphs": [
+        {
+          "content_hash": "c327fad674285e16",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh\u000b(zai)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ade5a4a72960fbb1",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh\u000b在yang老师组里做过intern，yang对学生还是很关心的，没有感觉到像奴隶一样被压榨。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 617,
+      "at_to": 618,
+      "from_paragraphs": [
+        {
+          "content_hash": "929815e7942dd776",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        },
+        {
+          "content_hash": "e71222b0a90f91dd",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "303937bc538f4809",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！(先生大义！还在这RP装圣人呢 ）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        },
+        {
+          "content_hash": "4856539a6645263d",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 没想到你一个人还读过那么多学校啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 651,
+      "at_to": 652,
+      "from_paragraphs": [
+        {
+          "content_hash": "d04481c3595ac643",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。支持"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "425a90d479f43bc4",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持"
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 695,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1362,
+      "at_to": 1364,
+      "from_paragraphs": [
+        {
+          "content_hash": "a451e57fefc79e28",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高，那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note。后来他很想去的top4学校私下问情况，manling也都给了点对点的personal strong recommendation，没专门邀功而已，后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a4678bac979bfbcc",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间的老师也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1746,
+      "paragraphs": [
+        {
+          "content_hash": "7176f090902fe79d",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名xhs学术女网红，tpami是被送的，学术能力为0，人是最mean的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1811,
+      "at_to": 1814,
+      "from_paragraphs": [
+        {
+          "content_hash": "9e050161561f156b",
+          "style": "NORMAL_TEXT",
+          "text": "组里毫无积累和科研氛围，除非来之前已经是学术大佬否则避雷（他不是数学系的吗，跟chen kani一起把原来张潼留着ust的显卡抢走了）(听说现在数学系整体都不太行，之前还在xhs刷到过)（一直没懂yang can和chen kani为什么也要搞LLM，好像做了一些解数学题的LLM和bench，毫无用处）(个人感觉是没什么可做的了，学生为了出路搞的吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d869729191199cf9",
+          "style": "NORMAL_TEXT",
+          "text": "组里毫无积累和科研氛围，除非来之前已经是学术大佬否则避雷（他不是数学系的吗，跟chen kani一起把原来张潼留着ust的显卡抢走了）(听说现在数学系整体都不太行，之前还在xhs刷到过)（一直没懂yang can和chen kani为什么也要搞LLM，好像做了一些解数学题的LLM和bench，毫无用处）(感觉是没什么可做的了，学生自寻出路搞的吧，数学系跑路实习的人说是数一数二应该没问题)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1813,
+      "at_to": 1816,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ef1af8defaa6ebc",
+          "style": "NORMAL_TEXT",
+          "text": "学生基本平均5-6年才能毕业，要给他的公司打小黑工，他老婆是商学院的lecture"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f09ddfd81f54d491",
+          "style": "NORMAL_TEXT",
+          "text": "学生基本平均5-6年才能毕业，要给他的公司打小黑工（给延毕的学生继续发2w的工资，用阴阳合同，赚的差价可以还千万豪宅的房贷），他老婆是商学院的lecturer"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1958,
+      "at_to": 1962,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3246b6868ad568cb",
+          "style": "NORMAL_TEXT",
+          "text": "偷腾讯成果给自己发，还让师弟来做"
+        },
+        {
+          "content_hash": "2eb488554748b3fc",
+          "style": "NORMAL_TEXT",
+          "text": "给不愿意合作的学生偷偷写黑推直接发（心眼真大）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1961,
+      "at_to": 1966,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6c1cbe37e5407b1",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水。手底下phd一个比一个toxic，把很多985/211大学的top几的本科生搞成得抑郁症要吃药. 曾经一个手底下phd带过一学期，他妈的纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2795610e7fc0cf81",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ]
+    }
+  ]
+}
