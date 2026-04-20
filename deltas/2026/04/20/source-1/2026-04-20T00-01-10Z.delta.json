@@ -1,0 +1,124 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-59-00Z",
+    "revision_id": "AMHacu4d5ji70JVc6wvXhjI4ALG5zTRg0sSgUOnuTrFPcE8_QsTc0ZCPFWDEr-TSAfRJUKI_B8UuCKJjKLRoISHA2w",
+    "paragraph_count": 526
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-01-10Z",
+    "revision_id": "AMHacu7-HN7Bfac8BoG73-xj4SNei3HcA4EpaJXcGugK0vo0FjxZ9Uhswn9_Pvdrx6-e9K8ulrDx5ZOyxfuXAKyWmw",
+    "paragraph_count": 537
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 1,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0019,
+    "insertion_ratio": 0.0223
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 66,
+      "paragraphs": [
+        {
+          "content_hash": "5d167ae3104610db",
+          "style": "NORMAL_TEXT",
+          "text": "给所有申请者回邮件说会在committee里支持他，海王"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 239,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad06360eab634812",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e2316e1eb59f0ed",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿）（有招进来，因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 259,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7ee9324179c4fb84",
+          "style": "NORMAL_TEXT",
+          "text": "（哥们单独有个tab 太有石粒啦！）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 429,
+      "paragraphs": [
+        {
+          "content_hash": "5f6f468fff48cc28",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji"
+        },
+        {
+          "content_hash": "459b8563a30440af",
+          "style": "NORMAL_TEXT",
+          "text": "占个坑"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cc042550d57c523b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yu-Xiong Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 514,
+      "paragraphs": [
+        {
+          "content_hash": "4f1b24498c3231da",
+          "style": "NORMAL_TEXT",
+          "text": "NJU"
+        }
+      ]
+    }
+  ]
+}
