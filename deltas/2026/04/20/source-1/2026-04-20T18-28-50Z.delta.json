@@ -1,0 +1,469 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-22-30Z",
+    "revision_id": "AMHacu6gLBRs6Ux8XOyX9GgTbpUuLJ_QerJGaScjBTRcnpy8INR_JqgjLAiJssOLRT1EX8Xx1GodCEXTV1OC_CVgWA",
+    "paragraph_count": 1992
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-28-50Z",
+    "revision_id": "AMHacu5UiGpHf3BUZPVhFRFn6CeX0XWvSZypTC36s4shaAp8j8RYXYkVRtHjyrm7ni8531nKlG55W3i_47xDq1mwPA",
+    "paragraph_count": 1989
+  },
+  "summary": {
+    "inserted_paragraphs": 26,
+    "deleted_paragraphs": 29,
+    "operations": 21,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0146,
+    "insertion_ratio": 0.0131
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 28,
+      "at_to": 28,
+      "from_paragraphs": [
+        {
+          "content_hash": "18803f216e4f8cab",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdf77b7b71bbb7f7",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。"
+        },
+        {
+          "content_hash": "1d0d3192a99c2382",
+          "style": "NORMAL_TEXT",
+          "text": "鱼塘大的官网上都能看得出来，全是他的人（"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 34,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f63928557cce4206",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Justin Chan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 67,
+      "at_to": 70,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0b1b10ca8d4d06e",
+          "style": "NORMAL_TEXT",
+          "text": "waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3401533b8f98273",
+          "style": "NORMAL_TEXT",
+          "text": "waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好【有没有pdf链接】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 86,
+      "at_to": 89,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c6ff2f925ba5bb3",
+          "style": "NORMAL_TEXT",
+          "text": "种族歧视。面试的时候故意模仿我的口音。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "539deb69d46a3e0c",
+          "style": "NORMAL_TEXT",
+          "text": "种族歧视, 面试的时候故意模仿我的口音。还反复问我以前的研究有什么用，感觉这人很傲慢。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "8206961834165af9",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu（✨✨✨✨大的来了🎉🎉🎉🎉）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d82b3c5decd84f9b",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu (存在争议，请谨慎识别)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 206,
+      "paragraphs": [
+        {
+          "content_hash": "5e4123d024c0164b",
+          "style": "NORMAL_TEXT",
+          "text": "Niubility"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 311,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        },
+        {
+          "content_hash": "c8b7d85eed324377",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）（笑死，自己水平差啥都不会，到你这里就变成人身攻击了？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10cd8fe0f3b2cb50",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu 宾大cis第二烂导"
+        },
+        {
+          "content_hash": "658f991fe7a3f43a",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）（笑死，自己水平差啥都不会，到你这里就变成人身攻击了？）（又据说上了，开过几次会啊？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 318,
+      "paragraphs": [
+        {
+          "content_hash": "ab8bd9228a92c72e",
+          "style": "NORMAL_TEXT",
+          "text": "对intern的态度都很好，给人的感觉很和蔼。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 569,
+      "at_to": 574,
+      "from_paragraphs": [
+        {
+          "content_hash": "34ad0bbdc48b74a5",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Jie Shen"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3799de9afbd04108",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Jie Shen （shit学校不止jie一个人，手动狗头）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 583,
+      "at_to": 588,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4752b734bc6cf9e",
+          "style": "NORMAL_TEXT",
+          "text": "注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！ （不维护XCW，只想让各位知道此人是什么人品🤣）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e32e94a2929d0602",
+          "style": "NORMAL_TEXT",
+          "text": "↓↓↓ 注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！ （不维护XCW，只想让各位知道此人是什么人品🤣） ↓↓↓"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 722,
+      "paragraphs": [
+        {
+          "content_hash": "fbfd559f9ee7352f",
+          "style": "NORMAL_TEXT",
+          "text": "歧视女生"
+        },
+        {
+          "content_hash": "a9095415d69152a2",
+          "style": "NORMAL_TEXT",
+          "text": "听说家暴老婆...（好可怜的老婆）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 824,
+      "at_to": 827,
+      "from_paragraphs": [
+        {
+          "content_hash": "7038bf2fd9a28500",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）（丁老师对科研方向的把控非常精准，对文章写作更是有独到见解，能帮助学生快速成长）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）（这种毫无依据和实际内容的纯泻火试人身攻击不够体面）"
+        },
+        {
+          "content_hash": "0686afbc2e8ab50c",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，感觉老师也不会愿意这个时间加班），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys （这里MLsys也应该补充paper数目。具体publication网站可查，人均数篇顶会）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "44de6fd5b39aeadd",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）（丁老师对科研方向的把控非常精准，对文章写作更是有独到见解，能帮助学生快速成长）这阿姨脾气应该说是更年期…早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，感觉老师也不会愿意这个时间加班），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys （这里MLsys也应该补充paper数目。具体publication网站可查，人均数篇顶会）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 861,
+      "at_to": 863,
+      "from_paragraphs": [
+        {
+          "content_hash": "c43295e5c4a3823f",
+          "style": "NORMAL_TEXT",
+          "text": "这位曾经在google混得风生水起发文章很猛的大姐来到学术圈后不外乎一个典型华人女AP（有问题就好好说，不要用刻板印象搞歧视）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0bd49acb2896d6b6",
+          "style": "NORMAL_TEXT",
+          "text": "这位曾经在google混得风生水起发文章很猛的大姐来到学术圈后不外乎一个典型华人女AP"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1004,
+      "at_to": 1006,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b313b4141646923",
+          "style": "NORMAL_TEXT",
+          "text": "组里压力非常大， proposal也让学生写，paper也不看，quit了几个高年级phd（听说过，告到系里）（真的不是骂错人吗，quit了好几个应该是他同事吧(DK Xu?)）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "920c6c919ae73489",
+          "style": "NORMAL_TEXT",
+          "text": "组里压力非常大， proposal也让学生写，paper也不看，quit了几个高年级phd（听说过，告到系里）（真的不是骂错人吗，quit了好几个应该是他同事吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1135,
+      "at_to": 1137,
+      "from_paragraphs": [
+        {
+          "content_hash": "0209bc716c9ae5b9",
+          "style": "NORMAL_TEXT",
+          "text": "不允许（非常reluctant）合作（校内校外组）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c4fe852a79f737b3",
+          "style": "NORMAL_TEXT",
+          "text": "不允许（非常reluctant）合作（fei校内校外组）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1585,
+      "paragraphs": [
+        {
+          "content_hash": "feeaae04f03aaf1e",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Sikai Chen"
+        },
+        {
+          "content_hash": "b71719fd3f768f3b",
+          "style": "NORMAL_TEXT",
+          "text": "上学的时候一堆造假paper"
+        },
+        {
+          "content_hash": "d66b9c1936d80410",
+          "style": "NORMAL_TEXT",
+          "text": "把学生逼到腰出问题做手术，躺在床上养病，还push该学生写proposal"
+        },
+        {
+          "content_hash": "c38c94194ed4b178",
+          "style": "NORMAL_TEXT",
+          "text": "逼迫学生凌晨送他去机场，去他家给他洗碗"
+        },
+        {
+          "content_hash": "7be6f721b50a9d59",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生买电脑，给他老婆买，开会不给学生报销，但给他老婆吃饭报销"
+        },
+        {
+          "content_hash": "1cfd004fcca0bb3f",
+          "style": "NORMAL_TEXT",
+          "text": "做博后的时候让学生给他付房租"
+        },
+        {
+          "content_hash": "5b66eada70e6b23a",
+          "style": "NORMAL_TEXT",
+          "text": "一开始看起来是个很友好的学长，但抢师弟一作，要求labmate和导师邮件必须cc他"
+        },
+        {
+          "content_hash": "83cd6468e29feb4f",
+          "style": "NORMAL_TEXT",
+          "text": "请学生吃饭，让学生付钱"
+        },
+        {
+          "content_hash": "e95d5b06d7633f0b",
+          "style": "NORMAL_TEXT",
+          "text": "他技术一窍不通。。。还喜欢微操"
+        },
+        {
+          "content_hash": "c7c0c1b88f9e8764",
+          "style": "NORMAL_TEXT",
+          "text": "自称做AI的，指着无监督学习问学生“这是监督学习还是什么？我不清楚，你清楚么”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1722,
+      "at_to": 1714,
+      "from_paragraphs": [
+        {
+          "content_hash": "7176f090902fe79d",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名xhs学术女网红，tpami是被送的，学术能力为0，人是最mean的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "94381c59d87a8de3",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名xhs学术女网红(Blue whale?)，tpami是被送的，学术能力为0，人是最mean的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1721,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e7d02037d2d300b9",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK, Bei Yu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1775,
+      "at_to": 1770,
+      "from_paragraphs": [
+        {
+          "content_hash": "80bceaa63a8fed53",
+          "style": "NORMAL_TEXT",
+          "text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会"
+        },
+        {
+          "content_hash": "e0de168d413563b8",
+          "style": "NORMAL_TEXT",
+          "text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fb485de9b8f9df80",
+          "style": "NORMAL_TEXT",
+          "text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会（前5%和前10%都是强推，做出成果和没做出成果的强度肯定不一样啊。）"
+        },
+        {
+          "content_hash": "7d02badc88b9196c",
+          "style": "NORMAL_TEXT",
+          "text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，ka在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）"
+        },
+        {
+          "content_hash": "2b9cd0dfaa71e952",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信的就正常按照梯度给不会放水，同时"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1779,
+      "at_to": 1775,
+      "from_paragraphs": [
+        {
+          "content_hash": "74bb909700c38320",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）（是的，最初的几条发言构成性别歧视，而且是比较典型的那种——用性别解释个体表现、双重标准、群体污名化。后面\"理客中\"和\"打拳\"的发言虽然语气温和，但在效果上是在帮最初的歧视言论脱责。反驳方的情绪化反击不是最优策略，但TA识别出的核心问题（这是性别歧视）是对的。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "63a0e6dc7b81ce90",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1944,
+      "paragraphs": [
+        {
+          "content_hash": "4c1e1f850de6d794",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-28-50Z.delta.json",
+  "delta_ts": "2026-04-20T18-28-50Z",
+  "reviewed_at_utc": "2026-04-20T18:29:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive allegations about an advisor including gender discrimination and domestic violence ('家暴老婆'), which appears to suppress legitimate observations rather than cleanup.",
+      "excerpt": "歧视女生\n听说家暴老婆...（好可怜的老婆）"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Mass deletion of detailed allegations about UW-Madison Sikai Chen including misuse of funds, forcing students to perform personal services, and academic misconduct, suppressing substantive content.",
+      "excerpt": "UW-Madison Sikai Chen\n上学的时候一堆造假paper\n把学生逼到腰出问题做手术..."
+    },
+    {
+      "type": "pii",
+      "detail": "Insertion of specific identifier 'Blue whale?' attempting to de-anonymize a student/lab member referred to as 'xhs学术女网红', which is personally identifying information about a private individual.",
+      "excerpt": "组里有著名xhs学术女网红(Blue whale?)，tpami是被送的"
+    }
+  ],
+  "prompt_sha256": "57c77b36bd2d3edf214b688f4b7ae497d9dde8da9544ef26dd00247150203b11",
+  "finish_reason": "stop",
+  "completion_tokens": 4397
+}
