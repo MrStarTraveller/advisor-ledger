@@ -1,0 +1,177 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-42-00Z",
+    "revision_id": "AMHacu4CBNubicWeBW4HHGn9ZovdnZEgP-zQo99M_4x6VmYjey1384okO7AlgSmmejnjl2nAJALzIJLFz59sjyYq4g",
+    "paragraph_count": 1400
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-44-04Z",
+    "revision_id": "AMHacu4k-ZYfaQ8wBnYAZdueKNoIeSf5qpDdiD6iIcDuOUtIeCBfoTjFfiApYZVzDuxh8ivDEsjN8PHO4J2NO6tuvg",
+    "paragraph_count": 1401
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 8,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0057,
+    "insertion_ratio": 0.0064
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 124,
+      "at_to": 124,
+      "from_paragraphs": [
+        {
+          "content_hash": "e952deae4ffd3391",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d774b90431e679b7",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 155,
+      "paragraphs": [
+        {
+          "content_hash": "ae8a1023b60ebda6",
+          "style": "NORMAL_TEXT",
+          "text": "文章排名不公平 做最大贡献的研究生学生要让位本科生来凸显她指导有方"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 381,
+      "at_to": 382,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe017e638e8e4560",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。没有人的advise style能让所有人都100%满意，希望这个文档里所有喷的人理性思考。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a534bd1802fc4350",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师，和组里的人关系也相当融洽。没有人的mentoring style能让所有人都100%满意，希望这个文档里所有喷的人理性思考，而不是发泄情绪。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 520,
+      "paragraphs": [
+        {
+          "content_hash": "dc5c58201c6cdd4c",
+          "style": "NORMAL_TEXT",
+          "text": "不是学生 但是在会议上遇到想打招呼 他鼻孔朝天 hen gao"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 644,
+      "at_to": 646,
+      "from_paragraphs": [
+        {
+          "content_hash": "0aecb1445716b596",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bae947834123f747",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1046,
+      "at_to": 1048,
+      "from_paragraphs": [
+        {
+          "content_hash": "a960ac16170dba9e",
+          "style": "NORMAL_TEXT",
+          "text": "— (shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6b427cc1fca8268c",
+          "style": "NORMAL_TEXT",
+          "text": " (shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1058,
+      "at_to": 1060,
+      "from_paragraphs": [
+        {
+          "content_hash": "4884d15b8bf8e1d1",
+          "style": "NORMAL_TEXT",
+          "text": "UC Berkeley, Siwon Min"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b4a7aa0a470fd2d",
+          "style": "NORMAL_TEXT",
+          "text": "UC Berkeley, Sewon Min"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1108,
+      "at_to": 1110,
+      "from_paragraphs": [
+        {
+          "content_hash": "9f9f59b89aab736d",
+          "style": "NORMAL_TEXT",
+          "text": "不带学生，没idea，压力学生"
+        },
+        {
+          "content_hash": "ea95c33160eadc58",
+          "style": "NORMAL_TEXT",
+          "text": "Bad at communication with students."
+        },
+        {
+          "content_hash": "c188cddce3953ade",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students got pip-ed."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7fa6254749a6ea4",
+          "style": "NORMAL_TEXT",
+          "text": "不懂带学生，没idea，压力学生"
+        },
+        {
+          "content_hash": "db2d1bf8505ce726",
+          "style": "NORMAL_TEXT",
+          "text": "多人离组"
+        }
+      ]
+    }
+  ]
+}

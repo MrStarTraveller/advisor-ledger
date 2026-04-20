@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T08-44-04Z.delta.json",
+  "delta_ts": "2026-04-20T08-44-04Z",
+  "reviewed_at_utc": "2026-04-20T08:46:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "error",
+  "concerns": [
+    {
+      "type": "review_error",
+      "detail": "API transport error: <HTTPError 524: '<none>'>",
+      "excerpt": ""
+    }
+  ],
+  "prompt_sha256": "136fc18efe95e8de2f15ec55165b3e7b64cc78c90852f11757e8c7a335a58c34",
+  "finish_reason": null,
+  "completion_tokens": null
+}
