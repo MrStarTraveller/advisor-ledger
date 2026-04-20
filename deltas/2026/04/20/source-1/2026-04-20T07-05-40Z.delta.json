@@ -1,0 +1,262 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-03-33Z",
+    "revision_id": "AMHacu7fM87YvVRKIFAPYauqKrBbeFFRUtJj0vPCTYPIdlbk0eMdgCqAzYY-zeUBRg6BU-8eUtBpe-ADZbEMh3Di-A",
+    "paragraph_count": 1224
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-05-40Z",
+    "revision_id": "AMHacu69hP6XyCZAwdk-tpu7ZS3FHF7pZAJgPTjyZFaCI_e5nrTKQkXpKBGDB3XD6VrJDk5Jlr_O2RhPyagXtyyikw",
+    "paragraph_count": 1232
+  },
+  "summary": {
+    "inserted_paragraphs": 18,
+    "deleted_paragraphs": 10,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0082,
+    "insertion_ratio": 0.0146
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 56,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ba271ac39bd4cf1",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到 四大毒王四大毒王四大毒王 多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "78165f6eec1099fd",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 230,
+      "paragraphs": [
+        {
+          "content_hash": "d69867d60baa9572",
+          "style": "NORMAL_TEXT",
+          "text": "会威胁学生，不听话要挡学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 317,
+      "at_to": 318,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b094bd54604d1a1",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪… （)这通操作至今仍是UCSB一段\"佳话” （这个说法与事实不符，相关 funding 被回收，主要是因为 Yuan Xie 老师当时已不在 UCSB 任教，以及 ECE 系当时针对 funding ‘保管’出台的临时新规定；并非所谓‘把钱弄丢’。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "497fdb1e0bafab1e",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪… （有提前毕业的，也有去SD继续读博的）。毕业学生去向都可查)这通操作至今仍是UCSB一段\"佳话” （这个说法与事实不符，相关 funding 被回收，主要是因为 Yuan Xie 老师当时已不在 UCSB 任教，以及 ECE 系当时针对 funding ‘保管’出台的临时新规定；并非所谓‘把钱弄丢’。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 358,
+      "at_to": 359,
+      "from_paragraphs": [
+        {
+          "content_hash": "f822c8823deefc12",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "11f7bc995af6966f",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店 Yanzhi and Xue"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 465,
+      "at_to": 466,
+      "from_paragraphs": [
+        {
+          "content_hash": "2613e391f3e18501",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b033a564d5eb71cd",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 703,
+      "at_to": 704,
+      "from_paragraphs": [
+        {
+          "content_hash": "05e88189f8ee56ca",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（fake，十几个）（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "749ad83b4a3985e5",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论））（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（fake，十几个）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 731,
+      "at_to": 732,
+      "from_paragraphs": [
+        {
+          "content_hash": "9096d1345fa58d84",
+          "style": "NORMAL_TEXT",
+          "text": "我的合作者（本人在此--BQ Yin）同样做出了重要贡献，包括 initial idea drafting、数据收集和benchmark制作（这是一项大量的工作，我完全认可）、benchmark本身的评估/分析实验与scaffold/训练实验的讨论与辅助，以及 appendix 前几章的撰写。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e919f41dcaba962b",
+          "style": "NORMAL_TEXT",
+          "text": "我的合作者（本人在此--BQ Yin）同样做出了重要贡献，包括"
+        },
+        {
+          "content_hash": "7aa902df88901dbc",
+          "style": "NORMAL_TEXT",
+          "text": "initial idea drafting"
+        },
+        {
+          "content_hash": "27d712b80646595d",
+          "style": "NORMAL_TEXT",
+          "text": "数据收集和benchmark制作（这是一项大量的工作，我完全认可）"
+        },
+        {
+          "content_hash": "1de43f5d3642fac3",
+          "style": "NORMAL_TEXT",
+          "text": "benchmark本身的评估/分析实验与scaffold/训练实验的讨论与辅助"
+        },
+        {
+          "content_hash": "5796b24ba1a0989d",
+          "style": "NORMAL_TEXT",
+          "text": "appendix 前几章的撰写（b）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 799,
+      "at_to": 804,
+      "from_paragraphs": [
+        {
+          "content_hash": "3dc24c2cdc56bb44",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有加上顾老师这边的贡献。 - 利益无关：我不是顾老师的学生"
+        },
+        {
+          "content_hash": "cb39c997040b383a",
+          "style": "NORMAL_TEXT",
+          "text": "这个帖子无非是帮大家避雷"
+        },
+        {
+          "content_hash": "330d944fd024ed14",
+          "style": "NORMAL_TEXT",
+          "text": "，现在旧事重提无非是吃瓜群众看热闹不嫌事大。z"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4dd98e43877c4f5f",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD。 - 利益无关：我不是顾老师的学生"
+        },
+        {
+          "content_hash": "c43bc2843fb24223",
+          "style": "NORMAL_TEXT",
+          "text": "这个帖子无非是帮大家避雷，现在旧事重提无非是吃瓜群众看热闹不嫌事大"
+        },
+        {
+          "content_hash": "a0708e04a127bb3d",
+          "style": "NORMAL_TEXT",
+          "text": "顾全全你自己想清楚，可以冷处理的事情是不是非要把说过的话发的满天飞。有这个时间好好回去查查到底是谁喜欢传你那些破事 （很支持，转组的事情都已经结束了，）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 927,
+      "paragraphs": [
+        {
+          "content_hash": "f26b45f1ee3f4592",
+          "style": "NORMAL_TEXT",
+          "text": "有朋友在他组里，一个活分给两个组搞，还"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 991,
+      "paragraphs": [
+        {
+          "content_hash": "534c05f727929a47",
+          "style": "NORMAL_TEXT",
+          "text": "平时有意见不清晰说给学生听，突然发难。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1052,
+      "at_to": 1059,
+      "from_paragraphs": [
+        {
+          "content_hash": "54879b59166544a3",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话4篇一作2篇ACL级别的顶会吧…) （可以看看其他ap比如junxian he的profile）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6aa4f1b3154b41cb",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1223,
+      "paragraphs": [
+        {
+          "content_hash": "7f7d24d92c0d1064",
+          "style": "NORMAL_TEXT",
+          "text": "SCUT Shuangping HUANG"
+        }
+      ]
+    }
+  ]
+}
