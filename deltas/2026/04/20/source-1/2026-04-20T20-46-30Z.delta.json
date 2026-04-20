@@ -1,0 +1,478 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-35-50Z",
+    "revision_id": "AMHacu5AxQt9xM6Lw595bRbWmxVRjf967MenVn3kVjoMLIA9bTnu8eObgBq9CyBOxyxox-ayn3yp4-aM5H6aAJvoOg",
+    "paragraph_count": 2063
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-46-30Z",
+    "revision_id": "AMHacu4UlmNUmuKROcIigysEv4MDVjyz7o_K3CJzZvQg8eVbAXFoD0V1soTm5zZT-wIkoPdeY8tMYE7mQZQ-yDfVvg",
+    "paragraph_count": 2099
+  },
+  "summary": {
+    "inserted_paragraphs": 50,
+    "deleted_paragraphs": 14,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0068,
+    "insertion_ratio": 0.0238
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "59333b895159f922",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6baac6647bc36f82",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。 【不知道帖主能不能设置一下只编辑自己的话？有些人开始进行删除篡改了】"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 24,
+      "paragraphs": [
+        {
+          "content_hash": "05f16953f5e9d8b4",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Stanley Lei Qi"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b2b196b3561c914c",
+          "style": "NORMAL_TEXT",
+          "text": "性骚扰女生，国内很多大佬子女塞进他实验室、搞清华小圈子"
+        },
+        {
+          "content_hash": "c8ad8f5076ea2554",
+          "style": "NORMAL_TEXT",
+          "text": "实验室多名phd studen和postdoctor纷纷表明，lab内学生不同程度的抑郁，把学生当耗材，做不出结果就一直脸黑"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 26,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "38d38de9fcf39e32",
+          "style": "NORMAL_TEXT",
+          "text": "slack群里两千多个人。(🐮，免费版吗)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16c9edb725960938",
+          "style": "NORMAL_TEXT",
+          "text": "slack群里两千多个人。(🐮，免费版吗)("
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 120,
+      "paragraphs": [
+        {
+          "content_hash": "010f44fb63bcc033",
+          "style": "NORMAL_TEXT",
+          "text": " 本人回应下： 确实我的合作比较多(如果这一点有问题的话，我反思下)。对于这一篇：EgoReact是一个数据集的文章可以看下里面有个HRD数据集，我们找了一些同学来review数据质量，因此机构会很多。"
+        },
+        {
+          "content_hash": "ed65a7bc13106669",
+          "style": "NORMAL_TEXT",
+          "text": " 虽然，这个文档自由发言，但是不代表可以没有证据的推断：事实上，显然不是10多个intern 干一篇文章，这个文章的第一作者是lead。 第二作者帮了很大的帮，其他同学也有许多付出（付出计算资源的同学，我们也包含在了author list）。2025年夏天核心成员每周都在weekly meeting（偶尔biweekly - 比如NeurIPS，SIGA DDL附近）。至于机构：我在那个夏天开始远程科研助手所以机构是MIT，但是我还没有在HKU毕业，因此是2个机构。另外，尽管对于“水”的定义大家各自有各自的看法，但是，我觉得EgoReact尝试了使用VDM来尝试scale up这个任务，以及是第一个使用AR模式的做这个任务work，我认为不应该被直接划到“水”的范畴。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 333,
+      "from_paragraphs": [
+        {
+          "content_hash": "02224617478e082a",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）（据说今年一个中国学生都没招到）"
+        },
+        {
+          "content_hash": "694c3bac376c5136",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer （coadivse offer也没人敢去）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86f12a8d96258b3c",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）（据说今年一个中国学生都没招到 谣言）"
+        },
+        {
+          "content_hash": "e2d8e94f1f5731db",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer （coadivse offer也没人敢去 谣言）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 658,
+      "paragraphs": [
+        {
+          "content_hash": "44691625b8949b91",
+          "style": "NORMAL_TEXT",
+          "text": "写黑推：认识的大部分人应该都拿的强推，而且申请季肖老师还主动给我推荐老师。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 657,
+      "at_to": 668,
+      "from_paragraphs": [
+        {
+          "content_hash": "7257a4d93222aea2",
+          "style": "NORMAL_TEXT",
+          "text": "说真的这哥们你追着肖老师穷追猛打两年你不累吗，我觉得肖老师算是对学生很respect的老师了，之前做intern时期经常性的几周忙别的事没有进展，肖老师也会觉得让我先去忙自己的事就好。而且也很关心学生，这里再po一些之前跟肖老师的一些聊天记录吧。我相信看到的人大概能了解到肖老师是个什么样的人，而且上面这一堆喷的点但凡有一个带证据呢？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "12dc367829e93abf",
+          "style": "NORMAL_TEXT",
+          "text": "说真的这哥们你追着肖老师穷追猛咬两年你不累吗，我觉得肖老师算是对学生很respect的老师了，之前做intern时期经常性的几周忙别的事没有进展，肖老师也会觉得让我先去忙自己的事就好。而且也很关心学生，这里再po一些之前跟肖老师的一些聊天记录吧。我相信看到的人大概能了解到肖老师是个什么样的人，而且上面这一堆喷的点但凡有一个带证据呢？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 720,
+      "at_to": 733,
+      "from_paragraphs": [
+        {
+          "content_hash": "9224075240e76b47",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b9dacce84e88fcb5",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正据说已经快闹掰了还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "4495b7b3cb2580aa",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 725,
+      "at_to": 738,
+      "from_paragraphs": [
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "828cedeb47de9d69",
+          "style": "NORMAL_TEXT",
+          "text": "OSU-Lisa Hall"
+        },
+        {
+          "content_hash": "b8cb72ce6e2eefb3",
+          "style": "NORMAL_TEXT",
+          "text": "听说瓜不少"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7e1086a111c441b2",
+          "style": "NORMAL_TEXT",
+          "text": "Duke Neil Gong"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2036e946ba19fca1",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "243713f01b96f97e",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王常toxic (eth时期的事情了)"
+        },
+        {
+          "content_hash": "c259f07bb3dbf90a",
+          "style": "NORMAL_TEXT",
+          "text": "Bo li 老公，夫妻店？"
+        },
+        {
+          "content_hash": "f54abd01aea7122f",
+          "style": "NORMAL_TEXT",
+          "text": "So where"
+        },
+        {
+          "content_hash": "e3b1e3c8f0e41e55",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好，资源充足，对学生也很关心supportive，实在不知道“toxic”到底是哪里的空穴来风，建议停止尬黑，有问题问问现在的学生自然得证)"
+        },
+        {
+          "content_hash": "aa25123e6d9035c9",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth合作过的学长，我也知道所谓那些空穴来风，说白了确实他以前有点push上压力呗，说来说去就这一句但是其他方向确实没得说啊，这里本来就是让大家一起评价分享信息的，你在这最后来一句人家别bb真的太好笑了，甚至连背后的血汗都出来了，想当赛博说教男？收收爹味ok？没逻辑的乱喷只会显得你越来越像小丑)(我是张老师以前合作过的学生，看完楼上的感觉说的都有道理。他总体算是supportive，但也很push。以前的经历也确实给我留下了不小的心理创伤。希望大家都好。) （张老师财务自由前后两个人）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 728,
+      "at_to": 752,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "01bac582ac1b9b3e",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1201,
+      "at_to": 1225,
+      "from_paragraphs": [
+        {
+          "content_hash": "1aa0c9bf09c6621d",
+          "style": "NORMAL_TEXT",
+          "text": "不是尬黑，就是会写黑推。能理解你有xi huan，就是不想写推荐信。但为什么表里不一，满口答应还写黑推？反正慎重。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8a033e6097d00eca",
+          "style": "NORMAL_TEXT",
+          "text": "不是尬黑，就是会写黑推。能理解你有喜欢/不喜欢的学生。但为什么表里不一，满口答应还写黑推？反正intern慎重。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1511,
+      "at_to": 1535,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ca19c82107d3f8e",
+          "style": "NORMAL_TEXT",
+          "text": "Purdue Chunyi Peng"
+        },
+        {
+          "content_hash": "da8854d5432b53a7",
+          "style": "NORMAL_TEXT",
+          "text": "经典老坑了，本人非常推崇xinyu zhang的工作方式，但是产出yuan'yua"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1587,
+      "paragraphs": [
+        {
+          "content_hash": "7ce8d97672630499",
+          "style": "NORMAL_TEXT",
+          "text": "没完没了了还是看不懂中文了？学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组。从头至尾与不正当关系无关，学生也无法"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1815,
+      "paragraphs": [
+        {
+          "content_hash": "962eaa26af059cec",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）（打的就是你，我不认识组里任何人）（你说行，我说就是打拳了？别删我评论）（要删这条全删）（要打拳上xhs打去，看起来时把赘婿贴当圣经读的那种人）（完全不爱男人，别给我在这瞎说，男人是什么好东西吗）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1851,
+      "at_to": 1875,
+      "from_paragraphs": [
+        {
+          "content_hash": "9954d6599f120ebd",
+          "style": "NORMAL_TEXT",
+          "text": "从我24年入学以来（既然敢在这里讲话，我也不怕盒），我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，也没有因为其他原因给我施加过压力。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c9734829063bca6",
+          "style": "NORMAL_TEXT",
+          "text": "从我24年入学以来（既然敢讲，就不怕盒），我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，或者给我施加其他什么压力，**一次都没有**。他会鼓励我多去尝试，但不会让我感到焦虑。PhD有什么问题，都可以私下约他单独吃饭，每次也都是You买单，我们经常会在吃饭时聊一些有趣的话题，比如足球或是最近的趣闻。"
+        },
+        {
+          "content_hash": "85c496237bc8a6de",
+          "style": "NORMAL_TEXT",
+          "text": "总体来讲，我觉得组里的氛围是自由而放松的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2086,
+      "paragraphs": [
+        {
+          "content_hash": "ad0bc568a5d2c4d4",
+          "style": "NORMAL_TEXT",
+          "text": "在微信群裡面PUA學生經常 隨便@人 說自己非常忙"
+        },
+        {
+          "content_hash": "d9f9cd40ded0963d",
+          "style": "NORMAL_TEXT",
+          "text": "画饼忽悠硕士入学， 硕士生转phd几率低 但又要留马干活， 騙學生远赴重洋花錢给 ic 交学费"
+        },
+        {
+          "content_hash": "e86288a93bd16176",
+          "style": "NORMAL_TEXT",
+          "text": "计算资源有限， 组内恶性竞争强勾心斗角， 淘汰制度折腾学生"
+        },
+        {
+          "content_hash": "9516b3769febb7bb",
+          "style": "NORMAL_TEXT",
+          "text": "搞关系运作一流 贼会装逼"
+        },
+        {
+          "content_hash": "2673ab9aa4a3c3fc",
+          "style": "NORMAL_TEXT",
+          "text": "看人下菜欺負部分 phd學生 幹烂货不給錢 淪為免费工具韭菜， 都抑郁了。"
+        },
+        {
+          "content_hash": "777b3d3415d99608",
+          "style": "NORMAL_TEXT",
+          "text": "技术毫无指导 在群里面发各种各样的文章 每次提意見都是修改图标字大小和图表这种"
+        },
+        {
+          "content_hash": "753172585cdb9e70",
+          "style": "NORMAL_TEXT",
+          "text": "没有任何意义的建议相关。"
+        },
+        {
+          "content_hash": "94f3fad922756e81",
+          "style": "NORMAL_TEXT",
+          "text": "瞎跟风 什么方向火就做什么 但实际上又赶不上，工作没有影响力"
+        },
+        {
+          "content_hash": "cb22c12890564aaf",
+          "style": "NORMAL_TEXT",
+          "text": "毕业后，继续画饼卡學生做postdoc 有能力的都跑光了"
+        },
+        {
+          "content_hash": "973a7e926e508837",
+          "style": "NORMAL_TEXT",
+          "text": "linkedin 和学校讲座没人听， 要自己学生充当水军发帖，算存在感"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2098,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-46-30Z.delta.json",
+  "delta_ts": "2026-04-20T20-46-30Z",
+  "reviewed_at_utc": "2026-04-20T20:47:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered insult '学术妲己' (academic femme fatale) targeting a specific student",
+      "excerpt": "纯学术妲 己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar personal insult attacking character",
+      "excerpt": "贼会装逼"
+    }
+  ],
+  "prompt_sha256": "420fac803f933f9ec1c434ae9b717b143fe7e9699450e63efd55d1366ea8d2df",
+  "finish_reason": "stop",
+  "completion_tokens": 6475
+}
