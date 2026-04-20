@@ -1,0 +1,73 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-08-30Z",
+    "revision_id": null,
+    "paragraph_count": 1203
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-14-40Z",
+    "revision_id": null,
+    "paragraph_count": 1196
+  },
+  "summary": {
+    "inserted_paragraphs": 0,
+    "deleted_paragraphs": 7,
+    "operations": 2,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0058,
+    "insertion_ratio": 0.0
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 2,
+      "paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        },
+        {
+          "content_hash": "0d28569b73ec2887",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 20min后（加速一下）我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。大家赶紧保存各种notes！"
+        },
+        {
+          "content_hash": "6214d8277bb42534",
+          "style": "NORMAL_TEXT",
+          "text": "大家理性吃瓜，不要吃的忘了工作 :)"
+        },
+        {
+          "content_hash": "d741f8522571a401",
+          "style": "NORMAL_TEXT",
+          "text": "大家早点睡觉"
+        },
+        {
+          "content_hash": "75b56dfa8fcca5c4",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(这种一上来直接扣帽子的定性评价才是类似于文革的续写，有多少信息是各位学子的肺腑之言？有多少才是恶意攻击？)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜，真正好的老师会出现在那里）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 9,
+      "paragraphs": [
+        {
+          "content_hash": "65d57861ca53d563",
+          "style": "NORMAL_TEXT",
+          "text": "留comments也是匿名的，但Solve是解除匿名的，请注意！"
+        },
+        {
+          "content_hash": "6924b2bae9820aff",
+          "style": "NORMAL_TEXT",
+          "text": "To 看到本文档的教授们：如果没做过一些事情，看到学生在维护自己应该会很高兴吧。如果真的做过且没人维护，就得想想自己的问题了。你可以随意删除有关你的评论，但是被你压榨的学生也可以继续补充。"
+        }
+      ]
+    }
+  ]
+}
