@@ -1,0 +1,297 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-14-40Z",
+    "revision_id": null,
+    "paragraph_count": 1196
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-18-50Z",
+    "revision_id": null,
+    "paragraph_count": 1178
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 28,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0234,
+    "insertion_ratio": 0.0085
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "abbf1cfd5d687980",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话，可以反驳其他人的不实信息)"
+        },
+        {
+          "content_hash": "918ac1c88e0a3f4c",
+          "style": "NORMAL_TEXT",
+          "text": "想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "206d652e5e57c995",
+          "style": "NORMAL_TEXT",
+          "text": "Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看)  如果你需要删除隐私信息，请对这个Copy文档提出申请编辑请求并附带需要删除的Notes。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0f766d3b6eb6051e",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        },
+        {
+          "content_hash": "9d3799f44f570871",
+          "style": "NORMAL_TEXT",
+          "text": " Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看)  如果你需要删除隐私信息，请对这个Copy文档提出申请编辑请求并附带需要删除的Notes。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 10,
+      "at_to": 8,
+      "from_paragraphs": [
+        {
+          "content_hash": "019d98dfde903a3f",
+          "style": "NORMAL_TEXT",
+          "text": "会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面，Good Luck!）——（版主可以搞个正式编辑教程）九十多个人同时在线编辑，给Google Doc上压力测试了。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "95709dc7e0959db4",
+          "style": "NORMAL_TEXT",
+          "text": "作者有话说："
+        },
+        {
+          "content_hash": "961fd7538395e78d",
+          "style": "NORMAL_TEXT",
+          "text": "请重新回顾上面的原始purpose！我后面会对存在争议的评论进行重新整合，方便理解；如果只是因为个人原因抱怨（无法真实反应整个组或者不可泛化），就偏离了最原始的purpose；"
+        },
+        {
+          "content_hash": "a5884fd0653c8bce",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除以外的和谐操作），已经有UCSD邮箱给我发邮件威胁我了(Figure 1)。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        },
+        {
+          "content_hash": "4a1cfdaf79f46d94",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣 (作者挺住！）（支持作者，我们同在！）（支持支持）"
+        },
+        {
+          "content_hash": "2a98c68a61db8606",
+          "style": "NORMAL_TEXT",
+          "text": "大家不要申请只读版本的编辑权限了，我之前不小心通过了一批，直接暴露邮箱了。我现在统一拒绝了。（你们看看share的时候能不能看到我的邮箱，好像也可以，不过是假邮箱+VPN+洋葱浏览器）"
+        },
+        {
+          "content_hash": "d70130fac7cf68bf",
+          "style": "NORMAL_TEXT",
+          "text": "一个小时已过！现在这个文档太乱了，我想要开启只读模式清理掉一些敏感信息后再开启编辑。（submission due at xxx）"
+        },
+        {
+          "content_hash": "ed2bbed98569c8a8",
+          "style": "NORMAL_TEXT",
+          "text": "能麻烦作者能把学校grouping安排一下吗 （别添麻烦了吧，这自己查不就行了）现在信息太多了，有没有人可以用LLM总结一个csv出来方便搜索（你自己搞不就完了）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "662f989dbe9a2b5f",
+          "style": "NORMAL_TEXT",
+          "text": "会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面，Good Luck!）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 41,
+      "from_paragraphs": [
+        {
+          "content_hash": "383c74701a1ff1ff",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2036e946ba19fca1",
+          "style": "NORMAL_TEXT",
+          "text": "U-Chicago Ce Zhang（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 69,
+      "paragraphs": [
+        {
+          "content_hash": "0149a483dce69c6e",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Yalong Yang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 58,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7bef2dddc9decfd5",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 282,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "9a79af85149e24a9",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Hao Su"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a13fc28e2573416b",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Hao Su（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 293,
+      "from_paragraphs": [
+        {
+          "content_hash": "98dadd75f709405d",
+          "style": "NORMAL_TEXT",
+          "text": "   Pengtao Xie"
+        },
+        {
+          "content_hash": "5d322c2bb5a9f403",
+          "style": "NORMAL_TEXT",
+          "text": "（组里phd看了这个帖子，只想说几点：里面有些内容并不属实，也有明显带节奏、靠道听途说拼凑的部分；匿名发帖还公开他人邮箱等个人信息，更是已经越界。组里很多人只是低调、内向，不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e6b6a5c925c538b2",
+          "style": "NORMAL_TEXT",
+          "text": "   Pengtao Xie （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 310,
+      "paragraphs": [
+        {
+          "content_hash": "b83021d901d9e5f6",
+          "style": "NORMAL_TEXT",
+          "text": "笑嘻了，《不喜欢下场对线》指的是直接发邮件威胁作者删帖，大家自己判断吧"
+        },
+        {
+          "content_hash": "01359551e1d05469",
+          "style": "NORMAL_TEXT",
+          "text": "（那大家自己判断吧，本来想一条一条回复的，不想给这种帖子加热度了，浪费时间）"
+        },
+        {
+          "content_hash": "10020ec3d061f3d9",
+          "style": "NORMAL_TEXT",
+          "text": "本来就0人在意pengtao，说实话他做的事也不算过分，非要私聊作者自己给自己加热度"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 315,
+      "at_to": 297,
+      "from_paragraphs": [
+        {
+          "content_hash": "3e9a924add00dfa1",
+          "style": "NORMAL_TEXT",
+          "text": "听说曾经把学生告上学术法庭，因为学生和中国机构合作发paper（小心他告你，来喽，给作者发邮件喽，“联系谷歌内部人员找到你的信息喽”）"
+        },
+        {
+          "content_hash": "2e85e1d5997a3424",
+          "style": "NORMAL_TEXT",
+          "text": "各种drama 早年黑工成百上千(小心他告你，是谁呢好难猜啊）"
+        },
+        {
+          "content_hash": "5d167ae3104610db",
+          "style": "NORMAL_TEXT",
+          "text": "给所有申请者回邮件说会在committee里支持他，海王"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ebb25c865e3c75a5",
+          "style": "NORMAL_TEXT",
+          "text": "听说曾经把学生告上学术法庭，因为学生和中国机构合作发paper"
+        },
+        {
+          "content_hash": "dfe0136fe9d6228e",
+          "style": "NORMAL_TEXT",
+          "text": "各种drama 早年黑工成百上千给所有申请者回邮件说会在committee里支持他，海王"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 300,
+      "paragraphs": [
+        {
+          "content_hash": "cb4075f82a64574b",
+          "style": "NORMAL_TEXT",
+          "text": "组里PhD"
+        }
+      ]
+    }
+  ]
+}
