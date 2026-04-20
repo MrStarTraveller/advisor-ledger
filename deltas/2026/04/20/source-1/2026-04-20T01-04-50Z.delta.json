@@ -1,0 +1,227 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-02-42Z",
+    "revision_id": "AMHacu4i4LppKFxkLHTUOWRl3kjHR-SCXqZY-6t0Fete4h3UEnaQ0x__NHZiHVGPr9z7b4XmnEi_AcT57q5rr1jdYQ",
+    "paragraph_count": 613
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-04-50Z",
+    "revision_id": "AMHacu7t6PuvkcKsE4eIFgf4svcYR8NohGtfbWLGMXkgM_YMe-uEFCY3UIw36CMP68UsLxmBN01gTmLF_WddXaD2rQ",
+    "paragraph_count": 621
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0131,
+    "insertion_ratio": 0.0258
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 9,
+      "at_to": 9,
+      "from_paragraphs": [
+        {
+          "content_hash": "8294b6f773981e79",
+          "style": "NORMAL_TEXT",
+          "text": "（很多兄弟们可能不懂如何编辑。教程：进入链接https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.0，会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5dd506ad657cac78",
+          "style": "NORMAL_TEXT",
+          "text": "（很多兄弟姐妹们可能不懂如何编辑。教程：进入链接https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.0，会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面，Good Luck!）——（版主可以搞个正式编辑教程）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 228,
+      "at_to": 228,
+      "from_paragraphs": [
+        {
+          "content_hash": "ace647de8c8d464a",
+          "style": "NORMAL_TEXT",
+          "text": "you老师人很好，不至于上黑榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "38caa7e39ce5eb52",
+          "style": "NORMAL_TEXT",
+          "text": "You老师人很好，不至于上黑榜"
+        },
+        {
+          "content_hash": "f4cd9db7f936fb0d",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 274,
+      "from_paragraphs": [
+        {
+          "content_hash": "55f61944a5d0d0d3",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，各种事情一个不落"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "50db69c463bda024",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了有用的research，各种事情一个不落"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 290,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "368314e958f26a3e",
+          "style": "NORMAL_TEXT",
+          "text": "我来问道无余说，云在青天水在瓶"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8a32b53b146ccd3",
+          "style": "NORMAL_TEXT",
+          "text": "我来问道无余说，云在"
+        },
+        {
+          "content_hash": "4b03103897ea77b2",
+          "style": "NORMAL_TEXT",
+          "text": "青天水在瓶"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 375,
+      "at_to": 376,
+      "from_paragraphs": [
+        {
+          "content_hash": "31834d1656f23cc0",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，后面uw的那几个candidate上了以后她基本没法跳槽，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "edebdac4d733f1dc",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她，后面uw的那几个candidate上了以后她基本没法跳槽），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 396,
+      "at_to": 397,
+      "from_paragraphs": [
+        {
+          "content_hash": "a1d63070982c9377",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen人很好，虽然研究方向没那么新但作为导师人品真没得说，推荐信几乎没有不强推的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e0e026e77400458",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen人很好，虽然研究方向没那么新但作为导师人品真没得说，推荐信只要写几乎没有不强推的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 476,
+      "paragraphs": [
+        {
+          "content_hash": "afa12aa5902408fe",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击，卡学生暑假实习"
+        },
+        {
+          "content_hash": "3d8156df4b59d528",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40%"
+        },
+        {
+          "content_hash": "de6fce3024502cf7",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer"
+        },
+        {
+          "content_hash": "052daf0ee2631f60",
+          "style": "NORMAL_TEXT",
+          "text": "据说当ap之前就瓜很多"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 478,
+      "at_to": 483,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e27ff65ad1966f1",
+          "style": "NORMAL_TEXT",
+          "text": "(jiatao和lingjie是夫妻档吗?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 564,
+      "paragraphs": [
+        {
+          "content_hash": "cd382ebb8b40113c",
+          "style": "NORMAL_TEXT",
+          "text": "HKU Tao Yu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 578,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c82ce6719bde4cf3",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua Chong’en Bai"
+        }
+      ]
+    }
+  ]
+}

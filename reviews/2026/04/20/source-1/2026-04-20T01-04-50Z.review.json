@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-04-50Z.delta.json",
+  "delta_ts": "2026-04-20T01-04-50Z",
+  "reviewed_at_utc": "2026-04-20T01:05:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Specific lab attrition statistics (5 recruited, 2 left) could de-anonymize students in a small research group",
+      "excerpt": "学生招了5个走了2个，quit率40%"
+    }
+  ],
+  "prompt_sha256": "e6ae8a5719471fef955a5b17b2924417d33e3df06dcf1ed9e3007218d536272e",
+  "finish_reason": "stop",
+  "completion_tokens": 4682
+}
