@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-48-40Z.delta.json",
+  "delta_ts": "2026-04-20T20-48-40Z",
+  "reviewed_at_utc": "2026-04-20T20:50:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Sarcastic remark attacking character (implying narcissism/attention-seeking) rather than concrete advising practices",
+      "excerpt": "是一定要觉得自己在这里不够闪耀吗？"
+    }
+  ],
+  "prompt_sha256": "40c0f803e3f7561689455e785ae0f7f8db4d876d6d4dbe128f312007d4b29a9c",
+  "finish_reason": "stop",
+  "completion_tokens": 4458
+}

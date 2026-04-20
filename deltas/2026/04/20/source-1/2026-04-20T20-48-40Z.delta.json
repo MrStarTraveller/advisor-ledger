@@ -1,0 +1,160 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-46-30Z",
+    "revision_id": "AMHacu4UlmNUmuKROcIigysEv4MDVjyz7o_K3CJzZvQg8eVbAXFoD0V1soTm5zZT-wIkoPdeY8tMYE7mQZQ-yDfVvg",
+    "paragraph_count": 2099
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-48-40Z",
+    "revision_id": "AMHacu7OMNTwIW4PFoflByZw-iauw964ptrvsNePo1Qv5d6d9V10XoesFNRG1-EOIakGSWVobXqm4ZzCyt-PvKSfgQ",
+    "paragraph_count": 2103
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 6,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0029,
+    "insertion_ratio": 0.0048
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "16c9edb725960938",
+          "style": "NORMAL_TEXT",
+          "text": "slack群里两千多个人。(🐮，免费版吗)("
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "38d38de9fcf39e32",
+          "style": "NORMAL_TEXT",
+          "text": "slack群里两千多个人。(🐮，免费版吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1228,
+      "at_to": 1228,
+      "from_paragraphs": [
+        {
+          "content_hash": "5fd3f83d94640c9a",
+          "style": "NORMAL_TEXT",
+          "text": "私心说一句：一个老师就是会有合得来、合不来的学生。我觉得这个doc存在的意义就是规正老师行为底线，所以负样本比正样本更有权重。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "30320a90eb5bae81",
+          "style": "NORMAL_TEXT",
+          "text": "私心说一句：一个老师就是会有合得来、合不来的学生。我觉得这个doc存在的意义就是规正老师行为底线，所以负样本比正样本更有权重"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1447,
+      "at_to": 1447,
+      "from_paragraphs": [
+        {
+          "content_hash": "698e1083aaa96824",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "68eb127b14633714",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1536,
+      "at_to": 1536,
+      "from_paragraphs": [
+        {
+          "content_hash": "da8854d5432b53a7",
+          "style": "NORMAL_TEXT",
+          "text": "经典老坑了，本人非常推崇xinyu zhang的工作方式，但是产出yuan'yua"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "78df0a6595a29f39",
+          "style": "NORMAL_TEXT",
+          "text": "经典老坑了，本人非常推崇xinyu zhang的工作方式，但是产出远远不如别人"
+        },
+        {
+          "content_hash": "e3acfc72ec38e36c",
+          "style": "NORMAL_TEXT",
+          "text": "非常擅长pua+精神暴力学生"
+        },
+        {
+          "content_hash": "100f01178140e6ee",
+          "style": "NORMAL_TEXT",
+          "text": "清华自动化出生，本人编程能力非常有限但是非常喜欢微操"
+        },
+        {
+          "content_hash": "594dc4ef20bbfbfa",
+          "style": "NORMAL_TEXT",
+          "text": "没有任何industry connection"
+        },
+        {
+          "content_hash": "4fbd6404898e9283",
+          "style": "NORMAL_TEXT",
+          "text": "作息经常很混乱 凌晨3"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1587,
+      "at_to": 1591,
+      "from_paragraphs": [
+        {
+          "content_hash": "7ce8d97672630499",
+          "style": "NORMAL_TEXT",
+          "text": "没完没了了还是看不懂中文了？学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组。从头至尾与不正当关系无关，学生也无法"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "36c7139919b29756",
+          "style": "NORMAL_TEXT",
+          "text": "没完没了了还是看不懂中文了？学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组。从头至尾与不正当关系无关，学生也无权否定或者肯定顾本人的私生活关系，更没有兴趣。是一定要觉得自己在这里不够闪耀吗？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1874,
+      "at_to": 1878,
+      "from_paragraphs": [
+        {
+          "content_hash": "306980827deeff6b",
+          "style": "NORMAL_TEXT",
+          "text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad8e7cd6e8860f93",
+          "style": "NORMAL_TEXT",
+          "text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。You从未给我强制assign过luchen的任务。"
+        }
+      ]
+    }
+  ]
+}

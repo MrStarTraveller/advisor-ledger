@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T20-48-40Z",
+  "reviewed_at_utc": "2026-04-20T20:50:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "16c9edb725960938",
+      "insert_hash": "38d38de9fcf39e32",
+      "note": "typo fix: removed trailing paren",
+      "ghost_text": "slack群里两千多个人。(🐮，免费版吗)(",
+      "insert_text": "slack群里两千多个人。(🐮，免费版吗)"
+    },
+    {
+      "ghost_hash": "5fd3f83d94640c9a",
+      "insert_hash": "30320a90eb5bae81",
+      "note": "typo fix: removed period",
+      "ghost_text": "私心说一句：一个老师就是会有合得来、合不来的学生。我觉得这个doc存在的意义就是规正老师行为底线，所以负样本比正样本更有权重。",
+      "insert_text": "私心说一句：一个老师就是会有合得来、合不来的学生。我觉得这个doc存在的意义就是规正老师行为底线，所以负样本比正样本更有权重"
+    },
+    {
+      "ghost_hash": "698e1083aaa96824",
+      "insert_hash": "68eb127b14633714",
+      "note": "minor rewrite: removed 沟通, added clarification",
+      "ghost_text": "这个组的intern基本都是跟PhD沟通。（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）",
+      "insert_text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+    },
+    {
+      "ghost_hash": "da8854d5432b53a7",
+      "insert_hash": "78df0a6595a29f39",
+      "note": "completed truncated sentence",
+      "ghost_text": "经典老坑了，本人非常推崇xinyu zhang的工作方式，但是产出yuan'yua",
+      "insert_text": "经典老坑了，本人非常推崇xinyu zhang的工作方式，但是产出远远不如别人"
+    },
+    {
+      "ghost_hash": "7ce8d97672630499",
+      "insert_hash": "36c7139919b29756",
+      "note": "completed truncated sentence",
+      "ghost_text": "没完没了了还是看不懂中文了？学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组。从头至尾与不正当关系无关，学生也无法",
+      "insert_text": "没完没了了还是看不懂中文了？学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组。从头至尾与不正当关系无关，学生也无权否定或者肯定顾本人的私生活关系，更没有兴趣。是一定要觉得自己在这里不够闪耀吗？"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2659,
+  "skipped_reason": null
+}
