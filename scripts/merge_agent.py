@@ -302,8 +302,13 @@ def process_comment(issue: dict, comment: dict, bot_login: str, mirror_md: str) 
     if record_path.exists():
         return {"action": "already_processed"}
 
-    # skip our own replies to avoid loops
-    if comment["user"]["login"] == bot_login:
+    # Skip our own replies (to avoid loops), but NOT comments the Worker relayed
+    # on behalf of anonymous users — those are posted with the same PAT but are
+    # user content. The Worker prefixes them with "_(匿名"; our own replies are
+    # prefixed with "(bot) ". Use that as the discriminator.
+    body = (comment.get("body") or "").lstrip()
+    is_own_reply = comment["user"]["login"] == bot_login and body.startswith("(bot)")
+    if is_own_reply:
         save_merge_record(
             issue_number,
             comment_id,
