@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-18-30Z",
+  "reviewed_at_utc": "2026-04-20T21:19:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 14,
+  "pairs": [
+    {
+      "ghost_hash": "d7fc2f4a295b06f1",
+      "insert_hash": "0b52a025dd0374f9",
+      "note": "Expanded reason for no PhD students",
+      "ghost_text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。(是因为招不到phd,连续好几年都没人选，前几年好不容易招进来几个都跑路了，只能招postdoc和ra）",
+      "insert_text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。(是因为招不到phd,系里都知道他坑 ，连续好几年都没新生选，前几年好不容易搞进来几个都跑路了，只能招postdoc和ra干活 ）"
+    },
+    {
+      "ghost_hash": "89dd939f2afab91e",
+      "insert_hash": "1756ab189cc05cae",
+      "note": "Added incomplete parenthetical",
+      "ghost_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动",
+      "insert_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴"
+    },
+    {
+      "ghost_hash": "7303fc2dc8fca7d7",
+      "insert_hash": "16c906fd9a003075",
+      "note": "Added taste subjectivity comment",
+      "ghost_text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）（funding不都是用来养学生买资源，哪个导师不用funding，请狠狠写到红榜头条去让大家开开眼） （做过intern，我不理解为什么有人黑老师？老师给写推荐信，给资源，给指导，给我写了8篇推荐信，虽然最后没有去老师组）",
+      "insert_text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）（funding不都是用来养学生买资源，哪个导师不用funding，请狠狠写到红榜头条去让大家开开眼） （做过intern，我不理解为什么有人黑老师？老师给写推荐信，给资源，给指导，给我写了8篇推荐信，虽然最后没有去老师组）（taste见仁见智吧 有好工作也有一般的）"
+    },
+    {
+      "ghost_hash": "ed26958924cd6d18",
+      "insert_hash": "cbf68301fcf19aaa",
+      "note": "Grammar fix: added '的'",
+      "ghost_text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有跟老师的weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）",
+      "insert_text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试的）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有跟老师的weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+    },
+    {
+      "ghost_hash": "2f9add67ccac55de",
+      "insert_hash": "8270ef67eb691bf0",
+      "note": "Removed snarky ending comment",
+      "ghost_text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水全给最高，connection一般直接找自己做intern的不太容易给，加上今年有一开始答应好给的return的但是十一月底忽然说不录了（后面还在招新的，估计还是想找厉害点的，）。有缺点，但是总体性格是好的，老师也很认真帮助大家，组里的人都还是希望老师可以往好发展（原来爱临期放人鸽子这点狗改不了吃屎啊😆）",
+      "insert_text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水全给最高，connection一般直接找自己做intern的不太容易给，加上今年有一开始答应好给的return的但是十一月底忽然说不录了（后面还在招新的，估计还是想找厉害点的，）。有缺点，但是总体性格是好的，老师也很认真帮助大家，组里的人都还是希望老师可以往好发展"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4007,
+  "skipped_reason": null
+}

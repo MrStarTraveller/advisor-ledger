@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-18-30Z.delta.json",
+  "delta_ts": "2026-04-20T21-18-30Z",
+  "reviewed_at_utc": "2026-04-20T21:19:25Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full name of student 'dingyufei' disclosed alongside specific accusations of academic misconduct (exam cheating and application fraud)",
+      "excerpt": "dingyufei考试作弊我就在考试现场"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifying details about a private individual (professor's spouse): specific age range (20s), nationality (Korean), and relationship to identifiable professor, sufficient to de-anonymize a non-public figure",
+      "excerpt": "听说来jhu带了一个20多岁的韩国老婆（本人目测70岁高寿）"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal attack mocking professor's age and private marital choices as character judgment, unrelated to advising practices",
+      "excerpt": "听说来jhu带了一个20多岁的韩国老婆（本人目测70岁高寿）"
+    }
+  ],
+  "prompt_sha256": "1dd381ba764fa880c505490ad40b5e75204a939d0d2212930eb40a2739c446c8",
+  "finish_reason": "stop",
+  "completion_tokens": 6184
+}
