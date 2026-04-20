@@ -1,0 +1,167 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-48-27Z",
+    "revision_id": "AMHacu6oRilcoA4TOxXDAJ9zgeDNlNDtQmZQY5c75RTNT2X-0gXNcO1Tr7vfPUbfVFMd8Zo_eSQ8pJT08S24we3h4g",
+    "paragraph_count": 1093
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-50-30Z",
+    "revision_id": "AMHacu5jPf2Vw_NR9AaNYDGuuxLVcO0pVc6jNXpMMplQf7aBSyrCILhejeOzvYnIB7QNzP7UP9a6Wo8wIUbliRq_Bg",
+    "paragraph_count": 1095
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 8,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0073,
+    "insertion_ratio": 0.0091
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 21,
+      "at_to": 21,
+      "from_paragraphs": [
+        {
+          "content_hash": "b39013bb3b83c284",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下（or 描述自身经历；人不能把自己没亲身经历过就认为是假的吧） （+1）有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的，并不是开脱，只是你随便造谣，你在暗处，别人在明处（如果觉得这种地位不对等有问题，建议直接投诉RateMyProfessor，在我看来这无非就是等价的RateMyAdvisor，好的老师自有大儒为ta辩经（确实，就比如 sun lichao，有的人说不好，也有自己phd 亲自愿意站台，兼听则明这不更好？），看看红榜，或者黑榜转红榜），你觉得这些恶意中伤，就是很高尚的行为了？讲道理，棕色这个人觉得，恶能随意传播（这就怪了，学生能被恶伤害，不能去说自己经历的恶了？这不扣帽子吗）也无所谓是吧？高尚与否可以拿实际经历说话，但我看下面不少老师被人身攻击，都是捕风捉影，拿一些和自己经历无关紧要的事情出来说事儿，私生活混乱这些也就罢了，传了几百道人的和自己八杆子打不着的七大姑八大姨的事情也能据说，有点搞笑。"
+        },
+        {
+          "content_hash": "73485f8ea1385488",
+          "style": "NORMAL_TEXT",
+          "text": "至少比这些恶心的行为要高尚。对付恶人就要用恶人的方法。有些好的老师比如yu/huan至少也有人来洗白。你有例子吗？我能告诉你的就是我看到的这个里面80%+的事情都是真的。不要低估faculty的恶。"
+        },
+        {
+          "content_hash": "bcf462e5fbe7dfb9",
+          "style": "NORMAL_TEXT",
+          "text": "但是下面很多不是真的不好的老师也有很多老师维护吧，大家可以有自己判断的能力了吧，都读phd了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "09c262cf647a00cf",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下（or 描述自身经历；人不能把自己没亲身经历过就认为是假的吧） （+1）有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的（的确不对等，老师能开学生，学生能开老师吗[DOGE]），并不是开脱，只是你随便造谣，你在暗处，别人在明处（如果觉得这种地位不对等有问题，建议直接投诉RateMyProfessor，在我看来这无非就是等价的RateMyAdvisor，好的老师自有大儒为ta辩经（确实，就比如 sun lichao，有的人说不好，也有自己phd 亲自愿意站台，兼听则明这不更好？），看看红榜，或者黑榜转红榜），你觉得这些恶意中伤，就是很高尚的行为了？讲道理，棕色这个人觉得，恶能随意传播（这就怪了，学生能被恶伤害，不能去说自己经历的恶了？这不扣帽子吗）也无所谓是吧？高尚与否可以拿实际经历说话，但我看下面不少老师被人身攻击，都是捕风捉影，拿一些和自己经历无关紧要的事情出来说事儿，私生活混乱这些也就罢了，传了几百道人的和自己八杆子打不着的七大姑八大姨的事情也能据说，有点搞笑。"
+        },
+        {
+          "content_hash": "4241c077eb755a4f",
+          "style": "NORMAL_TEXT",
+          "text": "至少比这些恶心的行为要高尚。对付恶人就要用恶人的方法。有些好的老师比如yu/huan至少也有人来洗白。你有例子吗？我能告诉你的就是我看到的这个里面80%+的事情都是真的。不要低估faculty的恶。（+1）"
+        },
+        {
+          "content_hash": "ead7b185efdfaca3",
+          "style": "NORMAL_TEXT",
+          "text": "但是下面很多不是真的不好的老师也有很多人维护吧，大家可以有自己判断的能力了吧，都读phd了（+1）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 74,
+      "at_to": 75,
+      "from_paragraphs": [
+        {
+          "content_hash": "c0667b69a730bdfe",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题，都觉得孙哥又给自由又推资源，什么都好。本来写了好长一堆，后来想了想，我似乎没必要向你们证明我老板人品有多好，我只需要证明底下黑他的都不是他的phd，人品pua学生之类的说法就不攻自破了。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，一作也都给本科生。算了，你们也不是真的关心我们。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8644354d4adf5ceb",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题，都觉得孙哥又给自由又推资源，人品做事什么都好。本来写了好长一堆，后来想了想，我似乎没必要向你们证明我老板人品有多好，我只需要证明底下黑他的都不是他的phd，pua学生之类的说法就不攻自破了。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，你们也不是真的关心我们。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 213,
+      "at_to": 214,
+      "from_paragraphs": [
+        {
+          "content_hash": "597eea357e496052",
+          "style": "NORMAL_TEXT",
+          "text": "学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。（还要帮他砍树，修草坪，帮他老婆雪地救援，搬家具）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b088b37d5d13c517",
+          "style": "NORMAL_TEXT",
+          "text": "学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。（还要帮他砍树，修草坪，帮他老婆雪地救援，搬家具）（这不是国内教授的作风么）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 450,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 636,
+      "at_to": 638,
+      "from_paragraphs": [
+        {
+          "content_hash": "dbf00d9c30c34ad8",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组。组里氛围还挺好的，大家私下都会一起聚聚玩一下。老师也有请客聚聚。实习和找工作也都有帮忙推荐一下）（有人转组哦）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "620f91f3b952fb6c",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组。组里氛围还挺好的，大家私下都会一起聚聚玩一下。老师也有请客聚聚。实习和找工作也都有帮忙推荐一下）（有人转组哦）(什么情况组里的人都心知肚明，一人分饰多角来黑没必要吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 862,
+      "at_to": 864,
+      "from_paragraphs": [
+        {
+          "content_hash": "49661aa1a8a06b13",
+          "style": "NORMAL_TEXT",
+          "text": "全校范围招几十个MS进组科研养蛊 最后蛊王可以留phd， 如果不幸成为耗材，带不走你的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0c68deeaa336e93",
+          "style": "NORMAL_TEXT",
+          "text": "全校范围招几十个MS进组科研养蛊 最后蛊王可以留phd"
+        },
+        {
+          "content_hash": "d9a13751ba267537",
+          "style": "NORMAL_TEXT",
+          "text": "非常push，组里都是牛马，周末和晚上开会是常态，平安夜也开会"
+        }
+      ]
+    }
+  ]
+}
