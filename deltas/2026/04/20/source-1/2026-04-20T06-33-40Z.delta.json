@@ -1,0 +1,90 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-31-30Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-33-40Z",
+    "revision_id": null,
+    "paragraph_count": 1167
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 3,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0026,
+    "insertion_ratio": 0.0043
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ab889bbc36c75f3",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "332439e9f64cb618",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解。你可以选择删除对你不利的信息，但是如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        },
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        },
+        {
+          "content_hash": "afb499808066104b",
+          "style": "NORMAL_TEXT",
+          "text": "请大家保护学生信息，包含隐私信息的评论都需要被删除"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 10,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9d3799f44f570871",
+          "style": "NORMAL_TEXT",
+          "text": " Here’s a copy of the doc. Nobody can edit it. Please don’t share it with any professor.  (本链接用作备份，无法被删除和修改，只能被查看)  如果你需要删除隐私信息，请对这个Copy文档提出申请编辑请求并附带需要删除的Notes。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f7fee6f3e3effe93",
+          "style": "NORMAL_TEXT",
+          "text": "删除了一些敏感信息"
+        }
+      ]
+    }
+  ]
+}
