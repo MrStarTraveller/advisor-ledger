@@ -1,0 +1,12 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-05-50Z",
+  "reviewed_at_utc": "2026-04-20T14:06:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 10,
+  "pairs": [],
+  "finish_reason": null,
+  "completion_tokens": null,
+  "skipped_reason": "transport_error: <HTTPError 502: 'Bad Gateway'>"
+}

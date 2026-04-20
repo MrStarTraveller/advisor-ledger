@@ -1,0 +1,177 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-01-30Z",
+    "revision_id": "AMHacu4Fkem-nEpZXuL9qoDq9eP3smfbBpT9PJMXkBwtvuKr-zHNq5D1ADKHFbdQF-3htrNzOxwJR1UNEoZkUv1KyA",
+    "paragraph_count": 1900
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-05-50Z",
+    "revision_id": "AMHacu7ZGJXe3CWgPmo8K9aX-l5N5-UwIaghTNh2G24htfb9fKn-6wdJUxgXO2juBzbepeUi-nswtzBJLYo8w8PG2A",
+    "paragraph_count": 1903
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 7,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 115,
+      "paragraphs": [
+        {
+          "content_hash": "82ad80027c2bee1d",
+          "style": "NORMAL_TEXT",
+          "text": "拿只言片语造谣传谣不用负责的是吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 117,
+      "at_to": 118,
+      "from_paragraphs": [
+        {
+          "content_hash": "807f8e21d168917f",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb60824b631f22e4",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人一直搅浑水）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 548,
+      "paragraphs": [
+        {
+          "content_hash": "429d0ef13a49527b",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？ (点赞)被ucb取消offer 还有这事，那stf为啥不取消？ stf on hold 了，但后来北大没作为，因此又给offer了北大也是离谱"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 569,
+      "at_to": 571,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac05c44578351549",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f17563f669da054",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，shu那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 575,
+      "at_to": 577,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9a9b4ba7620f7f3",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48406ac6b89522d6",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1647,
+      "at_to": 1649,
+      "from_paragraphs": [
+        {
+          "content_hash": "d1f1cd88e9ba88e0",
+          "style": "NORMAL_TEXT",
+          "text": "手下Phd走了一堆。。。（quit&转组&转硕）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c9c2055711da176",
+          "style": "NORMAL_TEXT",
+          "text": "手下Phd走了一堆。。。（转组&quit&转硕）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1671,
+      "at_to": 1673,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c11ed5adba8dc0c",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外还有一些是从别的老师那跑到May这的）"
+        },
+        {
+          "content_hash": "0f60219260e92866",
+          "style": "NORMAL_TEXT",
+          "text": "实习生要自费科研，没有指导"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d6027e2d99b235c2",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）"
+        },
+        {
+          "content_hash": "5730f7b1ad819c3c",
+          "style": "NORMAL_TEXT",
+          "text": "实习生要自费科研，没有指导（ust甚至港校普遍这样，但貌似也有intern有产出？可能yin'ren）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1721,
+      "at_to": 1723,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc661d87986eaa5b",
+          "style": "NORMAL_TEXT",
+          "text": "听说搞婚外情？有无懂的CN\u000b\u000bCN"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77366606d7a3dbf6",
+          "style": "NORMAL_TEXT",
+          "text": "听说搞婚外情？有无懂的CN"
+        },
+        {
+          "content_hash": "9fc4508238942e7c",
+          "style": "HEADING_1",
+          "text": "CN"
+        }
+      ]
+    }
+  ]
+}

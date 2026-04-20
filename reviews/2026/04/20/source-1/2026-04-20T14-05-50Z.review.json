@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-05-50Z.delta.json",
+  "delta_ts": "2026-04-20T14-05-50Z",
+  "reviewed_at_utc": "2026-04-20T14:06:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by full name (Yufei Ding) and reveals private academic records including admissions decisions (UCB offer cancellation, Stanford on-hold status, PKU offer reinstatement). PhD students are private individuals and their admissions details constitute personally identifying information.",
+      "excerpt": "Yufei Ding 今年stf的phd...被ucb取消offer...stf on hold...北大...又给offer"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses the gendered slur '学术妲己' (academic Daji/concubine) to attack the student's character and imply they advance through sexual relationships rather than merit. This is an unsupported personal insult rather than criticism of concrete advising practices.",
+      "excerpt": "纯学术妲己"
+    }
+  ],
+  "prompt_sha256": "3548a726447174a7811a1ffa2abfc8c7461a3f3a1942e454e5dd93d44a9b8898",
+  "finish_reason": "stop",
+  "completion_tokens": 5277
+}
