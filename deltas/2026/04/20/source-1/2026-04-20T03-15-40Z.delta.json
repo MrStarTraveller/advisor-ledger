@@ -1,0 +1,269 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-13-30Z",
+    "revision_id": "AMHacu6e0T0zdWH8lEVJfq9azZcXMTVQlaayWL4MCEIEtbkAMYF6kxdnY6bZROxLXPg_nYPKixLZ2hL4BgGDdP_C7Q",
+    "paragraph_count": 924
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-15-40Z",
+    "revision_id": "AMHacu66eqq2mvMI8FesssmTl3hvFLwS7YC9UpEafV5SvTScCAvvlTL9TJoId4LL2im7diosJ2NZ_v63k2nJp1H6jg",
+    "paragraph_count": 932
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 11,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0119,
+    "insertion_ratio": 0.0204
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 24,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "0096e88efb1eb3d1",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a2de34e3f7db893",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 34,
+      "paragraphs": [
+        {
+          "content_hash": "904f137cc5fcafb0",
+          "style": "NORMAL_TEXT",
+          "text": "Youtube Zhao Song"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 46,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5412d418de84d84b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun"
+        },
+        {
+          "content_hash": "3e2146138ef08921",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生 （基本上就是全部开除了） https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "fff0e196cd782539",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）"
+        },
+        {
+          "content_hash": "54095975c9a752ae",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作paper就开除，有学生博三博四也被开除"
+        },
+        {
+          "content_hash": "369fdb3f72781c12",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三"
+        },
+        {
+          "content_hash": "2976a0b6ddc1990c",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔白人，白人没有被开除的，也不push"
+        },
+        {
+          "content_hash": "1cf92e32cd667584",
+          "style": "NORMAL_TEXT",
+          "text": "部分 AI for Health paper"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 80,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 83,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 178,
+      "at_to": 184,
+      "from_paragraphs": [
+        {
+          "content_hash": "a32ec2ec4524a464",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e7fe3ad238e3b7d",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，评价"
+        },
+        {
+          "content_hash": "b695bf3873c80830",
+          "style": "NORMAL_TEXT",
+          "text": "听过talk，英语不行，不知道"
+        },
+        {
+          "content_hash": "b476d90ee8b831bc",
+          "style": "NORMAL_TEXT",
+          "text": "感觉人还是挺nice的，对学生也比较supportive，connection也不错"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 180,
+      "paragraphs": [
+        {
+          "content_hash": "b476d90ee8b831bc",
+          "style": "NORMAL_TEXT",
+          "text": "感觉人还是挺nice的，对学生也比较supportive，connection也不错"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 373,
+      "from_paragraphs": [
+        {
+          "content_hash": "74ca603a1fd7b4ff",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d418dcfaafd543c2",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 458,
+      "at_to": 465,
+      "from_paragraphs": [
+        {
+          "content_hash": "cdff4583be55cec0",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c3308084b1406a39",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）（可以来，就是爹系，受不了的话就别来）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 694,
+      "paragraphs": [
+        {
+          "content_hash": "c1416a5caedf114d",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 795,
+      "paragraphs": [
+        {
+          "content_hash": "e41404d82befe0d9",
+          "style": "NORMAL_TEXT",
+          "text": "称病不朝鸽intern，水平也差，很早之前说要去 hkust，但是后来一段时间又"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 910,
+      "at_to": 919,
+      "from_paragraphs": [
+        {
+          "content_hash": "c8498656edcdff9a",
+          "style": "NORMAL_TEXT",
+          "text": "UESTC XUN LUO"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5586874ef798a7bd",
+          "style": "NORMAL_TEXT",
+          "text": "UESTC Xun LUO"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 914,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
