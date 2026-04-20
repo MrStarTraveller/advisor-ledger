@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-29-40Z",
+  "reviewed_at_utc": "2026-04-20T13:31:05Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "3da002abc4514d26",
+      "insert_hash": "267927f65f950fcb",
+      "note": "added （求细说）at end",
+      "ghost_text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念",
+      "insert_text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念 （求细说）"
+    },
+    {
+      "ghost_hash": "95e056270a3197c0",
+      "insert_hash": "d78f05905c332ef7",
+      "note": "added challenge to prove identity",
+      "ghost_text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？",
+      "insert_text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的证明你不是本人？"
+    },
+    {
+      "ghost_hash": "bc8ae6c9ed9785a6",
+      "insert_hash": "a60ff61d144acfde",
+      "note": "added evidence pointer in parens",
+      "ghost_text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错）",
+      "insert_text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错）(这一点请看丁老师主页已经毕业学生的去向便可以明察)"
+    },
+    {
+      "ghost_hash": "cb51a1bd38829334",
+      "insert_hash": "cb51a1bd38829334",
+      "note": "identical text",
+      "ghost_text": "UCB Kwabena Bediako",
+      "insert_text": "UCB Kwabena Bediako"
+    },
+    {
+      "ghost_hash": "3ca0469b182cc1c8",
+      "insert_hash": "d3bea34969a5a472",
+      "note": "added rebuttals within original text",
+      "ghost_text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？老师自己没有半点责任不反思一下自己？中东一家独大也是nb",
+      "insert_text": "纯路人吃瓜（纯路人s）： 看本人发言，动不动让学生自己反思，PUA话术习惯了？（你是不是魔怔了 叫学生反思就是pua了 要不要看看学生的行为 做错了还不能反思了吗）老师自己没有半点责任不反思一下自己？中东一家独大也是nb (不要天然设置老师和学生的对立立场，这会让你的感官被蒙蔽。很多时候上榜与否，或许只是因为组里有一个毒瘤而已。)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4210,
+  "skipped_reason": null
+}

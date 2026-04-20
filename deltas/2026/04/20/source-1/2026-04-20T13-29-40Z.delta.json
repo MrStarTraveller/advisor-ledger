@@ -1,0 +1,200 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-25-20Z",
+    "revision_id": "AMHacu42wDG6EIdJsWxW5rZeqVafOW2JuU6kGB7MTAXbJieqMgeRkNY3pz5FZfdP_n12KKbufUop2yXgV_wqp5oaiQ",
+    "paragraph_count": 1884
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-29-40Z",
+    "revision_id": "AMHacu784pI8AgfacDIXnQJ1sTrYo9c9JXHfLRURC-ke9jpnRh7DD2JYx1d10IK8JNpf5Yw_PWsKsiWF-oarAVpR6Q",
+    "paragraph_count": 1885
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 10,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0053,
+    "insertion_ratio": 0.0058
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 281,
+      "at_to": 281,
+      "from_paragraphs": [
+        {
+          "content_hash": "3da002abc4514d26",
+          "style": "NORMAL_TEXT",
+          "text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "267927f65f950fcb",
+          "style": "NORMAL_TEXT",
+          "text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念 （求细说）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 593,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 600,
+      "at_to": 599,
+      "from_paragraphs": [
+        {
+          "content_hash": "95e056270a3197c0",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d78f05905c332ef7",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的证明你不是本人？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 768,
+      "at_to": 767,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc8ae6c9ed9785a6",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a60ff61d144acfde",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错）(这一点请看丁老师主页已经毕业学生的去向便可以明察)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1558,
+      "paragraphs": [
+        {
+          "content_hash": "cb51a1bd38829334",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Kwabena Bediako"
+        },
+        {
+          "content_hash": "87629882f75b1273",
+          "style": "NORMAL_TEXT",
+          "text": "涉及性骚扰，追求学生，reddit可以查到UCB化学系集体appeal的文档"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1560,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cb51a1bd38829334",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Kwabena Bediako"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1619,
+      "at_to": 1621,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea69f38abee1673a",
+          "style": "NORMAL_TEXT",
+          "text": "同visiting student，之前li j"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a0660558c8358cef",
+          "style": "NORMAL_TEXT",
+          "text": "同visiting，基于我自己的真实合作经历，上面负面评价纯小黑子。"
+        },
+        {
+          "content_hash": "b7032eb941828066",
+          "style": "NORMAL_TEXT",
+          "text": "合作一年有余，没感受到什么 PUA，PUSH， 论文赶不上也不会说什么，赶下一个就好，没感受到有什么压力所在（仅此一点，超过无数老师了）。 论文遇到困难，基本上会尽力帮忙解决，有什么给什么，至于黑推，简直不可思议。农夫与蛇的故事科研版，老师尽力帮助，学生反咬一口。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1621,
+      "at_to": 1624,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ca0469b182cc1c8",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？老师自己没有半点责任不反思一下自己？中东一家独大也是nb"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3bea34969a5a472",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜（纯路人s）： 看本人发言，动不动让学生自己反思，PUA话术习惯了？（你是不是魔怔了 叫学生反思就是pua了 要不要看看学生的行为 做错了还不能反思了吗）老师自己没有半点责任不反思一下自己？中东一家独大也是nb (不要天然设置老师和学生的对立立场，这会让你的感官被蒙蔽。很多时候上榜与否，或许只是因为组里有一个毒瘤而已。)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1669,
+      "paragraphs": [
+        {
+          "content_hash": "a960b6b72252404f",
+          "style": "NORMAL_TEXT",
+          "text": "HKU, Chao Huang"
+        },
+        {
+          "content_hash": "b3ebae647195e6cc",
+          "style": "NORMAL_TEXT",
+          "text": "买github star是真的吗？（没有石锤，企业包括这种买的都是前期一堆后期火了逐步取消）(小红书那个博主都承认数据错误了，还没见到真正的实锤)"
+        }
+      ]
+    }
+  ]
+}

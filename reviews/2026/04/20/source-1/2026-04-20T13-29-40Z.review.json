@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-29-40Z.delta.json",
+  "delta_ts": "2026-04-20T13-29-40Z",
+  "reviewed_at_utc": "2026-04-20T13:30:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment labeling the student as an ungrateful 'snake' and using derogatory slang '小黑子' (hater/troll)",
+      "excerpt": "上面负面评价纯小黑子...农夫与蛇的故事科研版，老师尽力帮助，学生反咬一口"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insults questioning mental state ('你是不是魔怔了') and calling a group member a toxic '毒瘤' (cancer)",
+      "excerpt": "你是不是魔怔了...组里有一个毒瘤而已"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive entry about HKU professor Chao Huang regarding GitHub star purchasing allegations, suppressing legitimate observation",
+      "excerpt": "HKU, Chao Huang\n买github star是真的吗？"
+    }
+  ],
+  "prompt_sha256": "faed779c1a1e8c7e46c4442d51d6848b58e80f4710560bf30b3c24841326f6f6",
+  "finish_reason": "stop",
+  "completion_tokens": 5624
+}
