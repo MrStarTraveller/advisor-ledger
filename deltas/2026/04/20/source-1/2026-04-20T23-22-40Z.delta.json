@@ -1,0 +1,75 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-20-30Z",
+    "revision_id": null,
+    "paragraph_count": 2190
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-22-40Z",
+    "revision_id": null,
+    "paragraph_count": 2191
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 2,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0009,
+    "insertion_ratio": 0.0014
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 41,
+      "at_to": 41,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c57b08f95503cac",
+          "style": "HEADING_3",
+          "text": "Min Xu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7010f9cb8e7b2291",
+          "style": "HEADING_3",
+          "text": "Min Xuu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "6536d220684d8c16",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，刚好一个朋友在他们组，得到的回复是现在挺正常的，老师也很professional，晚上6点之后，周末不找学生。不用微信联系学生，有事情都是teams和邮件。讲诚信，答应的事情都会兑现。hands-on指导学生，给idea，遇到困难会跟学生用心讨论解决。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc12ea73087f28fd",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，刚好一个朋友在他们组，得到的回复是现在挺正常的，老师也很professional，晚上6点之后，周末不找学生。不用微信联系学生，有事情都是teams和邮件。讲诚信，答应的事情都会兑现。hands-on指导学生，给idea，遇到困难会跟学生用心讨论解决。(被多次举报之后收敛了??不是特别清楚当前现状)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1390,
+      "paragraphs": [
+        {
+          "content_hash": "ee4865c35f511380",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大没耐心，情绪管理有问题。"
+        }
+      ]
+    }
+  ]
+}
