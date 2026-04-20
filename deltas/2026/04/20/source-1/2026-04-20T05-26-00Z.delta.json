@@ -1,0 +1,416 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-21-52Z",
+    "revision_id": "AMHacu7a_xtaTmN78nLPaqxVJTqXw16SQU1Z8qOXGhKD0VFNFoC4T2QtHqPnhlPkCgoQZHIf7gXF6RCjYEpW0SXuIw",
+    "paragraph_count": 1140
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-26-00Z",
+    "revision_id": "AMHacu5jiQ_rFTW3BMwYs-aRsJPRlNPCMp3rO7ULUHgQR3TVObZLpyVvloFU5hvXJwmicwI9IGqIL5WU7W9Ck9mE_Q",
+    "paragraph_count": 1151
+  },
+  "summary": {
+    "inserted_paragraphs": 28,
+    "deleted_paragraphs": 17,
+    "operations": 22,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0149,
+    "insertion_ratio": 0.0243
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 27,
+      "at_to": 27,
+      "from_paragraphs": [
+        {
+          "content_hash": "673531bfcf2d5159",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）"
+        },
+        {
+          "content_hash": "03fcffbe58446eee",
+          "style": "NORMAL_TEXT",
+          "text": "【先隐藏了，等看看我会不会被Google官方开盒】（不可能的吧，最多social engineering？但这铁铁违法吧）（楼主你要真被开了你就发财了）"
+        },
+        {
+          "content_hash": "92a10973b323c033",
+          "style": "NORMAL_TEXT",
+          "text": "他知道我的邮箱了，不过我的邮箱是假的，不知道他会不会IP定位什么的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b1f86b0209b601e",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）翻译一下，你可以喷别人但不能喷我"
+        },
+        {
+          "content_hash": "ff52cbde0a01bdd8",
+          "style": "NORMAL_TEXT",
+          "text": "【先隐藏了，等看看我会不会被Google官方开盒】（不可能的吧，最多social engineering？但这铁铁违法吧）（楼主你要真被开了你就发财了）（等楼主发财）"
+        },
+        {
+          "content_hash": "33e158f801c76d6b",
+          "style": "NORMAL_TEXT",
+          "text": "他知道我的邮箱了，不过我的邮箱是假的，不知道他会不会IP定位什么的。（没事贴主，你也知道他是谁，盒威慑还是有效的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 31,
+      "paragraphs": [
+        {
+          "content_hash": "0ca7ee40a148f721",
+          "style": "NORMAL_TEXT",
+          "text": "被google开了就发大财了，rmp都没被开，这开了纯不可能"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_1",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 195,
+      "at_to": 198,
+      "from_paragraphs": [
+        {
+          "content_hash": "bed088afd37cc70a",
+          "style": "NORMAL_TEXT",
+          "text": "他在小红书上有账号还在招生，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "05f3e1eeed6abf71",
+          "style": "NORMAL_TEXT",
+          "text": "他在小红书上有账号还在招生，很多人都联系了，我怕今年有不知情的学生要进他lab受苦，应该在小红书上也发个帖子爆料他"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 203,
+      "at_to": 206,
+      "from_paragraphs": [
+        {
+          "content_hash": "5adcaa3cec0774f2",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被催 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66bc33f713984890",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被催 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB，也不会真拿你怎么样）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 292,
+      "paragraphs": [
+        {
+          "content_hash": "b329dc8d2cc5da35",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Hao Su老师的学生，亲身体验老师对学生非常好，请留言者拿出对学生很差的证据"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 451,
+      "paragraphs": [
+        {
+          "content_hash": "08d01cba45b0ba98",
+          "style": "NORMAL_TEXT",
+          "text": "喷不了，全员A+的含金量"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 471,
+      "paragraphs": [
+        {
+          "content_hash": "986fe14e8a5afaa3",
+          "style": "NORMAL_TEXT",
+          "text": "（同在读"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 504,
+      "at_to": 510,
+      "from_paragraphs": [
+        {
+          "content_hash": "aaa010993ae06304",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错) （是真写了黑推，这洗不了）(身边不止一个人，非undergradna l)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "027a60a0a76348aa",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错) （是真写了黑推，这洗不了）(真的给了黑推，这个没法洗) (身边不止一个人，非undergrad拿了最低的推)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 507,
+      "at_to": 513,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48e377b96c93ea29",
+          "style": "NORMAL_TEXT",
+          "text": "对组里MS转正一直模棱两可"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 513,
+      "at_to": 519,
+      "from_paragraphs": [
+        {
+          "content_hash": "f90682d745831058",
+          "style": "NORMAL_TEXT",
+          "text": "GWU, Ahmed Louri"
+        },
+        {
+          "content_hash": "3fcb58bbfae953fe",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 被强制休假 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cc987200b56237e9",
+          "style": "NORMAL_TEXT",
+          "text": " ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "88a29abddd71e61f",
+          "style": "NORMAL_TEXT",
+          "text": " ece随便问个senior phd应该都能略知一二"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 664,
+      "paragraphs": [
+        {
+          "content_hash": "ebfcb8375991dc96",
+          "style": "NORMAL_TEXT",
+          "text": "作为组内一员来说明一下，组内氛围很好，老师和学生经常一起聚会吃饭，没有任何人quit，提前毕业的do学生毕业出路也都不错。以下恶意攻击不来自于组内学生和已毕业学生。恶意中伤者其实只有一个人，也不在组内，而且原先组里的人都心知肚明是谁"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 665,
+      "at_to": 669,
+      "from_paragraphs": [
+        {
+          "content_hash": "4608d90142bea3c8",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法杜克某教授让学生剪草坪也是自愿的没问题）（喂猫给钱么？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f47a7366985d5e3f",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法杜克某教授让学生剪草坪也是自愿的没问题）（喂猫给钱么？）（私下请吃过饭，也给了现金）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 681,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 678,
+      "at_to": 685,
+      "from_paragraphs": [
+        {
+          "content_hash": "3069d0fe3f04125a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd非常适合来这里，有很多黑工intern给你打工。下面那"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcb2dec6eef0aae8",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，他们自己想的idea很多时候不能work只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个rp"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 680,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 832,
+      "paragraphs": [
+        {
+          "content_hash": "2b037492f3ebd1d7",
+          "style": "NORMAL_TEXT",
+          "text": "请大家不要听风就是雨，听某些心怀恶意的人造谣生事"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 850,
+      "at_to": 857,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d438a5d1a3d14b93",
+          "style": "NORMAL_TEXT",
+          "text": "上述请去红榜说。。。季姮i"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 895,
+      "paragraphs": [
+        {
+          "content_hash": "4884d15b8bf8e1d1",
+          "style": "NORMAL_TEXT",
+          "text": "UC Berkeley, Siwon Min"
+        },
+        {
+          "content_hash": "49f4c3e2118f9ec9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 930,
+      "at_to": 939,
+      "from_paragraphs": [
+        {
+          "content_hash": "d13641c569314598",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "726a42a6c42dfd31",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼，还会反套养鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1015,
+      "at_to": 1024,
+      "from_paragraphs": [
+        {
+          "content_hash": "070354a94dc86b71",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Y）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f13c53704f0b084",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1034,
+      "paragraphs": [
+        {
+          "content_hash": "c78195183a254bd1",
+          "style": "NORMAL_TEXT",
+          "text": "Hot Nerd最严厉的父亲！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1037,
+      "paragraphs": [
+        {
+          "content_hash": "da6f0a2402e587f3",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST(GZ) Xuming Hu （🤭）"
+        }
+      ]
+    }
+  ]
+}

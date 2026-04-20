@@ -1,0 +1,209 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-38-50Z",
+    "revision_id": "AMHacu7cN555OkCfXDsMDn_Tmz27nPNu3e8EtrBYMR2XrJWIRr8ZwTL9RgtmvkYkyXlpbXLMDxuhAF2gelPcOaJaYQ",
+    "paragraph_count": 1206
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-40-53Z",
+    "revision_id": "AMHacu75xdlCw-fxn123q2yE_iFWsWZXkYEvqiUtGPD5EYMyBNk3UhPCx7ELUfu-0vGMtH31v2QsYzQfbM-j-yDHew",
+    "paragraph_count": 1207
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 10,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0083,
+    "insertion_ratio": 0.0091
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 46,
+      "at_to": 46,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1801d45bd90c7f9",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "74bce1cd1a633aff",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 330,
+      "at_to": 330,
+      "from_paragraphs": [
+        {
+          "content_hash": "1a42de5154d6828d",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，更bu ke neng shuo"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d2c3d5f2a8f4e70c",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，也没有人被卡过毕业，感觉这种谣传非常"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 426,
+      "at_to": 426,
+      "from_paragraphs": [
+        {
+          "content_hash": "76796fe67bac9a1f",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，自己是psu的phd，一直在招intern的时候在中文上面模糊成宾大phd😆"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2052336312b2453f",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，自己是psu的phd，一直在招intern的时候在中文上面模糊成宾大phd😆（我一直以为是宾大phd，笑死我了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 514,
+      "at_to": 514,
+      "from_paragraphs": [
+        {
+          "content_hash": "8bd5b2a3fa0ea4f6",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        },
+        {
+          "content_hash": "75e52559fa95946c",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙（在 Rice 的时候不算夫妻店。可能回国重新开始比较夫妻店吧。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a91aa2020015299",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        },
+        {
+          "content_hash": "0a10c6a6def3895a",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙（在 Rice 的时候不算夫妻店。可能回国重新开始比较夫妻店吧。另外感觉 Zou 老师的 nice 比胡老师有过之无不及。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 520,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "e81ecd6736faeefa",
+          "style": "NORMAL_TEXT",
+          "text": "曾经两届4个 phd 走了3，因此不得不一年招5个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a65769d24744d292",
+          "style": "NORMAL_TEXT",
+          "text": "曾经两届4个 phd 走了3，因此出现过一年招5个的情况。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 735,
+      "at_to": 735,
+      "from_paragraphs": [
+        {
+          "content_hash": "e9ed5fed3a19b6c3",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经听说有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        },
+        {
+          "content_hash": "f6cd3fc9e516de58",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断) 人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be8d8a21d520e79a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        },
+        {
+          "content_hash": "db8d6e0127587af0",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 749,
+      "at_to": 749,
+      "from_paragraphs": [
+        {
+          "content_hash": "90faec53da282b91",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c242475ea2dafc8e",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(一台H100 train一周可以pretrain一个7b小模型了, 开发时间都是用组里机器, 不会租卡, 只有上大规模实验才租卡)（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 871,
+      "at_to": 871,
+      "from_paragraphs": [
+        {
+          "content_hash": "5d35f0efbde1135d",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（据说另一个人想去工业界，想多卡训video model）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6e62a706d58754f",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个人想去工业界，想多卡训video model）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 950,
+      "paragraphs": [
+        {
+          "content_hash": "db412fa7564a7fdf",
+          "style": "NORMAL_TEXT",
+          "text": "Yuke Zhu? (听说，求证)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-51-20Z",
+    "revision_id": "AMHacu5XNHDSzKhB9yjUBWc4tP5Zy0s8PpzuNiQ75sfTKsT1_MaHVVBBTfHhvnWdA073-0HwIhRNxsy9ZOHw7dpGXw",
+    "paragraph_count": 1179
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-53-30Z",
+    "revision_id": "AMHacu7YTyPDjlVpzcX2yMBAaKsJoOCrcys_z4BIq4B_JemiL_Xn2DG5ce_kZ9Y7LSgFD2_C8ObyJnwW-GbRjTQr2w",
+    "paragraph_count": 1186
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 15,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0127,
+    "insertion_ratio": 0.0185
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        },
+        {
+          "content_hash": "afb499808066104b",
+          "style": "NORMAL_TEXT",
+          "text": "请大家保护学生信息，包含隐私信息的评论都需要被删除"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "323b253e6e153010",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 1h后我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 6,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "c88ad77378c9652d",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(zhe'zhong'kou'mao'zi'de)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜的bei"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "67258bd506722d11",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(这种一上来直接扣帽子的定性评价才是类似于文革的续写，有多少信息是各位学子的肺腑之言？有多少是恶意攻击？)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜，真正好的老师会出现在那里）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a1eda4c1c698b18",
+          "style": "NORMAL_TEXT",
+          "text": "一个小时已过！现在这个文档太乱了，我xiang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d70130fac7cf68bf",
+          "style": "NORMAL_TEXT",
+          "text": "一个小时已过！现在这个文档太乱了，我想要开启只读模式清理掉一些敏感信息后再开启编辑。（submission due at xxx）"
+        },
+        {
+          "content_hash": "e2ba240c55e88108",
+          "style": "NORMAL_TEXT",
+          "text": "能麻烦作者能把学校grouping安排一下吗 （别添麻烦了吧，这自己查不就行了）现在信息太多了，有没有人可以用LLM总结一个"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 301,
+      "at_to": 303,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad8ade07a8660bad",
+          "style": "NORMAL_TEXT",
+          "text": "组里很多人只是低调、内向，不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "49e77fd8eb56b9db",
+          "style": "NORMAL_TEXT",
+          "text": "（组里很多人只是低调、内向，和谢老师一样。不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0270c10fb32c24af",
+          "style": "NORMAL_TEXT",
+          "text": "笑嘻了，《不喜欢下场对线》指的是直接发邮件威胁作者删帖"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 346,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "736bf083d11185de",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就骂人还有不懂感恩还骂自己老师的才是畜生吧。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a1f40e9e5cab64e0",
+          "style": "NORMAL_TEXT",
+          "text": "涉及人格侮辱，建议保持专业，不要造谣传谣。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 348,
+      "at_to": 352,
+      "from_paragraphs": [
+        {
+          "content_hash": "3d73e5d85268ca19",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里并没有这样的硬性要求。近来已有多位学生顺利毕业，仅这学期就有3位师兄毕业。老师鼓励学生多出成果，更多是出于帮助学生提升竞争力和未来发展的考虑。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ab24b97a3723824a",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文要求，之前组内水平比较高平均水平能够达到10篇，实际毕业的篇数从3-7篇不等，不排除一些学生能达到十三篇一作甚至更多，找到了很好的教职。3篇一作以下可能会拉低实验室水平。老师鼓励学生多出成果，更多是出于帮助学生提升竞争力和未来发展的考虑，一般到了年限都告诉学生毕业了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 350,
+      "at_to": 354,
+      "from_paragraphs": [
+        {
+          "content_hash": "e7fcd63cf0d62a7e",
+          "style": "NORMAL_TEXT",
+          "text": "哭又能说明什么呢？他后来过的挺好的，而且去年把组里快毕业的师兄当枪使，利用那个师兄对自己的信任指使他向学院污蔑自己老师的人也是他哦。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f3197e3f0739eddc",
+          "style": "NORMAL_TEXT",
+          "text": "这个是误传，组内毕业生和导师都保持很好的关系经常沟通，组内毕业了超过十个以上AP，不光都在美国也有回国的，都在这些学校保持了很好的声誉和水平。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 352,
+      "at_to": 356,
+      "from_paragraphs": [
+        {
+          "content_hash": "79b9f98f97b71e23",
+          "style": "NORMAL_TEXT",
+          "text": "这些说法明显夸大甚至失实。老师一直鼓励学生实习，很多同学也因此积累了很好的工业界经验。个人合法收入和私人生活更不应被拿来作为攻击理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4ae1226008afbd54",
+          "style": "NORMAL_TEXT",
+          "text": "出于尊重公司的confidential，出去实习期间导师是停止开会的，导师对学生的实习除了要求是论文导向的研究实习外没有其他要求。"
+        },
+        {
+          "content_hash": "ef092549f95b44fe",
+          "style": "NORMAL_TEXT",
+          "text": "老师非常鼓励学生实习，很多同学到毕业的时候已经积攒了3-4段FAANG的full time实习和一些partime实习。积攒了很多工业界人脉。实验室和工业界各种形式的合作也都很多。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 359,
+      "from_paragraphs": [
+        {
+          "content_hash": "8cf4192088977bda",
+          "style": "NORMAL_TEXT",
+          "text": "博士培养本身就有流动性，学生中途离开有很多个人原因，不能简单归咎于导师，更不能据此恶意抹黑。老师给了他们读博的机会，他们自己不珍惜没能力quit了是他们自己的问题。那些人还在外面造谣背刺自己老师，可见其人品。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bebbcb43ebc078e3",
+          "style": "NORMAL_TEXT",
+          "text": "导师收实习生非常谨慎，这两年基本不收实习生因为老师心里默认要给他们留读博名额。也有很少数新手实习生实际上犯了严重的错误但是低调处理了，出于保护学生没有对外说，让他们自己找出路。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 356,
+      "at_to": 361,
+      "from_paragraphs": [
+        {
+          "content_hash": "4094d99020bbb4c2",
+          "style": "NORMAL_TEXT",
+          "text": "据实际接触，老师一向是就事论事，非常专业的围绕工作和学业要求沟通，并不存在网络所说的那种人身攻击。个别进度或funding提醒，也属于正常管理职责。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "58082f9e0ca467c0",
+          "style": "NORMAL_TEXT",
+          "text": "导师说话不会超出professional的范围，适当鼓励，刀子嘴豆腐心，适当的紧迫感实际催生了很多不错的工作，实际体验下来避免了学生的overthinking。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 358,
+      "at_to": 363,
+      "from_paragraphs": [
+        {
+          "content_hash": "edf1dc2f3160df65",
+          "style": "NORMAL_TEXT",
+          "text": "这一说法与事实不符。实际情况只是围绕医生给出的时间进行正常沟通，并非像传言所说那样冷漠拒绝。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ec345d75df66423",
+          "style": "NORMAL_TEXT",
+          "text": "纯造谣，这个师兄和实验室关系非常不错，常驻波士顿某top lab scientist，毕业后每年实验室组织和导师组织的活动都主动来参加"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 480,
+      "at_to": 485,
+      "from_paragraphs": [
+        {
+          "content_hash": "0f0d6ca0335b3dad",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，健康老带小，有几篇在我看来非常不错的 paper。能上黑榜我们几个学生都很震惊。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e90a4213574fbdf0",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，健康老带小，有几篇在我看来非常不错的 paper 和很多非常有实力的师兄。能上黑榜我们几个学生都很震惊。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 554,
+      "paragraphs": [
+        {
+          "content_hash": "1b3850418c0bf28d",
+          "style": "NORMAL_TEXT",
+          "text": "尤是真的好人啊，不可能是黑的啊！！！！！！！！！！！！！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 666,
+      "at_to": 672,
+      "from_paragraphs": [
+        {
+          "content_hash": "690a73232e641efe",
+          "style": "NORMAL_TEXT",
+          "text": "赵拓老师对自己学生很好，每个学生都安排在我们组实习，虽然人讲话很直，但是人品和对学生没有问题"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "07a2df4a71b64ed1",
+          "style": "NORMAL_TEXT",
+          "text": "赵老师对自己学生很好，每个学生都安排在我们组实习，虽然人讲话很直，但是人品和对学生没有问题"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 745,
+      "paragraphs": [
+        {
+          "content_hash": "99c338970b0f80b9",
+          "style": "NORMAL_TEXT",
+          "text": "在我本科的时候，zh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 784,
+      "at_to": 791,
+      "from_paragraphs": [
+        {
+          "content_hash": "6fdb834ffd3ab887",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很cheng'ken"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a7342fa56237c98",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由"
+        }
+      ]
+    }
+  ]
+}

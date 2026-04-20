@@ -1,0 +1,213 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-26-00Z",
+    "revision_id": "AMHacu5jiQ_rFTW3BMwYs-aRsJPRlNPCMp3rO7ULUHgQR3TVObZLpyVvloFU5hvXJwmicwI9IGqIL5WU7W9Ck9mE_Q",
+    "paragraph_count": 1151
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-28-10Z",
+    "revision_id": "AMHacu62Udfunu37HVHYc_PkuJTaZ05v-32En6CsEA12JP-o_qt5vnI3QWkI1TSjOERgVUpg4O92mTKNhL0GzJKcHA",
+    "paragraph_count": 1148
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 13,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0113,
+    "insertion_ratio": 0.0087
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 21,
+      "paragraphs": [
+        {
+          "content_hash": "01401483ced8d8e9",
+          "style": "NORMAL_TEXT",
+          "text": "大家不要申请只读版本的编辑权限了，我之前不小心通过了一批，直接暴露邮箱了。我现在统一拒绝了。"
+        },
+        {
+          "content_hash": "081f7454dc51c1e9",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）。如果起诉的话，谷歌应该也有义务reveal文档的主人，su。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 35,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "69d0fee477d84238",
+          "style": "NORMAL_TEXT",
+          "text": "这个人纯纯恐吓，言论自由我们说啥他都没权利举报，更别说开盒了（真开了感觉狗会被炎上（吗？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 327,
+      "paragraphs": [
+        {
+          "content_hash": "a38cb0792d4ee959",
+          "style": "NORMAL_TEXT",
+          "text": "我是丁老师的学生，上面对于丁老师的负面评价有很多不符合事实的地方，丁老师指导的PhD绝大多数都顺利毕业甚至很多是提前毕业，其次，Xie老师的funding是被系里收走的，与丁老师并无关系，关于是否push这件事，每个人都有不同的理解，从我个人体验来说并不觉得丁老师是特别push的老师。希望大家可以理性、客观地评价导师，不要带着个人情绪进行人身攻击"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 471,
+      "at_to": 475,
+      "from_paragraphs": [
+        {
+          "content_hash": "986fe14e8a5afaa3",
+          "style": "NORMAL_TEXT",
+          "text": "（同在读"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec7b83e4e7e08d0e",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。事实就是留下来的学生，除了ga"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 533,
+      "at_to": 537,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc62122d88dcb746",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e8f7fb98085c32a",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 664,
+      "at_to": 668,
+      "from_paragraphs": [
+        {
+          "content_hash": "ebfcb8375991dc96",
+          "style": "NORMAL_TEXT",
+          "text": "作为组内一员来说明一下，组内氛围很好，老师和学生经常一起聚会吃饭，没有任何人quit，提前毕业的do学生毕业出路也都不错。以下恶意攻击不来自于组内学生和已毕业学生。恶意中伤者其实只有一个人，也不在组内，而且原先组里的人都心知肚明是谁"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "065adf0987ffc5e4",
+          "style": "NORMAL_TEXT",
+          "text": "作为组内一员来说明一下，组内氛围很好，老师和学生经常一起聚会吃饭，没有任何人quit，还有两人四年提前毕业，学生毕业出路也都不错。以下恶意攻击不来自于组内学生和已毕业学生。恶意中伤者其实只有一个人，也不在组内，而且原先组里的人都心知肚明是谁"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 685,
+      "at_to": 689,
+      "from_paragraphs": [
+        {
+          "content_hash": "fcb2dec6eef0aae8",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，他们自己想的idea很多时候不能work只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个rp"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d7e346d898785f38",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，他们自己想的idea很多时候不能work只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。组里最网红的那个phd"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 687,
+      "paragraphs": [
+        {
+          "content_hash": "b67e9a61ae38f80f",
+          "style": "NORMAL_TEXT",
+          "text": "我在组里做 intern 的整体体验是很好的！Intern bar低有人觉得是好事，有人觉得不好。组里做intern不是非要有pub，很多intern其实没什么基础，还有从头带的非cs专业的intern，后来成功找到了大厂工作，老师也帮忙找工业界推荐了。收phd也不是按照pub排，没有那么看背景，愿意从头培养。组内科研氛围很不错，资源也比较充足，老师和博士生会提供很多具体的idea和指导。老师本身确实比较忙，基本沟通比较多的是PhD，不太可能对每个 intern 都非常细致的指导，但在project meeting和一些关键节点上，还是能学到很多东西。另外，在申请阶段我也得到了老师的positive推荐支持，对我来说帮助很大。从我自己的经历，总结一下这个组的特点，大概是："
+        },
+        {
+          "content_hash": "b2943698c5886f6e",
+          "style": "NORMAL_TEXT",
+          "text": "整体不 push，自由度相对较高，脾气比较好"
+        },
+        {
+          "content_hash": "1fb0db991b5a85e8",
+          "style": "NORMAL_TEXT",
+          "text": "比较看重 project 的 research taste 和质量，而不是单纯追求论文数量，也确实会产出一些比较有影响力的工作，擅长做大项目"
+        },
+        {
+          "content_hash": "7c5fdcf987c8ed21",
+          "style": "NORMAL_TEXT",
+          "text": "资源比较充足，只要需求合理，基本都能得到支持"
+        },
+        {
+          "content_hash": "3c0133a507354170",
+          "style": "NORMAL_TEXT",
+          "text": "推荐信支持比较稳定：只要正常合作，哪怕project最后没做出来，也会给 positive letter，表现优秀的话还能提供一些 personal recommendation"
+        },
+        {
+          "content_hash": "abc1a95695fd8900",
+          "style": "NORMAL_TEXT",
+          "text": "summer 期间有 research skill training，整体帮助还是挺大的"
+        },
+        {
+          "content_hash": "6355d063c637d4f9",
+          "style": "NORMAL_TEXT",
+          "text": "组会会邀请厉害的学者来做分享，可以学到不少"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 857,
+      "at_to": 854,
+      "from_paragraphs": [
+        {
+          "content_hash": "d438a5d1a3d14b93",
+          "style": "NORMAL_TEXT",
+          "text": "上述请去红榜说。。。季姮i"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec88db6c92d6d2b5",
+          "style": "NORMAL_TEXT",
+          "text": "上述请去红榜说。。。季姮就属于打听学生phd offer，一开始就是画饼，给一堆鱼offer，最后只挑把她列top1的。天生愿意给她当牛马肯定好处多多:)"
+        }
+      ]
+    }
+  ]
+}

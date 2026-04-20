@@ -1,0 +1,374 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-53-30Z",
+    "revision_id": "AMHacu7YTyPDjlVpzcX2yMBAaKsJoOCrcys_z4BIq4B_JemiL_Xn2DG5ce_kZ9Y7LSgFD2_C8ObyJnwW-GbRjTQr2w",
+    "paragraph_count": 1186
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-55-40Z",
+    "revision_id": "AMHacu4ZSPdXWrxv1Xwi4eeKBvOuv5O_hlw1vVd2c0c5MwHO3UNeYXcAX78BNvplP4Wf8vwLVMw8rBIhphE4oNnf8A",
+    "paragraph_count": 1181
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 22,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0185,
+    "insertion_ratio": 0.0144
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "323b253e6e153010",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 1h后我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "24607882c1c696d1",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 20min后（加速一下）我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 9,
+      "at_to": 9,
+      "from_paragraphs": [
+        {
+          "content_hash": "62baff5621e7c721",
+          "style": "NORMAL_TEXT",
+          "text": "To 看到本文档的教授们：如果没做过一些事情，看到学生在维护自己应该会很高兴吧。如果真的做过且没人维护，就得想想自己的问题了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6924b2bae9820aff",
+          "style": "NORMAL_TEXT",
+          "text": "To 看到本文档的教授们：如果没做过一些事情，看到学生在维护自己应该会很高兴吧。如果真的做过且没人维护，就得想想自己的问题了。你可以随意删除有关你的评论，但是被你压榨的学生也可以继续补充。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2ba240c55e88108",
+          "style": "NORMAL_TEXT",
+          "text": "能麻烦作者能把学校grouping安排一下吗 （别添麻烦了吧，这自己查不就行了）现在信息太多了，有没有人可以用LLM总结一个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ed2bbed98569c8a8",
+          "style": "NORMAL_TEXT",
+          "text": "能麻烦作者能把学校grouping安排一下吗 （别添麻烦了吧，这自己查不就行了）现在信息太多了，有没有人可以用LLM总结一个csv出来方便搜索（你自己搞不就完了）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 303,
+      "at_to": 305,
+      "from_paragraphs": [
+        {
+          "content_hash": "49e77fd8eb56b9db",
+          "style": "NORMAL_TEXT",
+          "text": "（组里很多人只是低调、内向，和谢老师一样。不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5d322c2bb5a9f403",
+          "style": "NORMAL_TEXT",
+          "text": "（组里phd看了这个帖子，只想说几点：里面有些内容并不属实，也有明显带节奏、靠道听途说拼凑的部分；匿名发帖还公开他人邮箱等个人信息，更是已经越界。组里很多人只是低调、内向，不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 305,
+      "at_to": 307,
+      "from_paragraphs": [
+        {
+          "content_hash": "0270c10fb32c24af",
+          "style": "NORMAL_TEXT",
+          "text": "笑嘻了，《不喜欢下场对线》指的是直接发邮件威胁作者删帖"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b83021d901d9e5f6",
+          "style": "NORMAL_TEXT",
+          "text": "笑嘻了，《不喜欢下场对线》指的是直接发邮件威胁作者删帖，大家自己判断吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 336,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "0bd49acb2896d6b6",
+          "style": "NORMAL_TEXT",
+          "text": "这位曾经在google混得风生水起发文章很猛的大姐来到学术圈后不外乎一个典型华人女AP"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c43295e5c4a3823f",
+          "style": "NORMAL_TEXT",
+          "text": "这位曾经在google混得风生水起发文章很猛的大姐来到学术圈后不外乎一个典型华人女AP（有问题就好好说，不要用刻板印象搞歧视）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 348,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "7edded55d4126100",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "72ee214afcf84e34",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，真牛逼）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 350,
+      "paragraphs": [
+        {
+          "content_hash": "a1f40e9e5cab64e0",
+          "style": "NORMAL_TEXT",
+          "text": "涉及人格侮辱，建议保持专业，不要造谣传谣。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 352,
+      "at_to": 353,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab24b97a3723824a",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文要求，之前组内水平比较高平均水平能够达到10篇，实际毕业的篇数从3-7篇不等，不排除一些学生能达到十三篇一作甚至更多，找到了很好的教职。3篇一作以下可能会拉低实验室水平。老师鼓励学生多出成果，更多是出于帮助学生提升竞争力和未来发展的考虑，一般到了年限都告诉学生毕业了。"
+        },
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        },
+        {
+          "content_hash": "f3197e3f0739eddc",
+          "style": "NORMAL_TEXT",
+          "text": "这个是误传，组内毕业生和导师都保持很好的关系经常沟通，组内毕业了超过十个以上AP，不光都在美国也有回国的，都在这些学校保持了很好的声誉和水平。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cd4c11d1a3ed7fe2",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）（来了个yun fu的人，各种删减，各种不说人话，还说什么哭又说明什么？你自己什么东西你自己心里清楚）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 356,
+      "paragraphs": [
+        {
+          "content_hash": "4ae1226008afbd54",
+          "style": "NORMAL_TEXT",
+          "text": "出于尊重公司的confidential，出去实习期间导师是停止开会的，导师对学生的实习除了要求是论文导向的研究实习外没有其他要求。"
+        },
+        {
+          "content_hash": "ef092549f95b44fe",
+          "style": "NORMAL_TEXT",
+          "text": "老师非常鼓励学生实习，很多同学到毕业的时候已经积攒了3-4段FAANG的full time实习和一些partime实习。积攒了很多工业界人脉。实验室和工业界各种形式的合作也都很多。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 359,
+      "paragraphs": [
+        {
+          "content_hash": "bebbcb43ebc078e3",
+          "style": "NORMAL_TEXT",
+          "text": "导师收实习生非常谨慎，这两年基本不收实习生因为老师心里默认要给他们留读博名额。也有很少数新手实习生实际上犯了严重的错误但是低调处理了，出于保护学生没有对外说，让他们自己找出路。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 361,
+      "paragraphs": [
+        {
+          "content_hash": "58082f9e0ca467c0",
+          "style": "NORMAL_TEXT",
+          "text": "导师说话不会超出professional的范围，适当鼓励，刀子嘴豆腐心，适当的紧迫感实际催生了很多不错的工作，实际体验下来避免了学生的overthinking。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 363,
+      "paragraphs": [
+        {
+          "content_hash": "5ec345d75df66423",
+          "style": "NORMAL_TEXT",
+          "text": "纯造谣，这个师兄和实验室关系非常不错，常驻波士顿某top lab scientist，毕业后每年实验室组织和导师组织的活动都主动来参加"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 485,
+      "at_to": 478,
+      "from_paragraphs": [
+        {
+          "content_hash": "e90a4213574fbdf0",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，健康老带小，有几篇在我看来非常不错的 paper 和很多非常有实力的师兄。能上黑榜我们几个学生都很震惊。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "408ad3b62765f16e",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法+1，胡老师蛮好，在"
+        },
+        {
+          "content_hash": "9bbb395307ae1000",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。没有 quit 的 phd，相反还收了很多别的组老板跳槽留下来的人（且不拖毕业时间）。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，健康老带小，有几篇在我看来非常不错的 paper 和很多非常有实力的师兄。能上黑榜我们几个学生都很震惊。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 709,
+      "at_to": 703,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c7a4f0b0c982f79",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "22b835932f5f65a1",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern()，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 705,
+      "paragraphs": [
+        {
+          "content_hash": "a54c454ae2c77b0e",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 723,
+      "at_to": 718,
+      "from_paragraphs": [
+        {
+          "content_hash": "320b3bae283258a9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b18672dd277f2662",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是不是老师跟你有什么关系？ RAGEN MindCube T*有没有拿award自己能不能上网查？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 726,
+      "at_to": 721,
+      "from_paragraphs": [
+        {
+          "content_hash": "f51bf10d4804bdfa",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来（假的）\u000b6. 欢迎补充 （李老师你是想让我补充你自己都不知道的细节嘛）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe7bc66b728e5336",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来（假的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 745,
+      "at_to": 740,
+      "from_paragraphs": [
+        {
+          "content_hash": "99c338970b0f80b9",
+          "style": "NORMAL_TEXT",
+          "text": "在我本科的时候，zh"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "12cd090c5a7058f2",
+          "style": "NORMAL_TEXT",
+          "text": "在我本科的时候，zhuowen 给 intern 说，“我都开摆了，入籍了，tenure 了，你们可不能和我一样”，zhuowen 肯定是好老师的，不用争议"
+        }
+      ]
+    }
+  ]
+}

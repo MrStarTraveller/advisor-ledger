@@ -1,0 +1,596 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-28-10Z",
+    "revision_id": "AMHacu62Udfunu37HVHYc_PkuJTaZ05v-32En6CsEA12JP-o_qt5vnI3QWkI1TSjOERgVUpg4O92mTKNhL0GzJKcHA",
+    "paragraph_count": 1148
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-32-30Z",
+    "revision_id": "AMHacu5R4__epF1dhLrPnE5tFSS8iObQsoYseV-JM2xVQWXse8NLWGrMKlWMLTl8qfWq_xjdGSddih-z-g0QL0-axg",
+    "paragraph_count": 1193
+  },
+  "summary": {
+    "inserted_paragraphs": 60,
+    "deleted_paragraphs": 15,
+    "operations": 27,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0131,
+    "insertion_ratio": 0.0503
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 20,
+      "at_to": 20,
+      "from_paragraphs": [
+        {
+          "content_hash": "c7197a1391a7af8b",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣 (作者挺住！）（支持作者，我们同在！）"
+        },
+        {
+          "content_hash": "01401483ced8d8e9",
+          "style": "NORMAL_TEXT",
+          "text": "大家不要申请只读版本的编辑权限了，我之前不小心通过了一批，直接暴露邮箱了。我现在统一拒绝了。"
+        },
+        {
+          "content_hash": "081f7454dc51c1e9",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）。如果起诉的话，谷歌应该也有义务reveal文档的主人，su。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a1cfdaf79f46d94",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣 (作者挺住！）（支持作者，我们同在！）（支持支持）"
+        },
+        {
+          "content_hash": "2a98c68a61db8606",
+          "style": "NORMAL_TEXT",
+          "text": "大家不要申请只读版本的编辑权限了，我之前不小心通过了一批，直接暴露邮箱了。我现在统一拒绝了。（你们看看share的时候能不能看到我的邮箱，好像也可以，不过是假邮箱+VPN+洋葱浏览器）"
+        },
+        {
+          "content_hash": "3c4639c6cb40ab02",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）（取决于起诉的由头是什么）（比如就说你诽谤）。如果起诉的话，谷歌应该也有义务reveal文档的主人，所以也不是完全破坏隐私。很可能谷歌doc的条款写明了这条。就类似于谷歌和github都不能post违法信息这种，但这个很难界定（如果起诉）。作者最好谨慎。（感谢提醒）（Gemini说了提起诉讼的人需要先自证是被诽谤了，证明不了的话谷歌不需要share大家的信息，即使真的提交大家的信息，也会给所有编辑者发邮件通知，u）"
+        },
+        {
+          "content_hash": "76524abdc5e5415a",
+          "style": "NORMAL_TEXT",
+          "text": "引用Gemini：对于这种匿名编辑的文档，如果涉及到法律诉讼（如诽谤），谷歌是否会提交用户信息，答案是：在法律强制要求下，谷歌通常会配合，但过程受到严格的隐私政策和法律程序保护。"
+        },
+        {
+          "content_hash": "3669b2b5c4c0d129",
+          "style": "NORMAL_TEXT",
+          "text": "简单来说，\"匿名\" 只是针对普通读者的（即文档中显示的“匿名动物”），但对于后台系统，谷歌依然记录了编辑者的 Google 账号信息、IP 地址等数据。"
+        },
+        {
+          "content_hash": "0a7b2bd6d8c27257",
+          "style": "NORMAL_TEXT",
+          "text": "以下是具体的运作机制和潜在风险："
+        },
+        {
+          "content_hash": "72a04f1ff687e5ab",
+          "style": "HEADING_3",
+          "text": "1. 谷歌的官方立场与政策"
+        },
+        {
+          "content_hash": "f0e53ada0488cfd7",
+          "style": "NORMAL_TEXT",
+          "text": "根据 Google 隐私权政策，谷歌不会随意分享个人信息，但在以下法律情形下例外："
+        },
+        {
+          "content_hash": "b4073b67da56b825",
+          "style": "NORMAL_TEXT",
+          "text": "满足法律程序： 为了满足适用的法律、法规、法律程序（如法院传票、搜查令）或强制性的政府要求。"
+        },
+        {
+          "content_hash": "4a8d314206822897",
+          "style": "NORMAL_TEXT",
+          "text": "透明度原则： 谷歌在收到政府或法律要求时，通常会尝试通过邮件通知用户，除非法律（如法官签发的禁言令）明确禁止通知。"
+        },
+        {
+          "content_hash": "28db1b7616afd597",
+          "style": "HEADING_3",
+          "text": "2. 诽谤诉讼中的信息调取过程"
+        },
+        {
+          "content_hash": "94e1612be98d0f7e",
+          "style": "NORMAL_TEXT",
+          "text": "如果你或他人因诽谤起诉，原告的律师通常会执行以下步骤来试图获取匿名者的身份："
+        },
+        {
+          "content_hash": "cf4c3c5912b9091b",
+          "style": "NORMAL_TEXT",
+          "text": "申请传票（Subpoena）： 原告需要向法院证明该文档内容构成了诽谤，并申请传票要求谷歌提供该文档编辑者的相关信息。"
+        },
+        {
+          "content_hash": "0d9f49dcab2920c8",
+          "style": "NORMAL_TEXT",
+          "text": "谷歌的审查： 谷歌收到传票后会进行审核。如果传票过于宽泛，谷歌可能会拒绝或尝试缩小范围。"
+        },
+        {
+          "content_hash": "5853918e703186c3",
+          "style": "NORMAL_TEXT",
+          "text": "提供的信息： 如果传票获批，谷歌可能会提交关联的电子邮箱地址、账户注册信息以及登录 IP 地址。原告拿到 IP 地址后，可能还需要进一步起诉 ISP（网络服务供应商）来锁定真实的物理地址和个人姓名。"
+        },
+        {
+          "content_hash": "79eae3bde0009fbc",
+          "style": "HEADING_3",
+          "text": "3. \"匿名编辑\" 的真相"
+        },
+        {
+          "content_hash": "e2ff06edc84c6553",
+          "style": "NORMAL_TEXT",
+          "text": "登录状态： 如果你在登录 Google 账号的状态下编辑文档，即使别人看到的是“匿名大象”，你的账号 ID 已经记录在文档的历史记录（Version History）中。"
+        },
+        {
+          "content_hash": "769bc69bd5322061",
+          "style": "NORMAL_TEXT",
+          "text": "未登录状态： 如果你在未登录账号的情况下编辑，谷歌记录的是你的 IP 地址。虽然这更隐蔽，但通过法律手段依然有追踪到人的可能。"
+        },
+        {
+          "content_hash": "304908975a1d4c8d",
+          "style": "HEADING_3",
+          "text": "4. 实际风险评估"
+        },
+        {
+          "content_hash": "4bc849efd8371e9b",
+          "style": "NORMAL_TEXT",
+          "text": "门槛较高： 在大多数司法管辖区，起诉诽谤并成功让法院签发针对大型跨国科技公司的传票需要较高的法律门槛和经济成本。"
+        },
+        {
+          "content_hash": "063099fb314d2bf4",
+          "style": "NORMAL_TEXT",
+          "text": "平台责任： 根据美国的《通信规范法》第 230 条（Section 230），谷歌作为平台通常不对用户的言论承担民事责任，因此原告的目标通常会直指内容创建者或编辑者本人。"
+        },
+        {
+          "content_hash": "04830193b408eeb1",
+          "style": "HEADING_3",
+          "text": "总结"
+        },
+        {
+          "content_hash": "5cbb9df1a8c54041",
+          "style": "NORMAL_TEXT",
+          "text": "这种文档不是绝对的避风港。如果内容确实触犯了法律（如诽谤、泄露商业机密等），受害者可以通过法律手段迫使谷歌披露幕后编辑者的信息。"
+        },
+        {
+          "content_hash": "c657fc344c848880",
+          "style": "NORMAL_TEXT",
+          "text": "友情提示： 如果你在该文档中发表言论，请务必意识到，互联网上的“匿名”往往只是相对的。如果涉及严肃的法律争议，后台数据是无法被完全抹除的。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 45,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5bb96b329ba27e7b",
+          "style": "NORMAL_TEXT",
+          "text": "可以看到的哥 在share里，他是发你假邮箱吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 35,
+      "at_to": 58,
+      "from_paragraphs": [
+        {
+          "content_hash": "69d0fee477d84238",
+          "style": "NORMAL_TEXT",
+          "text": "这个人纯纯恐吓，言论自由我们说啥他都没权利举报，更别说开盒了（真开了感觉狗会被炎上（吗？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_1",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8bcb709df04b384",
+          "style": "NORMAL_TEXT",
+          "text": "这个人纯纯恐吓，言论自由我们说啥他都没权利举报，更别说开盒了（真开了感觉狗会被炎上（吗？）炎上是啥意思（本意是日语着火了，大概就是被推上风口浪尖）如果真开了那就有意思了，我觉得不太可能，但可以保留证据"
+        },
+        {
+          "content_hash": "e1f916fd3a760f2a",
+          "style": "NORMAL_TEXT",
+          "text": "而且说实话虽然他是教授，但他能做什么呢？真没这么大权力"
+        },
+        {
+          "content_hash": "be8dec6f3013c19b",
+          "style": "HEADING_1",
+          "text": "XSWL"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 51,
+      "at_to": 75,
+      "from_paragraphs": [
+        {
+          "content_hash": "8e85c214ff45d631",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16bf78153e391fb7",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 316,
+      "paragraphs": [
+        {
+          "content_hash": "472013105ace5014",
+          "style": "NORMAL_TEXT",
+          "text": "taste很差，人品也不行，到底是RPI的PhD。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 321,
+      "paragraphs": [
+        {
+          "content_hash": "91ff999bb99505a6",
+          "style": "NORMAL_TEXT",
+          "text": "本人是近年毕业的PhD，Hao Su老师对学生挺好的，很多学生都和他一起创业"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 325,
+      "paragraphs": [
+        {
+          "content_hash": "9384a6b6481e1799",
+          "style": "NORMAL_TEXT",
+          "text": "历届phd没有人被卡毕业吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 327,
+      "paragraphs": [
+        {
+          "content_hash": "f1d7817f5f407432",
+          "style": "NORMAL_TEXT",
+          "text": "funding还是都保证的，转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 335,
+      "from_paragraphs": [
+        {
+          "content_hash": "f643afb46e8913a1",
+          "style": "NORMAL_TEXT",
+          "text": "各种drama 早年黑工成百上千"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e85e1d5997a3424",
+          "style": "NORMAL_TEXT",
+          "text": "各种drama 早年黑工成百上千(小心他告你，是谁呢好难猜啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 346,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "fbf772f3e165ccd6",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu (谁删谁傻逼)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7edded55d4126100",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 348,
+      "at_to": 376,
+      "from_paragraphs": [
+        {
+          "content_hash": "bd7910665097290f",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "736bf083d11185de",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就骂人还有不懂感恩还骂自己老师的才是畜生吧。"
+        },
+        {
+          "content_hash": "fc178c1dbc6d2bab",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）"
+        },
+        {
+          "content_hash": "3d73e5d85268ca19",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里并没有这样的硬性要求。近来已有多位学生顺利毕业，仅这学期就有3位师兄毕业。老师鼓励学生多出成果，更多是出于帮助学生提升竞争力和未来发展的考虑。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 380,
+      "paragraphs": [
+        {
+          "content_hash": "e7fcd63cf0d62a7e",
+          "style": "NORMAL_TEXT",
+          "text": "哭又能说明什么呢？他后来过的挺好的，而且去年把组里快毕业的师兄当枪使，利用那个师兄对自己的信任指使他向学院污蔑自己老师的人也是他哦。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 382,
+      "paragraphs": [
+        {
+          "content_hash": "79b9f98f97b71e23",
+          "style": "NORMAL_TEXT",
+          "text": "这些说法明显夸大甚至失实。老师一直鼓励学生实习，很多同学也因此积累了很好的工业界经验。个人合法收入和私人生活更不应被拿来作为攻击理由。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 384,
+      "paragraphs": [
+        {
+          "content_hash": "8cf4192088977bda",
+          "style": "NORMAL_TEXT",
+          "text": "博士培养本身就有流动性，学生中途离开有很多个人原因，不能简单归咎于导师，更不能据此恶意抹黑。老师给了他们读博的机会，他们自己不珍惜没能力quit了是他们自己的问题。那些人还在外面造谣背刺自己老师，可见其人品。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 386,
+      "paragraphs": [
+        {
+          "content_hash": "4094d99020bbb4c2",
+          "style": "NORMAL_TEXT",
+          "text": "据实际接触，老师一向是就事论事，非常专业的围绕工作和学业要求沟通，并不存在网络所说的那种人身攻击。个别进度或funding提醒，也属于正常管理职责。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 388,
+      "from_paragraphs": [
+        {
+          "content_hash": "48d2d2c2d54189ac",
+          "style": "NORMAL_TEXT",
+          "text": "就因为我们组没有招他的学生，现在我们组走到哪里都能听说我们老板和他不对付的谣言"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "edf1dc2f3160df65",
+          "style": "NORMAL_TEXT",
+          "text": "这一说法与事实不符。实际情况只是围绕医生给出的时间进行正常沟通，并非像传言所说那样冷漠拒绝。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 379,
+      "at_to": 414,
+      "from_paragraphs": [
+        {
+          "content_hash": "ebd67069528840dc",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）（很会包装，数据有造假）（左边说的对）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "75d6a0fab0cce329",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致   （圈内都知道）（很会包装，数据有造假）（左边说的对）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 475,
+      "at_to": 510,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec7b83e4e7e08d0e",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。事实就是留下来的学生，除了ga"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da70362855b32e5c",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会否则很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组。即使是刚招进来的学生也找到了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧。能上黑榜我们xue sheng dou hen zh）"
+        },
+        {
+          "content_hash": "b4b075a02e6e8921",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 690,
+      "paragraphs": [
+        {
+          "content_hash": "690a73232e641efe",
+          "style": "NORMAL_TEXT",
+          "text": "赵拓老师对自己学生很好，每个学生都安排在我们组实习，虽然人讲话很直，但是人品和对学生没有问题"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 668,
+      "at_to": 704,
+      "from_paragraphs": [
+        {
+          "content_hash": "065adf0987ffc5e4",
+          "style": "NORMAL_TEXT",
+          "text": "作为组内一员来说明一下，组内氛围很好，老师和学生经常一起聚会吃饭，没有任何人quit，还有两人四年提前毕业，学生毕业出路也都不错。以下恶意攻击不来自于组内学生和已毕业学生。恶意中伤者其实只有一个人，也不在组内，而且原先组里的人都心知肚明是谁"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c08aa6782928a396",
+          "style": "NORMAL_TEXT",
+          "text": "作为组内一员来说明一下，组内氛围很好，老师和学生经常一起聚会吃饭，没有任何人quit，还有两人四年PhD提前毕业，学生毕业出路也都不错。以下恶意攻击不来自于组内学生和已毕业学生。恶意中伤者其实只有一个人，也不在组内，而且原先组里的人都心知肚明是谁"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 689,
+      "at_to": 725,
+      "from_paragraphs": [
+        {
+          "content_hash": "d7e346d898785f38",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，他们自己想的idea很多时候不能work只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。组里最网红的那个phd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "15314085424990c9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经听说有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你确定你的推荐信能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 866,
+      "paragraphs": [
+        {
+          "content_hash": "4f2a41e2e8199ed8",
+          "style": "NORMAL_TEXT",
+          "text": "反正我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道你这版本哪来的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 878,
+      "paragraphs": [
+        {
+          "content_hash": "a9690160ddb4575b",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 902,
+      "paragraphs": [
+        {
+          "content_hash": "785ce9bca3ac9cdd",
+          "style": "NORMAL_TEXT",
+          "text": "听说对phd不是很好"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 927,
+      "paragraphs": [
+        {
+          "content_hash": "29a2faa3aae3cd0a",
+          "style": "NORMAL_TEXT",
+          "text": "— （这都陈年旧事了吧 shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 944,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "28760533c3304e77",
+          "style": "NORMAL_TEXT",
+          "text": "JHU Jason Eisner （不少人抱怨？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ff7d124612cd9b53",
+          "style": "NORMAL_TEXT",
+          "text": "JHU Daniel Khashabi （听说给黑推）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1078,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

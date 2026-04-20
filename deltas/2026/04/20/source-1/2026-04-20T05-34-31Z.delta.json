@@ -1,0 +1,243 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-32-30Z",
+    "revision_id": "AMHacu5R4__epF1dhLrPnE5tFSS8iObQsoYseV-JM2xVQWXse8NLWGrMKlWMLTl8qfWq_xjdGSddih-z-g0QL0-axg",
+    "paragraph_count": 1193
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-34-31Z",
+    "revision_id": "AMHacu4FxjNla-ZWozYuEGZPoiTKDjviiEyvX62LQmmwO6Tn3oF0SpW6M7tX3ou1k_FLR6WOjziNdvJ6KP1pAg0_ng",
+    "paragraph_count": 1197
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 11,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0092,
+    "insertion_ratio": 0.0125
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 22,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c4639c6cb40ab02",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）（取决于起诉的由头是什么）（比如就说你诽谤）。如果起诉的话，谷歌应该也有义务reveal文档的主人，所以也不是完全破坏隐私。很可能谷歌doc的条款写明了这条。就类似于谷歌和github都不能post违法信息这种，但这个很难界定（如果起诉）。作者最好谨慎。（感谢提醒）（Gemini说了提起诉讼的人需要先自证是被诽谤了，证明不了的话谷歌不需要share大家的信息，即使真的提交大家的信息，也会给所有编辑者发邮件通知，u）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f909596c9655beac",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）（取决于起诉的由头是什么）（比如就说你诽谤）。如果起诉的话，谷歌应该也有义务reveal文档的主人，所以也不是完全破坏隐私。很可能谷歌doc的条款写明了这条。就类似于谷歌和github都不能post违法信息这种，但这个很难界定（如果起诉）。作者最好谨慎。（感谢提醒）（Gemini说了提起诉讼的人需要先自证是被诽谤了，证明不了的话谷歌不需要share大家的信息，即使真的提交大家的信息，也会给所有编辑者发邮件通知，双向透明）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 171,
+      "at_to": 171,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f6dce3a432a9f94",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "25f18e9f7f9b09af",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相) +1 大哥我跟你"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 323,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 510,
+      "at_to": 511,
+      "from_paragraphs": [
+        {
+          "content_hash": "da70362855b32e5c",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会否则很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组。即使是刚招进来的学生也找到了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧。能上黑榜我们xue sheng dou hen zh）"
+        },
+        {
+          "content_hash": "b4b075a02e6e8921",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f0f9ad5451e931b5",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会否则很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也找到了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不能上黑榜我们学生都很震惊。）"
+        },
+        {
+          "content_hash": "57f247cd53753ea6",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙"
+        },
+        {
+          "content_hash": "1cd577e17149d82f",
+          "style": "NORMAL_TEXT",
+          "text": "学生去向很好，毕业会朋友圈单独祝贺学生，很supportive啊，kan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 725,
+      "at_to": 727,
+      "from_paragraphs": [
+        {
+          "content_hash": "15314085424990c9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经听说有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你确定你的推荐信能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        },
+        {
+          "content_hash": "138f2cd2ad9e3e18",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断)"
+        },
+        {
+          "content_hash": "db8d6e0127587af0",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e9ed5fed3a19b6c3",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经听说有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        },
+        {
+          "content_hash": "f6cd3fc9e516de58",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断) 人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 743,
+      "paragraphs": [
+        {
+          "content_hash": "540b1dc2a794f051",
+          "style": "NORMAL_TEXT",
+          "text": "（路人看完对intern小坑对phd很好）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 866,
+      "at_to": 866,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f2a41e2e8199ed8",
+          "style": "NORMAL_TEXT",
+          "text": "反正我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道你这版本哪来的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8e75e98f5892032",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道你这版本哪来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 874,
+      "at_to": 874,
+      "from_paragraphs": [
+        {
+          "content_hash": "52386c54587c0448",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f303d4e0f13c186",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生（想问一下intern体验）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 980,
+      "at_to": 980,
+      "from_paragraphs": [
+        {
+          "content_hash": "726a42a6c42dfd31",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼，还会反套养鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "05f57f19ccf1c442",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼, 在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 983,
+      "paragraphs": [
+        {
+          "content_hash": "d7478dae5b760448",
+          "style": "NORMAL_TEXT",
+          "text": "网红？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1090,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "509aae0e0c97e934",
+          "style": "NORMAL_TEXT",
+          "text": "SMU Pan Zhou"
+        },
+        {
+          "content_hash": "6df02ca00ca28629",
+          "style": "NORMAL_TEXT",
+          "text": "zi"
+        }
+      ]
+    }
+  ]
+}

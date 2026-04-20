@@ -1,0 +1,161 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-40-53Z",
+    "revision_id": "AMHacu75xdlCw-fxn123q2yE_iFWsWZXkYEvqiUtGPD5EYMyBNk3UhPCx7ELUfu-0vGMtH31v2QsYzQfbM-j-yDHew",
+    "paragraph_count": 1207
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-43-00Z",
+    "revision_id": "AMHacu4l4SG23bNVqb-KJVelkJ2uRFPM4pqLkpteaV0l3pMfzx-nepYEH0Q1yGP6XVIRPVkS2hvJSL5JVqfnVKRRpA",
+    "paragraph_count": 1208
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 7,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0058,
+    "insertion_ratio": 0.0066
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 6,
+      "paragraphs": [
+        {
+          "content_hash": "162ccfbf2ee8bf5f",
+          "style": "NORMAL_TEXT",
+          "text": "看到这个文档，感到非常悲哀，华人在学术界一起走到今天，诸多不易，然而这里不过是类似文革的续写，互相攻击。难道不应该把精力放在充实自己，一起做大蛋糕吗？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e4e7b3ab31e4818",
+          "style": "NORMAL_TEXT",
+          "text": "那么本案的重点在于黑榜上的各位如何证明自己是被诽谤被冤枉的（不是哥们儿别讨论法律了，容易把人带偏，真gemni说的不一定和法官说的是一样的。。）（那你的意思是各位爆料的phd们是瞎说么，我觉得也不能吧）（就算是真的，也未必不会被法官搞，条条文文太多了）（那么会不会有cs届的me too运动）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b28088c7537c6f26",
+          "style": "NORMAL_TEXT",
+          "text": "那么本案的重点在于黑榜上的各位如何证明自己是被诽谤被冤枉的（不是哥们儿别讨论法律了，容易把人带偏，真gemni说的不一定和法官说的是一样的。。）（那你的意思是各位爆料的phd们是瞎说么，我觉得也不能吧）（就算是真的，也未必不会被法官搞，条条文文太多了）（那么会不会有cs届的me too运动）（真被告的话就来一场cs的me too运动吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 46,
+      "at_to": 47,
+      "from_paragraphs": [
+        {
+          "content_hash": "74bce1cd1a633aff",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c08faa19b83f6c8",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被曝光，媒体总会抓住他们小尾巴说他们欺负学生，毕竟学生没钱没资源）（国内有这样的案例的，参考评课社区网，被老师告了，老师还赢了）（那么同学们，学校的举报部门你们平时为什么不用呢，老师不做人的时候为什么不为自己发声，是因为怕被开除吗，是因为想继续把博士读完吗，是觉得自己不会像文档里想不开的学生那样吗）(你想说啥哥们，你又知道我们没用了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 330,
+      "at_to": 331,
+      "from_paragraphs": [
+        {
+          "content_hash": "d2c3d5f2a8f4e70c",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，也没有人被卡过毕业，感觉这种谣传非常"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9793b6563501d643",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，也没有人被卡过毕业，不懂这种谣传怎么来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 332,
+      "at_to": 333,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e2bd2060f0365c4",
+          "style": "NORMAL_TEXT",
+          "text": "funding还是都保证的不用新老师给，转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cec03e381ce72213",
+          "style": "NORMAL_TEXT",
+          "text": "转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 514,
+      "at_to": 515,
+      "from_paragraphs": [
+        {
+          "content_hash": "1a91aa2020015299",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9047b63fcda90526",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但非常 supportive 需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 748,
+      "at_to": 749,
+      "from_paragraphs": [
+        {
+          "content_hash": "bb8115764d6d75f5",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space) PhD都做得挺开心的（老师你好，自己来洗地啦）"
+        },
+        {
+          "content_hash": "c242475ea2dafc8e",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(一台H100 train一周可以pretrain一个7b小模型了, 开发时间都是用组里机器, 不会租卡, 只有上大规模实验才租卡)（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "320b3bae283258a9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）"
+        },
+        {
+          "content_hash": "969b76888892e409",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用组里机器, 不会租卡, 只有上大规模实验才租卡)（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    }
+  ]
+}

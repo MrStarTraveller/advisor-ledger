@@ -1,0 +1,322 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-34-31Z",
+    "revision_id": "AMHacu4FxjNla-ZWozYuEGZPoiTKDjviiEyvX62LQmmwO6Tn3oF0SpW6M7tX3ou1k_FLR6WOjziNdvJ6KP1pAg0_ng",
+    "paragraph_count": 1197
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-38-50Z",
+    "revision_id": "AMHacu7cN555OkCfXDsMDn_Tmz27nPNu3e8EtrBYMR2XrJWIRr8ZwTL9RgtmvkYkyXlpbXLMDxuhAF2gelPcOaJaYQ",
+    "paragraph_count": 1206
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 14,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0117,
+    "insertion_ratio": 0.0191
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e4e7b3ab31e4818",
+          "style": "NORMAL_TEXT",
+          "text": "那么本案的重点在于黑榜上的各位如何证明自己是被诽谤被冤枉的（不是哥们儿别讨论法律了，容易把人带偏，真gemni说的不一定和法官说的是一样的。。）（那你的意思是各位爆料的phd们是瞎说么，我觉得也不能吧）（就算是真的，也未必不会被法官搞，条条文文太多了）（那么会不会有cs届的me too运动）"
+        },
+        {
+          "content_hash": "1ce46e3659ba4239",
+          "style": "NORMAL_TEXT",
+          "text": "有点担心大家"
+        },
+        {
+          "content_hash": "b1801d45bd90c7f9",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 85,
+      "at_to": 87,
+      "from_paragraphs": [
+        {
+          "content_hash": "fec5764e992e9a2b",
+          "style": "NORMAL_TEXT",
+          "text": "            (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "035bbada928d0ebf",
+          "style": "NORMAL_TEXT",
+          "text": "            (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 171,
+      "at_to": 173,
+      "from_paragraphs": [
+        {
+          "content_hash": "25f18e9f7f9b09af",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相) +1 大哥我跟你"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1005fe124dc31d0b",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。(+1 喜欢评论学术圈女性身材长相) +1 大哥我跟你又不熟一上来就评论我胖了WTF"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 325,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a57defafdaa89f55",
+          "style": "NORMAL_TEXT",
+          "text": "我已知的都有强推的推荐信"
+        },
+        {
+          "content_hash": "28d8d02e769bc0cf",
+          "style": "NORMAL_TEXT",
+          "text": "我看过很多hao写的推荐信，都写得挺实际的，只是没有一些老师写的那么天花乱坠，我印象hao推荐信没说过假话"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 330,
+      "paragraphs": [
+        {
+          "content_hash": "1a42de5154d6828d",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，更bu ke neng shuo"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 328,
+      "at_to": 332,
+      "from_paragraphs": [
+        {
+          "content_hash": "f1d7817f5f407432",
+          "style": "NORMAL_TEXT",
+          "text": "funding还是都保证的，转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4e2bd2060f0365c4",
+          "style": "NORMAL_TEXT",
+          "text": "funding还是都保证的不用新老师给，转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 470,
+      "paragraphs": [
+        {
+          "content_hash": "028fdd317bc03549",
+          "style": "NORMAL_TEXT",
+          "text": "He displays traits consistent with narcissistic tendencies, projecting strong confidence that seems to mask underlying insecurity about his actual abilities. In my view, he does not appear to have undergone rigorous research training; many of his ideas feel ungrounded, lacking a solid theoretical or empirical foundation—reminiscent of early-stage, exploratory thinking rather than mature scholarship. He also tends to exaggerate, and at times presents claims that are difficult to verify. Overall, this creates the impression that he is less focused on careful research and more on persuasive presentation."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 511,
+      "at_to": 514,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0f9ad5451e931b5",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会否则很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也找到了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不能上黑榜我们学生都很震惊。）"
+        },
+        {
+          "content_hash": "57f247cd53753ea6",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙"
+        },
+        {
+          "content_hash": "1cd577e17149d82f",
+          "style": "NORMAL_TEXT",
+          "text": "学生去向很好，毕业会朋友圈单独祝贺学生，很supportive啊，kan"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8bd5b2a3fa0ea4f6",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做的尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        },
+        {
+          "content_hash": "75e52559fa95946c",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙（在 Rice 的时候不算夫妻店。可能回国重新开始比较夫妻店吧。"
+        },
+        {
+          "content_hash": "49998d1be5455a1b",
+          "style": "NORMAL_TEXT",
+          "text": "学生去向很好，毕业会朋友圈单独祝贺学生，写相处点滴，很supportive啊，看到红榜也有他，好的去那边写点呗"
+        },
+        {
+          "content_hash": "8c2f604d00f33a4c",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU Shuiwang Ji"
+        },
+        {
+          "content_hash": "4e1549a334679e34",
+          "style": "NORMAL_TEXT",
+          "text": "对学生非常 push不给任何指导，组里很少交流，都想尽快发自己论文"
+        },
+        {
+          "content_hash": "71a96165046fe742",
+          "style": "NORMAL_TEXT",
+          "text": "一年没有产出直接劝退，转组或master out."
+        },
+        {
+          "content_hash": "e81ecd6736faeefa",
+          "style": "NORMAL_TEXT",
+          "text": "曾经两届4个 phd 走了3，因此不得不一年招5个"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 740,
+      "at_to": 748,
+      "from_paragraphs": [
+        {
+          "content_hash": "645e2d09756b6832",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space) PhD都做得挺开心的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bb8115764d6d75f5",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space) PhD都做得挺开心的（老师你好，自己来洗地啦）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 764,
+      "at_to": 772,
+      "from_paragraphs": [
+        {
+          "content_hash": "bfed3fbe3314ff50",
+          "style": "NORMAL_TEXT",
+          "text": "Ap时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "82ba2244a86a30bc",
+          "style": "NORMAL_TEXT",
+          "text": "Ap时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了 (此条不属实，没有闹掰，谢谢！ )"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 863,
+      "at_to": 871,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ed86fa26ed9e4fb",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5d35f0efbde1135d",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（据说另一个人想去工业界，想多卡训video model）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 866,
+      "at_to": 874,
+      "from_paragraphs": [
+        {
+          "content_hash": "f8e75e98f5892032",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道你这版本哪来的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca22002700c067f4",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1092,
+      "at_to": 1100,
+      "from_paragraphs": [
+        {
+          "content_hash": "6df02ca00ca28629",
+          "style": "NORMAL_TEXT",
+          "text": "zi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7a214782869352bd",
+          "style": "NORMAL_TEXT",
+          "text": "自费学习概念的开拓者，凭什么给你钱，要学生自带gpu资源"
+        },
+        {
+          "content_hash": "6cf807e125c3cb88",
+          "style": "NORMAL_TEXT",
+          "text": "科研能力很有限，广撒网招intern不给指导"
+        }
+      ]
+    }
+  ]
+}

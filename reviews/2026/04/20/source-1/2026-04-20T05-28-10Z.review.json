@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T05-28-10Z.delta.json",
+  "delta_ts": "2026-04-20T05-28-10Z",
+  "reviewed_at_utc": "2026-04-20T05:28:21Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "error",
+  "concerns": [
+    {
+      "type": "review_error",
+      "detail": "API transport error: <HTTPError 500: 'Internal Server Error'>",
+      "excerpt": ""
+    }
+  ],
+  "prompt_sha256": "fd43f0d2dd7050584c34fa80f348c672ee3122f4692e5b7fc335d80acb2af47d",
+  "finish_reason": null,
+  "completion_tokens": null
+}

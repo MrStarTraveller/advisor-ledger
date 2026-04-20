@@ -1,0 +1,287 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-43-00Z",
+    "revision_id": "AMHacu4l4SG23bNVqb-KJVelkJ2uRFPM4pqLkpteaV0l3pMfzx-nepYEH0Q1yGP6XVIRPVkS2hvJSL5JVqfnVKRRpA",
+    "paragraph_count": 1208
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-47-04Z",
+    "revision_id": "AMHacu5V_RjWmoYH5SmzaDqlCqdxI1v5s97wsaIZkZ7aL3wdIPc9grVMM9PmnRvpXZV_T0SCyuLsi2itth3qm05D9A",
+    "paragraph_count": 1212
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 13,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0108,
+    "insertion_ratio": 0.014
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 6,
+      "at_to": 6,
+      "from_paragraphs": [
+        {
+          "content_hash": "162ccfbf2ee8bf5f",
+          "style": "NORMAL_TEXT",
+          "text": "看到这个文档，感到非常悲哀，华人在学术界一起走到今天，诸多不易，然而这里不过是类似文革的续写，互相攻击。难道不应该把精力放在充实自己，一起做大蛋糕吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdbefc834f4bb7e5",
+          "style": "NORMAL_TEXT",
+          "text": "看到这个文档，感到非常悲哀，华人在学术界一起走到今天，诸多不易，然而这里不过是类似文革的续写，互相攻击。难道不应该把精力放在充实自己，一起做大蛋糕吗？（并不是，这不是wenge）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 47,
+      "at_to": 47,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c08faa19b83f6c8",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被曝光，媒体总会抓住他们小尾巴说他们欺负学生，毕竟学生没钱没资源）（国内有这样的案例的，参考评课社区网，被老师告了，老师还赢了）（那么同学们，学校的举报部门你们平时为什么不用呢，老师不做人的时候为什么不为自己发声，是因为怕被开除吗，是因为想继续把博士读完吗，是觉得自己不会像文档里想不开的学生那样吗）(你想说啥哥们，你又知道我们没用了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a68ede2b442bee85",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被曝光，媒体总会抓住他们小尾巴说他们欺负学生，毕竟学生没钱没资源）（国内有这样的案例的，参考评课社区网，被老师告了，老师还赢了）（那么同学们，学校的举报部门你们平时为什么不用呢，老师不做人的时候为什么不为自己发声，是因为怕被开除吗，是因为想继续把博士读完吗，是觉得自己不会像文档里想不开的学生那样吗，不是说没用，我的意思是，既然曝光了， 那就没什么好多想的，害怕的话可以删掉，但别人也不会知道这些事情了，决定码字的时候就应该明白有被起诉被追责的可能啊）(你想说啥哥们，你又知道我们没用举报部门了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 331,
+      "at_to": 331,
+      "from_paragraphs": [
+        {
+          "content_hash": "9793b6563501d643",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，也没有人被卡过毕业，不懂这种谣传怎么来的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52b5b7b9985df590",
+          "style": "NORMAL_TEXT",
+          "text": "hao对我们还是非常nice的，从来没有骂过我们，能给很多的情绪价值，也没有人被卡过毕业，不懂这种谣传怎么来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 338,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "94fefbff0d9349cc",
+          "style": "NORMAL_TEXT",
+          "text": "Push, 每天要standup meeting"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "14218e1970ac9187",
+          "style": "NORMAL_TEXT",
+          "text": "Push, 每天要standup meeting （组里phd。并不是“每天都 standup meeting”。组里确实会比较经常开会，但这更多是为了项目同步、推进合作和及时解决问题，本身并不是什么负面行为。把“meeting 比较多”直接表述成问题，有点刻意带节奏了。 ）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 515,
+      "at_to": 515,
+      "from_paragraphs": [
+        {
+          "content_hash": "9047b63fcda90526",
+          "style": "NORMAL_TEXT",
+          "text": "（同现身说法一下。感觉虽然走的比较匆忙（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。感觉胡老师应该是华人圈里最 nice 几个人了吧，不 push 不 micromanage 不骂人，没有硬性毕业要求，但非常 supportive 需要他的时候能抗事儿。能上黑榜我们几个学生都很震惊。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ca857ed5c0adcce",
+          "style": "NORMAL_TEXT",
+          "text": "同现身说法一下。感觉胡老板虽然走的比较突然（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内提前毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。"
+        },
+        {
+          "content_hash": "3ad49395780ff7f9",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，能上黑榜我们几个学生都很震惊。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 517,
+      "at_to": 518,
+      "from_paragraphs": [
+        {
+          "content_hash": "49998d1be5455a1b",
+          "style": "NORMAL_TEXT",
+          "text": "学生去向很好，毕业会朋友圈单独祝贺学生，写相处点滴，很supportive啊，看到红榜也有他，好的去那边写点呗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "44918fd87ddb5d16",
+          "style": "NORMAL_TEXT",
+          "text": "学生去向很好，毕业会朋友圈单独祝贺学生，写相处点滴，很supportive啊，看到红榜也有他，好的去那边写点呗（写啦！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 583,
+      "at_to": 584,
+      "from_paragraphs": [
+        {
+          "content_hash": "3e8f7fb98085c32a",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "70f3965a15e2cecd",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)(+1)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 717,
+      "paragraphs": [
+        {
+          "content_hash": "35f80e1a3e6f7f2e",
+          "style": "NORMAL_TEXT",
+          "text": "（其实大家应该只好奇下面的事情有没有真实发生过吧...）"
+        },
+        {
+          "content_hash": "21e0f3972df70f11",
+          "style": "NORMAL_TEXT",
+          "text": "Eric好不好问组内毕业和未毕业的学生 自然知道 组内氛围很好 学生都很团结 老师也supportive 实习工作虽然是ap但是但凡有connection都会尽力去推荐"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 736,
+      "at_to": 739,
+      "from_paragraphs": [
+        {
+          "content_hash": "be8d8a21d520e79a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3c7a4f0b0c982f79",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？"
+        },
+        {
+          "content_hash": "b0fa8212f21417e5",
+          "style": "NORMAL_TEXT",
+          "text": "在这个du"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 751,
+      "at_to": 755,
+      "from_paragraphs": [
+        {
+          "content_hash": "f2548f6fb438e776",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill"
+        },
+        {
+          "content_hash": "1f997e278d6e5d72",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54ffec1113e1282d",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）"
+        },
+        {
+          "content_hash": "f51bf10d4804bdfa",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来（假的）\u000b6. 欢迎补充 （李老师你是想让我补充你自己都不知道的细节嘛）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 872,
+      "at_to": 876,
+      "from_paragraphs": [
+        {
+          "content_hash": "b6e62a706d58754f",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个人想去工业界，想多卡训video model）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2b74c87e4610362",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 875,
+      "at_to": 879,
+      "from_paragraphs": [
+        {
+          "content_hash": "ca22002700c067f4",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0d02ac5d5f0cdbac",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 955,
+      "paragraphs": [
+        {
+          "content_hash": "9dee1c0ed39ef4e2",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas"
+        }
+      ]
+    }
+  ]
+}

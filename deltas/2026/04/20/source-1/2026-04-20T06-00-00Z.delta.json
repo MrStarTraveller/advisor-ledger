@@ -1,0 +1,475 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-55-40Z",
+    "revision_id": "AMHacu4ZSPdXWrxv1Xwi4eeKBvOuv5O_hlw1vVd2c0c5MwHO3UNeYXcAX78BNvplP4Wf8vwLVMw8rBIhphE4oNnf8A",
+    "paragraph_count": 1181
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-00-00Z",
+    "revision_id": "AMHacu53yDNJajYqKI5VHzsz9eP9lQWqPZeiGgw8gcOUZAWtEvMsb3i71fZqV64eFMdq0d3OppqWCRlljcIlhRASgQ",
+    "paragraph_count": 1187
+  },
+  "summary": {
+    "inserted_paragraphs": 29,
+    "deleted_paragraphs": 23,
+    "operations": 22,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0195,
+    "insertion_ratio": 0.0244
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "24607882c1c696d1",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 20min后（加速一下）我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0d28569b73ec2887",
+          "style": "NORMAL_TEXT",
+          "text": "Submission DUE: 20min后（加速一下）我会开启只读模式清理所有不应该出现的隐私信息，然后再开启可编辑模式。大家赶紧保存各种notes！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 5,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "67258bd506722d11",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(这种一上来直接扣帽子的定性评价才是类似于文革的续写，有多少信息是各位学子的肺腑之言？有多少是恶意攻击？)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜，真正好的老师会出现在那里）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d741f8522571a401",
+          "style": "NORMAL_TEXT",
+          "text": "大家早点睡觉"
+        },
+        {
+          "content_hash": "75b56dfa8fcca5c4",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(这种一上来直接扣帽子的定性评价才是类似于文革的续写，有多少信息是各位学子的肺腑之言？有多少才是恶意攻击？)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜，真正好的老师会出现在那里）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 350,
+      "at_to": 351,
+      "from_paragraphs": [
+        {
+          "content_hash": "72ee214afcf84e34",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，真牛逼）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1d86492d58e375d9",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 352,
+      "at_to": 353,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc178c1dbc6d2bab",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "76dce18585bbb1fc",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 355,
+      "from_paragraphs": [
+        {
+          "content_hash": "66aa6e07ba2d1289",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house"
+        },
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e6d7a944fc5a033f",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house （洗地的时候抢尾作，创业让学生免费干活的事情是一点不提啊）"
+        },
+        {
+          "content_hash": "81080d7d8ce14e1a",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少 （你是新来neu的吧？稍微senior一点谁人不知？系里面老师有几个愿意和他合作的?）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 477,
+      "at_to": 478,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ca857ed5c0adcce",
+          "style": "NORMAL_TEXT",
+          "text": "同现身说法一下。感觉胡老板虽然走的比较突然（不是逃）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内提前毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。"
+        },
+        {
+          "content_hash": "408ad3b62765f16e",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法+1，胡老师蛮好，在"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e96293d4460e1ab9",
+          "style": "NORMAL_TEXT",
+          "text": "同现身说法一下。感觉胡老板虽然走的比较突然（不是逃，走之前还生了正教授）导致留下来的学生比较 rocky，但这主要是系里不让用留下来的钱导致的。这点你说能不能做的更好一点，那的确；但这种受系里外力影响的事，除非你让老板放弃机会 or 安排好所有人再走，很难做到尽善尽美。事实就是留下来的学生要么就在一学期内提前毕业 + 上岸，要么就成功转组，没有断 funding 的。即使是刚招进来的学生也都有了出处。"
+        },
+        {
+          "content_hash": "fde5c63947df87be",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法+1，胡老师人蛮好的，在转组过程中非常supportive，组里氛围很好，很幸运加入这个family。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 536,
+      "at_to": 537,
+      "from_paragraphs": [
+        {
+          "content_hash": "681a9004698b283e",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e65049165bbc2801",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）（222真扇吗出钱看）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 548,
+      "at_to": 549,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b3850418c0bf28d",
+          "style": "NORMAL_TEXT",
+          "text": "尤是真的好人啊，不可能是黑的啊！！！！！！！！！！！！！！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb27e623084a58a9",
+          "style": "NORMAL_TEXT",
+          "text": "尤是真的好人啊，不可能是黑的啊！！！！！！！！！！！！！！(+1)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 624,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 666,
+      "at_to": 668,
+      "from_paragraphs": [
+        {
+          "content_hash": "07a2df4a71b64ed1",
+          "style": "NORMAL_TEXT",
+          "text": "赵老师对自己学生很好，每个学生都安排在我们组实习，虽然人讲话很直，但是人品和对学生没有问题"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3094a326a9c11451",
+          "style": "NORMAL_TEXT",
+          "text": "赵老师对自己学生很好，每个学生都安排实习，虽然人讲话很直，但是人品和对学生没有问题"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 706,
+      "at_to": 708,
+      "from_paragraphs": [
+        {
+          "content_hash": "db8d6e0127587af0",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e374d8c55f5a91cb",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 708,
+      "at_to": 710,
+      "from_paragraphs": [
+        {
+          "content_hash": "aecfe592cf9cc11c",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        },
+        {
+          "content_hash": "a8472638442fe3b9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，听说以前的Intern有项目没做出来的也给写信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43b538f2445fecaa",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（十几个）（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        },
+        {
+          "content_hash": "84c490074163a431",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 718,
+      "at_to": 720,
+      "from_paragraphs": [
+        {
+          "content_hash": "b18672dd277f2662",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是不是老师跟你有什么关系？ RAGEN MindCube T*有没有拿award自己能不能上网查？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "81d9f70b648360a6",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗? RAGEN MindCube T*有没有拿award自己能不能上网查？)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你不会是RAGEN coauthor吧? 不会还是共一? )"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 720,
+      "at_to": 722,
+      "from_paragraphs": [
+        {
+          "content_hash": "54ffec1113e1282d",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7ef61a94f75dafcf",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern hands on, 知道intern需要什么skill, 能总结出training lecture? 每天给你开八个小时会你又说push?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 724,
+      "paragraphs": [
+        {
+          "content_hash": "c0f8f65c4d0ddca0",
+          "style": "NORMAL_TEXT",
+          "text": "6. （李老师，大半夜的自己洗地不累吗？明天不用开会push我们了嘛）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 729,
+      "paragraphs": [
+        {
+          "content_hash": "1ce2a81d4a4cd33f",
+          "style": "NORMAL_TEXT",
+          "text": "我是MindCube的共同一作的PhD学生，特此想来这里cheng qing"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 846,
+      "at_to": 850,
+      "from_paragraphs": [
+        {
+          "content_hash": "0e2b8d676cafab82",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来的，也不知道水平很差谁评价的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7675d27fb0abc06d",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，connection非常广泛，不知道评价差的人都是哪来的，合作的时候感觉她对于我的方向的理解很深，vision也很广，也不知道水平很差谁评价的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 853,
+      "at_to": 857,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f303d4e0f13c186",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生（想问一下intern体验）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ba76a48496da2b5",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生（想问一下inter"
+        },
+        {
+          "content_hash": "2bf7861dbe9b2e57",
+          "style": "NORMAL_TEXT",
+          "text": "N体验）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "41af1018f598d45a",
+          "style": "NORMAL_TEXT",
+          "text": "Apple 那种环境出来的老师，能不好么？😂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 857,
+      "at_to": 864,
+      "from_paragraphs": [
+        {
+          "content_hash": "a9690160ddb4575b",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "637135eada0b1b32",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 860,
+      "at_to": 867,
+      "from_paragraphs": [
+        {
+          "content_hash": "c59abc06313d1e24",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit了吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "364281c354774546",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit了吧（听说不是quit，是换导师？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 949,
+      "at_to": 956,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d48186358b56525",
+          "style": "NORMAL_TEXT",
+          "text": "夏天不给phd学生钱还要求留校，灵魂发问“你没有存款吗”"
+        },
+        {
+          "content_hash": "515e44c49d64c1cf",
+          "style": "NORMAL_TEXT",
+          "text": "大弟子一堆造假paper"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b71719fd3f768f3b",
+          "style": "NORMAL_TEXT",
+          "text": "上学的时候一堆造假paper"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 963,
+      "at_to": 969,
+      "from_paragraphs": [
+        {
+          "content_hash": "05f57f19ccf1c442",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼, 在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "caeeff423f46c10e",
+          "style": "NORMAL_TEXT",
+          "text": "超级海王，据说一个申请季能养几十条鱼, 在已经有很多鱼的情况下还发小红书发招生贴"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-47-04Z",
+    "revision_id": "AMHacu5V_RjWmoYH5SmzaDqlCqdxI1v5s97wsaIZkZ7aL3wdIPc9grVMM9PmnRvpXZV_T0SCyuLsi2itth3qm05D9A",
+    "paragraph_count": 1212
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-51-20Z",
+    "revision_id": "AMHacu5XNHDSzKhB9yjUBWc4tP5Zy0s8PpzuNiQ75sfTKsT1_MaHVVBBTfHhvnWdA073-0HwIhRNxsy9ZOHw7dpGXw",
+    "paragraph_count": 1179
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 49,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0404,
+    "insertion_ratio": 0.0136
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 6,
+      "at_to": 6,
+      "from_paragraphs": [
+        {
+          "content_hash": "fdbefc834f4bb7e5",
+          "style": "NORMAL_TEXT",
+          "text": "看到这个文档，感到非常悲哀，华人在学术界一起走到今天，诸多不易，然而这里不过是类似文革的续写，互相攻击。难道不应该把精力放在充实自己，一起做大蛋糕吗？（并不是，这不是wenge）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c88ad77378c9652d",
+          "style": "NORMAL_TEXT",
+          "text": "看到這個文檔，感到非常悲哀，華人在學術界一起走到今天，諸多不易，然而這裡不過是類似文革的續寫(zhe'zhong'kou'mao'zi'de)，互相攻擊。不應該把精力放在充實自己，一起做大蛋糕嗎？（并不是，这不是文革，也不是互相攻击，我看到更多是淋过雨想给别人撑把伞，不希望学弟学妹踩雷，不是当phd就比导师低人一等，就应该按照一些华人教授的传统风格被压榨，华人学术界的先驱也不是这样靠toxic站稳脚跟的）(PhD学生/incoming PhD本来就是相对弱势的一方，避免这样更toxic的学术环境才是真正的在做大蛋糕吧）（狠狠点赞）（学生不会无缘无故说老师坏话，你可以去看看红榜的bei"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 23,
+      "from_paragraphs": [
+        {
+          "content_hash": "f909596c9655beac",
+          "style": "NORMAL_TEXT",
+          "text": "话说想提醒作者一件事（我不是老师），匿名文档应该也不是就完全不违法？感觉如果有老师起诉可能一起诉一个准（至少你一定得去应诉）（取决于起诉的由头是什么）（比如就说你诽谤）。如果起诉的话，谷歌应该也有义务reveal文档的主人，所以也不是完全破坏隐私。很可能谷歌doc的条款写明了这条。就类似于谷歌和github都不能post违法信息这种，但这个很难界定（如果起诉）。作者最好谨慎。（感谢提醒）（Gemini说了提起诉讼的人需要先自证是被诽谤了，证明不了的话谷歌不需要share大家的信息，即使真的提交大家的信息，也会给所有编辑者发邮件通知，双向透明）"
+        },
+        {
+          "content_hash": "76524abdc5e5415a",
+          "style": "NORMAL_TEXT",
+          "text": "引用Gemini：对于这种匿名编辑的文档，如果涉及到法律诉讼（如诽谤），谷歌是否会提交用户信息，答案是：在法律强制要求下，谷歌通常会配合，但过程受到严格的隐私政策和法律程序保护。"
+        },
+        {
+          "content_hash": "3669b2b5c4c0d129",
+          "style": "NORMAL_TEXT",
+          "text": "简单来说，\"匿名\" 只是针对普通读者的（即文档中显示的“匿名动物”），但对于后台系统，谷歌依然记录了编辑者的 Google 账号信息、IP 地址等数据。"
+        },
+        {
+          "content_hash": "0a7b2bd6d8c27257",
+          "style": "NORMAL_TEXT",
+          "text": "以下是具体的运作机制和潜在风险："
+        },
+        {
+          "content_hash": "72a04f1ff687e5ab",
+          "style": "HEADING_3",
+          "text": "1. 谷歌的官方立场与政策"
+        },
+        {
+          "content_hash": "f0e53ada0488cfd7",
+          "style": "NORMAL_TEXT",
+          "text": "根据 Google 隐私权政策，谷歌不会随意分享个人信息，但在以下法律情形下例外："
+        },
+        {
+          "content_hash": "b4073b67da56b825",
+          "style": "NORMAL_TEXT",
+          "text": "满足法律程序： 为了满足适用的法律、法规、法律程序（如法院传票、搜查令）或强制性的政府要求。"
+        },
+        {
+          "content_hash": "4a8d314206822897",
+          "style": "NORMAL_TEXT",
+          "text": "透明度原则： 谷歌在收到政府或法律要求时，通常会尝试通过邮件通知用户，除非法律（如法官签发的禁言令）明确禁止通知。"
+        },
+        {
+          "content_hash": "28db1b7616afd597",
+          "style": "HEADING_3",
+          "text": "2. 诽谤诉讼中的信息调取过程"
+        },
+        {
+          "content_hash": "94e1612be98d0f7e",
+          "style": "NORMAL_TEXT",
+          "text": "如果你或他人因诽谤起诉，原告的律师通常会执行以下步骤来试图获取匿名者的身份："
+        },
+        {
+          "content_hash": "cf4c3c5912b9091b",
+          "style": "NORMAL_TEXT",
+          "text": "申请传票（Subpoena）： 原告需要向法院证明该文档内容构成了诽谤，并申请传票要求谷歌提供该文档编辑者的相关信息。"
+        },
+        {
+          "content_hash": "0d9f49dcab2920c8",
+          "style": "NORMAL_TEXT",
+          "text": "谷歌的审查： 谷歌收到传票后会进行审核。如果传票过于宽泛，谷歌可能会拒绝或尝试缩小范围。"
+        },
+        {
+          "content_hash": "5853918e703186c3",
+          "style": "NORMAL_TEXT",
+          "text": "提供的信息： 如果传票获批，谷歌可能会提交关联的电子邮箱地址、账户注册信息以及登录 IP 地址。原告拿到 IP 地址后，可能还需要进一步起诉 ISP（网络服务供应商）来锁定真实的物理地址和个人姓名。"
+        },
+        {
+          "content_hash": "79eae3bde0009fbc",
+          "style": "HEADING_3",
+          "text": "3. \"匿名编辑\" 的真相"
+        },
+        {
+          "content_hash": "e2ff06edc84c6553",
+          "style": "NORMAL_TEXT",
+          "text": "登录状态： 如果你在登录 Google 账号的状态下编辑文档，即使别人看到的是“匿名大象”，你的账号 ID 已经记录在文档的历史记录（Version History）中。"
+        },
+        {
+          "content_hash": "769bc69bd5322061",
+          "style": "NORMAL_TEXT",
+          "text": "未登录状态： 如果你在未登录账号的情况下编辑，谷歌记录的是你的 IP 地址。虽然这更隐蔽，但通过法律手段依然有追踪到人的可能。"
+        },
+        {
+          "content_hash": "304908975a1d4c8d",
+          "style": "HEADING_3",
+          "text": "4. 实际风险评估"
+        },
+        {
+          "content_hash": "4bc849efd8371e9b",
+          "style": "NORMAL_TEXT",
+          "text": "门槛较高： 在大多数司法管辖区，起诉诽谤并成功让法院签发针对大型跨国科技公司的传票需要较高的法律门槛和经济成本。"
+        },
+        {
+          "content_hash": "063099fb314d2bf4",
+          "style": "NORMAL_TEXT",
+          "text": "平台责任： 根据美国的《通信规范法》第 230 条（Section 230），谷歌作为平台通常不对用户的言论承担民事责任，因此原告的目标通常会直指内容创建者或编辑者本人。"
+        },
+        {
+          "content_hash": "04830193b408eeb1",
+          "style": "HEADING_3",
+          "text": "总结"
+        },
+        {
+          "content_hash": "5cbb9df1a8c54041",
+          "style": "NORMAL_TEXT",
+          "text": "这种文档不是绝对的避风港。如果内容确实触犯了法律（如诽谤、泄露商业机密等），受害者可以通过法律手段迫使谷歌披露幕后编辑者的信息。"
+        },
+        {
+          "content_hash": "c657fc344c848880",
+          "style": "NORMAL_TEXT",
+          "text": "友情提示： 如果你在该文档中发表言论，请务必意识到，互联网上的“匿名”往往只是相对的。如果涉及严肃的法律争议，后台数据是无法被完全抹除的。"
+        },
+        {
+          "content_hash": "b28088c7537c6f26",
+          "style": "NORMAL_TEXT",
+          "text": "那么本案的重点在于黑榜上的各位如何证明自己是被诽谤被冤枉的（不是哥们儿别讨论法律了，容易把人带偏，真gemni说的不一定和法官说的是一样的。。）（那你的意思是各位爆料的phd们是瞎说么，我觉得也不能吧）（就算是真的，也未必不会被法官搞，条条文文太多了）（那么会不会有cs届的me too运动）（真被告的话就来一场cs的me too运动吧）"
+        },
+        {
+          "content_hash": "1ce46e3659ba4239",
+          "style": "NORMAL_TEXT",
+          "text": "有点担心大家"
+        },
+        {
+          "content_hash": "a68ede2b442bee85",
+          "style": "NORMAL_TEXT",
+          "text": "名誉权是一回事，但是现在的问题是没有通过法律手段该人就拿到了作者的邮箱，这个铁定是违法的 （你点share就能看到，大家都能看到）（那就是没开）（这文档和这几年各种pdf有什么区别）（目前有别的pdf被告了吗）（不知道）（这个文档里提到的老师太多了，担心老师们会联合起来告诽谤）（主要而且有些很有实力，没准儿还有自己法务，那些开公司的）（我觉得他们花钱告的收益比付出小太多了，不划算，了不起就是开除个学生，但是要花巨量时间和金钱，还会被曝光，媒体总会抓住他们小尾巴说他们欺负学生，毕竟学生没钱没资源）（国内有这样的案例的，参考评课社区网，被老师告了，老师还赢了）（那么同学们，学校的举报部门你们平时为什么不用呢，老师不做人的时候为什么不为自己发声，是因为怕被开除吗，是因为想继续把博士读完吗，是觉得自己不会像文档里想不开的学生那样吗，不是说没用，我的意思是，既然曝光了， 那就没什么好多想的，害怕的话可以删掉，但别人也不会知道这些事情了，决定码字的时候就应该明白有被起诉被追责的可能啊）(你想说啥哥们，你又知道我们没用举报部门了）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5bb96b329ba27e7b",
+          "style": "NORMAL_TEXT",
+          "text": "可以看到的哥 在share里，他是发你假邮箱吗"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3fd6efabd18dafec",
+          "style": "NORMAL_TEXT",
+          "text": "建议抄送jeff dean，还能找内部人员？他违规找内部人员定位你你直接起诉他就行了，他绝对侵犯隐私，名誉受损这种官司他在这里很难打，但定位你或者开盒你一打一个准哈。内部人员还能泄密？"
+        },
+        {
+          "content_hash": "28a819ba56d6bd08",
+          "style": "NORMAL_TEXT",
+          "text": "Cc pichai, demis hassabis"
+        },
+        {
+          "content_hash": "b2ca77a6e87c8569",
+          "style": "NORMAL_TEXT",
+          "text": "真tm狂啊，看来是被说中了，笑嘻了，急了眼了哈哈哈"
+        },
+        {
+          "content_hash": "96b52b9bc0147098",
+          "style": "NORMAL_TEXT",
+          "text": "咱们看看哪几个ucsd的（好像只有一个没有人维护，而且正好说他爱告人hhhhh；难绷，精准制导）（红字标注）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a1eda4c1c698b18",
+          "style": "NORMAL_TEXT",
+          "text": "一个小时已过！现在这个文档太乱了，我xiang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 56,
+      "at_to": 25,
+      "from_paragraphs": [
+        {
+          "content_hash": "4b1f86b0209b601e",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）翻译一下，你可以喷别人但不能喷我"
+        },
+        {
+          "content_hash": "ff52cbde0a01bdd8",
+          "style": "NORMAL_TEXT",
+          "text": "【先隐藏了，等看看我会不会被Google官方开盒】（不可能的吧，最多social engineering？但这铁铁违法吧）（楼主你要真被开了你就发财了）（等楼主发财）"
+        },
+        {
+          "content_hash": "33e158f801c76d6b",
+          "style": "NORMAL_TEXT",
+          "text": "他知道我的邮箱了，不过我的邮箱是假的，不知道他会不会IP定位什么的。（没事贴主，你也知道他是谁，盒威慑还是有效的）"
+        },
+        {
+          "content_hash": "49d45d16c68b02e9",
+          "style": "NORMAL_TEXT",
+          "text": "作者评论：大家知道是谁就行了，我不想在这个文档里细讲，等一个小时以后再说，说不定我真被开了；如果我没被开再更新！（伟大，无需多盐）支持贴主"
+        },
+        {
+          "content_hash": "0ca7ee40a148f721",
+          "style": "NORMAL_TEXT",
+          "text": "被google开了就发大财了，rmp都没被开，这开了纯不可能"
+        },
+        {
+          "content_hash": "b8bcb709df04b384",
+          "style": "NORMAL_TEXT",
+          "text": "这个人纯纯恐吓，言论自由我们说啥他都没权利举报，更别说开盒了（真开了感觉狗会被炎上（吗？）炎上是啥意思（本意是日语着火了，大概就是被推上风口浪尖）如果真开了那就有意思了，我觉得不太可能，但可以保留证据"
+        },
+        {
+          "content_hash": "e1f916fd3a760f2a",
+          "style": "NORMAL_TEXT",
+          "text": "而且说实话虽然他是教授，但他能做什么呢？真没这么大权力"
+        },
+        {
+          "content_hash": "be8dec6f3013c19b",
+          "style": "HEADING_1",
+          "text": "XSWL"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "673531bfcf2d5159",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 120,
+      "paragraphs": [
+        {
+          "content_hash": "22a4f7b022cb2db3",
+          "style": "NORMAL_TEXT",
+          "text": "找他要推荐信直接玩消失"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 301,
+      "paragraphs": [
+        {
+          "content_hash": "ad8ade07a8660bad",
+          "style": "NORMAL_TEXT",
+          "text": "组里很多人只是低调、内向，不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 339,
+      "at_to": 303,
+      "from_paragraphs": [
+        {
+          "content_hash": "8aa2304a93e51555",
+          "style": "NORMAL_TEXT",
+          "text": "（有非常多“人品”黑料可以问ucsd本科生了解，小红书上评论全是写避雷的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "240f2dd90e341b17",
+          "style": "NORMAL_TEXT",
+          "text": "（有非常多“人品”黑料可以问ucsd本科生了解，小红书上评论全是写避雷的）（）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 512,
+      "at_to": 476,
+      "from_paragraphs": [
+        {
+          "content_hash": "5506eaf8d34303cb",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee67354420bce779",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 516,
+      "at_to": 480,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ad49395780ff7f9",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，能上黑榜我们几个学生都很震惊。"
+        },
+        {
+          "content_hash": "0a10c6a6def3895a",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙（在 Rice 的时候不算夫妻店。可能回国重新开始比较夫妻店吧。另外感觉 Zou 老师的 nice 比胡老师有过之无不及。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0f0d6ca0335b3dad",
+          "style": "NORMAL_TEXT",
+          "text": "感觉胡老师应该是华人圈里最 nice 几个人了吧？不 push 不 micromanage 不骂人，没有硬性毕业要求。可能比较忙不给太细节指导，但非常 supportive 需要他的时候能抗事儿。组内氛围我感觉是一等一的好，健康老带小，有几篇在我看来非常不错的 paper。能上黑榜我们几个学生都很震惊。"
+        },
+        {
+          "content_hash": "1682b64d839f328c",
+          "style": "NORMAL_TEXT",
+          "text": "老板算是夫妻店，学生差不多放养，老板很忙（在 Rice 的时候不算夫妻店。可能回国重开比较夫妻店？另外感觉师娘的 nice 比胡老师有过之而无不及）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 740,
+      "at_to": 704,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0fa8212f21417e5",
+          "style": "NORMAL_TEXT",
+          "text": "在这个du"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8327c56a48142882",
+          "style": "NORMAL_TEXT",
+          "text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 784,
+      "paragraphs": [
+        {
+          "content_hash": "6fdb834ffd3ab887",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很cheng'ken"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 876,
+      "at_to": 841,
+      "from_paragraphs": [
+        {
+          "content_hash": "c2b74c87e4610362",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee241f3b07c85976",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）(另一个都重新申请phd了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 879,
+      "at_to": 844,
+      "from_paragraphs": [
+        {
+          "content_hash": "0d02ac5d5f0cdbac",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0e2b8d676cafab82",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，不知道评价差的人都是哪来的，也不知道水平很差谁评价的"
+        },
+        {
+          "content_hash": "df3eeb42a7b8e86c",
+          "style": "NORMAL_TEXT",
+          "text": "（今年phd选offer就有国内的faculty评价）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 923,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "863dfa33ec5f0271",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Vandy的瓜，求求🥺"
+        }
+      ]
+    }
+  ]
+}

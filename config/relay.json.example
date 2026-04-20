@@ -1,4 +1,0 @@
-{
-  "worker_url": "https://ledger-relay.YOUR_SUBDOMAIN.workers.dev",
-  "turnstile_site_key": "0xAAAAAAAAAAAAAAAAAAAAAA"
-}
