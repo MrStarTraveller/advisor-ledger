@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-50-30Z.delta.json",
+  "delta_ts": "2026-04-20T22-50-30Z",
+  "reviewed_at_utc": "2026-04-20T22:51:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive explanatory details about advisor Viktor Prasanna's controlling motivations regarding internships and collaboration, reducing specific behavioral observations to generic labels without context",
+      "excerpt": "本质上你实习意味着你有能力脱离他的掌控"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Addition attributes unsupported psychological motive (jealousy) to professors to explain discriminatory behavior, constituting an unsupported character judgment",
+      "excerpt": "所以嫉妒了吧"
+    }
+  ],
+  "prompt_sha256": "27cf90909ee0cd6948fd472c0c356654926914437afc9caac824511031027db0",
+  "finish_reason": "stop",
+  "completion_tokens": 2837
+}
