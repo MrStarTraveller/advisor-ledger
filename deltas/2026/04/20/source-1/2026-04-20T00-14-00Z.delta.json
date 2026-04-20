@@ -1,0 +1,312 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-09-50Z",
+    "revision_id": "AMHacu5SVOpqXZiPThAVPF9xjg7kpF85euJX0yXSWtpzdUGa0ZzMgV5pCSlh_h3R0_TI6uAF7ZK45iRne_YYfJttTg",
+    "paragraph_count": 552
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-14-00Z",
+    "revision_id": "AMHacu67ZxOc_iRekzrHkyrCZkYwuqoKIJtn4b6FqZYQ6OejrJcVEYc5Db1UMKT5tHRRMN96_gk1zEA0-euvo6_5EA",
+    "paragraph_count": 556
+  },
+  "summary": {
+    "inserted_paragraphs": 18,
+    "deleted_paragraphs": 14,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0254,
+    "insertion_ratio": 0.0324
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 12,
+      "at_to": 12,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c650d06ac2654a8",
+          "style": "NORMAL_TEXT",
+          "text": "Leigh Lichao Sun"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 186,
+      "paragraphs": [
+        {
+          "content_hash": "92479a116d1631e0",
+          "style": "NORMAL_TEXT",
+          "text": "mit-ibm lab 这地方有说法的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 242,
+      "paragraphs": [
+        {
+          "content_hash": "cf3a88af5b2ac5c2",
+          "style": "NORMAL_TEXT",
+          "text": "这位和楼下好像很熟啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "186576c27629f79e",
+          "style": "NORMAL_TEXT",
+          "text": "招生前会和学生对口风，感觉问学校里其他组的学生ting de de"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0514eb417f274062",
+          "style": "NORMAL_TEXT",
+          "text": "招生前会和学生对口风。。。问组里的学生全是好话"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 324,
+      "paragraphs": [
+        {
+          "content_hash": "97cf540cce65d9fe",
+          "style": "NORMAL_TEXT",
+          "text": "Dawn song博后（参考bo li UIUC），说完"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 329,
+      "at_to": 331,
+      "from_paragraphs": [
+        {
+          "content_hash": "b8533c579e7d4be9",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        },
+        {
+          "content_hash": "be46f2f13d02472e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f20558054ca29426",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 335,
+      "at_to": 336,
+      "from_paragraphs": [
+        {
+          "content_hash": "2bec8d7b0dac1b28",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57a2b6c83bae1444",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 355,
+      "at_to": 357,
+      "from_paragraphs": [
+        {
+          "content_hash": "a083fe2e47545b6a",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，随便放暑期实习，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）（放实习）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96a495a1f6a7785b",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，随便放暑期实习，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）（放实习）（给推实习吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 405,
+      "at_to": 407,
+      "from_paragraphs": [
+        {
+          "content_hash": "b38a7f9ee3e8ef3f",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，再删你是Chaowei Xiao)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "11880d443a0ab512",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，"
+        },
+        {
+          "content_hash": "6243b9d02c811b5f",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 418,
+      "paragraphs": [
+        {
+          "content_hash": "e7253a8da46508d0",
+          "style": "NORMAL_TEXT",
+          "text": "招两个first year phd进来养蛊，谁做出来了就给谁funding，没做出来就转组/quit"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 416,
+      "at_to": 420,
+      "from_paragraphs": [
+        {
+          "content_hash": "66cc912478f78a31",
+          "style": "NORMAL_TEXT",
+          "text": "组里面有些project问题比较大，虽然很出名（hacking ben'ch）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "206d027dc8bb08e4",
+          "style": "NORMAL_TEXT",
+          "text": "组里面有些project问题比较大，虽然很出名（hacking benchmark）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 421,
+      "at_to": 425,
+      "from_paragraphs": [
+        {
+          "content_hash": "c75f4e18bb380748",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech Anima"
+        },
+        {
+          "content_hash": "517e9ee2c2412c9f",
+          "style": "NORMAL_TEXT",
+          "text": "占坑"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "70a786a924396120",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech Anima占坑"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 430,
+      "paragraphs": [
+        {
+          "content_hash": "ae1ff64c2b4de97a",
+          "style": "NORMAL_TEXT",
+          "text": "宾大cis第一烂导"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 439,
+      "at_to": 444,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f6f468fff48cc28",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0510ac6f4f1de8ae",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 448,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 456,
+      "at_to": 460,
+      "from_paragraphs": [
+        {
+          "content_hash": "461cf6845d7b27b0",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮某个招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "84c98a30b16c2f51",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？"
+        }
+      ]
+    }
+  ]
+}

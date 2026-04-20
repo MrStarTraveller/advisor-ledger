@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-14-00Z.delta.json",
+  "delta_ts": "2026-04-20T00-14-00Z",
+  "reviewed_at_utc": "2026-04-20T00:15:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Detailed description of a specific female student including physical appearance (有点姿色), living arrangements (phd前几年还住老师家), academic background (文科生), and career trajectory (上岸港校), which constitutes lab-specific descriptors detailed enough to de-anonymize a private individual.",
+      "excerpt": "招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported accusation that professor Chaowei Xiao is censoring content, constituting a personal attack on character without substantive criticism of advising practices.",
+      "excerpt": "再删你是Chaowei Xiao"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive biographical context about an advisor's postdoctoral background with Dawn Song and reference to Bo Li at UIUC, appearing to suppress legitimate observations about the advisor's history rather than perform cleanup.",
+      "excerpt": "Dawn song博后（参考bo li UIUC），说完"
+    }
+  ],
+  "prompt_sha256": "8a300ca082cfecab164e0a57ff8ad582aef6a68474b28b5d45ef62c3f56a6ac6",
+  "finish_reason": "stop",
+  "completion_tokens": 6299
+}
