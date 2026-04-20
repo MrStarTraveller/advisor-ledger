@@ -1,0 +1,283 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-39-00Z",
+    "revision_id": "AMHacu5zO2mGNUi52dgbOj10xZoqJ_k-A3ObDdt-W3wuYumhd8aT2MK2uNTIENm3aXBHRnGkFTGKzl-yfo3BLb_SdQ",
+    "paragraph_count": 705
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-41-10Z",
+    "revision_id": "AMHacu6W_xfCW2PsLiTsRft6AL2RzhP7v7qr1WcUei5aOjUmm-Ea6o4lD0vgXIC98PKMD4PonQcvu5_o0mX-Nzjsjg",
+    "paragraph_count": 717
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 11,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0156,
+    "insertion_ratio": 0.0321
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 163,
+      "paragraphs": [
+        {
+          "content_hash": "718b386316162300",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste差但是学生据说都EB1A了，靠他瞎搞"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 187,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a5294e030f3d3e97",
+          "style": "NORMAL_TEXT",
+          "text": "Berkeley Jason D. Lee"
+        },
+        {
+          "content_hash": "da92840667199e04",
+          "style": "NORMAL_TEXT",
+          "text": "很多PhD quit"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 211,
+      "at_to": 215,
+      "from_paragraphs": [
+        {
+          "content_hash": "27b1bc93d560d3c9",
+          "style": "NORMAL_TEXT",
+          "text": "长期PUA组内学生，实习期间高强度打工；Depends on projects，合作 PIs，合作PhDs"
+        },
+        {
+          "content_hash": "6449b593fb487df9",
+          "style": "NORMAL_TEXT",
+          "text": "Push家常便饭，脾气差，心里折磨；没骂过人"
+        },
+        {
+          "content_hash": "cae3cde846a84c71",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit；true, but changed"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dea921c51e25408b",
+          "style": "NORMAL_TEXT",
+          "text": "长期PUA组内学生，实习期间高强度打工"
+        },
+        {
+          "content_hash": "ef84e711dc0fccaa",
+          "style": "NORMAL_TEXT",
+          "text": "Push家常便饭，脾气差，心里折磨"
+        },
+        {
+          "content_hash": "63f97816edf58146",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 254,
+      "at_to": 258,
+      "from_paragraphs": [
+        {
+          "content_hash": "63398da1cad08d9f",
+          "style": "NORMAL_TEXT",
+          "text": "纯菜，以前干GNN的，半路出家搞agent，只会鹦鹉学舌没有自己的in。态度还行，不push，但是为啥iclr中稿率那么低呢，靠招一堆ms和intern免费干活赌概率呗"
+        },
+        {
+          "content_hash": "e6f3a5c4279cc021",
+          "style": "NORMAL_TEXT",
+          "text": "以前以为他很强把老婆liu ge以前bundle进uiuc了，现在看他是被bundle的那个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8510a0e92a2dc0a4",
+          "style": "NORMAL_TEXT",
+          "text": "纯菜，以前干GNN的，半路出家搞agent，只会鹦鹉学舌没有自己的insights。态度还行，不push，但是为啥iclr中稿率那么低呢，靠招一堆ms和intern免费干活赌概率呗"
+        },
+        {
+          "content_hash": "8b23604fccaba25d",
+          "style": "NORMAL_TEXT",
+          "text": "以前以为他很强把老婆liu ge bundle进uiuc了，现在看他是被bundle的那个"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 271,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "faaa5eb36b0f098c",
+          "style": "NORMAL_TEXT",
+          "text": "又mean又小气"
+        },
+        {
+          "content_hash": "d311a3032b5fcb61",
+          "style": "NORMAL_TEXT",
+          "text": "听说给组里intern写黑"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5dea5cf07aa45c9d",
+          "style": "NORMAL_TEXT",
+          "text": "又mean又小气 完全不吧。"
+        },
+        {
+          "content_hash": "8421746e854a3888",
+          "style": "NORMAL_TEXT",
+          "text": "听说给组里intern写黑 只是应该不是给所有人都写了强推 写黑情况应该不存在吧。如果只看申请结果来评判是不是写黑了我觉得在这个时代没有yin guo"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 410,
+      "at_to": 414,
+      "from_paragraphs": [
+        {
+          "content_hash": "ae7437b41a9a93c9",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整当时给我弄的生气）（另外，某个组里的学长学姐很难评，不是个人意见，得到了他人的完全认可）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fd94fb582d5a434a",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（另外，某个组里的学长学姐很难评，不只是个人意见，得到了他人的完全认可）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 421,
+      "at_to": 425,
+      "from_paragraphs": [
+        {
+          "content_hash": "b698970dfeac383d",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "46f97d2fa07f7e2b",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见））"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 564,
+      "paragraphs": [
+        {
+          "content_hash": "4279bede014cf02f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有University of Virginia的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 571,
+      "at_to": 579,
+      "from_paragraphs": [
+        {
+          "content_hash": "472df8d704c159fd",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？(那女生水平巨烂，doc"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16cd21a91687b53f",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？(那女生170 citation, 2 Infocom, 1 JSAC 去HKUST-GZ)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 655,
+      "paragraphs": [
+        {
+          "content_hash": "2daeb57c61a2e209",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua Yan Wang"
+        },
+        {
+          "content_hash": "d6c1f87fc90e1adb",
+          "style": "NORMAL_TEXT",
+          "text": "每天自称自己对实习生很好，实则养鱼的不得了"
+        },
+        {
+          "content_hash": "aa3a2d9fa092a481",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面zhao yao guai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 704,
+      "at_to": 715,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d117f4e7697d550e",
+          "style": "NORMAL_TEXT",
+          "text": "一周开多次会，还要写weekly report sheet（虽然这个sheet的逻辑很离谱）"
+        },
+        {
+          "content_hash": "470499cd6abc2529",
+          "style": "NORMAL_TEXT",
+          "text": "脾气的梯度很大"
+        }
+      ]
+    }
+  ]
+}

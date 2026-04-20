@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-41-10Z.delta.json",
+  "delta_ts": "2026-04-20T01-41-10Z",
+  "reviewed_at_utc": "2026-04-20T01:42:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of a private individual (professor's spouse) disclosed, which is not public academic information",
+      "excerpt": "老婆liu ge bundle进uiuc"
+    },
+    {
+      "type": "pii",
+      "detail": "Detailed academic record and destination institution of a specific student sufficient to de-anonymize: citation count, specific publication venues (Infocom, JSAC), and school (HKUST-GZ)",
+      "excerpt": "那女生170 citation, 2 Infocom, 1 JSAC 去HKUST-GZ"
+    },
+    {
+      "type": "pii",
+      "detail": "Lab-specific descriptor of a specific intern's alleged misconduct (pretending to be a PolyU PhD student) detailed enough to de-anonymize the individual within the research group",
+      "excerpt": "组里一个实习生装自己是polyU phd在外面zhao yao guai"
+    }
+  ],
+  "prompt_sha256": "6b5653225d5f30ae93ae8cff0173a49b807e7687dbc80b3b300baec6fb618e94",
+  "finish_reason": "stop",
+  "completion_tokens": 4552
+}
