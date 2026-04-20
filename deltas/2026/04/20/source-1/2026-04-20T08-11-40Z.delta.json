@@ -1,0 +1,184 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-05-03Z",
+    "revision_id": "AMHacu7JRfOjfzyKOZDh4zqQT7G0qjkq98v4XSJIeQbpRp7W2HCdLh0agNSDLCOX43-MsBDWAUA1_OVzGcxMPSg4fQ",
+    "paragraph_count": 1364
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-11-40Z",
+    "revision_id": "AMHacu5UE3DdBZht7urA0Tq4pX70dtTpfiyyeZ1B4oYvULBPmQkOcf-OyDeSEhp_lAUHPLyozxHw40m_a4vL80p_Pg",
+    "paragraph_count": 1371
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0044,
+    "insertion_ratio": 0.0095
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 49,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b00e0d82993c6c79",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过70个intern不负责(不完全统计，实际受害者更多）"
+        },
+        {
+          "content_hash": "890327297a3100f4",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过，jitendra完全不知情谁被推荐和内容）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动 更正：实际上根本没要过，jitendra知不知道这件事都不清楚）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 224,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c038272949d6400d",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Koushil Sreenath"
+        },
+        {
+          "content_hash": "9a2a006753d69d56",
+          "style": "NORMAL_TEXT",
+          "text": "组里又穷又没资源"
+        },
+        {
+          "content_hash": "e6ef8bf765c1f25b",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 595,
+      "at_to": 600,
+      "from_paragraphs": [
+        {
+          "content_hash": "96155aea0d6ff5f8",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)(+1)(+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3c3aac3324fe2e24",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)(+1)(+1)(+1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 806,
+      "at_to": 811,
+      "from_paragraphs": [
+        {
+          "content_hash": "b395f57ab80f64c5",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下，还愿意额外投入时间找方向，给反馈，对于commitment很少的RA来说不是理所当然的义务。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dd390b756d5e02ae",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对年轻老师来说，在本来就繁忙的工作和项目压力下，还愿意帮人找方向、给反馈、兜底试错，这并不是理所当然的义务。更何况，对一些 commitment 本就有限的 RA 来说，导师的投入往往远大于他们自己的投入。。在这样的前提下，还把这件事简单说成“浪费 intern 时间”，我觉得既不客观，也不公允。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1221,
+      "paragraphs": [
+        {
+          "content_hash": "e7792b2af7dc89cb",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Shou Zheng Mike (听说有？ 蹲一手）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1251,
+      "at_to": 1258,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cd254dbddac20554",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Su Jianbo"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1321,
+      "at_to": 1328,
+      "from_paragraphs": [
+        {
+          "content_hash": "4749f831d5033629",
+          "style": "NORMAL_TEXT",
+          "text": "https://www.zhihu.com/question/2022448870198649984"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e5f18fc419035ce9",
+          "style": "NORMAL_TEXT",
+          "text": "7 篇一作是本科生，这反映了该实验室怎样的培养模式？ - 知乎"
+        }
+      ]
+    }
+  ]
+}
