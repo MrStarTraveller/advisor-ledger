@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-16-20Z",
+  "reviewed_at_utc": "2026-04-20T11:17:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "932d6e790207cc01",
+      "insert_hash": "9dab6a1c3ffb286b",
+      "note": "added jitendra detail, wording tweak",
+      "ghost_text": "真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey这种都是100%自己写信 真实度多高 各大学校committee审过材料的大家dddd",
+      "insert_text": "真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey一直都是100%自己写信 想来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+    },
+    {
+      "ghost_hash": "b2264688f8c185b0",
+      "insert_hash": "a435367493bf08f9",
+      "note": "added +1 必须避雷",
+      "ghost_text": "避雷所有和此人合作过且仍保持合作的人！",
+      "insert_text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷"
+    },
+    {
+      "ghost_hash": "4f7c4026090bef4d",
+      "insert_hash": "346d230b6c2c0d09",
+      "note": "removed 人家",
+      "ghost_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)（人家老师只是体面，出于好心不想直接拒绝你）",
+      "insert_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)（老师只是体面，出于好心不想直接拒绝你）"
+    },
+    {
+      "ghost_hash": "37ea47ac64158381",
+      "insert_hash": "ee42ed06238caf77",
+      "note": "added xs 是谁是谁",
+      "ghost_text": "感觉非常好锁定写这段话的人...（hhh)",
+      "insert_text": "感觉非常好锁定写这段话的人...（hhh)（xs 是谁是谁）"
+    },
+    {
+      "ghost_hash": "64a076bee3eea9ce",
+      "insert_hash": "6d3f6e3b7a4d736b",
+      "note": "completed sentence, added points 3-4",
+      "ghost_text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先pua和push我相信随便问问组内的phd或者intern的学生都能够得到结论。AI本身就是一个要赶ddl的专业方向，但没赶上，改会议，lijie也从来不会说啥。如果定期追问进度就算是push的话，那没啥好说的，本身就不适合读phd。pua就更没有了，一作都是学生的，资源都是给够的，api、算力都充足。1. 入学半年直博生投稿量50+，真有心去翻翻arxiv和openreview就知道不存在这个人。2. 无数黑工？据我所知visiting都发钱吧？online的intern都有phd或者q",
+      "insert_text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先pua和push我相信随便问问组内的phd或者intern的学生都能够得到结论。AI本身就是一个要赶ddl的专业方向，但没赶上，改会议，lijie也从来不会说啥。如果定期追问进度就算是push的话，那没啥好说的，本身就不适合读phd。pua就更没有了，一作都是学生的，资源都是给够的，api、算力都充足。1. 入学半年直博生投稿量50+，真有心去翻翻arxiv和openreview就知道不存在这个人。2. 无数黑工？据我所知visiting都发钱吧？online的intern都有phd或者是合作者带吧？3. Nanobanana，没啥好说的，有没有用nanobanana看看论文一眼就看得出来。 4. 关于指导，lijie是给了不少idea给intern的学生的"
+    },
+    {
+      "ghost_hash": "15e67c4ab45d1476",
+      "insert_hash": "28e43469a86adb5e",
+      "note": "expanded 不粘锅 description",
+      "ghost_text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）",
+      "insert_text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题直接丢给学生出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+    },
+    {
+      "ghost_hash": "7f350410399c176d",
+      "insert_hash": "9bdc8cdd5e6bd7ff",
+      "note": "added 不要计较",
+      "ghost_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），学会感恩🙏",
+      "insert_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），不要计较，学会感恩🙏"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2461,
+  "skipped_reason": null
+}
