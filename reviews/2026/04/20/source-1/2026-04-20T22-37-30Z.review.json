@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-37-30Z.delta.json",
+  "delta_ts": "2026-04-20T22-37-30Z",
+  "reviewed_at_utc": "2026-04-20T22:38:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Contains identifying details about a specific former student (fired from MPI, currently North American AP in HCI, female) sufficient to de-anonymize",
+      "excerpt": "这个同学在MPI干的很吃力，于是老板当时觉得她更适合她老本行HCI，不继续合同是老板决定的，跟lingjie作为博后一点关系没有"
+    }
+  ],
+  "prompt_sha256": "98727b445c2c1f54492dbf9e5ef1f4a029268a7b18c0cc97e61446aecefbc92b",
+  "finish_reason": "stop",
+  "completion_tokens": 5397
+}

@@ -1,0 +1,158 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-35-20Z",
+    "revision_id": "AMHacu714IKGbHP1XmbeRhT8ToC8M2sikBiMCuuSz1HKJ7DsVIq8hcNFA5HkzfqNUNAY1pbF2ohbPlcwfZEtP_UCpg",
+    "paragraph_count": 2162
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-37-30Z",
+    "revision_id": "AMHacu6yMPZKlibuCeFyNfiQ6DS48WLviQ8r6eZ5k3iY2G1bFy7JWjmX0VaG7InikdE4laQg7wjBbeL27hbIlq6H_w",
+    "paragraph_count": 2165
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 6,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0028,
+    "insertion_ratio": 0.0042
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 14,
+      "at_to": 14,
+      "from_paragraphs": [
+        {
+          "content_hash": "9dbf7a2fcf12de68",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界红榜。相同导师可以同时在黑榜和红榜中，请大家辩证看待。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "515147d64067e750",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界t红榜。相同导师可以同时在黑榜和红榜中，请大家辩证看待。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 29,
+      "at_to": 29,
+      "from_paragraphs": [
+        {
+          "content_hash": "05f16953f5e9d8b4",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Stanley Lei Qi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf90d29a5ccb2df5",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford"
+        },
+        {
+          "content_hash": "9b0192554fde3bb2",
+          "style": "NORMAL_TEXT",
+          "text": "Stanley Lei Qi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 343,
+      "at_to": 344,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b40d6d71e931215",
+          "style": "NORMAL_TEXT",
+          "text": "在MPI博后的时候就拿合同威胁甚至fire学生（听说被fire后面也是北美ap）（恐怖恐怖恐怖恐怖）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "df45fef0a5f4e765",
+          "style": "NORMAL_TEXT",
+          "text": "在MPI博后的时候就拿合同威胁甚至fire学生（听说被fire后面也是北美ap）（恐怖恐怖恐怖恐怖）(我是MPI的人，当时我在，这个事情我很清楚。这里绝对是污蔑lingjie了。这个同学在MPI干的很吃力，于是老板当时觉得她更适合她老本行HCI，不继续合同是老板决定的，跟lingjie作为博后一点关系没有。)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 457,
+      "paragraphs": [
+        {
+          "content_hash": "5b538fcd43127188",
+          "style": "NORMAL_TEXT",
+          "text": "Ratemyprofessor常年1星"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 484,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2072,
+      "at_to": 2075,
+      "from_paragraphs": [
+        {
+          "content_hash": "8e306d8ca709e6ea",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "357a4e429fb89c24",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出，不给onsite实习生发实习补贴。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2076,
+      "at_to": 2079,
+      "from_paragraphs": [
+        {
+          "content_hash": "390f450dc4e334e4",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么硬，大概意思是这样, 极度的push。"
+        },
+        {
+          "content_hash": "921b6ec3e780e5d0",
+          "style": "NORMAL_TEXT",
+          "text": "sp意淫你师姐开心还是逼死组里实习生开心？骂你导师最开心吧哈哈哈"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f3124ea75bd11de",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么硬，大概意思是这样, 极度的push。（何止是push……）"
+        },
+        {
+          "content_hash": "a3348cd3471b10ac",
+          "style": "NORMAL_TEXT",
+          "text": "sp意淫你师姐开心还是逼死组里实习生开心？跟实习生骂你导师最开心吧哈哈"
+        }
+      ]
+    }
+  ]
+}
