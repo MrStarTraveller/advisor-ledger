@@ -1,0 +1,119 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-35-20Z",
+    "revision_id": "AMHacu4k9WDv6zQGcrN0F6yr2du4TAkKSTOTq9HznSAJBJK8BYQX25LMxw-wRYMwAms0xWqOT_JmVtMqEEpfl5El2Q",
+    "paragraph_count": 1980
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-37-30Z",
+    "revision_id": "AMHacu7jKkQyL8tZ8ArPNzJWN3c-yDCPU2YXrD0_a9e0IxVwp9i7hE7dvcGrjuXBJ2BaJaAItKjspr9l_NS0aWvUEg",
+    "paragraph_count": 1984
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.002,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 36,
+      "paragraphs": [
+        {
+          "content_hash": "fc48b0c26c8ae5fe",
+          "style": "NORMAL_TEXT",
+          "text": "第一年当AP招了三个phd，一年不到开了两个phd"
+        },
+        {
+          "content_hash": "58151cfdb764bb38",
+          "style": "NORMAL_TEXT",
+          "text": "经典语录：女性resercher都要依靠男性researcher"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 318,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e84ea1d336604a6",
+          "style": "NORMAL_TEXT",
+          "text": "在MPIm n"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "876e3e97c9bcd764",
+          "style": "NORMAL_TEXT",
+          "text": "在MPI博后的时候就拿合同威胁甚至fire学生（听说被fire后面也是北美ap）"
+        },
+        {
+          "content_hash": "2ef62c171575d146",
+          "style": "NORMAL_TEXT",
+          "text": "代表作和博后paper是不是自己做的存疑。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 613,
+      "at_to": 617,
+      "from_paragraphs": [
+        {
+          "content_hash": "53d1452fd6e268a0",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa4c463ffef9559c",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(要是去学术圈了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1762,
+      "at_to": 1766,
+      "from_paragraphs": [
+        {
+          "content_hash": "39c995da7df0f74a",
+          "style": "NORMAL_TEXT",
+          "text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）"
+        },
+        {
+          "content_hash": "a5fcaf8533461d9a",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f3c0bbf9c10cd4da",
+          "style": "NORMAL_TEXT",
+          "text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）（港校学生因为考的题和pastpapaper重复很高，过于简单没有拉开区分度所以举报教授也是喜闻乐见了hh）"
+        },
+        {
+          "content_hash": "bd3fac2d39705b68",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好学生录他的但是十一月底忽然说不录了。总的来说性格是好的，老师也很认真帮助大家的，不过"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T18-37-30Z",
+  "reviewed_at_utc": "2026-04-20T18:38:30Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 4,
+  "n_inserts": 8,
+  "pairs": [
+    {
+      "ghost_hash": "53d1452fd6e268a0",
+      "insert_hash": "aa4c463ffef9559c",
+      "note": "same joke with added academic circle comment",
+      "ghost_text": "(xswl jiageng军团可还行哈哈哈哈哈哈)",
+      "insert_text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(要是去学术圈了"
+    },
+    {
+      "ghost_hash": "39c995da7df0f74a",
+      "insert_hash": "f3c0bbf9c10cd4da",
+      "note": "same exam story with added student comment",
+      "ghost_text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）",
+      "insert_text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）（港校学生因为考的题和pastpapaper重复很高，过于简单没有拉开区分度所以举报教授也是喜闻乐见了hh）"
+    },
+    {
+      "ghost_hash": "a5fcaf8533461d9a",
+      "insert_hash": "bd3fac2d39705b68",
+      "note": "same review with added admission details",
+      "ghost_text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给）",
+      "insert_text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好学生录他的但是十一月底忽然说不录了。总的来说性格是好的，老师也很认真帮助大家的，不过"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2764,
+  "skipped_reason": null
+}
