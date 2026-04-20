@@ -1,0 +1,318 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-44-55Z",
+    "revision_id": "AMHacu4G8FHegsiYfNN4lI88uw1I_LHkixyeLJXFyZf96XwqVsimE1JTTJ-oRQF_PuJU8eDVcoZi_v-2UTUktQM_kw",
+    "paragraph_count": 995
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-46-56Z",
+    "revision_id": "AMHacu64WXRD5PXAEXwdsmd1pCImjhBt4OQsSZr9lYDigoJjmk_Iai9mM4tyi-fgkWsfW3qjcYStFnkIzg3Z4B2xzA",
+    "paragraph_count": 1000
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 18,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0181,
+    "insertion_ratio": 0.023
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "6214d8277bb42534",
+          "style": "NORMAL_TEXT",
+          "text": "大家理性吃瓜，不要吃的忘了工作 :)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "4955ec3bac13cf26",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）"
+        },
+        {
+          "content_hash": "5bf321f429fbefcb",
+          "style": "NORMAL_TEXT",
+          "text": "发现好朋友前老板了，好朋友读书的那俩年严重抑郁症，每周看心理医生，每天被PUA、威胁"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0bb4d8e3564b640d",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，她的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面zai）"
+        },
+        {
+          "content_hash": "592c2b66a791395b",
+          "style": "NORMAL_TEXT",
+          "text": "发现好朋友前老板了，好朋友读书的那年严重抑郁症，每周看心理医生，每天被PUA、威胁"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 76,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "22c07dea96112ad0",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Eric Xin Wang"
+        },
+        {
+          "content_hash": "71b7d41384f78150",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)（公司也不是他的，而且去的学生都给了工资。也就一个印度phd去了，那人之前也没啥别的去处）"
+        },
+        {
+          "content_hash": "4b654d4eb1aa64bc",
+          "style": "NORMAL_TEXT",
+          "text": "听过大瓜，等学生来说,（蹲）"
+        },
+        {
+          "content_hash": "cb063b6a72c0031c",
+          "style": "NORMAL_TEXT",
+          "text": "组里前面刚有人回国了半年（没签证），另一个学生家人去世想回国被拒，“你要不然明年暑假别实习了，回去吧”（那阵是秋天），搞不懂他的标准xs"
+        },
+        {
+          "content_hash": "3fc2172ae4e8aa05",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）（自己跑出去玩是什么鬼，反正就他要过节）"
+        },
+        {
+          "content_hash": "8d5d2289437de17b",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法杜克某教授让学生剪草坪也是自愿的没问题）"
+        },
+        {
+          "content_hash": "56fe1a80c89af926",
+          "style": "NORMAL_TEXT",
+          "text": "他找你挺和谐，你找他就不好说了 :)"
+        },
+        {
+          "content_hash": "fcf96a39cf46c5f4",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了。（论文ddl是国内新年，而且大家都一起在赶，他也是基本都在）"
+        },
+        {
+          "content_hash": "d1407061ee7ec69a",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组）（有人转组哦）"
+        },
+        {
+          "content_hash": "d9baa1dba3ab2f86",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？那学生还是老师的呢xs，请老师对的起老师这两个字好吗？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 331,
+      "paragraphs": [
+        {
+          "content_hash": "618797cbee1f153c",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 420,
+      "at_to": 433,
+      "from_paragraphs": [
+        {
+          "content_hash": "2fc9c1449b2d2247",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang"
+        },
+        {
+          "content_hash": "fa1cce5d7acacbe3",
+          "style": "NORMAL_TEXT",
+          "text": "脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "681a9004698b283e",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 547,
+      "at_to": 559,
+      "from_paragraphs": [
+        {
+          "content_hash": "29a34aa14fe352cc",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "415a81f0478812a8",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]我建议保留Chaowei Xiao在这里以防cs删tab"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 584,
+      "at_to": 596,
+      "from_paragraphs": [
+        {
+          "content_hash": "22c07dea96112ad0",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Eric Xin Wang"
+        },
+        {
+          "content_hash": "71b7d41384f78150",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)（公司也不是他的，而且去的学生都给了工资。也就一个印度phd去了，那人之前也没啥别的去处）"
+        },
+        {
+          "content_hash": "4b654d4eb1aa64bc",
+          "style": "NORMAL_TEXT",
+          "text": "听过大瓜，等学生来说,（蹲）"
+        },
+        {
+          "content_hash": "cb063b6a72c0031c",
+          "style": "NORMAL_TEXT",
+          "text": "组里前面刚有人回国了半年（没签证），另一个学生家人去世想回国被拒，“你要不然明年暑假别实习了，回去吧”（那阵是秋天），搞不懂他的标准xs"
+        },
+        {
+          "content_hash": "3fc2172ae4e8aa05",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）（自己跑出去玩是什么鬼，反正就他要过节）"
+        },
+        {
+          "content_hash": "8d5d2289437de17b",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法杜克某教授让学生剪草坪也是自愿的没问题）"
+        },
+        {
+          "content_hash": "56fe1a80c89af926",
+          "style": "NORMAL_TEXT",
+          "text": "他找你挺和谐，你找他就不好说了 :)"
+        },
+        {
+          "content_hash": "fcf96a39cf46c5f4",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了。（论文ddl是国内新年，而且大家都一起在赶，他也是基本都在）"
+        },
+        {
+          "content_hash": "d1407061ee7ec69a",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组）（有人转组哦）"
+        },
+        {
+          "content_hash": "d9baa1dba3ab2f86",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？那学生还是老师的呢xs，请老师对的起老师这两个字好吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 604,
+      "at_to": 607,
+      "from_paragraphs": [
+        {
+          "content_hash": "f6024578df9f9981",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "010a014238bae75a",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 614,
+      "paragraphs": [
+        {
+          "content_hash": "c0c617d5c726d777",
+          "style": "NORMAL_TEXT",
+          "text": "讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 835,
+      "at_to": 839,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c49a9100a532e82b",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Qiang Sun"
+        },
+        {
+          "content_hash": "cc68df27c4785960",
+          "style": "NORMAL_TEXT",
+          "text": "组里瓜很多"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 949,
+      "at_to": 954,
+      "from_paragraphs": [
+        {
+          "content_hash": "633f62624a855574",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还不错，甚至手把手教函数加密，听有学长说还帮忙debug过code"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f1e29ef063a8d2cd",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还挺好，甚至手把手教函数加密。听有学长说还帮忙debug过code~"
+        }
+      ]
+    }
+  ]
+}
