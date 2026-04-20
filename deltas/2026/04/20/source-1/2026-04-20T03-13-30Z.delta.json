@@ -1,0 +1,471 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-09-10Z",
+    "revision_id": "AMHacu7fBIH00FKXe6XZuMH29R2F0p27l1Fs_2Zs169TksP-SqvXrgVSToRL72B68sQYhFCI3y1YTKpk_z7MJO9L-w",
+    "paragraph_count": 914
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-13-30Z",
+    "revision_id": "AMHacu6e0T0zdWH8lEVJfq9azZcXMTVQlaayWL4MCEIEtbkAMYF6kxdnY6bZROxLXPg_nYPKixLZ2hL4BgGDdP_C7Q",
+    "paragraph_count": 924
+  },
+  "summary": {
+    "inserted_paragraphs": 36,
+    "deleted_paragraphs": 26,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0284,
+    "insertion_ratio": 0.039
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 34,
+      "paragraphs": [
+        {
+          "content_hash": "904f137cc5fcafb0",
+          "style": "NORMAL_TEXT",
+          "text": "Youtube Zhao Song"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        },
+        {
+          "content_hash": "236b57c0c1196eef",
+          "style": "NORMAL_TEXT",
+          "text": " -"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 51,
+      "paragraphs": [
+        {
+          "content_hash": "cb0fc9d846beeff0",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Prof. Mohit Bansal"
+        },
+        {
+          "content_hash": "fb16e6167a7eca3d",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来，deadline前压力大"
+        },
+        {
+          "content_hash": "4f9c8700f50a63c7",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜（postdoc去了某知名大厂，没混学术界了）"
+        },
+        {
+          "content_hash": "0720977625253c0e",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被狠push 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB）（确实，语速快话唠但就纯BB）"
+        },
+        {
+          "content_hash": "b4023eecab8de206",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhD后面主要是posdoc+senior phd在指导（有好有坏）（这算黑吗）"
+        },
+        {
+          "content_hash": "06ef42ec23678bf0",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话（大组面几十个candidate应该挺正常吧）（重点是压力接offer）（确实）"
+        },
+        {
+          "content_hash": "2a76de2e236c0523",
+          "style": "NORMAL_TEXT",
+          "text": "压力接offer，还把其他candidate的个人主页邮件全部发过来压力"
+        },
+        {
+          "content_hash": "ea4e242e0a7e9d47",
+          "style": "NORMAL_TEXT",
+          "text": "2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 66,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 132,
+      "at_to": 142,
+      "from_paragraphs": [
+        {
+          "content_hash": "cb0fc9d846beeff0",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Prof. Mohit Bansal"
+        },
+        {
+          "content_hash": "fb16e6167a7eca3d",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来，deadline前压力大"
+        },
+        {
+          "content_hash": "4f9c8700f50a63c7",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜（postdoc去了某知名大厂，没混学术界了）"
+        },
+        {
+          "content_hash": "0720977625253c0e",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被狠push 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB）（确实，语速快话唠但就纯BB）"
+        },
+        {
+          "content_hash": "b4023eecab8de206",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhD后面主要是posdoc+senior phd在指导（有好有坏）（这算黑吗）"
+        },
+        {
+          "content_hash": "06ef42ec23678bf0",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话（大组面几十个candidate应该挺正常吧）（重点是压力接offer）（确实）"
+        },
+        {
+          "content_hash": "2a76de2e236c0523",
+          "style": "NORMAL_TEXT",
+          "text": "压力接offer，还把其他candidate的个人主页邮件全部发过来压力"
+        },
+        {
+          "content_hash": "ea4e242e0a7e9d47",
+          "style": "NORMAL_TEXT",
+          "text": "2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 180,
+      "paragraphs": [
+        {
+          "content_hash": "b476d90ee8b831bc",
+          "style": "NORMAL_TEXT",
+          "text": "感觉人还是挺nice的，对学生也比较supportive，connection也不错"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 200,
+      "at_to": 205,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d202f1c44a15013",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲强、水平差；喜欢背地和组里人吐槽别的学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3b05aa780b389956",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲强、水平差 (+1)；喜欢背地和组里人吐槽别的学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 304,
+      "at_to": 309,
+      "from_paragraphs": [
+        {
+          "content_hash": "552561c62fff07ff",
+          "style": "NORMAL_TEXT",
+          "text": "纯傻逼，逼得学生要自杀，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f855747fec3181a4",
+          "style": "NORMAL_TEXT",
+          "text": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 352,
+      "from_paragraphs": [
+        {
+          "content_hash": "b22f20e844d410a4",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern手上会很具体可行，只要有执行力就能完成。有能力的intern分配独立的完整科研。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f83da08da7dfdb22",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern 手上会很具体可行，只要有执行力就能完成。有能力的intern会做一个独立的完整科研。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 349,
+      "at_to": 354,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0627b7e083c902c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。很注重课题组的 culture ，并且组里学生关系都不错)"
+        },
+        {
+          "content_hash": "678b94b243ffd903",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture，还会主动向学生提供情绪价值 ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "72e6d3859693a23c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错)"
+        },
+        {
+          "content_hash": "fe3293edc992660a",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture，还会主动向学生提供情绪价值 ，PhD,MS, Intern (undergrad & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 357,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 359,
+      "at_to": 366,
+      "from_paragraphs": [
+        {
+          "content_hash": "23f2e6769a493206",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "74ca603a1fd7b4ff",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 458,
+      "paragraphs": [
+        {
+          "content_hash": "cdff4583be55cec0",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 469,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 544,
+      "at_to": 553,
+      "from_paragraphs": [
+        {
+          "content_hash": "40101e0ea28541bf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做了且做：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dc3f46d2f7840e81",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时没有其他人，block谁）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 633,
+      "at_to": 642,
+      "from_paragraphs": [
+        {
+          "content_hash": "b464fba07ba8d08b",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?)"
+        },
+        {
+          "content_hash": "5d6fafc49f53e08f",
+          "style": "NORMAL_TEXT",
+          "text": "bai姓postdoc避雷，喜欢各种connect人当intern，去尝试她的project的不同方向，然后发paper带名字只带最后work的那个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "435cd42da0cd060f",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?)"
+        },
+        {
+          "content_hash": "937d4a5de001c800",
+          "style": "NORMAL_TEXT",
+          "text": "bai姓postdoc避雷，喜欢各种connect人当intern，去尝试她的project的不同方向，然后发paper带名字只带最后work的那个方向的人，其他intern甚至都没有在论文里被acknowledge的资格。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 636,
+      "at_to": 645,
+      "from_paragraphs": [
+        {
+          "content_hash": "5412d418de84d84b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun"
+        },
+        {
+          "content_hash": "3e2146138ef08921",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生 （基本上就是全部开除了） https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "519caa625fff2024",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）"
+        },
+        {
+          "content_hash": "54095975c9a752ae",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作paper就开除，有学生博三博四也被开除"
+        },
+        {
+          "content_hash": "369fdb3f72781c12",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三"
+        },
+        {
+          "content_hash": "2976a0b6ddc1990c",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔白人，白人没有被开除的，也不push"
+        },
+        {
+          "content_hash": "bb6a57f2e647bcec",
+          "style": "NORMAL_TEXT",
+          "text": "部分 AI for Health paper 无法复现"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b621f20d99f93df6",
+          "style": "NORMAL_TEXT",
+          "text": " 无法复现"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 738,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "426f7130070da068",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU Zhiyuan Yu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 910,
+      "paragraphs": [
+        {
+          "content_hash": "c8498656edcdff9a",
+          "style": "NORMAL_TEXT",
+          "text": "UESTC XUN LUO"
+        },
+        {
+          "content_hash": "791b062dae5c54f8",
+          "style": "NORMAL_TEXT",
+          "text": "有妻之夫光明正大出轨大二女学生，家暴原生老婆，但是没有受到学校处分"
+        },
+        {
+          "content_hash": "f7c0a34ba08730d1",
+          "style": "NORMAL_TEXT",
+          "text": "跑路深圳，本来想跑同济的但是人家估计背调没过"
+        },
+        {
+          "content_hash": "f9aaa5434af2e1c2",
+          "style": "NORMAL_TEXT",
+          "text": "出轨的女学生已经直博，并且光明正大和他一起开夫妻店"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
