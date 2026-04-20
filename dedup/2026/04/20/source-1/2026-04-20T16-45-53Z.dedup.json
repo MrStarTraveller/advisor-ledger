@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T16-45-53Z",
+  "reviewed_at_utc": "2026-04-20T16:46:57Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "de753ffcf42adb5d",
+      "insert_hash": "1bc3f4d7a7c0e761",
+      "note": "ending punctuation fix",
+      "ghost_text": "这位哥极其push，对学生极为残忍。不够卷的学生，一年不到就会被开。自己在美国6年跳了3次。最后跳回国了，跳回国之后也不会考虑自己学生的去向，",
+      "insert_text": "这位哥极其push，对学生极为残忍。不够卷的学生，一年不到就会被开。自己在美国6年跳了3次。最后跳回国了，跳回国之后也不会考虑自己学生的去向。"
+    },
+    {
+      "ghost_hash": "f3d66485b72183e8",
+      "insert_hash": "bf24fd1212e47904",
+      "note": "added etymology explanation",
+      "ghost_text": "你会不会英语？alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM）",
+      "insert_text": "你会不会英语？这里alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM），alumini源自拉丁语alumnere，指养育/培养"
+    },
+    {
+      "ghost_hash": "5c5525357aafc2bc",
+      "insert_hash": "48ec1f48e43281f0",
+      "note": "added temper comment, reworded",
+      "ghost_text": "招很多intern，自己不带也不认识自己招的人（名字都认不出来）。给intern画大饼，先干横向任务，之后做出来一作的东西 一作要上供给小老板，二作上贡给低年级phd，三作给自己，还有无数空降作者。最后不愿意给推荐信，就算给也是黑推。",
+      "insert_text": "脾气特别差，招很多intern，自己不带也不认识自己招的人（名字都认不出来）。给intern画大饼：先干横向任务，之后再让intern自己做出来自己一作的work。然而等做出来一作的东西，一作要上供给小老板，二作要上贡给组里低年级phd，还有无数空降作者。最后不愿意给推荐信，就算给也是黑推。"
+    },
+    {
+      "ghost_hash": "faabd9654359feb5",
+      "insert_hash": "fdb0730de6c86543",
+      "note": "added defense text at end",
+      "ghost_text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是他北航本科毕业，当时特朗普对国防七子下狠手，他怕留不下私下申请香港。但i他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）",
+      "insert_text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是他北航本科毕业，当时特朗普对国防七子下狠手，他怕留不下私下申请香港。但i他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）(这个传了好多年谣，真实笑死。清华姚班还有香港top 3 里面很多现在的AP 都是创z)"
+    },
+    {
+      "ghost_hash": "b033a564d5eb71cd",
+      "insert_hash": "a06106eb8c55b6af",
+      "note": "added defense parenthetical",
+      "ghost_text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP的）",
+      "insert_text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP的）（Jason只是不大懂人情世故比较喜欢纯学术内容，m）"
+    },
+    {
+      "ghost_hash": "579ce0863de032db",
+      "insert_hash": "a68603d69be1d026",
+      "note": "removed zul, added details",
+      "ghost_text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...)  zul",
+      "insert_text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...)  组里做过实习完全不push，非常支持学生实习，申请都是强推。上过课也meeting过course project，很尊重学生"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3369,
+  "skipped_reason": null
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-45-53Z.delta.json",
+  "delta_ts": "2026-04-20T16-45-53Z",
+  "reviewed_at_utc": "2026-04-20T16:46:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of PhD student (jiageng mao) disclosed, identifying a private individual",
+      "excerpt": "组里逆天phd jiageng mao"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal attack on student's competence and character",
+      "excerpt": "没水平-一个人带十几个intern（史称jiageng军团）啥都做不出来只想着水论文"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive allegations about specific advisor behavior in 1v1 meetings, replaced with empty content",
+      "excerpt": "1v1 meeting的时候羞辱学生 包括不限于说学生能力差，没有科研能力"
+    }
+  ],
+  "prompt_sha256": "2fb6d8447521087bb5507d757cab34a092f9a911df01e175f2d8dc95461ee349",
+  "finish_reason": "stop",
+  "completion_tokens": 3513
+}

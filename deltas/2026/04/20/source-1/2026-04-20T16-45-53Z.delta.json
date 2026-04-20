@@ -1,0 +1,241 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T16-41-50Z",
+    "revision_id": "AMHacu6QyF3FvWUhJ8dv4TJ0-guZMsDw4MuxW8rCFy0UDPaNq1tZCHcfLEhCDsrRAsW2bb_ds2Xdo3u9PJKGNEjvlA",
+    "paragraph_count": 2068
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T16-45-53Z",
+    "revision_id": "AMHacu592HhKCEXYXUpNEiE0wu6nEHZFCrTz9Ud7HjRsuy7uH370UeBmukAlkjvBLugzNIsa0ylB2KZQkbosPM8gRw",
+    "paragraph_count": 2077
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 8,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0039,
+    "insertion_ratio": 0.0082
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 38,
+      "at_to": 38,
+      "from_paragraphs": [
+        {
+          "content_hash": "de753ffcf42adb5d",
+          "style": "NORMAL_TEXT",
+          "text": "这位哥极其push，对学生极为残忍。不够卷的学生，一年不到就会被开。自己在美国6年跳了3次。最后跳回国了，跳回国之后也不会考虑自己学生的去向，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bc3f4d7a7c0e761",
+          "style": "NORMAL_TEXT",
+          "text": "这位哥极其push，对学生极为残忍。不够卷的学生，一年不到就会被开。自己在美国6年跳了3次。最后跳回国了，跳回国之后也不会考虑自己学生的去向。"
+        },
+        {
+          "content_hash": "f124044d95fad0d8",
+          "style": "NORMAL_TEXT",
+          "text": "他当教职的目的是升官发财掌权（最后回国当正教授也算是完成理想了），所有学生都可以是牺牲品。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 143,
+      "at_to": 144,
+      "from_paragraphs": [
+        {
+          "content_hash": "f3d66485b72183e8",
+          "style": "NORMAL_TEXT",
+          "text": "你会不会英语？alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf24fd1212e47904",
+          "style": "NORMAL_TEXT",
+          "text": "你会不会英语？这里alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM），alumini源自拉丁语alumnere，指养育/培养"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 267,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "b614cd3da9d6f202",
+          "style": "NORMAL_TEXT",
+          "text": "1v1 meeting的时候羞辱学生 包括不限于说学生能力差，没有科研能力，以及著名的“你做的事情不是PhD- level的” 请问什么叫不是“PhD-level” 😂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 350,
+      "at_to": 351,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c5525357aafc2bc",
+          "style": "NORMAL_TEXT",
+          "text": "招很多intern，自己不带也不认识自己招的人（名字都认不出来）。给intern画大饼，先干横向任务，之后做出来一作的东西 一作要上供给小老板，二作上贡给低年级phd，三作给自己，还有无数空降作者。最后不愿意给推荐信，就算给也是黑推。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48ec1f48e43281f0",
+          "style": "NORMAL_TEXT",
+          "text": "脾气特别差，招很多intern，自己不带也不认识自己招的人（名字都认不出来）。给intern画大饼：先干横向任务，之后再让intern自己做出来自己一作的work。然而等做出来一作的东西，一作要上供给小老板，二作要上贡给组里低年级phd，还有无数空降作者。最后不愿意给推荐信，就算给也是黑推。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 540,
+      "at_to": 541,
+      "from_paragraphs": [
+        {
+          "content_hash": "faabd9654359feb5",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是他北航本科毕业，当时特朗普对国防七子下狠手，他怕留不下私下申请香港。但i他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdb0730de6c86543",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是他北航本科毕业，当时特朗普对国防七子下狠手，他怕留不下私下申请香港。但i他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）(这个传了好多年谣，真实笑死。清华姚班还有香港top 3 里面很多现在的AP 都是创z)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 542,
+      "at_to": 543,
+      "from_paragraphs": [
+        {
+          "content_hash": "b6ac6581dac10021",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)（有截图）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ba8840d94a6fc44",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)（有备份就放出来，把名字留下，咱们一起去警察局，在这儿写个有备份是什么意思）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 630,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 636,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d848098fb33d2ae1",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jiageng mao没水平-一个人带十几个intern（史称jiageng军团）啥都做不出来只想着水论文(这事跟yue没关系吧，要不单开一个)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 645,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1046,
+      "at_to": 1055,
+      "from_paragraphs": [
+        {
+          "content_hash": "b033a564d5eb71cd",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a06106eb8c55b6af",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP的）（Jason只是不大懂人情世故比较喜欢纯学术内容，m）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1809,
+      "at_to": 1818,
+      "from_paragraphs": [
+        {
+          "content_hash": "579ce0863de032db",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...)  zul"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a68603d69be1d026",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...)  组里做过实习完全不push，非常支持学生实习，申请都是强推。上过课也meeting过course project，很尊重学生"
+        }
+      ]
+    }
+  ]
+}
