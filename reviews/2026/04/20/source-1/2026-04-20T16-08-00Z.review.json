@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-08-00Z.delta.json",
+  "delta_ts": "2026-04-20T16-08-00Z",
+  "reviewed_at_utc": "2026-04-20T16:08:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive allegation regarding Dongping Chen's authorship practices (claiming he forces co-authorship without participation), which appears to suppress a specific, legitimate observation about an advisor rather than performing cleanup (typo, blank, off-topic, or dedup).",
+      "excerpt": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+    }
+  ],
+  "prompt_sha256": "5b7c9ab1398509a2a38a5e98f85ee643e12959ae0684f3f4e6376e00639b153a",
+  "finish_reason": "stop",
+  "completion_tokens": 4888
+}
