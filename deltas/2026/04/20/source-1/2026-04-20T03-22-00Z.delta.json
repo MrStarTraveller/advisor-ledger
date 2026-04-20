@@ -1,0 +1,234 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-17-50Z",
+    "revision_id": "AMHacu65FoB4dLMrK3X8NoOoytxpLIftgXnI9vVJtR2rmSVGNWy8ttV5RIDccI61ZbIsdGBszSDNuZDkR_WpzauPhQ",
+    "paragraph_count": 935
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-22-00Z",
+    "revision_id": "AMHacu42QeopZcS-vGXJqFKgjkv_cQZfu5kYL7rZDN873RgiNbaHTfs8i0rMnUv3-oYMFSh5VgQv9mE6r1bq8gjSjQ",
+    "paragraph_count": 938
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 10,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0107,
+    "insertion_ratio": 0.0139
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5974d01aed66d3f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0345ae28a9b1dd5c",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(客观评价一下，不说vandy可能和她phd老板有关,她老板也"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 39,
+      "at_to": 39,
+      "from_paragraphs": [
+        {
+          "content_hash": "68e8eab5c033a9c9",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96daaac7c05579f3",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好，资源充足，对学生也很关心supportive，实在不知道“toxic”到底是哪里的空穴来风)"
+        },
+        {
+          "content_hash": "6120ce1585b620dc",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 50,
+      "at_to": 51,
+      "from_paragraphs": [
+        {
+          "content_hash": "fff0e196cd782539",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e8681d396eb3895d",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）（负责个屁，当时他已经去uiuc了）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 188,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 360,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "9f6320fc024fc15d",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，intern bar 不高所以人数确实不少。会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern 手上会很具体可行，只要有执行力就能完成。有能力的intern会做一个独立的完整科研。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77988a67a9730df3",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，intern bar 不高，所以人数多，不太 qualified 的也会给个机会来帮帮项目。会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern 手上会很具体可行，只要有执行力就能完成。有能力的intern会做一个独立的完整科研。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 465,
+      "at_to": 465,
+      "from_paragraphs": [
+        {
+          "content_hash": "52e48b52337ac08f",
+          "style": "NORMAL_TEXT",
+          "text": "有钱，会请客吃饭，甚至还有秋游"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "681e89741bd13e89",
+          "style": "NORMAL_TEXT",
+          "text": "有钱，会请客吃饭"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 563,
+      "at_to": 563,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc3f46d2f7840e81",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时没有其他人，block谁）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "04fd73342d5631c0",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 565,
+      "at_to": 565,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ec389d3cd7e8135",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9128d9ac23307f7d",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团（）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 724,
+      "at_to": 724,
+      "from_paragraphs": [
+        {
+          "content_hash": "d64ca3affd3167cc",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的女朋友，和自己的导师jianxiong xiao保持不正当被男朋友抓了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7eb1dbd4927f32c5",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu（于夫）的女朋友，和自己的导师jianxiong xiao保持不正当关系被于夫抓了，并投诉到学校"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 760,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ae46d2cf38074098",
+          "style": "NORMAL_TEXT",
+          "text": "Mila/UdeM, Jian Tang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 798,
+      "at_to": 800,
+      "from_paragraphs": [
+        {
+          "content_hash": "e41404d82befe0d9",
+          "style": "NORMAL_TEXT",
+          "text": "称病不朝鸽intern，水平也差，很早之前说要去 hkust，但是后来一段时间又"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "87f257293f4d0467",
+          "style": "NORMAL_TEXT",
+          "text": "称病不朝鸽intern，水平也差，很早之前说要去 hkust，但是后来一段时间又删了，之后又二次官宣了，神奇"
+        },
+        {
+          "content_hash": "f85313f481394162",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio力x"
+        }
+      ]
+    }
+  ]
+}
