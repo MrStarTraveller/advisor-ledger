@@ -1,0 +1,203 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-10-02Z",
+    "revision_id": "AMHacu42n4IcT4XUqFA2L8CFFQF6Dca7u45YS_VGkcCE1LIFj4mRbIYs3roXAMiT4XyPl4ZN6sCkIK_LBkEknylnmg",
+    "paragraph_count": 1075
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-14-04Z",
+    "revision_id": "AMHacu45KKjqJb1FYp6oet3_YmvPmEvCln1fcUxm_bfvDJQb3QWlIJG-llJOUufyon1DalJJoegxeVA4t2ZEG26sdg",
+    "paragraph_count": 1073
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 10,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0093,
+    "insertion_ratio": 0.0075
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 21,
+      "paragraphs": [
+        {
+          "content_hash": "b13ea62ad0bb92ab",
+          "style": "NORMAL_TEXT",
+          "text": "看完整篇文章真的感触太深了，为啥华人在外永远要欺压自己人呢？太悲哀了学术界。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 22,
+      "paragraphs": [
+        {
+          "content_hash": "d320d7c44a938649",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei xiao怎么又没了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 24,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "133fcebca7905710",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Rochester Tony Geng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e9b5f9f0337de19d",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Rochester Tong (Tony) Geng"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 54,
+      "at_to": 53,
+      "from_paragraphs": [
+        {
+          "content_hash": "9601e3bec6246946",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b4ad0c8fc803eda",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 151,
+      "paragraphs": [
+        {
+          "content_hash": "f9ca8c2fbc5ff3bf",
+          "style": "NORMAL_TEXT",
+          "text": "（路人看完感觉北美孙笑川啊）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 181,
+      "paragraphs": [
+        {
+          "content_hash": "b4023eecab8de206",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhD后面主要是posdoc+senior phd在指导（有好有坏）（这算黑吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 346,
+      "paragraphs": [
+        {
+          "content_hash": "e9a9645b53423437",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 612,
+      "at_to": 612,
+      "from_paragraphs": [
+        {
+          "content_hash": "374d263779398e34",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "929815e7942dd776",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 624,
+      "paragraphs": [
+        {
+          "content_hash": "4ecfb2abf0afedc1",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）（补充一下，这个确实，xcw有很多不要脸的狗腿）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 658,
+      "at_to": 657,
+      "from_paragraphs": [
+        {
+          "content_hash": "010a014238bae75a",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3fbb601f4c6428e3",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 767,
+      "at_to": 766,
+      "from_paragraphs": [
+        {
+          "content_hash": "e7253a8da46508d0",
+          "style": "NORMAL_TEXT",
+          "text": "招两个first year phd进来养蛊，谁做出来了就给谁funding，没做出来就转组/quit"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1dfcdeab855ee745",
+          "style": "NORMAL_TEXT",
+          "text": "招两个first year phd进来养蛊，谁做出来了就给谁funding，没做出来就转组/quit (也不算刻意养蛊吧，他是确实最近没funding了。ucsd ece fellowship只能支持1年）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 898,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
