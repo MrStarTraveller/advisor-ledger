@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-34-00Z.delta.json",
+  "delta_ts": "2026-04-20T13-34-00Z",
+  "reviewed_at_utc": "2026-04-20T13:34:38Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Contains real names of individuals likely to be students or private individuals (haoran, yuan'mei'y) and potentially sensitive context about an intern, involving specific private communications regarding admissions.",
+      "excerpt": "我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情... 我看不惯haoran被这么诬陷... 但是yuan'mei'y"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive reputation-related observation about an advisor, specifically that domestic faculty have actively advised PhD applicants against accepting offers from this advisor in multiple years.",
+      "excerpt": "（今年phd选offer就有国内的faculty 劝退）（去年也有）（了解的人都在劝退）"
+    }
+  ],
+  "prompt_sha256": "4705d60d8419b86cc039360c800ec6495473c72d13e06549a95f87f9274d4d05",
+  "finish_reason": "stop",
+  "completion_tokens": 3573
+}

@@ -1,0 +1,153 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-31-50Z",
+    "revision_id": "AMHacu7hEN9Hw4vllZ0onDd-9TvTVfU86gZjZfs3bgICbm0C3C01BBiBU0PHWshmjA6BTo0ACZo-RaFfjx7Nibo1kQ",
+    "paragraph_count": 1880
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-34-00Z",
+    "revision_id": "AMHacu4Om4MfB8Mfw1E44JKs2wX3cNdi54xrqpSbhHUs_i8zss1X6tUl41evFuIdRFg4G1Er_N-9W1JVOdziLC9MjQ",
+    "paragraph_count": 1880
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 7,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0037
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 186,
+      "paragraphs": [
+        {
+          "content_hash": "28e3e92ae5044a08",
+          "style": "NORMAL_TEXT",
+          "text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）（了解的人都在劝退）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 372,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cd9f7c6c9e79cca8",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT的卡大量外借给他干活 （+1 MIT Csail server也被他d搞崩过好几次。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 595,
+      "at_to": 594,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16eb85dc214cfd93",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看"
+        },
+        {
+          "content_hash": "9559dfc3df56339f",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是yuan'mei'y"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 781,
+      "at_to": 781,
+      "from_paragraphs": [
+        {
+          "content_hash": "35d8ed093e2a3ec5",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位) 而且丁老师不会限制学生去i"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27e731db154dc7e6",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位)，而且丁老师鼓励学生去联系暑假实习，同时也和业界的团队保持合作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1418,
+      "at_to": 1418,
+      "from_paragraphs": [
+        {
+          "content_hash": "a1328fc554d7ad8b",
+          "style": "NORMAL_TEXT",
+          "text": "面试咕咕"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10637bf9a0ae19d4",
+          "style": "NORMAL_TEXT",
+          "text": "面试咕"
+        },
+        {
+          "content_hash": "cfa38e17bd256728",
+          "style": "NORMAL_TEXT",
+          "text": "咕"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1420,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1702,
+      "at_to": 1702,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5145a2bfbe9a97c4",
+          "style": "NORMAL_TEXT",
+          "text": "别来读博，来了读博就知道什么叫极限承压"
+        }
+      ]
+    }
+  ]
+}

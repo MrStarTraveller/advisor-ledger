@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-34-00Z",
+  "reviewed_at_utc": "2026-04-20T13:35:06Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "2b65765885bb983d",
+      "insert_hash": "cd9f7c6c9e79cca8",
+      "note": "Shortened MIT-IBM Lab to MIT, typo fix",
+      "ghost_text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）",
+      "insert_text": "私自将MIT的卡大量外借给他干活 （+1 MIT Csail server也被他d搞崩过好几次。）"
+    },
+    {
+      "ghost_hash": "35d8ed093e2a3ec5",
+      "insert_hash": "27e731db154dc7e6",
+      "note": "Completed sentence on internship policy",
+      "ghost_text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位) 而且丁老师不会限制学生去i",
+      "insert_text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位)，而且丁老师鼓励学生去联系暑假实习，同时也和业界的团队保持合作"
+    },
+    {
+      "ghost_hash": "a1328fc554d7ad8b",
+      "insert_hash": "10637bf9a0ae19d4",
+      "note": "Shortened 咕咕 to 咕",
+      "ghost_text": "面试咕咕",
+      "insert_text": "面试咕"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2831,
+  "skipped_reason": null
+}
