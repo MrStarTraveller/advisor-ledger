@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-03-00Z.delta.json",
+  "delta_ts": "2026-04-20T15-03-00Z",
+  "reviewed_at_utc": "2026-04-20T15:03:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (Yufei Ding) identified alongside specific accusations of cheating and misconduct; PhD students are private individuals in this context",
+      "excerpt": "Yufei Ding 今年stf的phd，纯学术妲 己,考试还作弊"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered character attack using 'academic Daji' (妲己), a slur implying sexual misconduct or use of sexual appeal for academic gain without evidence",
+      "excerpt": "纯学术妲 己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment accusing a commenter of being the 'involved female student' with an agenda to clear her name",
+      "excerpt": "感觉像涉事女学生在这里使劲找人洗"
+    }
+  ],
+  "prompt_sha256": "855d77a0bdaaf9806ab6722f9cabc0f8c3f8a38440c04bedf8d0b450ed2f068c",
+  "finish_reason": "stop",
+  "completion_tokens": 5081
+}

@@ -1,0 +1,398 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-58-40Z",
+    "revision_id": "AMHacu7A4OGCXlcBoMQugZsbPP2ZP1Rp3kMj9zvPVuTOA79eCFjLJwupuHJkFWPicHXX9Agt8wpdiuONDWLyHR8HyQ",
+    "paragraph_count": 1995
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-03-00Z",
+    "revision_id": "AMHacu6XoX4xcX0t8vdL6BPZIu_R37rQf2SrcAsMc5-VAIW2nmKW1O1Cj5xvYmTQ3SKuPjxqiYmURVVUbUmkNouATQ",
+    "paragraph_count": 1995
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 21,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0105,
+    "insertion_ratio": 0.0105
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "7cb507abbc4d9c5c",
+          "style": "NORMAL_TEXT",
+          "text": "``Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "NORMAL_TEXT",
+          "text": "Purpose"
+        },
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 49,
+      "at_to": 50,
+      "from_paragraphs": [
+        {
+          "content_hash": "16bf78153e391fb7",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）"
+        },
+        {
+          "content_hash": "da40383ca18bd5e4",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）【哪里来的谣言？】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "358a9785119c633f",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）(线下真人挺帅的，没必要p图吧）"
+        },
+        {
+          "content_hash": "c2307cf2c7a5ff48",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）【哪里来的谣言？】（这个是谣言了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 112,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "82fb11530d94d3c1",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83a5120c06eeed69",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）（感觉像涉事女学生在这里使劲找人洗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 345,
+      "at_to": 346,
+      "from_paragraphs": [
+        {
+          "content_hash": "019b2457c083aa72",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 不是lichao学生但有密切合作，t"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "29049db8d2440ea8",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 不是lichao学生但有密切合作，孙老师为人没啥问题啊，对学生很好，而且喜欢帮人，也不搞那些虚的，合作都是公平透明"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 398,
+      "at_to": 399,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc1e7792100f0b63",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是Chuang老师的学生，基于以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去 2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的"
+        },
+        {
+          "content_hash": "b18d3a4ed472d4c2",
+          "style": "NORMAL_TEXT",
+          "text": "3. 只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；推荐信肯定有强度之分，不可能所有人都是top1%吧，难道不是1%就算黑推吗？4. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；5. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；6. Chuang现在来说的话跟学生相处还不错吧，正常交流生活和research，遇到学生心情不好或者他听说谁心情抑郁的还会经常关心和安慰"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b1ad801db007675",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是Chuang老师的学生，基于以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，保底offer也会一直留到三月份 2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的 3. 只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；推荐信肯定有强度之分，不可能所有人都是top1%吧，难道不是1%就算黑推吗？4. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；5. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；6. Chuang现在来说的话跟学生相处还不错吧，正常交流生活和research，遇到学生心情不好或者他听说谁心情抑郁的还会经常关心和安慰（学生分手还会给假期，羡慕）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 403,
+      "at_to": 403,
+      "from_paragraphs": [
+        {
+          "content_hash": "f46c272f6aae3450",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生 (听闻早年确实push，现在组里好像佛系)（经常和他们组打球，感觉组里）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "867dbc94fd8316c4",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生 (听闻早年确实push，现在组里好像佛系)（经常和他们组打球，感觉组里氛围挺好的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 590,
+      "at_to": 590,
+      "from_paragraphs": [
+        {
+          "content_hash": "493b8af510a4c263",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取"
+        },
+        {
+          "content_hash": "760742ca2490814e",
+          "style": "NORMAL_TEXT",
+          "text": "消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者d真单纯啊，你也是被骗的，我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a6b7767c2b28a66",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 594,
+      "at_to": 593,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b0ada0819358995",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40541063d0a0b164",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 627,
+      "at_to": 626,
+      "from_paragraphs": [
+        {
+          "content_hash": "bba84e44ad846905",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96c10379e6fb7e50",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 654,
+      "at_to": 653,
+      "from_paragraphs": [
+        {
+          "content_hash": "138121f934868983",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的,"
+        },
+        {
+          "content_hash": "0ed16671995a3561",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c190e99e141124e7",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的(且只有第二张, 前面的不知道是谁)"
+        },
+        {
+          "content_hash": "5e6fe79f8d11ee98",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做 孩子醒醒吧，你没问问别的intern对他什么评价吗 我或多或少听说过, 但是我觉得有些intern可能稍微有点过激了, 就是没申请太好, 就想着归因到mentor, 我其实也能理解, 但是我做判断是会排除这些外部因素的, 他现在给我开的工资非常非常好, 项目我也喜欢, 我就觉得可以做做 劝不动了，祝你h"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 975,
+      "at_to": 974,
+      "from_paragraphs": [
+        {
+          "content_hash": "bcfffd3c3a8cb9e5",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但也几乎都留下来了（或者说组里已经很多年没有裁过人，几乎没有这种说法现在，所以可以放心），外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "29ded99fced3de53",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但几乎都留下来了（或者说组里已经很多年没有裁过人，几乎没有这种说法现在。甚至据我所知，如果你因为各种原因可能难以毕业，陈老师也会尽所能及去想办法帮你毕业，目前也没听到过这种劝你退学的情况），外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1189,
+      "paragraphs": [
+        {
+          "content_hash": "ca1ba591cb6577bb",
+          "style": "NORMAL_TEXT",
+          "text": "龙哥nb"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1195,
+      "at_to": 1195,
+      "from_paragraphs": [
+        {
+          "content_hash": "72726f28b6fbc0e2",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了（一起吃屎）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "31e07e53db9d86d8",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1316,
+      "at_to": 1316,
+      "from_paragraphs": [
+        {
+          "content_hash": "c804728dd537cac5",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly project meeting）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0fbe92fa466f692d",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（PhD也会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1346,
+      "at_to": 1346,
+      "from_paragraphs": [
+        {
+          "content_hash": "8fe39ae5fe7974a6",
+          "style": "NORMAL_TEXT",
+          "text": "后续 scaffold/训练实验的设计与训练代码搭建与release"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "59aaae3fce0965bb",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold/训练实验的设计训练代码搭建与release"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1707,
+      "at_to": 1707,
+      "from_paragraphs": [
+        {
+          "content_hash": "1be3d7b91ab773d9",
+          "style": "NORMAL_TEXT",
+          "text": "PUA部分：你为什么本科没有考上清华？（我：数学没考好）（他得出结论）-> 心理承受能力有问题"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e45d56fea2d7727b",
+          "style": "NORMAL_TEXT",
+          "text": "PUA部分：你为什么本科没有考上清华？（我：数学没考好）（他直接得出结论）-> 心理承受能力有问题"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1710,
+      "at_to": 1710,
+      "from_paragraphs": [
+        {
+          "content_hash": "894c68407ed52d90",
+          "style": "NORMAL_TEXT",
+          "text": "八卦部分：曾有个学生因为他卡毕业直接闹的全系人尽皆知（CUHKCSE），但他就是不让人家毕业呵呵呵因为学生都是他的努力奴隶:)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "479016824265e0d1",
+          "style": "NORMAL_TEXT",
+          "text": "八卦部分：曾有个学生因为他卡毕业直接闹的全系人尽皆知（CUHKCSE），但他就是不让人家毕业呵呵呵因为学生都是他的奴隶:)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1730,
+      "paragraphs": [
+        {
+          "content_hash": "332bdaeb4a6e585e",
+          "style": "NORMAL_TEXT",
+          "text": "曾经被实名狙击而且有一年招了10个学生不缺钱 人没有接触过多人品不好评价但看上去萌萌哒很小一只确实漂亮哈"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1818,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
