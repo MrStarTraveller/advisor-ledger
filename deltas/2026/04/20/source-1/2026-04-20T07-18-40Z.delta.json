@@ -1,0 +1,379 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-16-30Z",
+    "revision_id": "AMHacu6U65x7XD5LrfZbKiMAViYynTGAUKeHldQBzhK64RQRtNnB2Ex04zPRnRmYLbt9KAEUdI_QW79fhDtjga5pzg",
+    "paragraph_count": 1271
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-18-40Z",
+    "revision_id": "AMHacu6NJiQi3c08ojv3X4p-xBYWoHUbs1hIePL89j9WenZOoVWqz84TeK5gYoqf05NYFaRi1rcWDbTTtRXdiHjQXg",
+    "paragraph_count": 1275
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 18,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0142,
+    "insertion_ratio": 0.0173
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 8,
+      "at_to": 8,
+      "from_paragraphs": [
+        {
+          "content_hash": "8af12aa780a17e94",
+          "style": "NORMAL_TEXT",
+          "text": "有很多原始版本的“red flags”和组内成员的“Rebuttal”是相反的，希望大家可以结合有效的证据修正自己对某些导师的负面偏见,当然也可以结合证据坚持自己的负面评价；"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b27231c86bf41725",
+          "style": "NORMAL_TEXT",
+          "text": "有很多原始版本的“red flags”和组内成员的“Rebuttal”是相反的，希望大家可以结合有效的证据修正自己对某些导师的负面偏见, 当然也可以结合证据坚持自己的负面评价；"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 76,
+      "paragraphs": [
+        {
+          "content_hash": "60c779286892b86d",
+          "style": "NORMAL_TEXT",
+          "text": "我不觉得水文章有什么过错，水文章要是是个事，学术界99%教授都逃不掉。学术"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 209,
+      "at_to": 210,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e70c6c8b70cb5e4",
+          "style": "NORMAL_TEXT",
+          "text": "聽說不讓學生發Pe"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4317e3113f85a7dd",
+          "style": "NORMAL_TEXT",
+          "text": "聽說不讓學生發Paper只能寫Proposal"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 316,
+      "at_to": 317,
+      "from_paragraphs": [
+        {
+          "content_hash": "89eb182dbee85802",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师主观上应该也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，老师怎么会愿意挑这个时间开会），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8582eec8cfb7377c",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师主观上应该也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，老师怎么会愿意挑这个时间开会），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys （这里MLsys怎么不提paper数目了？丁老师组在MLSys方向上的publication网站可查，人均数篇顶会）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 332,
+      "at_to": 333,
+      "from_paragraphs": [
+        {
+          "content_hash": "068dcada42b7bc0e",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出表面事实（丁老师）却恶意捏造篡改背后原因，更像是针对性打击报复。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "68fe2df4e2482a32",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，更像是针对性打击报复。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 538,
+      "at_to": 539,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d2b745e54ff896d",
+          "style": "NORMAL_TEXT",
+          "text": "经常不开组会，但是喜欢micro manage，不了解学生的wo，自己水平无法指导学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3da068ffc8cc45bb",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢micro manage，但是不了解学生的工作，自己水平也无法指导学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 683,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 684,
+      "at_to": 686,
+      "from_paragraphs": [
+        {
+          "content_hash": "8fd49c53311b9421",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲非常强（在小细节上）"
+        },
+        {
+          "content_hash": "c7a016fab0d33490",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平见仁见智(合作过的和没合作过的评价两极分化 dddd)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ad1d59675631048",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲非常强（在小细节上一定要她满意）"
+        },
+        {
+          "content_hash": "13494ea4f509bcf2",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平见仁见智(合作过的和没合作过的评价两极分化)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 720,
+      "at_to": 722,
+      "from_paragraphs": [
+        {
+          "content_hash": "8b8bcc63d399d869",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论））（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "479c32744f0b3d97",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive） （当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 758,
+      "at_to": 760,
+      "from_paragraphs": [
+        {
+          "content_hash": "8bb14f28692beadf",
+          "style": "NORMAL_TEXT",
+          "text": "主要负责的部分如上，还有很多细节，包括当时回复rebuttal 和 一些别人在使用mindcube时的疑问的出力以及其他记不住的细节，都已经包含在你中有我我中有你的，每一个为了把mindcube做的更好的日日夜夜了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90d718458c74f680",
+          "style": "NORMAL_TEXT",
+          "text": "主要负责的部分如上，还有很多细节，包括当时回复rebuttal 和 一些别人在使用mindcube时的疑问的出力 以及其他记不住的细节，都已经包含在你中有我我中有你的，每一个为了把mindcube做的更好的日日夜夜了。(这话怎么听着怪怪的)（这有什么怪的？）（你中有我我中有你，日日夜夜）（当时真做了太多东西吧，天天和师兄消息得发一大堆，shen'hou）（哦哦，那很可以）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 822,
+      "at_to": 824,
+      "from_paragraphs": [
+        {
+          "content_hash": "8dbe2835c9f4def6",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "82fb11530d94d3c1",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1012,
+      "at_to": 1014,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6df0f906de7a076",
+          "style": "NORMAL_TEXT",
+          "text": "Lack drive and boldness for research. Lack ent"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "76297ab2908a05ac",
+          "style": "NORMAL_TEXT",
+          "text": "Lack drive and boldness for research. Lack enthusiasm for research."
+        },
+        {
+          "content_hash": "a1302bc2bdd61ce5",
+          "style": "NORMAL_TEXT",
+          "text": "When she has an issue with a student, she never communicates it clearly in everyday interactions; instead, she just suddenly lashes out. She expects students to magically mind-read what she wants purely through her vague negative feedback."
+        },
+        {
+          "content_hash": "ed89a3c5d804f05b",
+          "style": "NORMAL_TEXT",
+          "text": "Three students have left the lab in just half a year. Whether she is issuing a PIP (Performance Improvement Plan) or firing someone to their face, she uses the exact same generic excuses every time."
+        },
+        {
+          "content_hash": "a92aee6de4697fb6",
+          "style": "NORMAL_TEXT",
+          "text": "Industry connections are little"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1014,
+      "at_to": 1019,
+      "from_paragraphs": [
+        {
+          "content_hash": "a5f563859d859a61",
+          "style": "NORMAL_TEXT",
+          "text": "(Feel like this is the case for almost all NYU APs :( Thi)"
+        },
+        {
+          "content_hash": "aec46cf900070faf",
+          "style": "NORMAL_TEXT",
+          "text": "(lol)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0c62dafaf0788d9b",
+          "style": "NORMAL_TEXT",
+          "text": "(Feel like this is the case for almost all NYU APs :( This is not generally true for some that I know.)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1025,
+      "at_to": 1030,
+      "from_paragraphs": [
+        {
+          "content_hash": "7c2b38bac34c9c89",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5e3cfbab18cf7b7",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）(你们周末不要开会的吗😭）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1067,
+      "at_to": 1072,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f98ba28bc91a452",
+          "style": "NORMAL_TEXT",
+          "text": "组里无数黑工，指导就是故事讲好，图画fancy（nanobanana），等论文出分对着分数和置信度赛博算命，zho指导你撤稿还是换投；"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4322e12f627db0f3",
+          "style": "NORMAL_TEXT",
+          "text": "组里无数黑工，指导就是故事讲好，图画fancy（nanobanana），等论文出分对着分数和置信度赛博算命，指导你撤稿还是换投，看看arxiv搁浅多少，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1198,
+      "at_to": 1203,
+      "from_paragraphs": [
+        {
+          "content_hash": "46891023cc7698b9",
+          "style": "NORMAL_TEXT",
+          "text": "名义发1300-1700，强绑日/周报。常以没写为由，要求将钱退回“实验室支付宝”，多数人实际月入不足500（此操作性质见->link）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "db72e2f8d192bf43",
+          "style": "NORMAL_TEXT",
+          "text": "名义发1300-1700，强绑日/周报。常以没写为由，要求将钱退回“实验室支付宝”，多人实际月入不足500（此操作性质见->link）。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1200,
+      "paragraphs": [
+        {
+          "content_hash": "031d5d640e504c0e",
+          "style": "NORMAL_TEXT",
+          "text": "为了防止某些不可抗力因素，上述情况的相关证据材料均已完成多重备份。网络不是法外之地，真理越辩越明，希望大家理性看待，也希望相关方好自为之"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1261,
+      "at_to": 1265,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d8a85a1e62bb004",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔，延毕警告，不粘锅，抠门（谈钱直接爆炸）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c69f14f4416d62af",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔，延毕警告，不粘锅，抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby）"
+        }
+      ]
+    }
+  ]
+}
