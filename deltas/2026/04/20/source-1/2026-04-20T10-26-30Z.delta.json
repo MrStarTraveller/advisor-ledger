@@ -1,0 +1,211 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-24-22Z",
+    "revision_id": "AMHacu4iGqhCkc9PKgGVAtae-umOzNqvlub6CKf4FXPvbhdJcvBH4mqIZR4SrhZrvF3Lza6wp7gSlx5IUUVSmPiktQ",
+    "paragraph_count": 1513
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-26-30Z",
+    "revision_id": "AMHacu5zM11IaZ6j9aNE8uVGZzrjZtMXhVAIuGTTC-fq2hYhGGAVfR0Yrw9Uakqj_CNTsPLwOuaecejMBXdm7d4Nog",
+    "paragraph_count": 1520
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 9,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0059,
+    "insertion_ratio": 0.0105
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 159,
+      "from_paragraphs": [
+        {
+          "content_hash": "79facda9e789ddb9",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a697d73a8140f8a9",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，幼稚如小学生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 236,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c6c39ff5c33b372",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？dyf)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "663650e22b0a1b54",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 239,
+      "at_to": 238,
+      "from_paragraphs": [
+        {
+          "content_hash": "7041f5db35fdfa47",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假"
+        },
+        {
+          "content_hash": "39d148bed8e12be3",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6297dade300ae7b6",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 ting"
+        },
+        {
+          "content_hash": "37dbe7dc05809805",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 372,
+      "from_paragraphs": [
+        {
+          "content_hash": "79d790e5ec025c10",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很好"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "749e29fbc27ef990",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很好 填tui jix n"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 791,
+      "at_to": 790,
+      "from_paragraphs": [
+        {
+          "content_hash": "4d190b3d87c59bee",
+          "style": "NORMAL_TEXT",
+          "text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "93658191998dcd05",
+          "style": "NORMAL_TEXT",
+          "text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？（是对毕业要求高吗？）"
+        },
+        {
+          "content_hash": "1401ad7ed56d9e1c",
+          "style": "NORMAL_TEXT",
+          "text": "有无更多细说啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1377,
+      "at_to": 1377,
+      "from_paragraphs": [
+        {
+          "content_hash": "762b0a73a2cecb9c",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal: 第一点李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？"
+        },
+        {
+          "content_hash": "fa85a867cf349c36",
+          "style": "NORMAL_TEXT",
+          "text": "第二点有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad993171a0e856fc",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal:"
+        },
+        {
+          "content_hash": "c3e3c2ad4d8149e5",
+          "style": "NORMAL_TEXT",
+          "text": "第一点：李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "15f36a1d9120fc79",
+          "style": "NORMAL_TEXT",
+          "text": "第二点：有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你纯飙呢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0d6c5d99035aca6f",
+          "style": "NORMAL_TEXT",
+          "text": "第三点：你是不是魔怔了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a07f466cfeddf7ae",
+          "style": "NORMAL_TEXT",
+          "text": "第四点：请具体说明两幅嘴脸，f ze"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

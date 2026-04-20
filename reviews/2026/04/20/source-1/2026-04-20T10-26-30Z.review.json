@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-26-30Z.delta.json",
+  "delta_ts": "2026-04-20T10-26-30Z",
+  "reviewed_at_utc": "2026-04-20T10:27:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Reveal of student's full name (ding yufei) and affiliation details sufficient to identify a private individual",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Ableist slur attacking character rather than advising conduct",
+      "excerpt": "yue是脑残吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult comparing target to elementary school child",
+      "excerpt": "幼稚如小学生"
+    }
+  ],
+  "prompt_sha256": "2b2f5c09d4cb7094c713deb6c2bed0cf532718986cc766291a24536112df1fa5",
+  "finish_reason": "stop",
+  "completion_tokens": 3476
+}

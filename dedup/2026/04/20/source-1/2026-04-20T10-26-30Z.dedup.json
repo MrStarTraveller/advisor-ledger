@@ -1,0 +1,69 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-26-30Z",
+  "reviewed_at_utc": "2026-04-20T10:27:30Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "79facda9e789ddb9",
+      "insert_hash": "a697d73a8140f8a9",
+      "note": "added '幼稚如小学生' at end",
+      "ghost_text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，",
+      "insert_text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，幼稚如小学生）"
+    },
+    {
+      "ghost_hash": "8c6c39ff5c33b372",
+      "insert_hash": "663650e22b0a1b54",
+      "note": "expanded dyf, added rhetorical questions",
+      "ghost_text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？dyf)",
+      "insert_text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)"
+    },
+    {
+      "ghost_hash": "7041f5db35fdfa47",
+      "insert_hash": "6297dade300ae7b6",
+      "note": "added 'ting' suffix",
+      "ghost_text": "Paper造假",
+      "insert_text": "Paper造假 ting"
+    },
+    {
+      "ghost_hash": "39d148bed8e12be3",
+      "insert_hash": "37dbe7dc05809805",
+      "note": "added rebuttal evidence after claim",
+      "ghost_text": "欠intern钱，几千、几万美金的都有",
+      "insert_text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助"
+    },
+    {
+      "ghost_hash": "79d790e5ec025c10",
+      "insert_hash": "749e29fbc27ef990",
+      "note": "added garbled text after statement",
+      "ghost_text": "对intern很好",
+      "insert_text": "对intern很好 填tui jix n"
+    },
+    {
+      "ghost_hash": "4d190b3d87c59bee",
+      "insert_hash": "93658191998dcd05",
+      "note": "added parenthetical question",
+      "ghost_text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？",
+      "insert_text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？（是对毕业要求高吗？）"
+    },
+    {
+      "ghost_hash": "762b0a73a2cecb9c",
+      "insert_hash": "c3e3c2ad4d8149e5",
+      "note": "removed 'Rebuttal:' prefix, added colon",
+      "ghost_text": "Rebuttal: 第一点李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？",
+      "insert_text": "第一点：李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？"
+    },
+    {
+      "ghost_hash": "fa85a867cf349c36",
+      "insert_hash": "15f36a1d9120fc79",
+      "note": "added colon and ending phrase",
+      "ghost_text": "第二点有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你",
+      "insert_text": "第二点：有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你纯飙呢"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3460,
+  "skipped_reason": null
+}
