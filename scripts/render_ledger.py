@@ -189,11 +189,7 @@ def load_relay_config() -> dict | None:
 
 def anon_form_html(cfg: dict | None) -> str:
     if not cfg:
-        return (
-            '<p style="font-size:.85em;color:#888;">'
-            "(匿名评论入口尚未部署;待 <code>config/relay.json</code> 配置好 Worker URL + Turnstile site key 后会自动出现。)"
-            "</p>"
-        )
+        return ""  # quietly omit the anon section until relay is configured
     worker_url = html.escape(cfg["worker_url"])
     site_key = html.escape(cfg["turnstile_site_key"])
     return f"""
