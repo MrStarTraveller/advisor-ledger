@@ -70,13 +70,6 @@ for sid in $SOURCES; do
   done < <(find deltas -type f -name "*.delta.json" -path "*/$sid/*" 2>/dev/null | sort)
 done
 
-# Merge agent: scan GitHub Issues comments and fold approved ones into MIRROR.md.
-# Non-fatal, self-idempotent via merges/<issue>-<comment>.json; gh auth required.
-log "merge"
-if ! "$PY" scripts/merge_agent.py; then
-  log "merge_agent failed (non-fatal)"
-fi
-
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
@@ -84,7 +77,7 @@ log "render"
 # docs/ is tracked so GitHub Pages can serve the rendered ledger from /docs.
 log "git"
 if [ -d .git ]; then
-  git add snapshots deltas reviews dedup docs MIRROR.md merges 2>/dev/null || true
+  git add snapshots deltas reviews dedup docs 2>/dev/null || true
   if ! git diff --cached --quiet; then
     git commit -m "ledger: $LOG_TS" >/dev/null
     log "committed: $(git rev-parse --short HEAD)"

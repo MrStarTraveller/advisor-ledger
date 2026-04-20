@@ -29,7 +29,6 @@ DELTAS_DIR = ROOT / "deltas"
 REVIEWS_DIR = ROOT / "reviews"
 DEDUP_DIR = ROOT / "dedup"
 SITE_DIR = ROOT / "docs"
-RELAY_CONFIG_PATH = ROOT / "config" / "relay.json"
 
 BLANK_HASH = "0" * 16
 
@@ -171,68 +170,6 @@ def attach_suspicious(
 
 def discover_source_ids() -> list[str]:
     return sorted({p.parent.name for p in NORMALIZED_DIR.rglob("*.normalized.json")})
-
-
-def load_relay_config() -> dict | None:
-    if not RELAY_CONFIG_PATH.exists():
-        return None
-    try:
-        cfg = json.loads(RELAY_CONFIG_PATH.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return None
-    if not cfg.get("worker_url") or not cfg.get("turnstile_site_key"):
-        return None
-    if "YOUR_SUBDOMAIN" in cfg["worker_url"] or "AAAAAAAAAAAAAAAAAAAAAA" in cfg["turnstile_site_key"]:
-        return None  # still on example values
-    return cfg
-
-
-def anon_form_html(cfg: dict | None) -> str:
-    if not cfg:
-        return ""  # quietly omit the anon section until relay is configured
-    worker_url = html.escape(cfg["worker_url"])
-    site_key = html.escape(cfg["turnstile_site_key"])
-    return f"""
- <div class="anon-form">
-  <h3>匿名发言(无需登录)</h3>
-  <form id="anon-form">
-   <textarea name="body" rows="4" required minlength="3" maxlength="4000" placeholder="留下你想说的……评论会以匿名身份进入上方的 Issue 线程"></textarea>
-   <div class="cf-turnstile" data-sitekey="{site_key}" data-theme="auto"></div>
-   <button type="submit">发送</button>
-   <div id="anon-status" role="status" aria-live="polite"></div>
-  </form>
-  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-  <script>
-  document.getElementById('anon-form').addEventListener('submit', async (e) => {{
-    e.preventDefault();
-    const f = e.target;
-    const body = f.body.value.trim();
-    const token = f.querySelector('[name=cf-turnstile-response]')?.value;
-    const status = document.getElementById('anon-status');
-    const btn = f.querySelector('button');
-    if (!body) {{ status.textContent = '请写点什么'; return; }}
-    if (!token) {{ status.textContent = '请先完成人机验证'; return; }}
-    btn.disabled = true; status.textContent = '提交中...';
-    try {{
-      const r = await fetch({json.dumps(cfg["worker_url"])}, {{
-        method: 'POST',
-        headers: {{'content-type': 'application/json'}},
-        body: JSON.stringify({{pathname: location.pathname, comment: body, token}}),
-      }});
-      if (r.ok) {{
-        const d = await r.json();
-        status.innerHTML = '已提交 (<a href="' + d.url + '" target="_blank">查看</a>)。Kimi 约 2 分钟内扫描。';
-        f.body.value = '';
-        if (window.turnstile) window.turnstile.reset();
-      }} else {{
-        status.textContent = '提交失败 (' + r.status + '): ' + (await r.text());
-      }}
-    }} catch (err) {{ status.textContent = '网络错误: ' + err; }}
-    btn.disabled = false;
-  }});
-  </script>
- </div>
-"""
 
 
 def is_mass_deletion(d: dict) -> bool:
@@ -396,18 +333,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
  .view-nav a{{color:#555;text-decoration:none;padding:.2em .6em;border-radius:3px;background:#eee;margin-right:.3em;}}
  .view-nav a.current{{background:#333;color:#fff;}}
  .view-nav .exp{{color:#7a5af5;font-weight:600;font-size:.9em;}}
- .comments{{margin-top:3em;padding-top:1.5em;border-top:2px solid #ddd;}}
- .comments h2{{font-size:1.1em;color:#333;margin:.2em 0;}}
- .comments-hint{{font-size:.85em;color:#666;margin-bottom:1em;line-height:1.6;}}
- .comments-hint a{{color:#0366d6;}}
- .anon-form{{margin-top:2em;padding:1em;background:#f8fafb;border:1px solid #e1e4e8;border-radius:5px;}}
- .anon-form h3{{margin:.1em 0 .5em;font-size:1em;color:#333;}}
- .anon-form textarea{{width:100%;font:inherit;padding:.6em;border:1px solid #ccc;border-radius:4px;resize:vertical;box-sizing:border-box;}}
- .anon-form .cf-turnstile{{margin:.8em 0;}}
- .anon-form button{{background:#2a8;color:#fff;border:0;padding:.55em 1.3em;border-radius:4px;font:inherit;cursor:pointer;}}
- .anon-form button:disabled{{background:#aaa;cursor:wait;}}
- .anon-form #anon-status{{margin-top:.5em;font-size:.85em;color:#555;}}
- .anon-form #anon-status a{{color:#0366d6;}}
  .badge.mass{{background:#a00;}}
  .attack-banner{{background:#a00;color:#fff;padding:.7em 1em;border-radius:4px;margin:1em 0 1.5em;font-size:.95em;}}
  .attack-banner strong{{font-weight:600;}}
@@ -439,20 +364,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <main>
 {body}
 </main>
-<section class="comments">
- <h2>评论区</h2>
- <p class="comments-hint">两种发言方式都进入同一个 GitHub Issue 线程,Kimi 定期扫描、符合规范的会自动并入 <a href="https://github.com/the-hidden-fish/advisor-ledger/blob/main/MIRROR.md">MIRROR.md</a>,并在评论下回复 "已并入 &lt;commit-sha&gt;"。<br>如果原 Google Doc 被下架,MIRROR.md 就是下一个源。</p>
-{anon_form_html}
- <h3 style="margin-top:2em;font-size:1em;color:#333;">登录 GitHub 发言</h3>
- <script src="https://utteranc.es/client.js"
-         repo="the-hidden-fish/advisor-ledger"
-         issue-term="pathname"
-         label="comments"
-         theme="preferred-color-scheme"
-         crossorigin="anonymous"
-         async>
- </script>
-</section>
 </body></html>
 """
 
@@ -555,7 +466,6 @@ def render_source(source_id: str, mode: str = "faithful") -> str | None:
         faithful_current=' class="current"' if mode == "faithful" else "",
         deduped_current=' class="current"' if mode == "deduped" else "",
         body="\n".join(parts),
-        anon_form_html=anon_form_html(load_relay_config()),
     )
 
 
