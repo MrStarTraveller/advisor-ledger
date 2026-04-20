@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-54-22Z.delta.json",
+  "delta_ts": "2026-04-20T09-54-22Z",
+  "reviewed_at_utc": "2026-04-20T09:55:08Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion of social media handle '压缩即智能' identifying a specific intern/student in the context of a PolyU lab complaint, which de-anonymizes the individual.",
+      "excerpt": "名字叫压缩即智能"
+    },
+    {
+      "type": "pii",
+      "detail": "Insertion of full name '王兴兴' identifying a specific individual (likely a student or junior researcher) in the context of Xiaohongshu drama and interpersonal conflicts.",
+      "excerpt": "甚至xhs指名道姓内涵王兴兴"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion containing severe profanity and unsupported personal insults ('婊，贱，bitch') attacking an individual's character rather than concrete advising practices.",
+      "excerpt": "人品有问题，内涵阴阳同学院其他女教授，婊，贱，bitch"
+    }
+  ],
+  "prompt_sha256": "e4a3c4d4c1bd5bb8f43b2418a9d7cd573a79024ad50b07648333151864353766",
+  "finish_reason": "stop",
+  "completion_tokens": 4704
+}

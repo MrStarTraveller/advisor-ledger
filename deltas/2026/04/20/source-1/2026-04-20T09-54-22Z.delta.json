@@ -1,0 +1,390 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-41-27Z",
+    "revision_id": "AMHacu69hbTlLdPN-LsHq1eUr3JHKnSBxa-KKXVK_mZt4EsADladtVWYIsYdhcLxzOwDtBystmRa9M3uazQIQ3dZIw",
+    "paragraph_count": 1476
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-54-22Z",
+    "revision_id": "AMHacu7zH9RLDvyMKEFo3TZtHKTUdXIUi4q88x21ZGO7yVk7aBKLGAQVaeZ4iVQ70tiD9c6WnK0WpLb-wjMUUJaAzA",
+    "paragraph_count": 1496
+  },
+  "summary": {
+    "inserted_paragraphs": 32,
+    "deleted_paragraphs": 12,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0081,
+    "insertion_ratio": 0.0214
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 5,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "f2d9df5cfb0f6cc8",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息，本文档只针对PI，请大家帮忙维护一些学生隐私。请大家保护学生信息，包含隐私信息的评论都需要被删除。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ed4602345b29382",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息，本文档只针对PI，请大家帮忙维护一些学生隐私。请大家保护学生信息，包含隐私信息的评论都需要被删除。s"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 203,
+      "at_to": 203,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b67e164a3f2ea8f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e916c9c8eaee05bc",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "0a97c0cfacad14bc",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 207,
+      "at_to": 208,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9072351aa35d8a99",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 209,
+      "at_to": 210,
+      "from_paragraphs": [
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "efbe3a94a307e25d",
+          "style": "NORMAL_TEXT",
+          "text": "Paper大部分是造假的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 216,
+      "at_to": 217,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "369eee4665b13a12",
+          "style": "NORMAL_TEXT",
+          "text": "Xs haoran这是得罪哪个intern了 吃瓜 (你应该问没得罪哪个intern)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 224,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e319a94cab682ad",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "601d5ebab91cb084",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 225,
+      "at_to": 226,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6be7917f082bb51",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）来"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f87b3ce24ea93d6c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗?"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 294,
+      "at_to": 295,
+      "from_paragraphs": [
+        {
+          "content_hash": "671259df95e61847",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了）（6666）（6666）（已取餐😋😋）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b47308786779e8d2",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 873,
+      "at_to": 874,
+      "from_paragraphs": [
+        {
+          "content_hash": "cfb2619d7ea98036",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8d1792c4e09048ef",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 884,
+      "paragraphs": [
+        {
+          "content_hash": "61ef012b60c5266e",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜 (可以先看一下红榜对应的描述再看下面的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1001,
+      "at_to": 1003,
+      "from_paragraphs": [
+        {
+          "content_hash": "0c47a025ee889cb6",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7127db11afd00439",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1108,
+      "paragraphs": [
+        {
+          "content_hash": "9ba9aad9af849d7d",
+          "style": "NORMAL_TEXT",
+          "text": "有没MIT的瓜，求求🥺"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1111,
+      "paragraphs": [
+        {
+          "content_hash": "339dc5f276375c65",
+          "style": "NORMAL_TEXT",
+          "text": "有UCB的瓜，求求🥺"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1283,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1328,
+      "at_to": 1333,
+      "from_paragraphs": [
+        {
+          "content_hash": "8ad73fa59f8a3441",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f5704f9285c9ede",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）（回前面的, 他还喜欢玩知乎和xhs然后被人喷，名字叫压缩即智能"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1346,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1359,
+      "paragraphs": [
+        {
+          "content_hash": "e435a5a8f7b4c35c",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了（甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖）（人品有问题，内涵阴阳同学院其他女教授，婊，贱，bitch)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1402,
+      "at_to": 1418,
+      "from_paragraphs": [
+        {
+          "content_hash": "6f28e72f2f10880d",
+          "style": "NORMAL_TEXT",
+          "text": "纯c's"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f5f182d3a605b9b",
+          "style": "NORMAL_TEXT",
+          "text": "无论你上辈子造了什么孽，来了这里哪怕一天，你都连本带利还清了"
+        },
+        {
+          "content_hash": "c5bd3985830177d4",
+          "style": "NORMAL_TEXT",
+          "text": "在这里毕业不只有欣喜还有解脱，当代塞拉斯"
+        },
+        {
+          "content_hash": "195b25a04d13eddf",
+          "style": "NORMAL_TEXT",
+          "text": "永别了牢笼"
+        },
+        {
+          "content_hash": "ed6cffa6d3f77c8e",
+          "style": "NORMAL_TEXT",
+          "text": "看《活着》像看爽文"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
