@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-58-40Z.delta.json",
+  "delta_ts": "2026-04-20T09-58-40Z",
+  "reviewed_at_utc": "2026-04-20T09:59:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific observable behavior '开会就问sota' (asks about SOTA in meetings) from complaint about advisor, suppressing concrete detail while retaining general criticism",
+      "excerpt": "（她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）"
+    }
+  ],
+  "prompt_sha256": "b8aa9ef48cfee2353fdb6b940246eb2d9bcc9ca86ab39f04005925787335a8cb",
+  "finish_reason": "stop",
+  "completion_tokens": 4062
+}

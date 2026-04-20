@@ -1,0 +1,162 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-54-22Z",
+    "revision_id": "AMHacu7zH9RLDvyMKEFo3TZtHKTUdXIUi4q88x21ZGO7yVk7aBKLGAQVaeZ4iVQ70tiD9c6WnK0WpLb-wjMUUJaAzA",
+    "paragraph_count": 1496
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-58-40Z",
+    "revision_id": "AMHacu5Squf0fhw3zEDo_uuBOrZGNn2xv4l1Q7pfl37uQ4iLRdZoMJCCrs-Dh85Ni_gPhmL7rS0nraj9J2Wv-HS7ww",
+    "paragraph_count": 1503
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0033,
+    "insertion_ratio": 0.008
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 31,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "8524eb3dcb838c66",
+          "style": "NORMAL_TEXT",
+          "text": "UCR school of medicine Zheng Sika"
+        },
+        {
+          "content_hash": "0bb0a62fd50faf96",
+          "style": "NORMAL_TEXT",
+          "text": "有funding 但一直让学生做TA 问有什么能摆脱这个状况变成RA 得到回复就是你不够努力"
+        },
+        {
+          "content_hash": "8857a61be7cbc4d7",
+          "style": "NORMAL_TEXT",
+          "text": "一个rotation project 能拖4 年"
+        },
+        {
+          "content_hash": "2cf3589795773793",
+          "style": "NORMAL_TEXT",
+          "text": "学校有policy phd学生F 两次自动drop out, 换组的时候他毫不吝啬直接给你一个F, 只因为你换组"
+        },
+        {
+          "content_hash": "d840d7ad54eebb0f",
+          "style": "NORMAL_TEXT",
+          "text": "说严格吧，他会把你留在你的项目上ghost 两个月，自己去度假，说不严格吧，他回来花30 分钟看你的write up 直接能让你全部重做"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 204,
+      "at_to": 211,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a97c0cfacad14bc",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d8e152c3f5b9215f",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 224,
+      "at_to": 231,
+      "from_paragraphs": [
+        {
+          "content_hash": "601d5ebab91cb084",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d57596298710a597",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位（同，证实这一点）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 226,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "f87b3ce24ea93d6c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗?"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "703068a7023279ce",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? reborn agi?"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 875,
+      "at_to": 882,
+      "from_paragraphs": [
+        {
+          "content_hash": "756d8c373e0fe81a",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b9ef5bcc84d2faf",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1003,
+      "at_to": 1010,
+      "from_paragraphs": [
+        {
+          "content_hash": "7127db11afd00439",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b711def079840433",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）（不一定，我拿他的推荐信去了四大）"
+        }
+      ]
+    }
+  ]
+}
