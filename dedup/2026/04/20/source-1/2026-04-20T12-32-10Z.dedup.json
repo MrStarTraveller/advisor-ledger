@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-32-10Z",
+  "reviewed_at_utc": "2026-04-20T12:33:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "f0341fbcb1f93ad8",
+      "insert_hash": "02a205999448cab5",
+      "note": "Same name with added reaction",
+      "ghost_text": "Yufei Ding 学术妲己",
+      "insert_text": "Yufei Ding 学术妲己  yue 被这个坑了"
+    },
+    {
+      "ghost_hash": "0ffe4ca9372f198c",
+      "insert_hash": "85f097e7877ea856",
+      "note": "Completed sentence, added details",
+      "ghost_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源ju",
+      "insert_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，ta对学生也很support，学生去向也很好，无论是工业界还是学术界，教职基本去到top10，工业界也基本是顶级大厂。"
+    },
+    {
+      "ghost_hash": "317ef3706c83e061",
+      "insert_hash": "eb939e349d82d336",
+      "note": "Extended conversation, added defense",
+      "ghost_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说理解不好的)",
+      "insert_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说lijie不好的，帮忙找实习，给推荐信，给connection，还是那句话，没人求你来找lijie合作，我真的是第一次听说谁申请结果有问题，自己不行跑过来怪老师的。。。)  说了别瞎定位，太自以为是(急了是吧，反驳你就是自以为是是吧，你哪位啊) 不是，你为啥一直定位，而且定位不对。你的圈子不代表全面的圈子。(反正你高兴就好，没人对定位你感兴趣，我只是看不惯带了我科研的学姐在这里被莫名其妙的抹黑，你能说话别人也能说话)"
+    },
+    {
+      "ghost_hash": "85fe53460351f6cb",
+      "insert_hash": "d5a55ee4ed958b4c",
+      "note": "Added question about student intake",
+      "ghost_text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）",
+      "insert_text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）（招五十个学生吗）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2682,
+  "skipped_reason": null
+}

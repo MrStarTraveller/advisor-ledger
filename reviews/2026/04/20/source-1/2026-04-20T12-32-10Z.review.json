@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-32-10Z.delta.json",
+  "delta_ts": "2026-04-20T12-32-10Z",
+  "reviewed_at_utc": "2026-04-20T12:33:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered slur '学术妲己' (academic Daji) implying sexual manipulation to advance academically, accompanied by disgust expression 'yue'",
+      "excerpt": "Yufei Ding 学术妲己  yue 被这个坑了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Sustained personal attacks including '无能狂怒' (impotent rage), '不下头吗' (cringe/embarrassing), and '自己不行' (you're incompetent)",
+      "excerpt": "自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊...自己不行跑过来怪老师的"
+    }
+  ],
+  "prompt_sha256": "86debc20ce29ee99375c42dc92d2f6a7ed1dd3e207dd3bfeef6dae604a7311b1",
+  "finish_reason": "stop",
+  "completion_tokens": 5630
+}
