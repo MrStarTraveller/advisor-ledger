@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T08-36-56Z.delta.json",
+  "delta_ts": "2026-04-20T08-36-56Z",
+  "reviewed_at_utc": "2026-04-20T08:38:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Disclosure of PhD student's full name (jiageng mao)",
+      "excerpt": "组里逆天 phd jiageng mao 没水平"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insults toward a student ('逆天', '没水平') rather than concrete advising practice criticism",
+      "excerpt": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来"
+    }
+  ],
+  "prompt_sha256": "6544e579e25071322af0311de7dba82e02b4074415d1a75191416a548dd3dfb2",
+  "finish_reason": "stop",
+  "completion_tokens": 3814
+}

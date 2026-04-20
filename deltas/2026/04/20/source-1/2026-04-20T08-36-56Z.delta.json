@@ -1,0 +1,240 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-31-50Z",
+    "revision_id": "AMHacu6WF8Kf9zu5ARvRg5J-85-MndrWVmd1Uq3gJYl7tGS8ikRiMx172pCbzFIUNRKE5zJN-v7N6EjAWw7SYnTqiA",
+    "paragraph_count": 1379
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-36-56Z",
+    "revision_id": "AMHacu7PbsNNQXduyZswOndmqVC9VwIc7tNDF7qpHq7Ui2aAP4dvL4F0iRfOnzq0Z926F_nDxq6EI_vTQHxDIla3AQ",
+    "paragraph_count": 1403
+  },
+  "summary": {
+    "inserted_paragraphs": 28,
+    "deleted_paragraphs": 4,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0029,
+    "insertion_ratio": 0.02
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 185,
+      "paragraphs": [
+        {
+          "content_hash": "bddd9c65a9346246",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao!!!"
+        },
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "8f7ea9c996926ab1",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c2ce6caf561cc2e0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "78edd702c322792d",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao!!!"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 214,
+      "at_to": 235,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6ef8bf765c1f25b",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4770ed4866140abb",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 380,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2833f9b9be5f1bee",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。组里的placement也都可以查到。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 560,
+      "at_to": 583,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "05095ba5f4602098",
+          "style": "NORMAL_TEXT",
+          "text": "很push，但是自己不懂技术"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 735,
+      "paragraphs": [
+        {
+          "content_hash": "b797e74f20ecf1d3",
+          "style": "NORMAL_TEXT",
+          "text": "朋友花了6年才毕业，但应该没啥"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 776,
+      "at_to": 800,
+      "from_paragraphs": [
+        {
+          "content_hash": "35f80e1a3e6f7f2e",
+          "style": "NORMAL_TEXT",
+          "text": "（其实大家应该只好奇下面的事情有没有真实发生过吧...）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dddac90bcac437ab",
+          "style": "NORMAL_TEXT",
+          "text": "（其实大家应该只好奇下面的事情有没有真实发生过吧...）(造谣和歪曲事实者自己心里清楚，知情的人表示很难理解)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 825,
+      "at_to": 849,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe7bc66b728e5336",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来（假的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fc589f16b13ae33c",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来（假的）(真实可查)"
+        }
+      ]
+    }
+  ]
+}
