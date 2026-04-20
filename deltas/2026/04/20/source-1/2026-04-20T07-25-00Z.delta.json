@@ -1,0 +1,227 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-22-56Z",
+    "revision_id": "AMHacu5O6OSjHdfAkBuIiZvEwdSTqjTlQn7u3182ZPK1Jk2ruWYXva9OeOpFhYcMEj8KC15fQ8tUWNAH5oSeMrm90g",
+    "paragraph_count": 1279
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-25-00Z",
+    "revision_id": "AMHacu4152uO3lyD5q2uxS3qs3B-2n_YUaujL-HOvRNuHGEt0uRNwRMEeBHvpiV6O_IZQKwSpLIC6z5418oxu_eurA",
+    "paragraph_count": 1283
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 10,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0078,
+    "insertion_ratio": 0.0109
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 49,
+      "paragraphs": [
+        {
+          "content_hash": "6bd9968a19a0f035",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng (PhD)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 95,
+      "at_to": 98,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54c5bcac6d078518",
+          "style": "NORMAL_TEXT",
+          "text": "还水出道地感来了，劣币驱逐良币蚌埠住了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 334,
+      "at_to": 337,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d00b916d395a869",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师组里氛围很好，每个学生方向相关但不构成竞争，聚餐很频繁。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7d00bd9bd8726e51",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师组里氛围很好，每个学生方向相关但又不完全相同，因此没有任何组内恶意竞争且合作频繁。组里经常聚餐，私下也有很多活动，可以从他们lab的主页看到zha pi a。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 562,
+      "paragraphs": [
+        {
+          "content_hash": "70800fd8b2585d25",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了 看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心 （什么原因道心破碎了。放点事实可以不，别净人身攻击了。(可以不要对骂吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 719,
+      "at_to": 721,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c79a3dc0889bd02",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "345db02d0273bfd0",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有到达自己心仪的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 724,
+      "at_to": 726,
+      "from_paragraphs": [
+        {
+          "content_hash": "f59af817e4ca2c84",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（"
+        },
+        {
+          "content_hash": "e290516e1d887a94",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "610ba778bb1a8ca9",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）"
+        },
+        {
+          "content_hash": "539a7d0e63143216",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 741,
+      "at_to": 743,
+      "from_paragraphs": [
+        {
+          "content_hash": "490160a68997771f",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？(哪里来的40个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack，只是比较inclusive)（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子）（按推荐信收学生就说是关系户？），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。老师是个好老师，别营销过度了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1016445f429cac6b",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常?（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子）（按推荐信收学生就说是关系户？），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。老师是个好老师，别营销过度了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 967,
+      "paragraphs": [
+        {
+          "content_hash": "beecd6dea6a03f57",
+          "style": "NORMAL_TEXT",
+          "text": "认识前后lia"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1016,
+      "at_to": 1019,
+      "from_paragraphs": [
+        {
+          "content_hash": "d86f3177df001a8d",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，压力学生，学生被压力去看心理医生。说学生不行，但是自己也说不出行的东西，人菜瘾大。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "34c9311bba47dfe0",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，学生被压力去看心理医生。批评学生idea不行，但说不出行的东西，人菜瘾大。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1226,
+      "at_to": 1229,
+      "from_paragraphs": [
+        {
+          "content_hash": "21db39abcaa45369",
+          "style": "NORMAL_TEXT",
+          "text": "本科的时候上她的课被骗来，读博期间经常被责骂，组内全是垃圾横向，只想赚钱，对学生毫无指导，高年级博士常态化延毕"
+        },
+        {
+          "content_hash": "ec43142bc2281ccc",
+          "style": "NORMAL_TEXT",
+          "text": "好好聊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b5f51f199445ab75",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间经常被责骂，组内全是垃圾横向，只想赚钱，对学生毫无指导，高年级博士常态化无论文延毕。"
+        },
+        {
+          "content_hash": "1353b836e2d1ba16",
+          "style": "NORMAL_TEXT",
+          "text": "我是张老师几年前毕业的学生，那个时候实验室人很少的时候她还不错"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
