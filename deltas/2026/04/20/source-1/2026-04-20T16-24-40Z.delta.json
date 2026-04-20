@@ -1,0 +1,272 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T16-18-20Z",
+    "revision_id": "AMHacu61Fi_I24PAXnRWzyEXaG0_EAoxiaya0YeIBrBM2_D9XSe_kHbjwvwzxJyyscRbdwZ4BxBUFlK5r3O0U1Lz1w",
+    "paragraph_count": 2140
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T16-24-40Z",
+    "revision_id": "AMHacu7Bd5lR5AvBr_TmuPaWE0b2_Jd4izqSDaCMAnsQmZu13Tenzjuz03Dhle_lvtU4rMIcSRz-GlcLmcbGnv_IRQ",
+    "paragraph_count": 2134
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 18,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0084,
+    "insertion_ratio": 0.0056
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 61,
+      "at_to": 61,
+      "from_paragraphs": [
+        {
+          "content_hash": "70c22d1b7b3bf951",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，Landman没啥黑的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2cc948bf96498a9e",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，只能说Landman没啥黑的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 106,
+      "at_to": 106,
+      "from_paragraphs": [
+        {
+          "content_hash": "78f48b4e8bf9f7ab",
+          "style": "NORMAL_TEXT",
+          "text": "完全是无稽之谈。认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我很不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；没有比yiwei老师更耐心的人了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "45ec17ab967a0368",
+          "style": "NORMAL_TEXT",
+          "text": "完全是无稽之谈。认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；没有比yiwei老师更耐心的人了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 184,
+      "at_to": 184,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc19abb4fe0657aa",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）（有关系，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe773d23ac3493a0",
+          "style": "NORMAL_TEXT",
+          "text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）（有关系，前者是中间为了后者造的谣）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 424,
+      "at_to": 424,
+      "from_paragraphs": [
+        {
+          "content_hash": "3dbc1264aca29939",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "653db5930442ba16",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 508,
+      "at_to": 508,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3d453b222d213828",
+          "style": "NORMAL_TEXT",
+          "text": "另外我是他某一个黑推谣言当事人的朋友，朋友说他“可能给了黑推”的理由是，他被某学校拒了以后，chuanggei"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 514,
+      "at_to": 514,
+      "from_paragraphs": [
+        {
+          "content_hash": "d3bfc8b51980bedc",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师 (组里phd朋友，这个真纯造谣)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "85f085adab163162",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师 (组里phd朋友，这个真纯造谣)（拱火没意思吧? 那为啥他主页15 个phd，三年没一个人换导师呢？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 517,
+      "at_to": 517,
+      "from_paragraphs": [
+        {
+          "content_hash": "4644674b38fc0e12",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。(说的其实是top10）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "daddfdb2a0b28a4a",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。(说的其实是top10）(CS ranking 确实他们AI top 10 吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1228,
+      "at_to": 1228,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2483bb376d2c4d9",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼"
+        },
+        {
+          "content_hash": "5c50dfc19ec6afff",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c20ea9f73b8040f2",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼 (广收门徒，孔子这一块)"
+        },
+        {
+          "content_hash": "c1e6d0bafc08bf8a",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写(尬黑了，有认识intern没产出也给写推荐信的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1451,
+      "at_to": 1451,
+      "from_paragraphs": [
+        {
+          "content_hash": "1161a20cfd921961",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，manling也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7ad261353250691",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，她也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1717,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "94ea6c330376f29b",
+          "style": "NORMAL_TEXT",
+          "text": "NYU Eunsol Choi"
+        },
+        {
+          "content_hash": "34b1f90f85c7b3c6",
+          "style": "NORMAL_TEXT",
+          "text": "学生得不到指导，没idea，压力学生。批评学生idea的同时拿不出令人信服的方向。"
+        },
+        {
+          "content_hash": "a46bdc5cad03ec19",
+          "style": "NORMAL_TEXT",
+          "text": "科研划水。"
+        },
+        {
+          "content_hash": "f76d1211d302114e",
+          "style": "NORMAL_TEXT",
+          "text": "对学生有意见不进行沟通和指导，突然发难。期待学生从她的负反馈里悟到她想要什么。"
+        },
+        {
+          "content_hash": "e53cdb65457fb327",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个博士离组。(好险我在发完邮件后看到了这个）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1848,
+      "at_to": 1841,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "64987c1440767658",
+          "style": "NORMAL_TEXT",
+          "text": "五年mphil"
+        },
+        {
+          "content_hash": "6b56959662424137",
+          "style": "NORMAL_TEXT",
+          "text": "quit率奇高"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T16-24-40Z",
+  "reviewed_at_utc": "2026-04-20T16:26:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 15,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "70c22d1b7b3bf951",
+      "insert_hash": "2cc948bf96498a9e",
+      "note": "minor wording adjustment at end",
+      "ghost_text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，Landman没啥黑的)",
+      "insert_text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，只能说Landman没啥黑的)"
+    },
+    {
+      "ghost_hash": "78f48b4e8bf9f7ab",
+      "insert_hash": "45ec17ab967a0368",
+      "note": "removed intensifier 很",
+      "ghost_text": "完全是无稽之谈。认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我很不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；没有比yiwei老师更耐心的人了。",
+      "insert_text": "完全是无稽之谈。认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；没有比yiwei老师更耐心的人了。"
+    },
+    {
+      "ghost_hash": "bc19abb4fe0657aa",
+      "insert_hash": "fe773d23ac3493a0",
+      "note": "completed cut-off parenthetical",
+      "ghost_text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）（有关系，",
+      "insert_text": "到底是什么瓜？怎么逻辑这么奇怪。婚外情和学生偷idea和转组有什么关系？(没关系，看着像是莫名其妙的人看热闹不嫌事大）（有关系，前者是中间为了后者造的谣）"
+    },
+    {
+      "ghost_hash": "3dbc1264aca29939",
+      "insert_hash": "653db5930442ba16",
+      "note": "added rebuttal after original text",
+      "ghost_text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜",
+      "insert_text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+    },
+    {
+      "ghost_hash": "d3bfc8b51980bedc",
+      "insert_hash": "85f085adab163162",
+      "note": "added counter-argument question",
+      "ghost_text": "学生联名写信举报坏老师 (组里phd朋友，这个真纯造谣)",
+      "insert_text": "学生联名写信举报坏老师 (组里phd朋友，这个真纯造谣)（拱火没意思吧? 那为啥他主页15 个phd，三年没一个人换导师呢？）"
+    },
+    {
+      "ghost_hash": "4644674b38fc0e12",
+      "insert_hash": "daddfdb2a0b28a4a",
+      "note": "added CS ranking support",
+      "ghost_text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。(说的其实是top10）",
+      "insert_text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。(说的其实是top10）(CS ranking 确实他们AI top 10 吧)"
+    },
+    {
+      "ghost_hash": "e2483bb376d2c4d9",
+      "insert_hash": "c20ea9f73b8040f2",
+      "note": "added humorous rephrasing",
+      "ghost_text": "招特别多的intern，而且疯狂养鱼",
+      "insert_text": "招特别多的intern，而且疯狂养鱼 (广收门徒，孔子这一块)"
+    },
+    {
+      "ghost_hash": "5c50dfc19ec6afff",
+      "insert_hash": "c1e6d0bafc08bf8a",
+      "note": "added rebuttal in parentheses",
+      "ghost_text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写",
+      "insert_text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写(尬黑了，有认识intern没产出也给写推荐信的)"
+    },
+    {
+      "ghost_hash": "1161a20cfd921961",
+      "insert_hash": "a7ad261353250691",
+      "note": "changed name to pronoun 她",
+      "ghost_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，manling也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)(开盒信息还是不分享了)",
+      "insert_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，她也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)(开盒信息还是不分享了)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4547,
+  "skipped_reason": null
+}

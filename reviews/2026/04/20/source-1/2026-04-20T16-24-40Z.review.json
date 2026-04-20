@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-24-40Z.delta.json",
+  "delta_ts": "2026-04-20T16-24-40Z",
+  "reviewed_at_utc": "2026-04-20T16:25:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Addition contains lab-specific descriptors detailed enough to de-anonymize a specific intern (collaboration history, paper rejection, specific recommendation letter requests, school offers, and work history), even though full name is omitted. The author explicitly acknowledges the sensitivity by stating they will not share '开盒信息' (doxxing info).",
+      "excerpt": "这intern和phd(我)之前一起合作, 他自己有篇paper一直没中... 他想letter里写\"Strongest Student of this year\"... 开盒信息还是不分享了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a substantive entry about NYU professor Eunsol Choi containing specific observations about advising practices (lack of guidance, pressuring students, vague feedback, three PhDs leaving in half a year). This is not a typo, blank, or off-topic content; it appears to suppress legitimate criticism of a specific advisor.",
+      "excerpt": "NYU Eunsol Choi\n学生得不到指导，没idea，压力学生。批评学生idea的同时拿不出令人信服的方向。\n科研划水。\n对学生有意见不进行沟通和指导，突然发难。期待学生从她的负反馈里悟到她想要什么。\n半年3个博士离组。"
+    }
+  ],
+  "prompt_sha256": "7c297ee98cdfe24e2e138e65e47baa062afaf3b9a9a87cdea62661f5da5777b9",
+  "finish_reason": "stop",
+  "completion_tokens": 4529
+}
