@@ -1,0 +1,83 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T09-14-40Z",
+  "reviewed_at_utc": "2026-04-20T09:16:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 15,
+  "pairs": [
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "empty paragraph preserved",
+      "ghost_text": "",
+      "insert_text": ""
+    },
+    {
+      "ghost_hash": "692c183d4d79b0e0",
+      "insert_hash": "986f647080785a3f",
+      "note": "split paragraph, first half",
+      "ghost_text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）",
+      "insert_text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一"
+    },
+    {
+      "ghost_hash": "4b51b1cfc6f15096",
+      "insert_hash": "86bf3b07dd59663d",
+      "note": "expanded with defense details",
+      "ghost_text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我zhi'zhi'dao",
+      "insert_text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧x"
+    },
+    {
+      "ghost_hash": "78b34469a365c589",
+      "insert_hash": "fe9468ba25427a2a",
+      "note": "added evidence challenge",
+      "ghost_text": "很多人被坑得很惨, 你说个名字啊",
+      "insert_text": "很多人被坑得很惨, 你说个名字啊 你有证据吗搁这乱黑"
+    },
+    {
+      "ghost_hash": "69bb507264555583",
+      "insert_hash": "a0560aa686f35a34",
+      "note": "added parenthetical defense",
+      "ghost_text": "组内一点都不inclusive",
+      "insert_text": "组内一点都不inclusive (不知道从哪里感觉的..组里的人都很和谐相处...)"
+    },
+    {
+      "ghost_hash": "8d38e6472e9e33b6",
+      "insert_hash": "967f2cbb0a9fb845",
+      "note": "added ellipsis",
+      "ghost_text": "感觉非常好锁定写这段话的人",
+      "insert_text": "感觉非常好锁定写这段话的人...."
+    },
+    {
+      "ghost_hash": "4b99d009210cbe08",
+      "insert_hash": "c173e6b524170ec3",
+      "note": "minor wording: my evaluation",
+      "ghost_text": "有关申请季的几条xhs有无评价 （本人她组intern，评价就是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（\t）",
+      "insert_text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）"
+    },
+    {
+      "ghost_hash": "969b76888892e409",
+      "insert_hash": "7546b35bb09ee246",
+      "note": "组里机器 to 学校机器",
+      "ghost_text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用组里机器, 不会租卡, 只有上大规模实验才租卡)（不是吧，每个phd都有8H100随时用啊）",
+      "insert_text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)（不是吧，每个phd都有8H100随时用啊）"
+    },
+    {
+      "ghost_hash": "ee4c71d4599bf77d",
+      "insert_hash": "1363776eff2af4b8",
+      "note": "expanded narrative details",
+      "ghost_text": "这个问题的谜底藏在谜面里，那篇文章的一作？（转组的人）“听到了”后来在作者列表里加上了名字的那个人的 idea（顾老师方面的“女学生”）。就我的观察而言，我猜测是转组的人完全wu，但是或许我们可以有请双方辩一辩 XD",
+      "insert_text": "这个的谜底藏在谜面里：在这个叙事下，那篇文章的一作？（转组的人）“听到了”后来在作者列表里加上了名字的那个人的 idea（顾老师方面的“女学生”）。不过基于我的观测，我猜测转组的真实原因是”转组的人“完全无法和那个“女学生”合作（我也），之后便是顾老师尝试为了那个“女学生”争取文章的署名导致事件，包括该“女学生”被看作是“妲己”。这要我说还是顾老师对他的学生太好了，过于偏袒他的嫡系 =( 但是就具体细节，或许我们可以有请双方辩一辩 XD"
+    },
+    {
+      "ghost_hash": "5d69f24c81f58684",
+      "insert_hash": "11e1803e893210d7",
+      "note": "removed trailing character",
+      "ghost_text": "Peking, w",
+      "insert_text": "Peking,"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 7824,
+  "skipped_reason": null
+}

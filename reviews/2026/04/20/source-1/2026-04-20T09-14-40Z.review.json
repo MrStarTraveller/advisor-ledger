@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-14-40Z.delta.json",
+  "delta_ts": "2026-04-20T09-14-40Z",
+  "reviewed_at_utc": "2026-04-20T09:15:21Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported gendered character attack labeling a specific student as '妲己' (Daji), a mythological villainess, which constitutes a personal insult rather than criticism of concrete advising practices.",
+      "excerpt": "该“女学生”被看作是“妲己”"
+    }
+  ],
+  "prompt_sha256": "3dab05f5601fde8d8434e08433e2c653d67f5ed60a8144a48fd13af66ca0e196",
+  "finish_reason": "stop",
+  "completion_tokens": 4229
+}
