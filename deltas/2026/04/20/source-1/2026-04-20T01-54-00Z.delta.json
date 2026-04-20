@@ -1,0 +1,365 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-49-50Z",
+    "revision_id": "AMHacu7SLuoFwqIrzO64NTodx4fjJhX2wVF2R9xKO2EvdDxcg9SiOWJIGkfN5m4oi0r1Ky7fVe7W0zuQ7zeXf1ggCQ",
+    "paragraph_count": 732
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-54-00Z",
+    "revision_id": "AMHacu66LZJOQ8wg1vboR7X2FyWD9usoqXw1xP5T3YdhDo9-HhHwX5ygOwn43pWPMeEiEnfL04OSQ3YuLoUB7Igvfg",
+    "paragraph_count": 754
+  },
+  "summary": {
+    "inserted_paragraphs": 32,
+    "deleted_paragraphs": 10,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0137,
+    "insertion_ratio": 0.0424
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 11,
+      "at_to": 11,
+      "from_paragraphs": [
+        {
+          "content_hash": "5dd506ad657cac78",
+          "style": "NORMAL_TEXT",
+          "text": "（很多兄弟姐妹们可能不懂如何编辑。教程：进入链接https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.0，会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面，Good Luck!）——（版主可以搞个正式编辑教程）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f3b0441ba6e8676",
+          "style": "NORMAL_TEXT",
+          "text": "（很多兄弟姐妹们可能不懂如何编辑。教程：进入链接https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.0"
+        },
+        {
+          "content_hash": "019d98dfde903a3f",
+          "style": "NORMAL_TEXT",
+          "text": "会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面，Good Luck!）——（版主可以搞个正式编辑教程）九十多个人同时在线编辑，给Google Doc上压力测试了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 13,
+      "at_to": 14,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c69509ff0dec47b",
+          "style": "NORMAL_TEXT",
+          "text": "兄弟姐妹如果觉得别人说的有问题，可以不要随意开盒别人吗？如果我在这个帖子上把他们所有的PhD at 进来还有几个人的故事会在这里？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2f5c056e92cfe6ce",
+          "style": "NORMAL_TEXT",
+          "text": "兄弟姐妹如果觉得别人说的有问题，可以不要随意开盒别人吗？如果我在这个帖子上把他们所有的PhD at 进来还有几个人的故事会在这里？ 对，不要放除了PI以外的任何学生信息！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 32,
+      "paragraphs": [
+        {
+          "content_hash": "54c96f3414e1944e",
+          "style": "NORMAL_TEXT",
+          "text": "他老婆应该是搬运来的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 63,
+      "paragraphs": [
+        {
+          "content_hash": "80d501f5c019bfbc",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd亲人去世了不让回国"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 107,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4dd8a9ac01c3beae",
+          "style": "NORMAL_TEXT",
+          "text": "MIT paul liang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 188,
+      "paragraphs": [
+        {
+          "content_hash": "3a6ce6f8d0a128e0",
+          "style": "NORMAL_TEXT",
+          "text": "Duke University, Yiran Chen"
+        },
+        {
+          "content_hash": "a3701a6e2780bf6b",
+          "style": "NORMAL_TEXT",
+          "text": "保护🛡️"
+        },
+        {
+          "content_hash": "fd32eb60f02778f6",
+          "style": "NORMAL_TEXT",
+          "text": "看来陈老师是一直在盯着这个google doc的，刚刚明明看到他名字了然后就莫名其妙消失了，那我来补充一下吧"
+        },
+        {
+          "content_hash": "dec0458330ef9db9",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了"
+        },
+        {
+          "content_hash": "df18874ad0ab4c83",
+          "style": "NORMAL_TEXT",
+          "text": "曾经忽悠一个来读博后的学生读了个二博（其他人爆料）"
+        },
+        {
+          "content_hash": "15a137937f428b12",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "336bf964caf58c37",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候最厉害的学生wei wen老婆都不带到duke，还卡了wei wen毕业，全组都在做横向，对自己家小孩极差，"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 206,
+      "paragraphs": [
+        {
+          "content_hash": "9fbe3f5e2256e81a",
+          "style": "NORMAL_TEXT",
+          "text": "hui'chao"
+        },
+        {
+          "content_hash": "42b86f36b07ece88",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 313,
+      "from_paragraphs": [
+        {
+          "content_hash": "9264791c146d69e6",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0352b06859ae5363",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 345,
+      "paragraphs": [
+        {
+          "content_hash": "e866e08fb7f21e1f",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，linkedin小网红啊，我看他天天更新linkedin"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 356,
+      "paragraphs": [
+        {
+          "content_hash": "4cdd9cf476f5bd1b",
+          "style": "NORMAL_TEXT",
+          "text": "phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "b534aac49d91c651",
+          "style": "NORMAL_TEXT",
+          "text": "liu还不错的了，正经做学术的。除了push其他黑榜常见问题基本都没有，而且idea都是他给的，他们组phd简直全是agent，还主动帮学生connect圈子里面其他产出好的组然后搞合作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec7f77b1f422e721",
+          "style": "NORMAL_TEXT",
+          "text": "Liu还不错的了，正经做学术的。除了push其他黑榜常见问题基本都没有，而且idea都是他给的，他们组phd简直全是agent，还主动帮学生connect圈子里面其他产出好的组然后搞合作"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 439,
+      "at_to": 458,
+      "from_paragraphs": [
+        {
+          "content_hash": "edebdac4d733f1dc",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她，后面uw的那几个candidate上了以后她基本没法跳槽），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48b6f04bea4216c6",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她，后面uw的那几个candidate上了以后她基本没法跳槽），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 443,
+      "at_to": 462,
+      "from_paragraphs": [
+        {
+          "content_hash": "ed088eab3a912887",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        },
+        {
+          "content_hash": "5425c38142da05e5",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c0e805f04d05950",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        },
+        {
+          "content_hash": "2388f17261fb1708",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 467,
+      "at_to": 486,
+      "from_paragraphs": [
+        {
+          "content_hash": "020f6462a5853205",
+          "style": "NORMAL_TEXT",
+          "text": "U wisconsin madison Sharon Li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27eed66b1ba95b78",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Sharon Li"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 500,
+      "at_to": 519,
+      "from_paragraphs": [
+        {
+          "content_hash": "f8ff4daf8e19d81a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d402fe876c6a5e1a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 564,
+      "at_to": 583,
+      "from_paragraphs": [
+        {
+          "content_hash": "483e4a4e35867274",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评做的不好的地方（对事不对人），其他时候相处融洽，来世还当heng学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e72fe2168bdc2579",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评做的不好的地方（对事不对人），其他时候相处融洽，来世还当heng学生（我也想去miromind!）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 751,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "eead539e1cf0df73",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-54-00Z.delta.json",
+  "delta_ts": "2026-04-20T01-54-00Z",
+  "reviewed_at_utc": "2026-04-20T01:54:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (wei wen) disclosed in context of advisor's former student and personal details about the student's spouse",
+      "excerpt": "最厉害的学生wei wen老婆都不带到duke"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult about professor's spouse and immigration status",
+      "excerpt": "他老婆应该是搬运来的"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment attacking professor's parenting and private family life",
+      "excerpt": "对自己家小孩极差"
+    }
+  ],
+  "prompt_sha256": "7081566dae518d45060e9fae9fa66aa51cc90795d784f3f23c5b509170e42a0b",
+  "finish_reason": "stop",
+  "completion_tokens": 4407
+}
