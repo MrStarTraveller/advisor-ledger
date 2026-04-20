@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-14-22Z.delta.json",
+  "delta_ts": "2026-04-20T21-14-22Z",
+  "reviewed_at_utc": "2026-04-20T21:15:08Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observations about a specific advisor (鱼王), including both criticism (disrespectful behavior, poor time management) and a detailed rebuttal about interview practices. This appears to suppress legitimate content about advising practices rather than performing cleanup.",
+      "excerpt": "鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念...面试聊过，很不尊重学生 (re: 如果指的是phd面试的话我感觉还挺好的？)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added text contains censored profanity (*****) and unsupported character judgments ('真歹毒' / truly vicious, '自己来洗了' / self-whitewashing) targeting the professor, constituting personal attacks beyond concrete criticism of advising practices.",
+      "excerpt": "〈--- geng自己来洗了？？？好文章？？*****...真歹毒"
+    }
+  ],
+  "prompt_sha256": "fcb420181d107d1e3f366c4bb6f32a575f5aa2748e3e4d60bc59838d07b52e2b",
+  "finish_reason": "stop",
+  "completion_tokens": 4543
+}

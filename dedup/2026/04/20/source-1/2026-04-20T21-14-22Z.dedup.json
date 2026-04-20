@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-14-22Z",
+  "reviewed_at_utc": "2026-04-20T21:15:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 14,
+  "n_inserts": 14,
+  "pairs": [
+    {
+      "ghost_hash": "ae056b17f51726ca",
+      "insert_hash": "3910b7f2b33b8303",
+      "note": "added reassurance on deletion tracking",
+      "ghost_text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。 【不知道帖主能不能设置一下只编辑自己的话？有些人开始进行删除篡改了】很遗憾googledocs没有这个功能",
+      "insert_text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。 【不知道帖主能不能设置一下只编辑自己的话？有些人开始进行删除篡改了】很遗憾googledocs没有这个功能（不用怕 所有大段删除都记录在案，且有AI分析删除意图，可以访问下面的在线网页版查看）"
+    },
+    {
+      "ghost_hash": "7e98c1621e8b6d96",
+      "insert_hash": "d7fc2f4a295b06f1",
+      "note": "added explanatory note",
+      "ghost_text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。连续好几年招不到phd，好不容易招进来几个都跑路了",
+      "insert_text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。(是因为招不到phd,连续好几年都没人选，前几年好不容易招进来几个都跑路了，只能招postdoc和ra）"
+    },
+    {
+      "ghost_hash": "7e8d0d3848dd63b3",
+      "insert_hash": "2e8ce8f2aab924f4",
+      "note": "expanded accusation details",
+      "ghost_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[？？？好文章？？我去你妈的，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这人有🐦关系]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】",
+      "insert_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+    },
+    {
+      "ghost_hash": "776d5525e7ad8fed",
+      "insert_hash": "63540eb155be9dca",
+      "note": "combined split sentence",
+      "ghost_text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他",
+      "insert_text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+    },
+    {
+      "ghost_hash": "30ec98c2e0ba6ff3",
+      "insert_hash": "63540eb155be9dca",
+      "note": "combined split sentence",
+      "ghost_text": "切割了",
+      "insert_text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+    },
+    {
+      "ghost_hash": "f25835b2de7eca1b",
+      "insert_hash": "17fa0eb95cafa2f7",
+      "note": "added snack detail",
+      "ghost_text": "经常请学生吃饭",
+      "insert_text": "经常请学生吃饭（还有零食管够）"
+    },
+    {
+      "ghost_hash": "94a0adc813b9e7a9",
+      "insert_hash": "564ece5cef3e538a",
+      "note": "minor wording adjustments",
+      "ghost_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（但会给intern写不错的推荐信，不会黑推，做了2个月没什么进展的intern也都给写了，也不限制交多少所学校）",
+      "insert_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信phd就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（她会给intern写不错的推荐信，不会黑推，做了2个月没什么进展的intern也都给写了，也不限制交多少所学校）"
+    },
+    {
+      "ghost_hash": "68eb127b14633714",
+      "insert_hash": "ed26958924cd6d18",
+      "note": "clarified meeting schedule",
+      "ghost_text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）",
+      "insert_text": "这个组的intern基本都是跟PhD（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有跟老师的weekly/biweekly project meeting）（就算那周不meet，PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+    },
+    {
+      "ghost_hash": "0e237c2bf6583145",
+      "insert_hash": "7c240a37ca6ffb5f",
+      "note": "extended closing sentence",
+      "ghost_text": "总体来讲，我觉得组里的氛围是自由、chill的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流，百闻不如一见。",
+      "insert_text": "总体来讲，我觉得组里的氛围是自由、chill的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。百闻不如一见，不是三言两语就能否定一个组的全部。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5953,
+  "skipped_reason": null
+}
