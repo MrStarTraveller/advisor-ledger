@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-43-50Z.delta.json",
+  "delta_ts": "2026-04-20T00-43-50Z",
+  "reviewed_at_utc": "2026-04-20T00:44:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive skepticism about the validity of PhD quit rate statistics ('这个数据有点问题吧') and replaces it with a defensive narrative minimizing the advisor's record ('据我所知只有一个学生'), appearing to suppress legitimate criticism rather than correct a typo or remove off-topic content.",
+      "excerpt": "这个数据有点问题吧，hhh"
+    }
+  ],
+  "prompt_sha256": "b7a48a839f82b4ab1c30d9b339b0ec6320462e06d75745c38e7fa9bf4860ebe1",
+  "finish_reason": "stop",
+  "completion_tokens": 5535
+}

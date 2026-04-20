@@ -1,0 +1,83 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-41-45Z",
+    "revision_id": "AMHacu6gexhbMSEDLhbIR1xOzJjveJIR9gdUyoOpKVttfxgd5I-qFBCZ0jwQxBZDVCF96IDWuvAfnaVFy_sUyQY9lQ",
+    "paragraph_count": 581
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-43-50Z",
+    "revision_id": "AMHacu5DqU8k-8In-MYHUnYMiQEbdGi-Z08CA4pMSTGRf1g7WeRTt3VztvK8yicwfoahRJItBVQUEkdvc3--2eBGjg",
+    "paragraph_count": 581
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 3,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0052,
+    "insertion_ratio": 0.0052
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 72,
+      "at_to": 72,
+      "from_paragraphs": [
+        {
+          "content_hash": "b6c6af7d9867af60",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（这个个人觉得遇人不淑确实算丁老师纯倒霉，而且这个数据有点问题吧，hhh）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a1536aa0824b47c",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错......）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 341,
+      "at_to": 341,
+      "from_paragraphs": [
+        {
+          "content_hash": "4d94fabff7cca610",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？那学生还是老师的呢xs，上面那个自愿哥，请老师对的起老师这两个字好吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d9baa1dba3ab2f86",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？那学生还是老师的呢xs，请老师对的起老师这两个字好吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 349,
+      "at_to": 349,
+      "from_paragraphs": [
+        {
+          "content_hash": "f20558054ca29426",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e8d0ffea566caccf",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）（我在这个组，没有这么多intern吧，一般会拉入slackcan）"
+        }
+      ]
+    }
+  ]
+}
