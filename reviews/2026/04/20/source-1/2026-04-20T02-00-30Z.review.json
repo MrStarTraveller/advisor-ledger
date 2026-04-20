@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-00-30Z.delta.json",
+  "delta_ts": "2026-04-20T02-00-30Z",
+  "reviewed_at_utc": "2026-04-20T02:01:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack on professor's physical appearance and character using facial description",
+      "excerpt": "此人面相就一脸圆滑"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive allegations about advisor exploiting applicants and covering up PhD student domestic violence incident",
+      "excerpt": "白嫖申请者给他进组干活，也不给offer/compute\n组里有个phd家暴进局子，被他保释包庇了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Mass deletion of detailed substantive observations about advisors Richard Peng and Yiwei Wang including discrimination allegations, graduation requirements, and academic misconduct rumors",
+      "excerpt": "CMU Richard Peng\n对学生使用歧视性语言（苏北人\n...\nUC Merced, Yiwei Wang\n组里intern 非常多..."
+    }
+  ],
+  "prompt_sha256": "c701edc974dcf3568b1c7845fcf940efd4c3b62c261244aa3280a6a4d05823ed",
+  "finish_reason": "stop",
+  "completion_tokens": 3960
+}

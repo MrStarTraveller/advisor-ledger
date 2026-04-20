@@ -1,0 +1,273 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-58-20Z",
+    "revision_id": "AMHacu63ts8wU9QBnEq6Dx1CfblP2VZICugWueGTmVK9aS0eMWwOLFwA_Q97dC0iKn-oE_-A0-01Ii8N_u_baoihwg",
+    "paragraph_count": 760
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-00-30Z",
+    "revision_id": "AMHacu6k0t7Nk10jsw3k88AoPqOHPTTG1vtym3OZ8Ndjv_pfIrDeZZWuAU4QozPAZ_8B3IBBcgZ1Cuji-O47a-39XA",
+    "paragraph_count": 749
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 23,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0303,
+    "insertion_ratio": 0.016
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 136,
+      "paragraphs": [
+        {
+          "content_hash": "a7e07f9e0316136d",
+          "style": "NORMAL_TEXT",
+          "text": "白嫖申请者给他进组干活，也不给offer/compute"
+        },
+        {
+          "content_hash": "bca78de8ee62bce6",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)（保释不算包庇吧）（xhs不是说xq吗，蹲一个）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 195,
+      "at_to": 193,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf50a9ca998219f6",
+          "style": "NORMAL_TEXT",
+          "text": "夫妻店，跳槽的时候最厉害的学生wei wen老婆都不带到duke，还卡了wei wen毕业，全组都在做横向，没有指导能力，对自己家小孩及其不负责，以前经常让phd带小孩"
+        },
+        {
+          "content_hash": "3290b76e74c8c0c1",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "215f05268851178a",
+          "style": "NORMAL_TEXT",
+          "text": "夫妻店，跳槽的时候最厉害的学生老婆都不带到duke，还卡了那个学生毕业，全组都在做横向，没有指导能力，对自己家小孩及其不负责，以前经常让phd带小孩"
+        },
+        {
+          "content_hash": "c37a80abdd1c734e",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他de)"
+        },
+        {
+          "content_hash": "ba8b54e4679ea238",
+          "style": "NORMAL_TEXT",
+          "text": "据说陈老师大智若愚，去nsf开会，居然知道每个人喜欢什么咖啡，然后买各种咖啡去舔"
+        },
+        {
+          "content_hash": "814e5a2308f3514a",
+          "style": "NORMAL_TEXT",
+          "text": "此人面相就一脸圆滑，没搞过什么正经工作出来过，混圈子的王，天天水EDA圈子"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 199,
+      "from_paragraphs": [
+        {
+          "content_hash": "428a1b27e0580660",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）biwei人这么好。。。完全好人来的 哪里来的离谱听说脾气不好。。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1e37abf223de0955",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）biwei人这么好。。。完全好人来的 哪里来的离谱听说脾气不好。。。(老师脾气很好不 push,)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 207,
+      "at_to": 207,
+      "from_paragraphs": [
+        {
+          "content_hash": "9646b3927aaa9567",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer，在advisor matching period一直含混不清，matching快结束的时候说sorry我不带了你自求多福吧，利用这个方法每年平均踹两个人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21ae19f85da75b90",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer养鱼，在advisor matching period一直含混不清，matching快结束的时候说sorry我不带了你自求多福吧，利用这个方法每年平均踹两个人，要么master out要么最后极限rematch到完全不匹配的导师"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 217,
+      "paragraphs": [
+        {
+          "content_hash": "37b50cc254ff574b",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Richard Peng"
+        },
+        {
+          "content_hash": "ba1643074e1cf5d8",
+          "style": "NORMAL_TEXT",
+          "text": "对学生使用歧视性语言（苏北人"
+        },
+        {
+          "content_hash": "42c7de675ada1f8c",
+          "style": "NORMAL_TEXT",
+          "text": "让学生和intern不顾科研优先参与和科研无关的项目，比如icpc，打棒球，打电子游戏（这难道不是worklife balance？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "560873a186bd1722",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang"
+        },
+        {
+          "content_hash": "fd5f3efbb90f7087",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        },
+        {
+          "content_hash": "13ded3e367e9ee97",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        },
+        {
+          "content_hash": "91ec1bdf0eaa679e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai）"
+        },
+        {
+          "content_hash": "4614dd806c467cd6",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "7b70732ec8d75fc4",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "0647b5ff8dca84e6",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "947bf4c1030c7859",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        },
+        {
+          "content_hash": "3920ed64f16fd6e2",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 310,
+      "at_to": 296,
+      "from_paragraphs": [
+        {
+          "content_hash": "01a5dc7861936e37",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索 (啊？？真嘟假嘟)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "233c1b87ae25ef01",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索 (啊？？真嘟假嘟) graph area还是有点名气的吧。怎么就水平低了，拿点concrete example出来可以不"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 588,
+      "paragraphs": [
+        {
+          "content_hash": "52a0efbcd0cf0271",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 697,
+      "at_to": 685,
+      "from_paragraphs": [
+        {
+          "content_hash": "3f6023771321aee8",
+          "style": "NORMAL_TEXT",
+          "text": "最近搞新事业，拉到商汤去当牛马，不去不给发offer，必须一直干到入学。特别是手下有个巨sb和push的leader"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfb39ecb98a8bd52",
+          "style": "NORMAL_TEXT",
+          "text": "最近搞新事业，拉到商汤ace robot去当牛马。特别是手下有个巨sb和push的leader，现组里需打卡上班"
+        },
+        {
+          "content_hash": "d2a2d36bd56692b1",
+          "style": "NORMAL_TEXT",
+          "text": "ACL，ICLR洗稿抄袭实锤，闹上了知乎热搜"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 745,
+      "at_to": 734,
+      "from_paragraphs": [
+        {
+          "content_hash": "3937dad7c690c6c2",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Ziqing Li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5a714fee82be3c48",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Ziqing Li（请称呼他为stan Li）"
+        }
+      ]
+    }
+  ]
+}
