@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-48-16Z.delta.json",
+  "delta_ts": "2026-04-20T21-48-16Z",
+  "reviewed_at_utc": "2026-04-20T21:49:02Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Detailed description of specific intern's academic history, paper rejection history, letter requests, and school application outcomes including PI relationships that could de-anonymize the student despite no explicit name being listed",
+      "excerpt": "这intern和phd(我)之前一起合作, 他自己有篇paper一直没中...该校的PI是manling的朋友，所以letter"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Mocking accusation that a professor is anonymously posting AI-generated content to manipulate the document, constituting an unsupported character judgment",
+      "excerpt": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈"
+    }
+  ],
+  "prompt_sha256": "e8077e4a3f0703523c06d7e725de8c53f5500cd6cfa4777a628a0d13b7c07a6a",
+  "finish_reason": "stop",
+  "completion_tokens": 4189
+}

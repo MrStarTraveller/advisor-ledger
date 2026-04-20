@@ -1,0 +1,69 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-48-16Z",
+  "reviewed_at_utc": "2026-04-20T21:49:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "47fc5f3e4033dfae",
+      "insert_hash": "fe372a8917f161a3",
+      "note": "Removed parenthetical commentary",
+      "ghost_text": " — 改自鲁迅《狂人日记》(你没看懂吗，说的意思是有些 PI 压榨学生就好比吃人一样，你理解成什么了)疑似有点过度攻击学术界了。",
+      "insert_text": " — 改自鲁迅《狂人日记》"
+    },
+    {
+      "ghost_hash": "3910b7f2b33b8303",
+      "insert_hash": "59333b895159f922",
+      "note": "Removed Google Docs note",
+      "ghost_text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。 【不知道帖主能不能设置一下只编辑自己的话？有些人开始进行删除篡改了】很遗憾googledocs没有这个功能（不用怕 所有大段删除都记录在案，且有AI分析删除意图，可以访问下面的在线网页版查看）",
+      "insert_text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+    },
+    {
+      "ghost_hash": "935f98f8ce9dea40",
+      "insert_hash": "7859d859cd8b5532",
+      "note": "Reformatted GitHub link",
+      "ghost_text": "历史记录mirror: https://github.com/the-hidden-fish/advisor-ledger/",
+      "insert_text": "历史记录mirror: the-hidden-fish/advisor-ledger · GitHub"
+    },
+    {
+      "ghost_hash": "c4e32ee55b86d224",
+      "insert_hash": "da5bcef725d15a95",
+      "note": "Rephrased reputation complaint",
+      "ghost_text": "(和学术界工业界关系极差 reputationkan yo 包括但不限于Stanford",
+      "insert_text": "(学术界工业界reputation堪忧 和同门关系（stanford）非常差）"
+    },
+    {
+      "ghost_hash": "a1a954ce6f33c061",
+      "insert_hash": "cc17fb144374cdd5",
+      "note": "Added punctuation",
+      "ghost_text": "中国人但是歧视亚洲学生舔白人，性别歧视女性",
+      "insert_text": "中国人但是歧视亚洲学生舔白人，性别歧视女性。"
+    },
+    {
+      "ghost_hash": "2f53234acd458b69",
+      "insert_hash": "e223c5a91c9455f5",
+      "note": "Combined with next ghost",
+      "ghost_text": "实力很一般，phd期间没什么成果，最后被phd advisor赶走毕业了",
+      "insert_text": "实力很一般，phd期间没什么成果，最后被phd advisor赶走毕业了。现在几乎所有的project都是背靠postdoc老板。"
+    },
+    {
+      "ghost_hash": "38e637d20293fbe9",
+      "insert_hash": "e223c5a91c9455f5",
+      "note": "Combined with previous ghost",
+      "ghost_text": "现在几乎所有的project都是背靠postdoc老板",
+      "insert_text": "实力很一般，phd期间没什么成果，最后被phd advisor赶走毕业了。现在几乎所有的project都是背靠postdoc老板。"
+    },
+    {
+      "ghost_hash": "02ba027721e27d1e",
+      "insert_hash": "a6121a21504385d5",
+      "note": "Added detail about PI friend",
+      "ghost_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee. zhu)(所以最后去哪里了)(开盒信息还是不分享了)",
+      "insert_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee. 该校的PI是manling的朋友，所以letter)(所以最后去哪里了)(开盒信息还是不分享了)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4308,
+  "skipped_reason": null
+}
