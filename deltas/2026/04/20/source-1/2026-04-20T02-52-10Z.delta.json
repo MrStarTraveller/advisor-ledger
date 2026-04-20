@@ -1,0 +1,229 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-47-50Z",
+    "revision_id": "AMHacu4xnP2_Qh_B7AIaYFkwR2_Xq1-7O1kE18UDlLYnHQgIgahDh40REsFyGU0RqnxQ4vZsyuPboZE-HgoHkEBtYA",
+    "paragraph_count": 876
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-52-10Z",
+    "revision_id": "AMHacu4ua2Oe-9odK1x8jFO3kyZszKhyGj3O-ejpFP2SSHJozLqnP3XuD5GfoDOZyNAP_alA_aOR1o35zfGwBypflw",
+    "paragraph_count": 883
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 9,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0103,
+    "insertion_ratio": 0.0181
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "afb499808066104b",
+          "style": "NORMAL_TEXT",
+          "text": "请大家保护学生信息，包含隐私信息的评论都需要被删除"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 63,
+      "at_to": 64,
+      "from_paragraphs": [
+        {
+          "content_hash": "bcab8171a8c1174e",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下但funding好像个学校另外一个女ap）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4fdc303d231f06d6",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 291,
+      "paragraphs": [
+        {
+          "content_hash": "d1121841589c70a3",
+          "style": "NORMAL_TEXT",
+          "text": "组里沟通只用微信，没有slack什么的，纯中文沟通。晚上十点会突然打微信电话（如果没有回他的消息的话）"
+        },
+        {
+          "content_hash": "f933444fcd0d670b",
+          "style": "NORMAL_TEXT",
+          "text": "经常威胁学生quit，或者不允许实习"
+        },
+        {
+          "content_hash": "032d0a2ea8b0ec3c",
+          "style": "NORMAL_TEXT",
+          "text": "组里的前"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 336,
+      "at_to": 340,
+      "from_paragraphs": [
+        {
+          "content_hash": "88b29d85bf672cef",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。只要有潜力能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        },
+        {
+          "content_hash": "54d910e4324ca35f",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 你给说成啥了，他缺你那点idea吗。多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看有没有基本的科研思维"
+        },
+        {
+          "content_hash": "407591cee708d15a",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，很push自己但不会直接push学生，有时候。很注重课题组的 culture ，并且组里学生关系都不错)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e561b923c16f349a",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的intern发offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        },
+        {
+          "content_hash": "5435f5d21f3d6cc3",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 你给说成啥了，他缺你那点idea吗。多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看有没有基本的科研思维。"
+        },
+        {
+          "content_hash": "f0627b7e083c902c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。很注重课题组的 culture ，并且组里学生关系都不错)"
+        },
+        {
+          "content_hash": "fe08f11635f4693f",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生，能搞来算力。很注重课题组的 culture ，并且组里学生关系都不错。上黑榜纯愿望，我都想直接删掉了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 340,
+      "at_to": 345,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f43e0e020f42c67",
+          "style": "NORMAL_TEXT",
+          "text": "GWU,  Howie Huang"
+        },
+        {
+          "content_hash": "bc9bdcf38a364c9e",
+          "style": "NORMAL_TEXT",
+          "text": "著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strengthzai"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 389,
+      "paragraphs": [
+        {
+          "content_hash": "640017adca11378e",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）（感觉知道这件事的人不多吧）（这学生把他当跳板，去四大了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 639,
+      "at_to": 644,
+      "from_paragraphs": [
+        {
+          "content_hash": "93044172fd7c0dba",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是他在uoft ta时候认识的本科生，读书时候想和组里女生发展关系，不成或者分手以后就背后暗戳戳搞别人，不止一次了，详见下面uoft baochun li，上梁不正下梁歪"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "37bfda97d1eb0b61",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是他在uoft TA时候认识的本科生，读书时候想和组里女生发展关系，不成或者分手以后就背后暗戳戳搞别人，不止一次了，详见下面uoft baochun li，上梁不正下梁歪"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 643,
+      "at_to": 648,
+      "from_paragraphs": [
+        {
+          "content_hash": "afa12aa5902408fe",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击，卡学生暑假实习"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b8e26e9cd0358b1",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 672,
+      "at_to": 677,
+      "from_paragraphs": [
+        {
+          "content_hash": "52a0efbcd0cf0271",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0e171040a025937f",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han（？？？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 686,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "003d73151db4ddb7",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Yale的瓜，求求🥺"
+        }
+      ]
+    }
+  ]
+}
