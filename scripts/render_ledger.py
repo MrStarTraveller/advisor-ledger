@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 NORMALIZED_DIR = ROOT / "normalized"
 DELTAS_DIR = ROOT / "deltas"
 REVIEWS_DIR = ROOT / "reviews"
+DEDUP_DIR = ROOT / "dedup"
 SITE_DIR = ROOT / "docs"
 
 BLANK_HASH = "0" * 16
@@ -46,6 +47,66 @@ def list_deltas(source_id: str) -> list[Path]:
 
 def list_reviews(source_id: str) -> list[Path]:
     return sorted(REVIEWS_DIR.rglob(f"*/{source_id}/*.review.json"))
+
+
+def list_dedups(source_id: str) -> list[Path]:
+    return sorted(DEDUP_DIR.rglob(f"*/{source_id}/*.dedup.json"))
+
+
+def dedup_index(source_id: str, deltas: list[dict]):
+    """Build two maps from dedup artifacts + positional replace-op pairs:
+      - insert_to_ghosts: insert_hash -> [(ghost_text, ghost_style, delta_ts, note, via), ...]
+      - ghost_keys_consumed: set of (delta_ts, ghost_hash) that are paired
+    """
+    insert_to_ghosts: dict[str, list[dict]] = defaultdict(list)
+    ghost_keys_consumed: set[tuple[str, str]] = set()
+
+    # LLM-judged pairs
+    for p in list_dedups(source_id):
+        d = load_json(p)
+        ts = d.get("delta_ts")
+        for pair in d.get("pairs", []) or []:
+            gh = pair.get("ghost_hash")
+            ih = pair.get("insert_hash")
+            if not gh or not ih:
+                continue
+            insert_to_ghosts[ih].append(
+                {
+                    "ghost_hash": gh,
+                    "ghost_text": pair.get("ghost_text", ""),
+                    "delta_ts": ts,
+                    "note": pair.get("note", ""),
+                    "via": "llm",
+                }
+            )
+            ghost_keys_consumed.add((ts, gh))
+
+    # Positional replace-op pairs (deterministic; free dedup signal)
+    for d in deltas:
+        ts = d["to"]["captured_at_utc"]
+        for op in d["operations"]:
+            if op["op"] != "replace":
+                continue
+            froms = op.get("from_paragraphs", [])
+            tos = op.get("to_paragraphs", [])
+            # pair 1-to-1 up to the shorter length
+            for fp, tp in zip(froms, tos):
+                if fp["content_hash"] == BLANK_HASH or tp["content_hash"] == BLANK_HASH:
+                    continue
+                if (ts, fp["content_hash"]) in ghost_keys_consumed:
+                    continue  # already paired by LLM
+                insert_to_ghosts[tp["content_hash"]].append(
+                    {
+                        "ghost_hash": fp["content_hash"],
+                        "ghost_text": fp["text"],
+                        "delta_ts": ts,
+                        "note": "positional replace",
+                        "via": "positional",
+                    }
+                )
+                ghost_keys_consumed.add((ts, fp["content_hash"]))
+
+    return insert_to_ghosts, ghost_keys_consumed
 
 
 def suspicious_by_ts(source_id: str) -> dict[str, list[dict]]:
@@ -173,16 +234,38 @@ def esc(s: str) -> str:
     return html.escape(s).replace("\n", "<br>")
 
 
-def render_live(p: dict, added_at: str | None) -> str:
-    cls = "p live added" if added_at else "p live"
-    badge = (
-        f'<span class="badge added">+ {html.escape(added_at)}</span>'
-        if added_at
-        else ""
-    )
+def render_live(p: dict, added_at: str | None, revisions: list[dict] | None = None) -> str:
+    revisions = revisions or []
+    classes = ["p", "live"]
+    if added_at:
+        classes.append("added")
+    if revisions:
+        classes.append("revised")
+    badges: list[str] = []
+    if added_at:
+        badges.append(f'<span class="badge added">+ {html.escape(added_at)}</span>')
+    if revisions:
+        badges.append(f'<span class="badge revised">✎ 改写 ({len(revisions)})</span>')
     style = html.escape(p.get("style", "NORMAL_TEXT"))
     text = esc(p["text"]) or "&nbsp;"
-    return f'<div class="{cls}" data-style="{style}">{badge}<div class="text">{text}</div></div>'
+    detail_html = ""
+    if revisions:
+        items = "".join(
+            f'<li><span class="ts">{html.escape(r.get("delta_ts",""))}</span> '
+            f'<span class="via">({html.escape(r.get("via",""))})</span><br>'
+            f'<span class="prev">{esc(r.get("ghost_text",""))}</span>'
+            f'{"<br><em>" + html.escape(r.get("note","")) + "</em>" if r.get("note") else ""}'
+            f'</li>'
+            for r in revisions
+        )
+        detail_html = (
+            f'<details class="rev-detail"><summary>前版本 ({len(revisions)})</summary>'
+            f'<ul>{items}</ul></details>'
+        )
+    return (
+        f'<div class="{" ".join(classes)}" data-style="{style}">'
+        f'{"".join(badges)}<div class="text">{text}</div>{detail_html}</div>'
+    )
 
 
 def render_ghost(g: dict) -> str:
@@ -237,6 +320,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
  .p.ghost.mass-deletion{{background:#ffe5e5;border-left-color:#a00;box-shadow:inset 4px 0 0 #a00, 0 0 0 1px #a00;}}
  .p.ghost.mass-deletion .text{{color:#800;font-weight:500;}}
  .p.ghost.mass-deletion.suspicious{{background:#ffd9d9;}}
+ .p.live.revised{{background:#f5f1ff;border-left-color:#7a5af5;}}
+ .badge.revised{{background:#7a5af5;}}
+ .rev-detail{{margin-top:.3em;font-size:.8em;color:#555;}}
+ .rev-detail summary{{cursor:pointer;color:#5a3ad5;}}
+ .rev-detail ul{{list-style:none;margin:.3em 0;padding:0;border-left:2px solid #cbbcf5;padding-left:.7em;}}
+ .rev-detail li{{margin:.35em 0;}}
+ .rev-detail .ts{{font-family:ui-monospace,monospace;font-size:.85em;color:#888;}}
+ .rev-detail .via{{color:#aaa;font-size:.8em;}}
+ .rev-detail .prev{{color:#a33;text-decoration:line-through;}}
+ .view-nav{{font-size:.85em;margin:.5em 0;}}
+ .view-nav a{{color:#555;text-decoration:none;padding:.2em .6em;border-radius:3px;background:#eee;margin-right:.3em;}}
+ .view-nav a.current{{background:#333;color:#fff;}}
+ .view-nav .exp{{color:#7a5af5;font-weight:600;font-size:.9em;}}
  .badge.mass{{background:#a00;}}
  .attack-banner{{background:#a00;color:#fff;padding:.7em 1em;border-radius:4px;margin:1em 0 1.5em;font-size:.95em;}}
  .attack-banner strong{{font-weight:600;}}
@@ -253,6 +349,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
  h2.section{{margin-top:3em;font-size:1.1em;color:#666;border-top:1px dashed #ccc;padding-top:1em;}}
 </style></head><body>
 <h1>{title}</h1>
+<div class="view-nav">
+ <a href="index.html"{faithful_current}>原始视图</a>
+ <a href="deduped.html"{deduped_current}>去重视图 <span class="exp">实验性</span></a>
+</div>
 <div class="meta">
  source: <code>{source_id}</code> · snapshots: {n_snapshots} · range: {earliest_ts} → {latest_ts}<br>
  live paragraphs: {n_live} · deleted (preserved): {n_ghosts} · added since start: {n_added} · 可疑删除: {n_suspicious} · 批量删除: {n_mass}<br>
@@ -268,7 +368,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_source(source_id: str) -> str | None:
+def render_source(source_id: str, mode: str = "faithful") -> str | None:
     norm_paths = list_normalized(source_id)
     if not norm_paths:
         return None
@@ -280,6 +380,11 @@ def render_source(source_id: str) -> str | None:
     fs = first_seen_map(norms)
     ghosts_head, ghosts_by_anchor = build_ghosts(norms, deltas)
     attach_suspicious(ghosts_head, ghosts_by_anchor, suspicious_by_ts(source_id))
+
+    # For the deduped view: fold paired ghosts into their replacement live paragraphs.
+    insert_to_ghosts, ghost_consumed_keys = (
+        dedup_index(source_id, deltas) if mode == "deduped" else ({}, set())
+    )
 
     mass_events = [
         {
@@ -307,7 +412,12 @@ def render_source(source_id: str) -> str | None:
         )
     n_added = 0
 
+    def ghost_suppressed(g: dict) -> bool:
+        return mode == "deduped" and (g["deleted_at"], g["content_hash"]) in ghost_consumed_keys
+
     for g in ghosts_head:
+        if ghost_suppressed(g):
+            continue
         parts.append(render_ghost(g))
 
     emitted_anchor: set[str] = set()
@@ -317,10 +427,13 @@ def render_source(source_id: str) -> str | None:
         if h != BLANK_HASH and fs.get(h) and fs[h] != earliest_ts:
             added_at = fs[h]
             n_added += 1
-        parts.append(render_live(p, added_at))
+        revisions = insert_to_ghosts.get(h, []) if mode == "deduped" else []
+        parts.append(render_live(p, added_at, revisions))
         if h in ghosts_by_anchor and h not in emitted_anchor:
             emitted_anchor.add(h)
             for g in ghosts_by_anchor[h]:
+                if ghost_suppressed(g):
+                    continue
                 parts.append(render_ghost(g))
 
     orphaned = [
@@ -328,6 +441,7 @@ def render_source(source_id: str) -> str | None:
         for h, lst in ghosts_by_anchor.items()
         if h not in emitted_anchor
         for g in lst
+        if not ghost_suppressed(g)
     ]
     if orphaned:
         parts.append('<h2 class="section">Orphaned deletions (anchor also gone)</h2>')
@@ -349,6 +463,8 @@ def render_source(source_id: str) -> str | None:
         n_added=n_added,
         n_suspicious=n_suspicious,
         n_mass=n_mass,
+        faithful_current=' class="current"' if mode == "faithful" else "",
+        deduped_current=' class="current"' if mode == "deduped" else "",
         body="\n".join(parts),
     )
 
@@ -359,17 +475,22 @@ def main() -> int:
         print("no normalized snapshots yet", file=sys.stderr)
         return 1
     SITE_DIR.mkdir(exist_ok=True)
+    first = source_ids[0]
     for sid in source_ids:
-        out_html = render_source(sid)
-        if out_html is None:
-            continue
-        out = SITE_DIR / f"{sid}.html"
-        out.write_text(out_html, encoding="utf-8")
-        print(f"[ok] -> {out.relative_to(ROOT)}")
-    # index.html points at the first source
-    first = SITE_DIR / f"{source_ids[0]}.html"
-    (SITE_DIR / "index.html").write_text(first.read_text(encoding="utf-8"), encoding="utf-8")
-    print(f"[ok] -> {(SITE_DIR / 'index.html').relative_to(ROOT)}")
+        for mode, fname in (("faithful", f"{sid}.html"), ("deduped", f"{sid}.deduped.html")):
+            out_html = render_source(sid, mode=mode)
+            if out_html is None:
+                continue
+            (SITE_DIR / fname).write_text(out_html, encoding="utf-8")
+            print(f"[ok] {mode} -> {(SITE_DIR / fname).relative_to(ROOT)}")
+    # index.html and deduped.html for the first source (what Pages serves at /)
+    (SITE_DIR / "index.html").write_text(
+        (SITE_DIR / f"{first}.html").read_text(encoding="utf-8"), encoding="utf-8"
+    )
+    (SITE_DIR / "deduped.html").write_text(
+        (SITE_DIR / f"{first}.deduped.html").read_text(encoding="utf-8"), encoding="utf-8"
+    )
+    print(f"[ok] -> docs/index.html, docs/deduped.html")
     return 0
 
 

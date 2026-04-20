@@ -56,6 +56,20 @@ for sid in $SOURCES; do
   done < <(find deltas -type f -name "*.delta.json" -path "*/$sid/*" 2>/dev/null | sort)
 done
 
+# Dedup (experimental) mirrors the review catch-up pattern. Produces dedup/...
+log "dedup"
+for sid in $SOURCES; do
+  while IFS= read -r d; do
+    ts="$(basename "$d" .delta.json)"
+    z="dedup/${ts:0:4}/${ts:5:2}/${ts:8:2}/$sid/${ts}.dedup.json"
+    if [ ! -f "$z" ]; then
+      if ! "$PY" scripts/dedup_agent.py "$d"; then
+        log "dedup failed for $d (non-fatal)"
+      fi
+    fi
+  done < <(find deltas -type f -name "*.delta.json" -path "*/$sid/*" 2>/dev/null | sort)
+done
+
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
@@ -63,7 +77,7 @@ log "render"
 # docs/ is tracked so GitHub Pages can serve the rendered ledger from /docs.
 log "git"
 if [ -d .git ]; then
-  git add snapshots deltas reviews docs 2>/dev/null || true
+  git add snapshots deltas reviews dedup docs 2>/dev/null || true
   if ! git diff --cached --quiet; then
     git commit -m "ledger: $LOG_TS" >/dev/null
     log "committed: $(git rev-parse --short HEAD)"
