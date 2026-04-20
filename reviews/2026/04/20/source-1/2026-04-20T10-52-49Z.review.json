@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-52-49Z.delta.json",
+  "delta_ts": "2026-04-20T10-52-49Z",
+  "reviewed_at_utc": "2026-04-20T10:53:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Initial 'p' appears to reference a specific individual (likely a student) within the lab group context, functioning as a lab-specific descriptor that could de-anonymize the person",
+      "excerpt": "对组里的p"
+    }
+  ],
+  "prompt_sha256": "b46051be2932d08c297705ea20a9d42ae08bc940242b0e352e61f030337b3c7d",
+  "finish_reason": "stop",
+  "completion_tokens": 7590
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-52-49Z",
+  "reviewed_at_utc": "2026-04-20T10:54:10Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 4,
+  "pairs": [
+    {
+      "ghost_hash": "8739fa88e394a0e9",
+      "insert_hash": "bd0ce59959dca8d4",
+      "note": "appended text about haoran recruiting",
+      "ghost_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty",
+      "insert_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty haoran最近大批招本科intern在圈子里也算人尽皆知了，当时想骗我去给他"
+    },
+    {
+      "ghost_hash": "553768f68d36c23c",
+      "insert_hash": "b57291990b530fd0",
+      "note": "added '证据呢？' at end",
+      "ghost_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:",
+      "insert_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:证据呢？"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2245,
+  "skipped_reason": null
+}

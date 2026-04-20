@@ -1,0 +1,102 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-50-30Z",
+    "revision_id": "AMHacu7z6z-UO-5zv3AEy5UUDYjrx5RZDmeTRiS_dNrJQOV11w0HCT63faxihHa9G9YL9uKj35SoJGZ_VUNlYNrQ9Q",
+    "paragraph_count": 1526
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-52-49Z",
+    "revision_id": "AMHacu400mpculjikuiWTfxJEsKHsm7uquivjiFXL6bUJf6gmhCPqtK0n5rL-JcqIxRLItZ0EaId-ph4XGPbCHY4wA",
+    "paragraph_count": 1526
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0026,
+    "insertion_ratio": 0.0026
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 63,
+      "at_to": 63,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e1086a111c441b2",
+          "style": "NORMAL_TEXT",
+          "text": "Duke Neil Gong"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 230,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "8739fa88e394a0e9",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bd0ce59959dca8d4",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty haoran最近大批招本科intern在圈子里也算人尽皆知了，当时想骗我去给他"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "553768f68d36c23c",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b57291990b530fd0",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:证据呢？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 644,
+      "at_to": 644,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ed998a00dc0420fc",
+          "style": "NORMAL_TEXT",
+          "text": "对组里的p"
+        }
+      ]
+    }
+  ]
+}
