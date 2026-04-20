@@ -1,0 +1,211 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-25-09Z",
+    "revision_id": null,
+    "paragraph_count": 1173
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-27-20Z",
+    "revision_id": null,
+    "paragraph_count": 1160
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 19,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0162,
+    "insertion_ratio": 0.0052
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 717,
+      "at_to": 717,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad561c8af47dd359",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)  (感觉没必要在黑榜 移步红榜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2ae175981b969815",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 732,
+      "at_to": 732,
+      "from_paragraphs": [
+        {
+          "content_hash": "8afaaa835898d706",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhiting Hu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "499a2c6eff1a624d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhiting Hu （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 763,
+      "at_to": 763,
+      "from_paragraphs": [
+        {
+          "content_hash": "7eadf1f4b8fbb987",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu（大的来了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ceb847633ac759e7",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu（大的来了）（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 829,
+      "at_to": 829,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b7f5b2e4d04cbc9",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 838,
+      "at_to": 838,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e55a0b9efb85347",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Jiatao Gu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6007137193145b92",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Jiatao Gu （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 859,
+      "at_to": 859,
+      "from_paragraphs": [
+        {
+          "content_hash": "0510ac6f4f1de8ae",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7d4aaa4a12081b1c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 907,
+      "paragraphs": [
+        {
+          "content_hash": "98fc3a9762837e1f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有MIT的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fb45b8ae78e49257",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Pulkit Agrawal"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "84e0e420af3b4b1f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有TAMU的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "032ac99be8c69b9c",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UT Austin的瓜，求求🥺"
+        },
+        {
+          "content_hash": "db412fa7564a7fdf",
+          "style": "NORMAL_TEXT",
+          "text": "Yuke Zhu? (听说，求证)"
+        },
+        {
+          "content_hash": "9dee1c0ed39ef4e2",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "003d73151db4ddb7",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Yale的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "863dfa33ec5f0271",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Vandy的瓜，求求🥺"
+        }
+      ]
+    }
+  ]
+}
