@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-15-30Z.delta.json",
+  "delta_ts": "2026-04-20T15-15-30Z",
+  "reviewed_at_utc": "2026-04-20T15:16:41Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Reference to specific student by given name 'haoran' combined with institution (UCB) and advisor (Pieter) constitutes a lab-specific descriptor detailed enough to de-anonymize a private individual",
+      "excerpt": "pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment presented as hearsay ('collaborator said this person's level is very mediocre') and sarcastic mockery regarding employment status",
+      "excerpt": "合作者表示这个人水平非常一般"
+    }
+  ],
+  "prompt_sha256": "2d4cbc5b0ca83260a95b3342ece1a9557bb0741ca1f16df0cd1716a2caa52269",
+  "finish_reason": "stop",
+  "completion_tokens": 6730
+}

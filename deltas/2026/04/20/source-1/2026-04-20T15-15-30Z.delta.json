@@ -1,0 +1,205 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-13-25Z",
+    "revision_id": "AMHacu4BNzLeeRjjk8U7vQMh11-7Ja8ehPaFH_EszGBXJdiMxMrwYlXlVdaEORJZrzTWkebTHuwF_mEdZCN7h5B94w",
+    "paragraph_count": 2021
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-15-30Z",
+    "revision_id": "AMHacu5CVMKzbWtBEoiXtlhs6l931Mxc9eC1j33LROzGGMcedOOxhkluXwjPLE7oC8bfqEmut60mZANKs__fHp_66A",
+    "paragraph_count": 2031
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 6,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.003,
+    "insertion_ratio": 0.0079
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 427,
+      "at_to": 427,
+      "from_paragraphs": [
+        {
+          "content_hash": "ff8a52471541fed4",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我return"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e945845897364d56",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持，从结果来看我们班那届都na'le"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 444,
+      "at_to": 444,
+      "from_paragraphs": [
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "054853f1d879e8ba",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 618,
+      "at_to": 618,
+      "from_paragraphs": [
+        {
+          "content_hash": "128d1f84ad644cb3",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "1f9d233c791a6762",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92f9bdb86d7ace85",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "a673a20e139b3c12",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了合作者表示这个人水平非常一般"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1218,
+      "at_to": 1218,
+      "from_paragraphs": [
+        {
+          "content_hash": "a7d38a22d6e7060a",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f5d574f1b34930ac",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）（哪个导师不用funding纯用爱fa d"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1381,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1819,
+      "paragraphs": [
+        {
+          "content_hash": "5200357681d019bc",
+          "style": "NORMAL_TEXT",
+          "text": "NUS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1827,
+      "paragraphs": [
+        {
+          "content_hash": "d51763e240ce548a",
+          "style": "NORMAL_TEXT",
+          "text": "NTU Addison, WANG Lin"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "48965f2091ce755e",
+          "style": "NORMAL_TEXT",
+          "text": "骗学生来RA，但是项目没下来，让学生自己给板凳费 说之后项目下来来补板凳费用。  结果项目没下来 学生自费3个月走人了。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1910,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bcbb9919bf8546f7",
+          "style": "NORMAL_TEXT",
+          "text": "HUST Hongfei Wang"
+        },
+        {
+          "content_hash": "13c60743d4133a96",
+          "style": "NORMAL_TEXT",
+          "text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了"
+        },
+        {
+          "content_hash": "29d4926863ef4412",
+          "style": "NORMAL_TEXT",
+          "text": "20年jinla"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2004,
+      "at_to": 2014,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a115d0d399f2418",
+          "style": "NORMAL_TEXT",
+          "text": "FDU"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T15-15-30Z",
+  "reviewed_at_utc": "2026-04-20T15:17:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "5caea8354e9ec033",
+      "insert_hash": "054853f1d879e8ba",
+      "note": "same text with added parenthetical",
+      "ghost_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）",
+      "insert_text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课）"
+    },
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "both empty",
+      "ghost_text": "",
+      "insert_text": ""
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2871,
+  "skipped_reason": null
+}
