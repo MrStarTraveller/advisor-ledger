@@ -1,0 +1,12 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-08-00Z",
+  "reviewed_at_utc": "2026-04-20T21:08:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 15,
+  "n_inserts": 19,
+  "pairs": [],
+  "finish_reason": null,
+  "completion_tokens": null,
+  "skipped_reason": "too many"
+}

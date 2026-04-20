@@ -1,0 +1,298 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T21-03-40Z",
+    "revision_id": "AMHacu60jAzG7lzS_VAo2r0FQ7LKBlQnBd-1Hj1CoXpL8ljT5H2QZ4k4C7ZUqsu7UFKGxJzJHvvVfCaHabKV-H1l3Q",
+    "paragraph_count": 2128
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T21-08-00Z",
+    "revision_id": "AMHacu6l8h4EAbE1Vi8QLnanRraEpY0G_aYGckNIkhBJ0DMdZIgEUX8JPS9q_5PiSeIWYh5jhS77HJkDLClsU1BbZQ",
+    "paragraph_count": 2132
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 15,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.007,
+    "insertion_ratio": 0.0089
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe372a8917f161a3",
+          "style": "NORMAL_TEXT",
+          "text": " — 改自鲁迅《狂人日记》"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4958c3bb5cd2c753",
+          "style": "NORMAL_TEXT",
+          "text": " — 改自鲁迅《狂人日记》（你这也有点以偏盖全了，没必要否定基于事实信息帮助其他学生的内容呀。一概而论的偏激和你认为“吃人”的言论本质上并无二致。)"
+        },
+        {
+          "content_hash": "2cd786ffe418cc84",
+          "style": "NORMAL_TEXT",
+          "text": "非常好文学素养，爱来自高中。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 43,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "fdf77b7b71bbb7f7",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e98c1621e8b6d96",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。连续好几年招不到phd，好不容易招进来几个都跑路了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 290,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "366b17e858f0604a",
+          "style": "NORMAL_TEXT",
+          "text": "组里某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，"
+        },
+        {
+          "content_hash": "daad6f10ace13805",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有知情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起举报到男生的老板那里，举报理由之一是他质疑科研中的女性力量，因为Efros大佬所以影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种drama）（听说有“宫斗”，vision三巨头的组里都多少有点乱）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2756de4ddf84dbb",
+          "style": "NORMAL_TEXT",
+          "text": "组里某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？(好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有知情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起举报到男生的老板那里，举报理由之一是他质疑科研中的女性力量，因为Efros大佬所以影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种drama）（听说有“宫斗”，vision三巨头的组里都多少有点乱）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 368,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f06a6b98b701e032",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Felix Heide"
+        },
+        {
+          "content_hash": "e3db50b410918116",
+          "style": "NORMAL_TEXT",
+          "text": "学生去meta暑假实习完回学校，把实习成果投了CVPR，但是felix把自己弄成末作，并且在authorship里面不带任何一个meta的人。完了paper中了CVPR之后被meta起诉了，后来不知道咋样。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 494,
+      "paragraphs": [
+        {
+          "content_hash": "08950171a98462a7",
+          "style": "NORMAL_TEXT",
+          "text": "Xhs之前有他的学生的瓜  挂车队一年能发90篇paper （同上）"
+        },
+        {
+          "content_hash": "047896122080a849",
+          "style": "NORMAL_TEXT",
+          "text": "接国内留学机构的单子 国内高中生飞来亚特兰大住在我朋友的家里（2b2b）找了个PHD给他辅导科研"
+        },
+        {
+          "content_hash": "f3c80a2610e7d9e4",
+          "style": "NORMAL_TEXT",
+          "text": "组会态度傲慢不尊重学生 经典《你这周做什么了》"
+        },
+        {
+          "content_hash": "a30ed2876e9872ce",
+          "style": "NORMAL_TEXT",
+          "text": "现在好像去硅谷拉人创业"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 513,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "66ccadc45a4413f9",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了他的合作学生 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝 （别删了，再删你是Chaowei Xiao，有种来rebuttal!!!)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b39f4784641a7d3",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了他的合作学生 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 761,
+      "at_to": 767,
+      "from_paragraphs": [
+        {
+          "content_hash": "01bac582ac1b9b3e",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!（存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4dd56d8201365ae8",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，有种来rebuttal!!!（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1556,
+      "at_to": 1562,
+      "from_paragraphs": [
+        {
+          "content_hash": "62c556aaa49576d3",
+          "style": "NORMAL_TEXT",
+          "text": "经常会干出term一半断人funding的事情因为不满意xue'sheng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3498e8be1d2087f",
+          "style": "NORMAL_TEXT",
+          "text": "经常会干出term一半断人funding的事情因为不满意学生/postdoc能力 之前有postdoc因为合作不愉快 pcy直接去问系里能不能把他的工资降成phd level被系里拒绝"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1624,
+      "at_to": 1630,
+      "from_paragraphs": [
+        {
+          "content_hash": "11880d443a0ab512",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，"
+        },
+        {
+          "content_hash": "2ec1643df14a975f",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起举报到男生的老板那里，举报理由之一是他质疑科研中的女性力量，因为Efros大佬所以影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种drama）（听说有“宫斗”，vision三巨头的组里都多少有点乱）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "24e2d3e7ed54afda",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起举报到男生的老板那里，举报理由之一是他质疑科研中的女性力量，因为Efros大佬所以影响很大）（先和组里男生a说带我发paper，转头对男生b说a想借着机会泡我，各种drama）（听说有“宫斗”，vision三巨头的组里都多少有点乱）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1900,
+      "at_to": 1905,
+      "from_paragraphs": [
+        {
+          "content_hash": "093f6bf566f7051c",
+          "style": "NORMAL_TEXT",
+          "text": "从我24年入学以来（既然敢讲，就不怕盒），我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，或者给我施加其他什么压力，**一次都没有**。他会鼓励我多去尝试，但不会让我感到焦虑。PhD有什么问题，都可以私下约他单独吃饭，当然每次也都是You买单，我们经常会在吃饭时聊一些有趣的话题，比如足球或是最近的趣闻。"
+        },
+        {
+          "content_hash": "85c496237bc8a6de",
+          "style": "NORMAL_TEXT",
+          "text": "总体来讲，我觉得组里的氛围是自由而放松的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "81b0b8b48181022c",
+          "style": "NORMAL_TEXT",
+          "text": "从我入学以来，我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，或者给我施加其他什么压力，**一次都没有**。他会鼓励我多去尝试，但不会让我感到焦虑。PhD有什么问题，都可以私下约他单独吃饭，当然每次也都是You买单，我们经常会在吃饭时聊一些有趣的话题，比如足球或是最近的趣闻。"
+        },
+        {
+          "content_hash": "1708bd7da27cc548",
+          "style": "NORMAL_TEXT",
+          "text": "总体来讲，我觉得组里的氛围是自由、chill的；我其实不理解You为什么出现在学术黑榜上。真正对我们组有兴趣的人，我推荐你和在读PhD或者You本人直接交流。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2009,
+      "at_to": 2014,
+      "from_paragraphs": [
+        {
+          "content_hash": "3315de5da5b22328",
+          "style": "NORMAL_TEXT",
+          "text": "童年 · 在人间 · 我的奋斗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ffc2be3bc7e34aca",
+          "style": "NORMAL_TEXT",
+          "text": "童年 ·在人间 · 我的奋斗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2072,
+      "at_to": 2077,
+      "from_paragraphs": [
+        {
+          "content_hash": "23e847ac3f315798",
+          "style": "NORMAL_TEXT",
+          "text": "组里十几个人上千万经费，两年中不了一篇三大会，博四的学生发表论文一篇CCF A/B/C都没有"
+        },
+        {
+          "content_hash": "79a72c43d09f2318",
+          "style": "NORMAL_TEXT",
+          "text": "组里全职研究员写编程智能体相关的公众号帖子被其举报删除，说涉密了（涉及到中医公司），需要脱敏"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f83aa52356e6cee",
+          "style": "NORMAL_TEXT",
+          "text": "组里十几个人上千万经费，两年中不了一篇三大会，博四的学生一篇CCF C都没有"
+        }
+      ]
+    }
+  ]
+}

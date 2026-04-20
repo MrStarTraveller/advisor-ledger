@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-08-00Z.delta.json",
+  "delta_ts": "2026-04-20T21-08-00Z",
+  "reviewed_at_utc": "2026-04-20T21:08:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive claim about an advisor reporting a researcher's public WeChat article as confidential (involving a TCM company), which appears to suppress a specific legitimate observation about the advisor's conduct rather than performing cleanup.",
+      "excerpt": "组里全职研究员写编程智能体相关的公众号帖子被其举报删除，说涉密了（涉及到中医公司），需要脱敏"
+    }
+  ],
+  "prompt_sha256": "24d3d9e5428151314ff95e003f81cb4198295f7493c4f191430a936c6f7ca996",
+  "finish_reason": "stop",
+  "completion_tokens": 5883
+}
