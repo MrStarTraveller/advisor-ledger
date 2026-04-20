@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T22-54-50Z",
+  "reviewed_at_utc": "2026-04-20T22:56:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "fdf9b18a255f457d",
+      "insert_hash": "911a508e1b2f7310",
+      "note": "typo fix: 可d以→可以",
+      "ghost_text": "暂时不要开团；我隐藏了部分信息，我们和导师其实可d以和谐共处，我们作为学生可以避雷，导师可以改正（也许吧）",
+      "insert_text": "暂时不要开团；我隐藏了部分信息，我们和导师其实可以和谐共处，我们作为学生可以避雷，导师可以改正（也许吧）"
+    },
+    {
+      "ghost_hash": "23776f0774bf6d4f",
+      "insert_hash": "e5dcffe836b6ec8a",
+      "note": "split into two lines",
+      "ghost_text": "MIT Wojciech Matusik",
+      "insert_text": "MIT"
+    },
+    {
+      "ghost_hash": "1698c25c4821c434",
+      "insert_hash": "9c70ee3cd1ee0003",
+      "note": "split into two lines",
+      "ghost_text": "UIUC Hua Li",
+      "insert_text": "UIUC"
+    },
+    {
+      "ghost_hash": "89fce2ec2bc63026",
+      "insert_hash": "ea0ccc25daeacc90",
+      "note": "split into two lines",
+      "ghost_text": "UCLA Jason Cong",
+      "insert_text": "UCLA"
+    },
+    {
+      "ghost_hash": "c2c1fd8e30b54efd",
+      "insert_hash": "89ab3dec075c0057",
+      "note": "rephrased and extended",
+      "ghost_text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，家都是文人说话那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多科研学生的一辈子也不为过。",
+      "insert_text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话没那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多科研学生的一辈子也不为过。我对他们就是无穷无尽的恨意.希望各位继续更多补充."
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5109,
+  "skipped_reason": null
+}
