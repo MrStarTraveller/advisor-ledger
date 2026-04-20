@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-03-40Z.delta.json",
+  "delta_ts": "2026-04-20T21-03-40Z",
+  "reviewed_at_utc": "2026-04-20T21:04:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Threat with profanity directed at document maintainers",
+      "excerpt": "再TM删给你发一亩三分地"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Ableist slurs and profanity used as unsupported personal insults",
+      "excerpt": "这俩真糖完了...有什么 b 水平...这人糖丸了"
+    }
+  ],
+  "prompt_sha256": "818ae72fc9cc180a702f202acd5a37b729f0c7e0eb35c85168e30a661d1928c8",
+  "finish_reason": "stop",
+  "completion_tokens": 5634
+}
