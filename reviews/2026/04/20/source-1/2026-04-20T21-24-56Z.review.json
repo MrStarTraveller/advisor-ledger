@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-24-56Z.delta.json",
+  "delta_ts": "2026-04-20T21-24-56Z",
+  "reviewed_at_utc": "2026-04-20T21:25:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Added detail reveals commenter's departmental affiliation (CS), which narrows down the identity of the student/source.",
+      "excerpt": "这事我们整个cs系都知道"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted paragraph contained specific documentary evidence (IP policy text) regarding advisor's control over student work and publications, constituting substantive observation about advising practices.",
+      "excerpt": "协议原文：Information sharing per University IP and legal Policy [Important]:"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removed clause indicating advisor treats favored students well, suppressing nuance about differential treatment patterns.",
+      "excerpt": "对喜欢对学生好"
+    }
+  ],
+  "prompt_sha256": "3c82c33aa3219a7142fc5730a4bd1d4c5e3679150e22061b76a0ec874ca99247",
+  "finish_reason": "stop",
+  "completion_tokens": 6036
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-24-56Z",
+  "reviewed_at_utc": "2026-04-20T21:26:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 11,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "2e8ce8f2aab924f4",
+      "insert_hash": "c6543b1074724f5b",
+      "note": "Rochester story, minor wording edits",
+      "ghost_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】",
+      "insert_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠人自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校，这事我们整个cs系都知道]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+    },
+    {
+      "ghost_hash": "90468cabf3980bf9",
+      "insert_hash": "b0ac780d3cd9663d",
+      "note": "UPenn Liu, removed insult",
+      "ghost_text": "UPenn Lingjie Liu 宾大cis第二烂导(这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)",
+      "insert_text": "UPenn Lingjie Liu (这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)"
+    },
+    {
+      "ghost_hash": "787de599251b1fa6",
+      "insert_hash": "942f8aed1887ea55",
+      "note": "Zhao push/quit, added details",
+      "ghost_text": "很push 组里有学生quit (只听说有一个quit的，Zhao老师人是很随和的，没赶上）",
+      "insert_text": "很push 组里有学生quit (只听说有一个quit的，Zhao老师人是很随和的，没赶上deadline就下一个会了，不会强制大家）"
+    },
+    {
+      "ghost_hash": "6cd284ed3dfb5bfa",
+      "insert_hash": "fc5a19e70dbfdb12",
+      "note": "Students like slaves, added text",
+      "ghost_text": "她们组的学生和奴隶差不多",
+      "insert_text": "她们组的学生和奴隶差不多 （nen"
+    },
+    {
+      "ghost_hash": "71686916cd0959bd",
+      "insert_hash": "1af860c944c36d1d",
+      "note": "Hint unsuitable PhD, shortened",
+      "ghost_text": "对喜欢对学生好，不喜欢的学生就暗示不适合读phd",
+      "insert_text": "对不喜欢的学生就暗示不适合读phd"
+    },
+    {
+      "ghost_hash": "9ac971cb1f18c89e",
+      "insert_hash": "73abbf3dac20d4a7",
+      "note": "Diff treatment, added details",
+      "ghost_text": "中外学生差别对待",
+      "insert_text": "中外学生差别对待，外国学生晚上不用开会，周末不用来，中国学生就是9117"
+    },
+    {
+      "ghost_hash": "772d7a9d7cbadc3f",
+      "insert_hash": "772d7a9d7cbadc3f",
+      "note": "Inclusive group, identical text",
+      "ghost_text": "人比较多是比较inclusive吧，只要感兴趣就愿意让参加组会，让join PhD project，你看带出来发论文的intern之前也有不少没有任何pub的",
+      "insert_text": "人比较多是比较inclusive吧，只要感兴趣就愿意让参加组会，让join PhD project，你看带出来发论文的intern之前也有不少没有任何pub的"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3249,
+  "skipped_reason": null
+}

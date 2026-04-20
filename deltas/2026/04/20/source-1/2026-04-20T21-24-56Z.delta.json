@@ -1,0 +1,250 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T21-20-40Z",
+    "revision_id": "AMHacu6FwHwJqGjn10EuPZKSWOt1-GzJO3Oj5hnMjPofiLCt8c5ZMv71KlZ8Duv9d1CqTmvviCgYJtizeSxPNBPsAQ",
+    "paragraph_count": 2146
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T21-24-56Z",
+    "revision_id": "AMHacu76PYuP06FPR4KrLTUYuFF5slsFkz1kXwLUu1a8TIjfHInGozu-ts63M_pqvkvkLy-BFMhSERdaWNMmCpt3Xg",
+    "paragraph_count": 2152
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 11,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0051,
+    "insertion_ratio": 0.0079
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 55,
+      "at_to": 55,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e8ce8f2aab924f4",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6543b1074724f5b",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠人自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校，这事我们整个cs系都知道]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 59,
+      "paragraphs": [
+        {
+          "content_hash": "538924af32b9a72a",
+          "style": "NORMAL_TEXT",
+          "text": "协议原文：Information sharing per University IP and legal Policy [Important]:"
+        },
+        {
+          "content_hash": "4992d19a9695ebe3",
+          "style": "NORMAL_TEXT",
+          "text": "According to UR IP law and policy, all the work you do during your appointments (including as RAs, as Interns at UR, and as Interns in an external institution or company) is fully protected by the UR intellectual property policies and law. That is, UR and PIs (Principal Investigators) (the faculty who oversee the project you are working on, in most cases for you, me) have full ownership and control of the outcomes including publications (paper draft, paper submission, figures, slides, and all other materials that are related to your work) and artifacts (codes, demonstrations, hardware device). You must ask for the PI's written permission to share any of your materials related to your project with anyone other than the PIs or to move the materials to any other storage space besides the one your PIs ask you to use or to use the materials for any purposes besides the ones that the PIs ask you to pursue. These include but are not limited to (1) all decisions in paper submission, (2) presentation of our work related to your project, and (3) sharing/using/removing any codes for other researchers/institutions for any purpose. You should know U.S. Universities take IPs very seriously, so you must be incredibly careful to avoid any legal trouble. The consequence of any violation of this will be serious – you may go to jail. So please, be careful."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 332,
+      "at_to": 330,
+      "from_paragraphs": [
+        {
+          "content_hash": "90468cabf3980bf9",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu 宾大cis第二烂导(这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0ac780d3cd9663d",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu (这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 334,
+      "paragraphs": [
+        {
+          "content_hash": "7334d339df3d4928",
+          "style": "NORMAL_TEXT",
+          "text": "傻b一个，给offer的都不敢去（这是没拿到offer恼羞成怒了？）（听说给offer的好多去四大了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 367,
+      "paragraphs": [
+        {
+          "content_hash": "e3ad7e069b6004a0",
+          "style": "NORMAL_TEXT",
+          "text": "极度ego 威胁卡学生毕业/实习/中期考核/funding"
+        },
+        {
+          "content_hash": "594e519ae499312b",
+          "style": "NORMAL_TEXT",
+          "text": "z"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 388,
+      "paragraphs": [
+        {
+          "content_hash": "cc92dbbf700005bf",
+          "style": "NORMAL_TEXT",
+          "text": "和自己博士老板搞也是真的？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 507,
+      "at_to": 505,
+      "from_paragraphs": [
+        {
+          "content_hash": "787de599251b1fa6",
+          "style": "NORMAL_TEXT",
+          "text": "很push 组里有学生quit (只听说有一个quit的，Zhao老师人是很随和的，没赶上）"
+        },
+        {
+          "content_hash": "6cd284ed3dfb5bfa",
+          "style": "NORMAL_TEXT",
+          "text": "她们组的学生和奴隶差不多"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "942f8aed1887ea55",
+          "style": "NORMAL_TEXT",
+          "text": "很push 组里有学生quit (只听说有一个quit的，Zhao老师人是很随和的，没赶上deadline就下一个会了，不会强制大家）"
+        },
+        {
+          "content_hash": "fc5a19e70dbfdb12",
+          "style": "NORMAL_TEXT",
+          "text": "她们组的学生和奴隶差不多 （nen"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1193,
+      "at_to": 1191,
+      "from_paragraphs": [
+        {
+          "content_hash": "71686916cd0959bd",
+          "style": "NORMAL_TEXT",
+          "text": "对喜欢对学生好，不喜欢的学生就暗示不适合读phd"
+        },
+        {
+          "content_hash": "9ac971cb1f18c89e",
+          "style": "NORMAL_TEXT",
+          "text": "中外学生差别对待"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1af860c944c36d1d",
+          "style": "NORMAL_TEXT",
+          "text": "对不喜欢的学生就暗示不适合读phd"
+        },
+        {
+          "content_hash": "73abbf3dac20d4a7",
+          "style": "NORMAL_TEXT",
+          "text": "中外学生差别对待，外国学生晚上不用开会，周末不用来，中国学生就是9117"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1435,
+      "paragraphs": [
+        {
+          "content_hash": "91776885c498af17",
+          "style": "NORMAL_TEXT",
+          "text": "USC Viktor Prasanna\u000b控制欲强，会拿毕业和你谈条件，会拿毕业开玩笑\u000b提供不了指导，组里工作基本没有标准，能发表就行。希望你3-4个月一篇，质量全靠自己，同时也要水点论文满足他对数量上的要求。\u000b不喜欢周期长的工作，唯论文数量论\u000bPUA，NPD，你要学会懂得感激他\u000b不在意学生未来发展，把师生关系当作博弈。你毕业了他会觉得控制不了你了，所以在毕业，qualify等关键时候需要你频繁找他，让他感受到你很需要他，被重视，一些logistics的东西才能顺利推进。可以很长时间不回你邮件\u000b不鼓励实习，本质上你实习意味着你有能力脱离他的掌控\u000b不鼓励collaboration，本质上因为你引入了其他变量不利于他对全局的掌控\u000b所以，组里毕业的基本没有留在学术界的。目标是教职的学生请避雷"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1476,
+      "paragraphs": [
+        {
+          "content_hash": "772d7a9d7cbadc3f",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意让参加组会，让join PhD project，你看带出来发论文的intern之前也有不少没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1478,
+      "paragraphs": [
+        {
+          "content_hash": "772d7a9d7cbadc3f",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意让参加组会，让join PhD project，你看带出来发论文的intern之前也有不少没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2078,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "83df7e20bd5e9b1b",
+          "style": "NORMAL_TEXT",
+          "text": "Xiamen U"
+        },
+        {
+          "content_hash": "5db02962b972f710",
+          "style": "NORMAL_TEXT",
+          "text": "插眼 想听j老师瓜"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
