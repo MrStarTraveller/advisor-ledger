@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-38-00Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-40-06Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 2,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0017,
+    "insertion_ratio": 0.0017
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 6,
+      "at_to": 6,
+      "from_paragraphs": [
+        {
+          "content_hash": "fcf82f018c883205",
+          "style": "NORMAL_TEXT",
+          "text": "删除了所有空白理由的导师名单"
+        },
+        {
+          "content_hash": "da1c952262e16313",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal；就目前大部分的信息而言，原始版本的“黑料”和组内成员的“Rebuttal”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ac6a9d0903d0e93",
+          "style": "NORMAL_TEXT",
+          "text": "删除了所有空白理由的导师名单；补充新的导师请带上具体的red flags，不要只写名字"
+        },
+        {
+          "content_hash": "f737bc1dbb3b27d3",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal；就目前大部分信息而言，原始版本的“red flags”和组内成员的“Rebuttal”是完全相反的，希望大家可以结合有效的证据修正自己对某些导师的偏见，当然也可以结合证据推翻"
+        }
+      ]
+    }
+  ]
+}
