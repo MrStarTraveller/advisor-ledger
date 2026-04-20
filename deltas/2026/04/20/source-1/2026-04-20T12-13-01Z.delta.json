@@ -1,0 +1,176 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-08-50Z",
+    "revision_id": "AMHacu6CaZynUEXR0cBPO0fbYPP6qvoatUApIIIqTkiRtcCajK3eBwIFAlDGTA_5u0lrmKJBrkAjm8T7fgScmscQZg",
+    "paragraph_count": 1815
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-13-01Z",
+    "revision_id": "AMHacu78uOiLWKpzzIiJTA5BBBKf_RDHwFfj20ERDOKzE4zXjnc8F9bJwmOVFJx_06mFcHVBczdp9qZRuhDgvNaCSQ",
+    "paragraph_count": 1818
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 6,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0033,
+    "insertion_ratio": 0.005
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "1116077eeeef9fb7",
+          "style": "NORMAL_TEXT",
+          "text": "Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7cb507abbc4d9c5c",
+          "style": "NORMAL_TEXT",
+          "text": "``Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 182,
+      "at_to": 182,
+      "from_paragraphs": [
+        {
+          "content_hash": "8ed96518b6701b98",
+          "style": "NORMAL_TEXT",
+          "text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "28e3e92ae5044a08",
+          "style": "NORMAL_TEXT",
+          "text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）（了解的人都在劝退）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 227,
+      "paragraphs": [
+        {
+          "content_hash": "ea578654c97d9059",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又厉害，导致竞争过于激烈，很多申的结果就一般了。但是因为本身就强，一般是跟自己的期望相比，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 308,
+      "at_to": 309,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b079678ba7e7e5f",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有去lichao帮忙connection的项目【感觉有些愧疚，毕竟sun老师之前帮忙了很多】，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西。第一次遇到这么好的老师，这种老师还有人黑？黑子看着眼红了属于是"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "048c3d7a9a604c91",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有去lichao帮忙connection的项目【感觉有些愧疚，毕竟sun老师之前帮忙了很多】，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西。第一次遇到这么好的老师，这种老师还有人黑？黑子看着眼红了属于是。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 504,
+      "at_to": 505,
+      "from_paragraphs": [
+        {
+          "content_hash": "5412d418de84d84b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fb624fc54207ad82",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun (别删啊 我还没看完)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 513,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 541,
+      "at_to": 543,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8de0b3c47f112c59",
+          "style": "NORMAL_TEXT",
+          "text": "S"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 721,
+      "paragraphs": [
+        {
+          "content_hash": "ba37284d0f8508cb",
+          "style": "NORMAL_TEXT",
+          "text": "本校找导师，或者重新申请"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 720,
+      "paragraphs": [
+        {
+          "content_hash": "0bcd62811bf3debe",
+          "style": "NORMAL_TEXT",
+          "text": "本校找导师，重新申请"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1577,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

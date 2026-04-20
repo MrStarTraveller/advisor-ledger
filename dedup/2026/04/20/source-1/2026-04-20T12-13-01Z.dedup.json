@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-13-01Z",
+  "reviewed_at_utc": "2026-04-20T12:13:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 8,
+  "pairs": [
+    {
+      "ghost_hash": "1116077eeeef9fb7",
+      "insert_hash": "7cb507abbc4d9c5c",
+      "note": "Added `` prefix",
+      "ghost_text": "Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。",
+      "insert_text": "``Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+    },
+    {
+      "ghost_hash": "8ed96518b6701b98",
+      "insert_hash": "28e3e92ae5044a08",
+      "note": "Added parenthetical remark",
+      "ghost_text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）",
+      "insert_text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）（了解的人都在劝退）"
+    },
+    {
+      "ghost_hash": "0b079678ba7e7e5f",
+      "insert_hash": "048c3d7a9a604c91",
+      "note": "Added period at end",
+      "ghost_text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有去lichao帮忙connection的项目【感觉有些愧疚，毕竟sun老师之前帮忙了很多】，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西。第一次遇到这么好的老师，这种老师还有人黑？黑子看着眼红了属于是",
+      "insert_text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有去lichao帮忙connection的项目【感觉有些愧疚，毕竟sun老师之前帮忙了很多】，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西。第一次遇到这么好的老师，这种老师还有人黑？黑子看着眼红了属于是。"
+    },
+    {
+      "ghost_hash": "5412d418de84d84b",
+      "insert_hash": "fb624fc54207ad82",
+      "note": "Added comment in parentheses",
+      "ghost_text": "UIUC Jimeng Sun",
+      "insert_text": "UIUC Jimeng Sun (别删啊 我还没看完)"
+    },
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "Empty line preserved",
+      "ghost_text": "",
+      "insert_text": ""
+    },
+    {
+      "ghost_hash": "0bcd62811bf3debe",
+      "insert_hash": "ba37284d0f8508cb",
+      "note": "Added '或者' (or)",
+      "ghost_text": "本校找导师，重新申请",
+      "insert_text": "本校找导师，或者重新申请"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2605,
+  "skipped_reason": null
+}
