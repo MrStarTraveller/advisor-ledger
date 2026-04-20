@@ -1,0 +1,69 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-43-36Z",
+  "reviewed_at_utc": "2026-04-20T11:44:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 15,
+  "pairs": [
+    {
+      "ghost_hash": "16bf78153e391fb7",
+      "insert_hash": "924af7810bbf87a1",
+      "note": "added pinyin note",
+      "ghost_text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）",
+      "insert_text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）(xiao'h)"
+    },
+    {
+      "ghost_hash": "6a9e196d2722d841",
+      "insert_hash": "e8b8b21d41b6c13d",
+      "note": "added academic misconduct note",
+      "ghost_text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)",
+      "insert_text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学书不端才被劝退的，和其他事情有什么关系？）"
+    },
+    {
+      "ghost_hash": "1edfa15cb405e9e5",
+      "insert_hash": "3dfa8ede30d121d9",
+      "note": "added comments at end",
+      "ghost_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的",
+      "insert_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死 +1"
+    },
+    {
+      "ghost_hash": "a9ec59223349d7fe",
+      "insert_hash": "28e6a4c5f720cbca",
+      "note": "reordered clauses, added note",
+      "ghost_text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）大兵团（吓哭了）（绷不住了）",
+      "insert_text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(项目不管是否做完，都给了strong letter)"
+    },
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "empty line",
+      "ghost_text": "",
+      "insert_text": ""
+    },
+    {
+      "ghost_hash": "d9a6f737ac4325e2",
+      "insert_hash": "a0b65bc1a3636b73",
+      "note": "capitalized Te",
+      "ghost_text": "te好",
+      "insert_text": "Te好"
+    },
+    {
+      "ghost_hash": "30f38e382e7fa26f",
+      "insert_hash": "c9fb7d9fea9af5d3",
+      "note": "added participation clause",
+      "ghost_text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家",
+      "insert_text": "科研水平很差，但是喜欢有参与感，不然怎么抢功劳(要么瞎JB微操，要么绣花，这里加个感叹号那里加个句号)，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+    },
+    {
+      "ghost_hash": "7f350410399c176d",
+      "insert_hash": "9bdc8cdd5e6bd7ff",
+      "note": "added 'dont complain'",
+      "ghost_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），学会感恩🙏",
+      "insert_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），不要计较，学会感恩🙏"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5205,
+  "skipped_reason": null
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-43-36Z.delta.json",
+  "delta_ts": "2026-04-20T11-43-36Z",
+  "reviewed_at_utc": "2026-04-20T11:44:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifier '(xiao'h)' appears to tag a specific student in a sensitive context (gossip involving female students), potentially de-anonymizing them.",
+      "excerpt": "(xiao'h)"
+    },
+    {
+      "type": "pii",
+      "detail": "Nickname '阿Ping' likely identifies a specific private individual (student or staff) being addressed directly with accusations, rather than the professor who is the subject of the entry.",
+      "excerpt": "收手吧，阿Ping，不要再害人了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity '瞎JB' (vulgar slang) constitutes a pure personal insult attacking the professor's character rather than specific advising practices.",
+      "excerpt": "要么瞎JB微操，要么绣花"
+    }
+  ],
+  "prompt_sha256": "ea3fb86e4a9ce83344c95a29113ce2585c157349cfb78996f8ed8b30bc7d173b",
+  "finish_reason": "stop",
+  "completion_tokens": 4722
+}
