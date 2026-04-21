@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/21/source-1/2026-04-21T00-17-50Z.delta.json",
+  "delta_ts": "2026-04-21T00-17-50Z",
+  "reviewed_at_utc": "2026-04-21T00:19:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "error",
+  "concerns": [
+    {
+      "type": "review_error",
+      "detail": "could not parse JSON from content (finish_reason=length, tokens=8192)",
+      "excerpt": ""
+    }
+  ],
+  "prompt_sha256": "24b7c38ec45cd9d5ae254b9f4dec8c7cedfbb5844579f1496ad01194f441e900",
+  "finish_reason": "length",
+  "completion_tokens": 8192
+}
