@@ -1,0 +1,25 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T01-00-40Z",
+    "revision_id": null,
+    "paragraph_count": 707
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T01-05-00Z",
+    "revision_id": null,
+    "paragraph_count": 707
+  },
+  "summary": {
+    "inserted_paragraphs": 0,
+    "deleted_paragraphs": 0,
+    "operations": 0,
+    "changed": false,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0,
+    "insertion_ratio": 0.0
+  },
+  "operations": []
+}
