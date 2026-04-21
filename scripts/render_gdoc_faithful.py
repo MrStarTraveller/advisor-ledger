@@ -490,6 +490,20 @@ a.rich-link {
   border-radius: 4px;
 }
 .gd-meta b { color: #202124; }
+.view-nav {
+  max-width: 780pt;
+  margin: 0 auto 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 13px;
+}
+.view-nav a {
+  color: #555; text-decoration: none;
+  padding: 4px 10px; border-radius: 3px;
+  background: #fff; border: 1px solid #dadce0;
+  margin-right: 6px; display: inline-block;
+}
+.view-nav a.current { background: #202124; color: #fff; border-color: #202124; }
+.view-nav .exp { color: #7a5af5; font-weight: 600; font-size: 11px; margin-left: 4px; }
 @media (max-width: 900px) {
   body { padding: 12px 0 40px; }
   .gd-page { border-radius: 0; }
@@ -497,9 +511,18 @@ a.rich-link {
 @media print {
   body { background: #fff; padding: 0; }
   .gd-page { box-shadow: none; border-radius: 0; }
-  .gd-meta { display: none; }
+  .gd-meta, .view-nav { display: none; }
 }
 """
+
+
+VIEW_NAV_HTML = (
+    '<div class="view-nav">'
+    '<a href="index.html" class="current">Google Doc 原文</a>'
+    '<a href="ledger.html">编辑历史</a>'
+    '<a href="deduped.html">去重视图<span class="exp">实验</span></a>'
+    '</div>'
+)
 
 
 def normalize_named_styles(named_styles_root: dict) -> dict:
@@ -573,6 +596,7 @@ def render_html(doc: dict, meta_banner: str | None = None) -> str:
         f"<title>{html.escape(title)}</title>"
         f"<style>{BASE_CSS}</style>"
         f"</head><body>"
+        f"{VIEW_NAV_HTML}"
         f"{meta_html}"
         f'<article class="gd-page" style="{page_style}">'
         f"{''.join(body_parts)}"

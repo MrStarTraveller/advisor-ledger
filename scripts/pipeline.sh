@@ -73,6 +73,19 @@ done
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
+# Render the Google Doc 原文 (high-fidelity, default view at /) from the latest
+# JSON snapshot of the first enabled source.
+log "render (faithful)"
+for sid in $SOURCES; do
+  latest_json="$(find snapshots -type f -name '*.json' -not -name '*.meta.json' -path "*/$sid/*" 2>/dev/null | sort | tail -n 1)"
+  if [ -n "$latest_json" ]; then
+    ts="$(basename "$latest_json" .json)"
+    meta="Snapshot <b>${ts}</b> · ${sid} · 1:1 Google Docs API JSON render"
+    "$PY" scripts/render_gdoc_faithful.py "$latest_json" docs/index.html --meta "$meta" >/dev/null
+  fi
+  break  # only the first source maps to docs/index.html
+done
+
 # Commit + push if anything new is staged. normalized/ stays gitignored (purely derived);
 # docs/ is tracked so GitHub Pages can serve the rendered ledger from /docs.
 log "git"

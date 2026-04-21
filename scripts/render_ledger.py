@@ -350,8 +350,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </style></head><body>
 <h1>{title}</h1>
 <div class="view-nav">
- <a href="index.html"{faithful_current}>原始视图</a>
- <a href="deduped.html"{deduped_current}>去重视图 <span class="exp">实验性</span></a>
+ <a href="index.html">Google Doc 原文</a>
+ <a href="ledger.html"{faithful_current}>编辑历史</a>
+ <a href="deduped.html"{deduped_current}>去重视图 <span class="exp">实验</span></a>
 </div>
 <div class="meta">
  source: <code>{source_id}</code> · snapshots: {n_snapshots} · range: {earliest_ts} → {latest_ts}<br>
@@ -483,14 +484,15 @@ def main() -> int:
                 continue
             (SITE_DIR / fname).write_text(out_html, encoding="utf-8")
             print(f"[ok] {mode} -> {(SITE_DIR / fname).relative_to(ROOT)}")
-    # index.html and deduped.html for the first source (what Pages serves at /)
-    (SITE_DIR / "index.html").write_text(
+    # ledger.html and deduped.html for the first source.
+    # docs/index.html is written separately by render_gdoc_faithful.py (Google Doc 原文 is the default view).
+    (SITE_DIR / "ledger.html").write_text(
         (SITE_DIR / f"{first}.html").read_text(encoding="utf-8"), encoding="utf-8"
     )
     (SITE_DIR / "deduped.html").write_text(
         (SITE_DIR / f"{first}.deduped.html").read_text(encoding="utf-8"), encoding="utf-8"
     )
-    print(f"[ok] -> docs/index.html, docs/deduped.html")
+    print(f"[ok] -> docs/ledger.html, docs/deduped.html")
     return 0
 
 
