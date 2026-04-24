@@ -1,5 +1,7 @@
 # Advisor Ledger(学术黑榜镜像)
 
+**新：openreview版本黑榜：https://openadvisor.pages.dev/**
+
 只增不减地镜像社区维护的"学术黑榜 / Advisor Red Flags Notes" Google Doc,记录每一次编辑,保留每一次删除。
 
 **渲染后的实时视图**:https://the-hidden-fish.github.io/advisor-ledger/
